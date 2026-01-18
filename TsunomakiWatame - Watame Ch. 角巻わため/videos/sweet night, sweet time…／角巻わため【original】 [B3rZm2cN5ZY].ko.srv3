@@ -1,0 +1,1328 @@
+<?xml version="1.0" encoding="utf-8" ?><timedtext format="3">
+<head>
+<pen id="1" fc="#000000" fo="0" bo="0" sz="100"/>
+<pen id="2" b="1" fc="#E4FEF9" fo="254" bo="0" ec="#987FC1" sz="100" et="3"/>
+<pen id="3" b="1" fc="#DBDAEE" fo="254" bo="0" ec="#816E93" sz="0" et="3"/>
+<pen id="4" b="1" fc="#E1DBF3" fo="254" bo="0" ec="#816E93" sz="0" et="3"/>
+<pen id="5" b="1" fc="#D8D0EF" fo="254" bo="0" ec="#816E93" sz="0" et="3"/>
+<pen id="6" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#9C9C9C" sz="100" et="3"/>
+<pen id="7" b="1" fc="#FEFEFE" fo="224" bo="0" ec="#9C9C9C" sz="100" et="3"/>
+<pen id="8" b="1" fc="#FEFEFE" fo="192" bo="0" ec="#A7A7A7" sz="100" et="3"/>
+<pen id="9" b="1" fc="#FEFEFE" fo="160" bo="0" ec="#B3B3B3" sz="100" et="3"/>
+<pen id="10" b="1" fc="#FEFEFE" fo="128" bo="0" ec="#BEBEBE" sz="100" et="3"/>
+<pen id="11" b="1" fc="#FEFEFE" fo="96" bo="0" ec="#CACACA" sz="100" et="3"/>
+<pen id="12" b="1" fc="#FEFEFE" fo="64" bo="0" ec="#D6D6D5" sz="100" et="3"/>
+<pen id="13" b="1" fc="#FEFEFE" fo="32" bo="0" ec="#E1E1E1" sz="100" et="3"/>
+<pen id="14" b="1" fc="#000000" fo="0" bo="0" sz="131"/>
+<pen id="15" b="1" fc="#FEFEFE" fo="19" bo="0" ec="#9C9C9C" sz="131" et="3"/>
+<pen id="16" b="1" fc="#FEFEFE" fo="39" bo="0" ec="#9C9C9C" sz="131" et="3"/>
+<pen id="17" b="1" fc="#FEFEFE" fo="58" bo="0" ec="#9C9C9C" sz="131" et="3"/>
+<pen id="18" b="1" fc="#FEFEFE" fo="78" bo="0" ec="#9C9C9C" sz="131" et="3"/>
+<pen id="19" b="1" fc="#FEFEFE" fo="98" bo="0" ec="#9C9C9C" sz="131" et="3"/>
+<pen id="20" b="1" fc="#FEFEFE" fo="117" bo="0" ec="#9C9C9C" sz="131" et="3"/>
+<pen id="21" b="1" fc="#FEFEFE" fo="137" bo="0" ec="#9C9C9C" sz="131" et="3"/>
+<pen id="22" b="1" fc="#FEFEFE" fo="156" bo="0" ec="#9C9C9C" sz="131" et="3"/>
+<pen id="23" b="1" fc="#FEFEFE" fo="176" bo="0" ec="#9C9C9C" sz="131" et="3"/>
+<pen id="24" b="1" fc="#FEFEFE" fo="196" bo="0" ec="#9C9C9C" sz="131" et="3"/>
+<pen id="25" b="1" fc="#FEFEFE" fo="215" bo="0" ec="#9C9C9C" sz="131" et="3"/>
+<pen id="26" b="1" fc="#FEFEFE" fo="235" bo="0" ec="#9C9C9C" sz="131" et="3"/>
+<pen id="27" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#9C9C9C" sz="131" et="3"/>
+<pen id="28" b="1" fc="#FEFEFE" fo="224" bo="0" ec="#A7A7A7" sz="100" et="3"/>
+<pen id="29" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#A7A7A7" sz="131" et="3"/>
+<pen id="30" b="1" fc="#FEFEFE" fo="192" bo="0" ec="#9C9C9C" sz="100" et="3"/>
+<pen id="31" b="1" fc="#FEFEFE" fo="192" bo="0" ec="#B3B3B3" sz="100" et="3"/>
+<pen id="32" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#B3B3B3" sz="131" et="3"/>
+<pen id="33" b="1" fc="#FEFEFE" fo="160" bo="0" ec="#9C9C9C" sz="100" et="3"/>
+<pen id="34" b="1" fc="#FEFEFE" fo="160" bo="0" ec="#BEBEBE" sz="100" et="3"/>
+<pen id="35" b="1" fc="#FEFEFE" fo="224" bo="0" ec="#BEBEBE" sz="131" et="3"/>
+<pen id="36" b="1" fc="#FEFEFE" fo="128" bo="0" ec="#9C9C9C" sz="100" et="3"/>
+<pen id="37" b="1" fc="#FEFEFE" fo="128" bo="0" ec="#CACACA" sz="100" et="3"/>
+<pen id="38" b="1" fc="#FEFEFE" fo="192" bo="0" ec="#CACACA" sz="131" et="3"/>
+<pen id="39" b="1" fc="#FEFEFE" fo="96" bo="0" ec="#9C9C9C" sz="100" et="3"/>
+<pen id="40" b="1" fc="#FEFEFE" fo="96" bo="0" ec="#D6D6D5" sz="100" et="3"/>
+<pen id="41" b="1" fc="#FEFEFE" fo="160" bo="0" ec="#D6D6D5" sz="131" et="3"/>
+<pen id="42" b="1" fc="#FEFEFE" fo="64" bo="0" ec="#9C9C9C" sz="100" et="3"/>
+<pen id="43" b="1" fc="#FEFEFE" fo="64" bo="0" ec="#E1E1E1" sz="100" et="3"/>
+<pen id="44" b="1" fc="#FEFEFE" fo="128" bo="0" ec="#E1E1E1" sz="131" et="3"/>
+<pen id="45" b="1" fc="#FEFEFE" fo="32" bo="0" ec="#9C9C9C" sz="100" et="3"/>
+<pen id="46" b="1" fc="#FEFEFE" fo="32" bo="0" ec="#EDEDEC" sz="100" et="3"/>
+<pen id="47" b="1" fc="#FEFEFE" fo="96" bo="0" ec="#EDEDEC" sz="131" et="3"/>
+<pen id="48" b="1" fc="#000000" fo="0" bo="0" sz="100"/>
+<pen id="49" b="1" fc="#FEFEFE" fo="64" bo="0" ec="#F9F9F8" sz="131" et="3"/>
+<pen id="50" b="1" fc="#FEFEFE" fo="32" bo="0" ec="#F9F9F8" sz="131" et="3"/>
+<pen id="51" b="1" fc="#FEFEFE" fo="232" bo="0" ec="#9C9C9C" sz="131" et="3"/>
+<pen id="52" b="1" fc="#FEFEFE" fo="209" bo="0" ec="#9C9C9C" sz="131" et="3"/>
+<pen id="53" b="1" fc="#FEFEFE" fo="224" bo="0" ec="#A4A5A6" sz="100" et="3"/>
+<pen id="54" b="1" fc="#FEFEFE" fo="186" bo="0" ec="#A4A4A8" sz="131" et="3"/>
+<pen id="55" b="1" fc="#FEFEFE" fo="192" bo="0" ec="#ADAEB1" sz="100" et="3"/>
+<pen id="56" b="1" fc="#FEFEFE" fo="163" bo="0" ec="#ADACB4" sz="131" et="3"/>
+<pen id="57" b="1" fc="#FEFEFE" fo="160" bo="0" ec="#B5B7BC" sz="100" et="3"/>
+<pen id="58" b="1" fc="#FEFEFE" fo="140" bo="0" ec="#B6B4C1" sz="131" et="3"/>
+<pen id="59" b="1" fc="#FEFEFE" fo="128" bo="0" ec="#BEC0C7" sz="100" et="3"/>
+<pen id="60" b="1" fc="#FEFEFE" fo="116" bo="0" ec="#BFBCCD" sz="131" et="3"/>
+<pen id="61" b="1" fc="#FEFEFE" fo="96" bo="0" ec="#C6C9D2" sz="100" et="3"/>
+<pen id="62" b="1" fc="#FEFEFE" fo="93" bo="0" ec="#C7C4D9" sz="131" et="3"/>
+<pen id="63" b="1" fc="#FEFEFE" fo="64" bo="0" ec="#CFD2DD" sz="100" et="3"/>
+<pen id="64" b="1" fc="#FEFEFE" fo="70" bo="0" ec="#D0CCE6" sz="131" et="3"/>
+<pen id="65" b="1" fc="#FEFEFE" fo="32" bo="0" ec="#D7DBE8" sz="100" et="3"/>
+<pen id="66" b="1" fc="#FEFEFE" fo="47" bo="0" ec="#D9D4F2" sz="131" et="3"/>
+<pen id="67" b="1" fc="#FEFEFE" fo="24" bo="0" ec="#E2DCFF" sz="131" et="3"/>
+<pen id="68" b="1" fc="#FEFEFE" fo="186" bo="0" ec="#9C9C9C" sz="131" et="3"/>
+<pen id="69" b="1" fc="#FEFEFE" fo="163" bo="0" ec="#A6A5A8" sz="131" et="3"/>
+<pen id="70" b="1" fc="#FEFEFE" fo="140" bo="0" ec="#B0AFB4" sz="131" et="3"/>
+<pen id="71" b="1" fc="#FEFEFE" fo="116" bo="0" ec="#BAB9C1" sz="131" et="3"/>
+<pen id="72" b="1" fc="#FEFEFE" fo="93" bo="0" ec="#C5C3CD" sz="131" et="3"/>
+<pen id="73" b="1" fc="#FEFEFE" fo="70" bo="0" ec="#CFCDD9" sz="131" et="3"/>
+<pen id="74" b="1" fc="#FEFEFE" fo="47" bo="0" ec="#D9D7E6" sz="131" et="3"/>
+<pen id="75" b="1" fc="#FEFEFE" fo="24" bo="0" ec="#E3E1F2" sz="131" et="3"/>
+<pen id="76" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#B1B1B1" sz="100" et="3"/>
+<pen id="77" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#A2A2A2" sz="0" et="3"/>
+<pen id="78" b="1" fc="#000000" fo="0" bo="0" sz="192"/>
+<pen id="79" b="1" fc="#FEFEFE" fo="18" bo="0" ec="#CEB9B9" sz="192" et="3"/>
+<pen id="80" b="1" fc="#FEFEFE" fo="36" bo="0" ec="#CAB5B5" sz="192" et="3"/>
+<pen id="81" b="1" fc="#FEFEFE" fo="54" bo="0" ec="#C6B1B1" sz="192" et="3"/>
+<pen id="82" b="1" fc="#FEFEFE" fo="72" bo="0" ec="#C2ADAD" sz="192" et="3"/>
+<pen id="83" b="1" fc="#FEFEFE" fo="91" bo="0" ec="#BEA9A9" sz="192" et="3"/>
+<pen id="84" b="1" fc="#FEFEFE" fo="109" bo="0" ec="#BAA5A5" sz="192" et="3"/>
+<pen id="85" b="1" fc="#FEFEFE" fo="127" bo="0" ec="#B6A1A1" sz="192" et="3"/>
+<pen id="86" b="1" fc="#FEFEFE" fo="145" bo="0" ec="#B39E9E" sz="192" et="3"/>
+<pen id="87" b="1" fc="#FEFEFE" fo="163" bo="0" ec="#AF9A9A" sz="192" et="3"/>
+<pen id="88" b="1" fc="#FEFEFE" fo="182" bo="0" ec="#AB9696" sz="192" et="3"/>
+<pen id="89" b="1" fc="#FEFEFE" fo="200" bo="0" ec="#A79292" sz="192" et="3"/>
+<pen id="90" b="1" fc="#FEFEFE" fo="218" bo="0" ec="#A38E8E" sz="192" et="3"/>
+<pen id="91" b="1" fc="#FEFEFE" fo="236" bo="0" ec="#9F8A8A" sz="192" et="3"/>
+<pen id="92" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#9B8686" sz="192" et="3"/>
+<pen id="93" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#AC9A9A" sz="100" et="3"/>
+<pen id="94" b="1" fc="#FEFEFE" fo="1" bo="0" ec="#CEB9B9" sz="192" et="3"/>
+<pen id="95" b="1" fc="#FEFEFE" fo="6" bo="0" ec="#CAB5B5" sz="192" et="3"/>
+<pen id="96" b="1" fc="#FEFEFE" fo="14" bo="0" ec="#C6B1B1" sz="192" et="3"/>
+<pen id="97" b="1" fc="#FEFEFE" fo="4" bo="0" ec="#CEB9B9" sz="192" et="3"/>
+<pen id="98" b="1" fc="#FEFEFE" fo="25" bo="0" ec="#C2ADAD" sz="192" et="3"/>
+<pen id="99" b="1" fc="#FEFEFE" fo="12" bo="0" ec="#CAB5B5" sz="192" et="3"/>
+<pen id="100" b="1" fc="#FEFEFE" fo="6" bo="0" ec="#CEB9B9" sz="192" et="3"/>
+<pen id="101" b="1" fc="#FEFEFE" fo="41" bo="0" ec="#BEA9A9" sz="192" et="3"/>
+<pen id="102" b="1" fc="#FEFEFE" fo="24" bo="0" ec="#C6B1B1" sz="192" et="3"/>
+<pen id="103" b="1" fc="#FEFEFE" fo="16" bo="0" ec="#CAB5B5" sz="192" et="3"/>
+<pen id="104" b="1" fc="#FEFEFE" fo="59" bo="0" ec="#BAA5A5" sz="192" et="3"/>
+<pen id="105" b="1" fc="#FEFEFE" fo="39" bo="0" ec="#C2ADAD" sz="192" et="3"/>
+<pen id="106" b="1" fc="#FEFEFE" fo="29" bo="0" ec="#C6B1B1" sz="192" et="3"/>
+<pen id="107" b="1" fc="#FEFEFE" fo="9" bo="0" ec="#CEB9B9" sz="192" et="3"/>
+<pen id="108" b="1" fc="#FEFEFE" fo="80" bo="0" ec="#B6A1A1" sz="192" et="3"/>
+<pen id="109" b="1" fc="#FEFEFE" fo="57" bo="0" ec="#BEA9A9" sz="192" et="3"/>
+<pen id="110" b="1" fc="#FEFEFE" fo="45" bo="0" ec="#C2ADAD" sz="192" et="3"/>
+<pen id="111" b="1" fc="#FEFEFE" fo="22" bo="0" ec="#CAB5B5" sz="192" et="3"/>
+<pen id="112" b="1" fc="#FEFEFE" fo="11" bo="0" ec="#CEB9B9" sz="192" et="3"/>
+<pen id="113" b="1" fc="#FEFEFE" fo="105" bo="0" ec="#B39E9E" sz="192" et="3"/>
+<pen id="114" b="1" fc="#FEFEFE" fo="79" bo="0" ec="#BAA5A5" sz="192" et="3"/>
+<pen id="115" b="1" fc="#FEFEFE" fo="66" bo="0" ec="#BEA9A9" sz="192" et="3"/>
+<pen id="116" b="1" fc="#FEFEFE" fo="39" bo="0" ec="#C6B1B1" sz="192" et="3"/>
+<pen id="117" b="1" fc="#FEFEFE" fo="26" bo="0" ec="#CAB5B5" sz="192" et="3"/>
+<pen id="118" b="1" fc="#FEFEFE" fo="132" bo="0" ec="#AF9A9A" sz="192" et="3"/>
+<pen id="119" b="1" fc="#FEFEFE" fo="103" bo="0" ec="#B6A1A1" sz="192" et="3"/>
+<pen id="120" b="1" fc="#FEFEFE" fo="88" bo="0" ec="#BAA5A5" sz="192" et="3"/>
+<pen id="121" b="1" fc="#FEFEFE" fo="58" bo="0" ec="#C2ADAD" sz="192" et="3"/>
+<pen id="122" b="1" fc="#FEFEFE" fo="44" bo="0" ec="#C6B1B1" sz="192" et="3"/>
+<pen id="123" b="1" fc="#FEFEFE" fo="14" bo="0" ec="#CEB9B9" sz="192" et="3"/>
+<pen id="124" b="1" fc="#FEFEFE" fo="164" bo="0" ec="#AB9696" sz="192" et="3"/>
+<pen id="125" b="1" fc="#FEFEFE" fo="131" bo="0" ec="#B39E9E" sz="192" et="3"/>
+<pen id="126" b="1" fc="#FEFEFE" fo="115" bo="0" ec="#B6A1A1" sz="192" et="3"/>
+<pen id="127" b="1" fc="#FEFEFE" fo="82" bo="0" ec="#BEA9A9" sz="192" et="3"/>
+<pen id="128" b="1" fc="#FEFEFE" fo="65" bo="0" ec="#C2ADAD" sz="192" et="3"/>
+<pen id="129" b="1" fc="#FEFEFE" fo="32" bo="0" ec="#CAB5B5" sz="192" et="3"/>
+<pen id="130" b="1" fc="#FEFEFE" fo="16" bo="0" ec="#CEB9B9" sz="192" et="3"/>
+<pen id="131" b="1" fc="#FEFEFE" fo="13" bo="0" ec="#CEB9B9" sz="192" et="3"/>
+<pen id="132" b="1" fc="#FEFEFE" fo="29" bo="0" ec="#CAB5B5" sz="192" et="3"/>
+<pen id="133" b="1" fc="#FEFEFE" fo="48" bo="0" ec="#C6B1B1" sz="192" et="3"/>
+<pen id="134" b="1" fc="#FEFEFE" fo="31" bo="0" ec="#9B8686" sz="192" et="3"/>
+<pen id="135" b="1" fc="#FEFEFE" fo="63" bo="0" ec="#9B8686" sz="192" et="3"/>
+<pen id="136" b="1" fc="#FEFEFE" fo="95" bo="0" ec="#9B8686" sz="192" et="3"/>
+<pen id="137" b="1" fc="#FEFEFE" fo="127" bo="0" ec="#9B8686" sz="192" et="3"/>
+<pen id="138" b="1" fc="#FEFEFE" fo="159" bo="0" ec="#9B8686" sz="192" et="3"/>
+<pen id="139" b="1" fc="#FEFEFE" fo="191" bo="0" ec="#9B8686" sz="192" et="3"/>
+<pen id="140" b="1" fc="#FEFEFE" fo="223" bo="0" ec="#9B8686" sz="192" et="3"/>
+<pen id="141" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#9B8686" sz="100" et="3"/>
+<pen id="142" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#9D8888" sz="100" et="3"/>
+<pen id="143" b="1" fc="#FEFEFE" fo="244" bo="0" ec="#A08B8B" sz="100" et="3"/>
+<pen id="144" b="1" fc="#FEFEFE" fo="233" bo="0" ec="#A28E8E" sz="100" et="3"/>
+<pen id="145" b="1" fc="#FEFEFE" fo="222" bo="0" ec="#A59191" sz="100" et="3"/>
+<pen id="146" b="1" fc="#FEFEFE" fo="211" bo="0" ec="#A79493" sz="100" et="3"/>
+<pen id="147" b="1" fc="#FEFEFE" fo="200" bo="0" ec="#AA9796" sz="100" et="3"/>
+<pen id="148" b="1" fc="#FEFEFE" fo="189" bo="0" ec="#AC9A99" sz="100" et="3"/>
+<pen id="149" b="1" fc="#FEFEFE" fo="178" bo="0" ec="#AF9D9C" sz="100" et="3"/>
+<pen id="150" b="1" fc="#FEFEFE" fo="167" bo="0" ec="#B1A09F" sz="100" et="3"/>
+<pen id="151" b="1" fc="#FEFEFE" fo="156" bo="0" ec="#B4A3A1" sz="100" et="3"/>
+<pen id="152" b="1" fc="#FEFEFE" fo="145" bo="0" ec="#B6A6A4" sz="100" et="3"/>
+<pen id="153" b="1" fc="#FEFEFE" fo="237" bo="0" ec="#9B8686" sz="100" et="3"/>
+<pen id="154" b="1" fc="#FEFEFE" fo="237" bo="0" ec="#A08C8C" sz="100" et="3"/>
+<pen id="155" b="1" fc="#FEFEFE" fo="134" bo="0" ec="#B9A9A7" sz="100" et="3"/>
+<pen id="156" b="1" fc="#FEFEFE" fo="219" bo="0" ec="#9B8686" sz="100" et="3"/>
+<pen id="157" b="1" fc="#FEFEFE" fo="219" bo="0" ec="#A69392" sz="100" et="3"/>
+<pen id="158" b="1" fc="#FEFEFE" fo="122" bo="0" ec="#BBACAA" sz="100" et="3"/>
+<pen id="159" b="1" fc="#FEFEFE" fo="201" bo="0" ec="#9B8686" sz="100" et="3"/>
+<pen id="160" b="1" fc="#FEFEFE" fo="201" bo="0" ec="#AC9A99" sz="100" et="3"/>
+<pen id="161" b="1" fc="#FEFEFE" fo="111" bo="0" ec="#BEAFAC" sz="100" et="3"/>
+<pen id="162" b="1" fc="#FEFEFE" fo="183" bo="0" ec="#9B8686" sz="100" et="3"/>
+<pen id="163" b="1" fc="#FEFEFE" fo="183" bo="0" ec="#B1A19F" sz="100" et="3"/>
+<pen id="164" b="1" fc="#FEFEFE" fo="100" bo="0" ec="#C0B2AF" sz="100" et="3"/>
+<pen id="165" b="1" fc="#FEFEFE" fo="164" bo="0" ec="#9B8686" sz="100" et="3"/>
+<pen id="166" b="1" fc="#FEFEFE" fo="164" bo="0" ec="#B7A7A5" sz="100" et="3"/>
+<pen id="167" b="1" fc="#FEFEFE" fo="89" bo="0" ec="#C3B5B2" sz="100" et="3"/>
+<pen id="168" b="1" fc="#FEFEFE" fo="146" bo="0" ec="#9B8686" sz="100" et="3"/>
+<pen id="169" b="1" fc="#FEFEFE" fo="146" bo="0" ec="#BDAEAC" sz="100" et="3"/>
+<pen id="170" b="1" fc="#FEFEFE" fo="78" bo="0" ec="#C5B8B5" sz="100" et="3"/>
+<pen id="171" b="1" fc="#FEFEFE" fo="128" bo="0" ec="#9B8686" sz="100" et="3"/>
+<pen id="172" b="1" fc="#FEFEFE" fo="128" bo="0" ec="#C3B5B2" sz="100" et="3"/>
+<pen id="173" b="1" fc="#FEFEFE" fo="67" bo="0" ec="#C8BBB8" sz="100" et="3"/>
+<pen id="174" b="1" fc="#FEFEFE" fo="110" bo="0" ec="#9B8686" sz="100" et="3"/>
+<pen id="175" b="1" fc="#FEFEFE" fo="110" bo="0" ec="#C8BCB8" sz="100" et="3"/>
+<pen id="176" b="1" fc="#FEFEFE" fo="56" bo="0" ec="#CABEBA" sz="100" et="3"/>
+<pen id="177" b="1" fc="#FEFEFE" fo="92" bo="0" ec="#9B8686" sz="100" et="3"/>
+<pen id="178" b="1" fc="#FEFEFE" fo="92" bo="0" ec="#CEC3BF" sz="100" et="3"/>
+<pen id="179" b="1" fc="#FEFEFE" fo="45" bo="0" ec="#CDC1BD" sz="100" et="3"/>
+<pen id="180" b="1" fc="#FEFEFE" fo="73" bo="0" ec="#9B8686" sz="100" et="3"/>
+<pen id="181" b="1" fc="#FEFEFE" fo="73" bo="0" ec="#D4C9C5" sz="100" et="3"/>
+<pen id="182" b="1" fc="#FEFEFE" fo="34" bo="0" ec="#CFC4C0" sz="100" et="3"/>
+<pen id="183" b="1" fc="#FEFEFE" fo="55" bo="0" ec="#9B8686" sz="100" et="3"/>
+<pen id="184" b="1" fc="#FEFEFE" fo="55" bo="0" ec="#D9D0CB" sz="100" et="3"/>
+<pen id="185" b="1" fc="#FEFEFE" fo="23" bo="0" ec="#D2C7C3" sz="100" et="3"/>
+<pen id="186" b="1" fc="#FEFEFE" fo="37" bo="0" ec="#9B8686" sz="100" et="3"/>
+<pen id="187" b="1" fc="#FEFEFE" fo="37" bo="0" ec="#DFD7D2" sz="100" et="3"/>
+<pen id="188" b="1" fc="#FEFEFE" fo="12" bo="0" ec="#D4CAC5" sz="100" et="3"/>
+<pen id="189" b="1" fc="#FEFEFE" fo="19" bo="0" ec="#9B8686" sz="100" et="3"/>
+<pen id="190" b="1" fc="#FEFEFE" fo="19" bo="0" ec="#E5DED8" sz="100" et="3"/>
+<pen id="191" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#A08B8B" sz="100" et="3"/>
+<pen id="192" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#A28E8E" sz="100" et="3"/>
+<pen id="193" b="1" fc="#FEFEFE" fo="244" bo="0" ec="#A59191" sz="100" et="3"/>
+<pen id="194" b="1" fc="#FEFEFE" fo="233" bo="0" ec="#A79493" sz="100" et="3"/>
+<pen id="195" b="1" fc="#FEFEFE" fo="222" bo="0" ec="#AA9796" sz="100" et="3"/>
+<pen id="196" b="1" fc="#FEFEFE" fo="211" bo="0" ec="#AC9A99" sz="100" et="3"/>
+<pen id="197" b="1" fc="#FEFEFE" fo="200" bo="0" ec="#AF9D9C" sz="100" et="3"/>
+<pen id="198" b="1" fc="#FEFEFE" fo="189" bo="0" ec="#B1A09F" sz="100" et="3"/>
+<pen id="199" b="1" fc="#FEFEFE" fo="178" bo="0" ec="#B4A3A1" sz="100" et="3"/>
+<pen id="200" b="1" fc="#FEFEFE" fo="167" bo="0" ec="#B6A6A4" sz="100" et="3"/>
+<pen id="201" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#A08C8C" sz="100" et="3"/>
+<pen id="202" b="1" fc="#FEFEFE" fo="156" bo="0" ec="#B9A9A7" sz="100" et="3"/>
+<pen id="203" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#A69392" sz="100" et="3"/>
+<pen id="204" b="1" fc="#FEFEFE" fo="145" bo="0" ec="#BBACAA" sz="100" et="3"/>
+<pen id="205" b="1" fc="#FEFEFE" fo="237" bo="0" ec="#AC9A99" sz="100" et="3"/>
+<pen id="206" b="1" fc="#FEFEFE" fo="134" bo="0" ec="#BEAFAC" sz="100" et="3"/>
+<pen id="207" b="1" fc="#FEFEFE" fo="219" bo="0" ec="#B1A19F" sz="100" et="3"/>
+<pen id="208" b="1" fc="#FEFEFE" fo="122" bo="0" ec="#C0B2AF" sz="100" et="3"/>
+<pen id="209" b="1" fc="#FEFEFE" fo="201" bo="0" ec="#B7A7A5" sz="100" et="3"/>
+<pen id="210" b="1" fc="#FEFEFE" fo="111" bo="0" ec="#C3B5B2" sz="100" et="3"/>
+<pen id="211" b="1" fc="#FEFEFE" fo="183" bo="0" ec="#BDAEAC" sz="100" et="3"/>
+<pen id="212" b="1" fc="#FEFEFE" fo="100" bo="0" ec="#C5B8B5" sz="100" et="3"/>
+<pen id="213" b="1" fc="#FEFEFE" fo="164" bo="0" ec="#C3B5B2" sz="100" et="3"/>
+<pen id="214" b="1" fc="#FEFEFE" fo="89" bo="0" ec="#C8BBB8" sz="100" et="3"/>
+<pen id="215" b="1" fc="#FEFEFE" fo="146" bo="0" ec="#C8BCB8" sz="100" et="3"/>
+<pen id="216" b="1" fc="#FEFEFE" fo="78" bo="0" ec="#CABEBA" sz="100" et="3"/>
+<pen id="217" b="1" fc="#FEFEFE" fo="128" bo="0" ec="#CEC3BF" sz="100" et="3"/>
+<pen id="218" b="1" fc="#FEFEFE" fo="67" bo="0" ec="#CDC1BD" sz="100" et="3"/>
+<pen id="219" b="1" fc="#FEFEFE" fo="110" bo="0" ec="#D4C9C5" sz="100" et="3"/>
+<pen id="220" b="1" fc="#FEFEFE" fo="56" bo="0" ec="#CFC4C0" sz="100" et="3"/>
+<pen id="221" b="1" fc="#FEFEFE" fo="92" bo="0" ec="#D9D0CB" sz="100" et="3"/>
+<pen id="222" b="1" fc="#FEFEFE" fo="45" bo="0" ec="#D2C7C3" sz="100" et="3"/>
+<pen id="223" b="1" fc="#FEFEFE" fo="73" bo="0" ec="#DFD7D2" sz="100" et="3"/>
+<pen id="224" b="1" fc="#FEFEFE" fo="34" bo="0" ec="#D4CAC5" sz="100" et="3"/>
+<pen id="225" b="1" fc="#FEFEFE" fo="55" bo="0" ec="#E5DED8" sz="100" et="3"/>
+<pen id="226" b="1" fc="#FEFEFE" fo="23" bo="0" ec="#D7CDC8" sz="100" et="3"/>
+<pen id="227" b="1" fc="#FEFEFE" fo="37" bo="0" ec="#EBE5DF" sz="100" et="3"/>
+<pen id="228" b="1" fc="#FEFEFE" fo="12" bo="0" ec="#D9D0CB" sz="100" et="3"/>
+<pen id="229" b="1" fc="#FEFEFE" fo="19" bo="0" ec="#EBE5DF" sz="100" et="3"/>
+<pen id="230" b="1" fc="#DBD3F6" fo="254" bo="0" ec="#816E93" sz="0" et="3"/>
+<pen id="231" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#BEBEBE" sz="131" et="3"/>
+<pen id="232" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#CACACA" sz="131" et="3"/>
+<pen id="233" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#D6D6D5" sz="131" et="3"/>
+<pen id="234" b="1" fc="#FEFEFE" fo="224" bo="0" ec="#E1E1E1" sz="131" et="3"/>
+<pen id="235" b="1" fc="#FEFEFE" fo="192" bo="0" ec="#EDEDEC" sz="131" et="3"/>
+<pen id="236" b="1" fc="#FEFEFE" fo="160" bo="0" ec="#F9F9F8" sz="131" et="3"/>
+<pen id="237" b="1" fc="#FEFEFE" fo="128" bo="0" ec="#F9F9F8" sz="131" et="3"/>
+<pen id="238" b="1" fc="#FEFEFE" fo="96" bo="0" ec="#F9F9F8" sz="131" et="3"/>
+<pen id="239" b="1" fc="#FEFEFE" fo="224" bo="0" ec="#9C9C9C" sz="131" et="3"/>
+<pen id="240" b="1" fc="#FEFEFE" fo="192" bo="0" ec="#A7A7A7" sz="131" et="3"/>
+<pen id="241" b="1" fc="#FEFEFE" fo="160" bo="0" ec="#B3B3B3" sz="131" et="3"/>
+<pen id="242" b="1" fc="#FEFEFE" fo="128" bo="0" ec="#BEBEBE" sz="131" et="3"/>
+<pen id="243" b="1" fc="#FEFEFE" fo="96" bo="0" ec="#CACACA" sz="131" et="3"/>
+<pen id="244" b="1" fc="#FEFEFE" fo="64" bo="0" ec="#D6D6D5" sz="131" et="3"/>
+<pen id="245" b="1" fc="#FEFEFE" fo="32" bo="0" ec="#E1E1E1" sz="131" et="3"/>
+<pen id="246" b="1" fc="#FEFEFE" fo="224" bo="0" ec="#A7A7A7" sz="131" et="3"/>
+<pen id="247" b="1" fc="#FEFEFE" fo="192" bo="0" ec="#B3B3B3" sz="131" et="3"/>
+<pen id="248" b="1" fc="#FEFEFE" fo="160" bo="0" ec="#BEBEBE" sz="131" et="3"/>
+<pen id="249" b="1" fc="#FEFEFE" fo="128" bo="0" ec="#CACACA" sz="131" et="3"/>
+<pen id="250" b="1" fc="#FEFEFE" fo="96" bo="0" ec="#D6D6D5" sz="131" et="3"/>
+<pen id="251" b="1" fc="#FEFEFE" fo="64" bo="0" ec="#E1E1E1" sz="131" et="3"/>
+<pen id="252" b="1" fc="#FEFEFE" fo="32" bo="0" ec="#EDEDEC" sz="131" et="3"/>
+<pen id="253" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#C4C4C4" sz="131" et="3"/>
+<pen id="254" b="1" fc="#FEFEFE" fo="240" bo="0" ec="#C4C4C4" sz="131" et="3"/>
+<pen id="255" b="1" fc="#FEFEFE" fo="225" bo="0" ec="#C6C7C7" sz="131" et="3"/>
+<pen id="256" b="1" fc="#FEFEFE" fo="210" bo="0" ec="#C9CACA" sz="131" et="3"/>
+<pen id="257" b="1" fc="#FEFEFE" fo="195" bo="0" ec="#CBCDCE" sz="131" et="3"/>
+<pen id="258" b="1" fc="#FEFEFE" fo="180" bo="0" ec="#CED0D1" sz="131" et="3"/>
+<pen id="259" b="1" fc="#FEFEFE" fo="165" bo="0" ec="#D1D4D4" sz="131" et="3"/>
+<pen id="260" b="1" fc="#FEFEFE" fo="150" bo="0" ec="#D3D7D8" sz="131" et="3"/>
+<pen id="261" b="1" fc="#FEFEFE" fo="135" bo="0" ec="#D6DADB" sz="131" et="3"/>
+<pen id="262" b="1" fc="#FEFEFE" fo="120" bo="0" ec="#D9DDDE" sz="131" et="3"/>
+<pen id="263" b="1" fc="#FEFEFE" fo="105" bo="0" ec="#DBE1E2" sz="131" et="3"/>
+<pen id="264" b="1" fc="#FEFEFE" fo="90" bo="0" ec="#DEE4E5" sz="131" et="3"/>
+<pen id="265" b="1" fc="#FEFEFE" fo="75" bo="0" ec="#E1E7E8" sz="131" et="3"/>
+<pen id="266" b="1" fc="#FEFEFE" fo="60" bo="0" ec="#E3EAEC" sz="131" et="3"/>
+<pen id="267" b="1" fc="#FEFEFE" fo="45" bo="0" ec="#E6EEEF" sz="131" et="3"/>
+<pen id="268" b="1" fc="#FEFEFE" fo="30" bo="0" ec="#E9F1F2" sz="131" et="3"/>
+<pen id="269" b="1" fc="#FEFEFE" fo="15" bo="0" ec="#EBF4F6" sz="131" et="3"/>
+<pen id="270" b="1" fc="#FEFEFE" fo="224" bo="0" ec="#A5A4A4" sz="131" et="3"/>
+<pen id="271" b="1" fc="#FEFEFE" fo="192" bo="0" ec="#AEADAC" sz="131" et="3"/>
+<pen id="272" b="1" fc="#FEFEFE" fo="160" bo="0" ec="#B8B6B4" sz="131" et="3"/>
+<pen id="273" b="1" fc="#FEFEFE" fo="128" bo="0" ec="#C1BFBC" sz="131" et="3"/>
+<pen id="274" b="1" fc="#FEFEFE" fo="96" bo="0" ec="#CAC8C4" sz="131" et="3"/>
+<pen id="275" b="1" fc="#FEFEFE" fo="64" bo="0" ec="#D4D1CC" sz="131" et="3"/>
+<pen id="276" b="1" fc="#FEFEFE" fo="32" bo="0" ec="#DDDAD4" sz="131" et="3"/>
+<pen id="277" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#B5B5B5" sz="100" et="3"/>
+<pen id="278" b="1" fc="#FEFEFE" fo="18" bo="0" ec="#9B8686" sz="192" et="3"/>
+<pen id="279" b="1" fc="#FEFEFE" fo="36" bo="0" ec="#9B8686" sz="192" et="3"/>
+<pen id="280" b="1" fc="#FEFEFE" fo="54" bo="0" ec="#9B8686" sz="192" et="3"/>
+<pen id="281" b="1" fc="#FEFEFE" fo="72" bo="0" ec="#9B8686" sz="192" et="3"/>
+<pen id="282" b="1" fc="#FEFEFE" fo="91" bo="0" ec="#9B8686" sz="192" et="3"/>
+<pen id="283" b="1" fc="#FEFEFE" fo="109" bo="0" ec="#9B8686" sz="192" et="3"/>
+<pen id="284" b="1" fc="#FEFEFE" fo="145" bo="0" ec="#9B8686" sz="192" et="3"/>
+<pen id="285" b="1" fc="#FEFEFE" fo="163" bo="0" ec="#9B8686" sz="192" et="3"/>
+<pen id="286" b="1" fc="#FEFEFE" fo="182" bo="0" ec="#9B8686" sz="192" et="3"/>
+<pen id="287" b="1" fc="#FEFEFE" fo="200" bo="0" ec="#9B8686" sz="192" et="3"/>
+<pen id="288" b="1" fc="#FEFEFE" fo="218" bo="0" ec="#9B8686" sz="192" et="3"/>
+<pen id="289" b="1" fc="#FEFEFE" fo="236" bo="0" ec="#9B8686" sz="192" et="3"/>
+<pen id="290" b="1" fc="#FEFEFE" fo="219" bo="0" ec="#A08C8C" sz="100" et="3"/>
+<pen id="291" b="1" fc="#FEFEFE" fo="201" bo="0" ec="#A69392" sz="100" et="3"/>
+<pen id="292" b="1" fc="#FEFEFE" fo="183" bo="0" ec="#AC9A99" sz="100" et="3"/>
+<pen id="293" b="1" fc="#FEFEFE" fo="164" bo="0" ec="#B1A19F" sz="100" et="3"/>
+<pen id="294" b="1" fc="#FEFEFE" fo="146" bo="0" ec="#B7A7A5" sz="100" et="3"/>
+<pen id="295" b="1" fc="#FEFEFE" fo="128" bo="0" ec="#BDAEAC" sz="100" et="3"/>
+<pen id="296" b="1" fc="#FEFEFE" fo="110" bo="0" ec="#C3B5B2" sz="100" et="3"/>
+<pen id="297" b="1" fc="#FEFEFE" fo="92" bo="0" ec="#C8BCB8" sz="100" et="3"/>
+<pen id="298" b="1" fc="#FEFEFE" fo="73" bo="0" ec="#CEC3BF" sz="100" et="3"/>
+<pen id="299" b="1" fc="#FEFEFE" fo="55" bo="0" ec="#D4C9C5" sz="100" et="3"/>
+<pen id="300" b="1" fc="#FEFEFE" fo="37" bo="0" ec="#D9D0CB" sz="100" et="3"/>
+<pen id="301" b="1" fc="#FEFEFE" fo="19" bo="0" ec="#DFD7D2" sz="100" et="3"/>
+<pen id="302" b="1" fc="#FEFEFF" fo="254" bo="0" ec="#988688" sz="100" et="3"/>
+<pen id="303" b="1" fc="#FCFDFF" fo="254" bo="0" ec="#94858B" sz="100" et="3"/>
+<pen id="304" b="1" fc="#FBFCFF" fo="254" bo="0" ec="#90858D" sz="100" et="3"/>
+<pen id="305" b="1" fc="#F9FBFF" fo="254" bo="0" ec="#8C8490" sz="100" et="3"/>
+<pen id="306" b="1" fc="#F8FAFF" fo="254" bo="0" ec="#888393" sz="100" et="3"/>
+<pen id="307" b="1" fc="#F6F9FF" fo="254" bo="0" ec="#848395" sz="100" et="3"/>
+<pen id="308" b="1" fc="#F5F8FF" fo="254" bo="0" ec="#808298" sz="100" et="3"/>
+<pen id="309" b="1" fc="#F3F7FF" fo="254" bo="0" ec="#7C819B" sz="100" et="3"/>
+<pen id="310" b="1" fc="#F2F6FF" fo="254" bo="0" ec="#78819D" sz="100" et="3"/>
+<pen id="311" b="1" fc="#F0F5FF" fo="254" bo="0" ec="#7480A0" sz="100" et="3"/>
+<pen id="312" b="1" fc="#EEF3FF" fo="254" bo="0" ec="#707FA3" sz="100" et="3"/>
+<pen id="313" b="1" fc="#E8EDF9" fo="254" bo="0" ec="#6D7C9F" sz="100" et="3"/>
+<pen id="314" b="1" fc="#E2E6F2" fo="254" bo="0" ec="#6A799B" sz="100" et="3"/>
+<pen id="315" b="1" fc="#DBE0EB" fo="254" bo="0" ec="#677596" sz="100" et="3"/>
+<pen id="316" b="1" fc="#D5D9E4" fo="254" bo="0" ec="#647292" sz="100" et="3"/>
+<pen id="317" b="1" fc="#CED3DD" fo="254" bo="0" ec="#616E8D" sz="100" et="3"/>
+<pen id="318" b="1" fc="#C8CCD6" fo="254" bo="0" ec="#5E6B89" sz="100" et="3"/>
+<pen id="319" b="1" fc="#C1C6CF" fo="254" bo="0" ec="#5B6785" sz="100" et="3"/>
+<pen id="320" b="1" fc="#BBBFC8" fo="254" bo="0" ec="#586480" sz="100" et="3"/>
+<pen id="321" b="1" fc="#B5B8C1" fo="254" bo="0" ec="#55617C" sz="100" et="3"/>
+<pen id="322" b="1" fc="#AEB2BB" fo="254" bo="0" ec="#525D77" sz="100" et="3"/>
+<pen id="323" b="1" fc="#A8ABB4" fo="254" bo="0" ec="#4F5A73" sz="100" et="3"/>
+<pen id="324" b="1" fc="#A1A5AD" fo="254" bo="0" ec="#4C566F" sz="100" et="3"/>
+<pen id="325" b="1" fc="#9B9EA6" fo="254" bo="0" ec="#49536A" sz="100" et="3"/>
+<pen id="326" b="1" fc="#94989F" fo="254" bo="0" ec="#464F66" sz="100" et="3"/>
+<pen id="327" b="1" fc="#8E9198" fo="254" bo="0" ec="#434C61" sz="100" et="3"/>
+<pen id="328" b="1" fc="#888A91" fo="254" bo="0" ec="#40495D" sz="100" et="3"/>
+<pen id="329" b="1" fc="#81848A" fo="254" bo="0" ec="#3D4559" sz="100" et="3"/>
+<pen id="330" b="1" fc="#7B7D83" fo="254" bo="0" ec="#3A4254" sz="100" et="3"/>
+<pen id="331" b="1" fc="#74777D" fo="254" bo="0" ec="#373E50" sz="100" et="3"/>
+<pen id="332" b="1" fc="#6E7076" fo="254" bo="0" ec="#343B4B" sz="100" et="3"/>
+<pen id="333" b="1" fc="#676A6F" fo="254" bo="0" ec="#313747" sz="100" et="3"/>
+<pen id="334" b="1" fc="#616368" fo="254" bo="0" ec="#2E3443" sz="100" et="3"/>
+<pen id="335" b="1" fc="#5B5C61" fo="254" bo="0" ec="#2B313E" sz="100" et="3"/>
+<pen id="336" b="1" fc="#54565A" fo="254" bo="0" ec="#282D3A" sz="100" et="3"/>
+<pen id="337" b="1" fc="#4E4F53" fo="254" bo="0" ec="#252A35" sz="100" et="3"/>
+<pen id="338" b="1" fc="#47494C" fo="254" bo="0" ec="#222631" sz="100" et="3"/>
+<pen id="339" b="1" fc="#414245" fo="254" bo="0" ec="#1F232D" sz="100" et="3"/>
+<pen id="340" b="1" fc="#3A3C3F" fo="254" bo="0" ec="#1C1F28" sz="100" et="3"/>
+<pen id="341" b="1" fc="#343538" fo="254" bo="0" ec="#191C24" sz="100" et="3"/>
+<pen id="342" b="1" fc="#2E2E31" fo="254" bo="0" ec="#16191F" sz="100" et="3"/>
+<pen id="343" b="1" fc="#27282A" fo="254" bo="0" ec="#13151B" sz="100" et="3"/>
+<pen id="344" b="1" fc="#212123" fo="254" bo="0" ec="#101217" sz="100" et="3"/>
+<pen id="345" b="1" fc="#1A1B1C" fo="254" bo="0" ec="#0D0E12" sz="100" et="3"/>
+<pen id="346" b="1" fc="#141415" fo="254" bo="0" ec="#0A0B0E" sz="100" et="3"/>
+<pen id="347" b="1" fc="#0D0E0E" fo="254" bo="0" ec="#070709" sz="100" et="3"/>
+<pen id="348" b="1" fc="#070707" fo="254" bo="0" ec="#040405" sz="100" et="3"/>
+<pen id="349" b="1" fc="#000000" fo="254" bo="0" ec="#000000" sz="100" et="3"/>
+<ws id="0"/>
+<ws id="1" ju="2" pd="0" sd="0"/>
+<wp id="0"/>
+<wp id="4" ap="4" ah="50" av="10"/>
+<wp id="9" ap="4" ah="50" av="42"/>
+<wp id="6" ap="4" ah="50" av="44"/>
+<wp id="3" ap="4" ah="50" av="85"/>
+<wp id="5" ap="4" ah="50" av="89"/>
+<wp id="2" ap="4" ah="50" av="90"/>
+<wp id="7" ap="4" ah="50" av="91"/>
+<wp id="8" ap="4" ah="51" av="85"/>
+<wp id="1" ap="7" ah="0" av="0"/>
+</head>
+<body>
+<p t="1150" d="2067" wp="2" ws="1" p="2">​Sweet night, Sweet time...</p>
+<p t="6517" d="2133" wp="2" ws="1" p="2">​Sweet night, Sweet time...</p>
+<p t="22983" d="5434" wp="3" ws="1" p="3">​살며시 해가 지는 붉은 하늘</p>
+<p t="28417" d="5333" wp="3" ws="1" p="4">​겨우 눈을 뜬 너에게 인사해</p>
+<p t="33750" d="4667" wp="3" ws="1" p="5">​음 내일은 휴일이니까</p>
+<p t="38417" d="5366" wp="3" ws="1" p="5">​밤새도록 너와 함께</p>
+<p t="43983" d="1667" wp="4" ws="1" p="6">​Sweet night, Sweet time...</p>
+<p t="45650" d="33" wp="4" ws="1" p="6">​Sweet night, Sweet time...</p>
+<p t="45683" d="34" wp="4" ws="1" p="7">​Sweet night, Sweet time...</p>
+<p t="45717" d="33" wp="4" ws="1" p="8">​Sweet night, Sweet time...</p>
+<p t="45750" d="33" wp="4" ws="1" p="9">​Sweet night, Sweet time...</p>
+<p t="45783" d="34" wp="4" ws="1" p="10">​Sweet night, Sweet time...</p>
+<p t="45817" d="33" wp="4" ws="1" p="11">​Sweet night, Sweet time...</p>
+<p t="45850" d="33" wp="4" ws="1" p="12">​Sweet night, Sweet time...</p>
+<p t="45883" d="34" wp="4" ws="1" p="13">​Sweet night, Sweet time...</p>
+<p t="46050" d="33" wp="5" ws="1" p="14">​졸리지 않아 자고 싶지 않아</p>
+<p t="46083" d="34" wp="5" ws="1" p="15">​졸리지 않아 자고 싶지 않아</p>
+<p t="46117" d="33" wp="5" ws="1" p="16">​졸리지 않아 자고 싶지 않아</p>
+<p t="46150" d="33" wp="5" ws="1" p="17">​졸리지 않아 자고 싶지 않아</p>
+<p t="46183" d="34" wp="5" ws="1" p="18">​졸리지 않아 자고 싶지 않아</p>
+<p t="46217" d="33" wp="5" ws="1" p="19">​졸리지 않아 자고 싶지 않아</p>
+<p t="46250" d="33" wp="5" ws="1" p="20">​졸리지 않아 자고 싶지 않아</p>
+<p t="46283" d="34" wp="5" ws="1" p="21">​졸리지 않아 자고 싶지 않아</p>
+<p t="46317" d="33" wp="5" ws="1" p="22">​졸리지 않아 자고 싶지 않아</p>
+<p t="46350" d="33" wp="5" ws="1" p="23">​졸리지 않아 자고 싶지 않아</p>
+<p t="46383" d="34" wp="5" ws="1" p="24">​졸리지 않아 자고 싶지 않아</p>
+<p t="46417" d="33" wp="5" ws="1" p="25">​졸리지 않아 자고 싶지 않아</p>
+<p t="46450" d="33" wp="5" ws="1" p="26">​졸리지 않아 자고 싶지 않아</p>
+<p t="46483" d="34" wp="5" ws="1" p="27">​졸리지 않아 자고 싶지 않아</p>
+<p t="46517" d="4533" wp="5" ws="1" p="27">​졸리지 않아 자고 싶지 않아</p>
+<p t="49317" d="1700" wp="4" ws="1" p="6">​Sweet night, Sweet time...</p>
+<p t="51017" d="33" wp="4" ws="1" p="6">​Sweet night, Sweet time...</p>
+<p t="51050" d="33" wp="5" ws="1" p="27">​졸리지 않아 자고 싶지 않아</p>
+<p t="51050" d="33" wp="4" ws="1"><s p="7">​</s><s>​</s><s p="28">​Sweet night, Sweet time...</s></p>
+<p t="51083" d="34" wp="5" ws="1" p="29">​졸리지 않아 자고 싶지 않아</p>
+<p t="51083" d="34" wp="4" ws="1"><s p="30">​</s><s>​</s><s p="31">​Sweet night, Sweet time...</s></p>
+<p t="51117" d="33" wp="5" ws="1" p="32">​졸리지 않아 자고 싶지 않아</p>
+<p t="51117" d="33" wp="4" ws="1"><s p="33">​</s><s>​</s><s p="34">​Sweet night, Sweet time...</s></p>
+<p t="51150" d="33" wp="5" ws="1" p="35">​졸리지 않아 자고 싶지 않아</p>
+<p t="51150" d="33" wp="4" ws="1"><s p="36">​</s><s>​</s><s p="37">​Sweet night, Sweet time...</s></p>
+<p t="51183" d="34" wp="5" ws="1" p="38">​졸리지 않아 자고 싶지 않아</p>
+<p t="51183" d="34" wp="4" ws="1"><s p="39">​</s><s>​</s><s p="40">​Sweet night, Sweet time...</s></p>
+<p t="51217" d="33" wp="5" ws="1" p="41">​졸리지 않아 자고 싶지 않아</p>
+<p t="51217" d="33" wp="4" ws="1"><s p="42">​</s><s>​</s><s p="43">​Sweet night, Sweet time...</s></p>
+<p t="51250" d="33" wp="5" ws="1" p="44">​졸리지 않아 자고 싶지 않아</p>
+<p t="51250" d="33" wp="4" ws="1"><s p="45">​</s><s>​</s><s p="46">​Sweet night, Sweet time...</s></p>
+<p t="51283" d="34" wp="5" ws="1" p="47">​졸리지 않아 자고 싶지 않아</p>
+<p t="51283" d="34" wp="4" ws="1" p="48">​Sweet night, Sweet time...</p>
+<p t="51317" d="33" wp="5" ws="1" p="49">​졸리지 않아 자고 싶지 않아</p>
+<p t="51350" d="33" wp="5" ws="1" p="50">​졸리지 않아 자고 싶지 않아</p>
+<p t="51383" d="34" wp="5" ws="1" p="14">​졸리지 않아 자고 싶지 않아</p>
+<p t="51417" d="33" wp="5" ws="1" p="14">​아직 아직 놀고 싶어</p>
+<p t="51450" d="33" wp="5" ws="1" p="15">​아직 아직 놀고 싶어</p>
+<p t="51483" d="34" wp="5" ws="1" p="16">​아직 아직 놀고 싶어</p>
+<p t="51517" d="33" wp="5" ws="1" p="17">​아직 아직 놀고 싶어</p>
+<p t="51550" d="33" wp="5" ws="1" p="18">​아직 아직 놀고 싶어</p>
+<p t="51583" d="34" wp="5" ws="1" p="19">​아직 아직 놀고 싶어</p>
+<p t="51617" d="33" wp="5" ws="1" p="20">​아직 아직 놀고 싶어</p>
+<p t="51650" d="33" wp="5" ws="1" p="21">​아직 아직 놀고 싶어</p>
+<p t="51683" d="34" wp="5" ws="1" p="22">​아직 아직 놀고 싶어</p>
+<p t="51717" d="33" wp="5" ws="1" p="23">​아직 아직 놀고 싶어</p>
+<p t="51750" d="33" wp="5" ws="1" p="24">​아직 아직 놀고 싶어</p>
+<p t="51783" d="34" wp="5" ws="1" p="25">​아직 아직 놀고 싶어</p>
+<p t="51817" d="33" wp="5" ws="1" p="26">​아직 아직 놀고 싶어</p>
+<p t="51850" d="33" wp="5" ws="1" p="27">​아직 아직 놀고 싶어</p>
+<p t="51883" d="4467" wp="5" ws="1" p="27">​아직 아직 놀고 싶어</p>
+<p t="54683" d="1700" wp="4" ws="1" p="6">​Sweet night, Sweet time...</p>
+<p t="56350" d="33" wp="5" ws="1" p="27">​아직 아직 놀고 싶어</p>
+<p t="56383" d="34" wp="5" ws="1" p="51">​아직 아직 놀고 싶어</p>
+<p t="56383" d="34" wp="4" ws="1" p="6">​Sweet night, Sweet time...</p>
+<p t="56417" d="33" wp="5" ws="1" p="52">​아직 아직 놀고 싶어</p>
+<p t="56417" d="33" wp="4" ws="1" p="53">​Sweet night, Sweet time...</p>
+<p t="56450" d="33" wp="5" ws="1" p="54">​아직 아직 놀고 싶어</p>
+<p t="56450" d="33" wp="4" ws="1" p="55">​Sweet night, Sweet time...</p>
+<p t="56483" d="34" wp="5" ws="1" p="56">​아직 아직 놀고 싶어</p>
+<p t="56483" d="34" wp="4" ws="1" p="57">​Sweet night, Sweet time...</p>
+<p t="56517" d="33" wp="5" ws="1" p="58">​아직 아직 놀고 싶어</p>
+<p t="56517" d="33" wp="4" ws="1" p="59">​Sweet night, Sweet time...</p>
+<p t="56550" d="33" wp="5" ws="1" p="60">​아직 아직 놀고 싶어</p>
+<p t="56550" d="33" wp="4" ws="1" p="61">​Sweet night, Sweet time...</p>
+<p t="56583" d="34" wp="5" ws="1" p="62">​아직 아직 놀고 싶어</p>
+<p t="56583" d="34" wp="4" ws="1" p="63">​Sweet night, Sweet time...</p>
+<p t="56617" d="33" wp="5" ws="1" p="64">​아직 아직 놀고 싶어</p>
+<p t="56617" d="33" wp="4" ws="1" p="65">​Sweet night, Sweet time...</p>
+<p t="56650" d="33" wp="5" ws="1" p="66">​아직 아직 놀고 싶어</p>
+<p t="56650" d="33" wp="4" ws="1" p="48">​Sweet night, Sweet time...</p>
+<p t="56683" d="34" wp="5" ws="1" p="67">​아직 아직 놀고 싶어</p>
+<p t="56717" d="33" wp="5" ws="1" p="14">​아직 아직 놀고 싶어</p>
+<p t="56750" d="33" wp="5" ws="1" p="14">​이야기하고 싶어 이야기가 부족해</p>
+<p t="56783" d="34" wp="5" ws="1" p="15">​이야기하고 싶어 이야기가 부족해</p>
+<p t="56817" d="33" wp="5" ws="1" p="16">​이야기하고 싶어 이야기가 부족해</p>
+<p t="56850" d="33" wp="5" ws="1" p="17">​이야기하고 싶어 이야기가 부족해</p>
+<p t="56883" d="34" wp="5" ws="1" p="18">​이야기하고 싶어 이야기가 부족해</p>
+<p t="56917" d="33" wp="5" ws="1" p="19">​이야기하고 싶어 이야기가 부족해</p>
+<p t="56950" d="33" wp="5" ws="1" p="20">​이야기하고 싶어 이야기가 부족해</p>
+<p t="56983" d="34" wp="5" ws="1" p="21">​이야기하고 싶어 이야기가 부족해</p>
+<p t="57017" d="33" wp="5" ws="1" p="22">​이야기하고 싶어 이야기가 부족해</p>
+<p t="57050" d="33" wp="5" ws="1" p="23">​이야기하고 싶어 이야기가 부족해</p>
+<p t="57083" d="34" wp="5" ws="1" p="24">​이야기하고 싶어 이야기가 부족해</p>
+<p t="57117" d="33" wp="5" ws="1" p="25">​이야기하고 싶어 이야기가 부족해</p>
+<p t="57150" d="33" wp="5" ws="1" p="26">​이야기하고 싶어 이야기가 부족해</p>
+<p t="57183" d="34" wp="5" ws="1" p="27">​이야기하고 싶어 이야기가 부족해</p>
+<p t="57217" d="2133" wp="5" ws="1" p="27">​이야기하고 싶어 이야기가 부족해</p>
+<p t="59350" d="33" wp="5" ws="1" p="27">​이야기하고 싶어 이야기가 부족해</p>
+<p t="59383" d="34" wp="5" ws="1" p="51">​이야기하고 싶어 이야기가 부족해</p>
+<p t="59417" d="33" wp="5" ws="1" p="52">​이야기하고 싶어 이야기가 부족해</p>
+<p t="59450" d="33" wp="5" ws="1" p="68">​이야기하고 싶어 이야기가 부족해</p>
+<p t="59483" d="34" wp="5" ws="1" p="69">​이야기하고 싶어 이야기가 부족해</p>
+<p t="59517" d="33" wp="5" ws="1" p="70">​이야기하고 싶어 이야기가 부족해</p>
+<p t="59550" d="33" wp="5" ws="1" p="71">​이야기하고 싶어 이야기가 부족해</p>
+<p t="59583" d="34" wp="5" ws="1" p="72">​이야기하고 싶어 이야기가 부족해</p>
+<p t="59617" d="33" wp="5" ws="1" p="73">​이야기하고 싶어 이야기가 부족해</p>
+<p t="59650" d="33" wp="5" ws="1" p="74">​이야기하고 싶어 이야기가 부족해</p>
+<p t="59683" d="34" wp="5" ws="1" p="75">​이야기하고 싶어 이야기가 부족해</p>
+<p t="59917" d="5400" wp="6" ws="1" p="76">​꿈속만으론 부족하니까</p>
+<p t="65983" d="67" wp="6" ws="1" p="77">​오늘 밤은...</p>
+<p t="66117" d="33" wp="6" ws="1" p="77">​오늘 밤은...</p>
+<p t="66150" d="33" wp="6" ws="1" p="77">​오늘 밤은...</p>
+<p t="66183" d="34" wp="6" ws="1" p="77">​오늘 밤은...</p>
+<p t="66217" d="33" wp="6" ws="1" p="77">​오늘 밤은...</p>
+<p t="66250" d="33" wp="6" ws="1" p="77">​오늘 밤은...</p>
+<p t="66283" d="34" wp="6" ws="1" p="77">​오늘 밤은...</p>
+<p t="66317" d="33" wp="6" ws="1" p="77">​오늘 밤은...</p>
+<p t="66350" d="33" wp="6" ws="1" p="77">​오늘 밤은...</p>
+<p t="66383" d="34" wp="6" ws="1" p="77">​오늘 밤은...</p>
+<p t="66417" d="33" wp="6" ws="1" p="77">​오늘 밤은...</p>
+<p t="66450" d="33" wp="6" ws="1" p="77">​오늘 밤은...</p>
+<p t="66483" d="34" wp="6" ws="1" p="77">​오늘 밤은...</p>
+<p t="66517" d="33" wp="6" ws="1" p="77">​오늘 밤은...</p>
+<p t="66550" d="33" wp="6" ws="1" p="77">​오늘 밤은...</p>
+<p t="66583" d="34" wp="6" ws="1" p="77">​오늘 밤은...</p>
+<p t="66950" d="33" wp="7" ws="1" p="78">​안 잘 거야 자지 않을 거야</p>
+<p t="66983" d="34" wp="7" ws="1"><s p="79">​안 </s><s>​</s><s p="78">​잘 거야 자지 않을 거야</s></p>
+<p t="67017" d="33" wp="7" ws="1"><s p="80">​안 </s><s>​</s><s p="78">​잘 거야 자지 않을 거야</s></p>
+<p t="67050" d="33" wp="7" ws="1"><s p="81">​안 </s><s>​</s><s p="79">​잘 </s><s p="78">​거야 자지 않을 거야</s></p>
+<p t="67083" d="34" wp="7" ws="1"><s p="82">​안 </s><s>​</s><s p="80">​잘 </s><s p="79">​거</s><s p="78">​야 자지 않을 거야</s></p>
+<p t="67117" d="33" wp="7" ws="1"><s p="83">​안 </s><s>​</s><s p="81">​잘 </s><s p="80">​거</s><s p="78">​야 자지 않을 거야</s></p>
+<p t="67150" d="33" wp="7" ws="1"><s p="84">​안 </s><s>​</s><s p="82">​잘 </s><s p="81">​거</s><s p="79">​야 </s><s p="78">​자지 않을 거야</s></p>
+<p t="67183" d="34" wp="7" ws="1"><s p="85">​안 </s><s>​</s><s p="83">​잘 </s><s p="82">​거</s><s p="80">​야 </s><s p="79">​자</s><s p="78">​지 않을 거야</s></p>
+<p t="67217" d="33" wp="7" ws="1"><s p="86">​안 </s><s>​</s><s p="84">​잘 </s><s p="83">​거</s><s p="81">​야 </s><s p="80">​자</s><s p="78">​지 않을 거야</s></p>
+<p t="67250" d="33" wp="7" ws="1"><s p="87">​안 </s><s>​</s><s p="85">​잘 </s><s p="84">​거</s><s p="82">​야 </s><s p="81">​자</s><s p="79">​지 </s><s p="78">​않을 거야</s></p>
+<p t="67283" d="34" wp="7" ws="1"><s p="88">​안 </s><s>​</s><s p="86">​잘 </s><s p="85">​거</s><s p="83">​야 </s><s p="82">​자</s><s p="80">​지 </s><s p="79">​않</s><s p="78">​을 거야</s></p>
+<p t="67317" d="33" wp="7" ws="1"><s p="89">​안 </s><s>​</s><s p="87">​잘 </s><s p="86">​거</s><s p="84">​야 </s><s p="83">​자</s><s p="81">​지 </s><s p="80">​않</s><s p="78">​을 거야</s></p>
+<p t="67350" d="33" wp="7" ws="1"><s p="90">​안 </s><s>​</s><s p="88">​잘 </s><s p="87">​거</s><s p="85">​야 </s><s p="84">​자</s><s p="82">​지 </s><s p="81">​않</s><s p="79">​을 </s><s p="78">​거야</s></p>
+<p t="67383" d="34" wp="7" ws="1"><s p="91">​안 </s><s>​</s><s p="89">​잘 </s><s p="88">​거</s><s p="86">​야 </s><s p="85">​자</s><s p="83">​지 </s><s p="82">​않</s><s p="80">​을 </s><s p="79">​거</s><s p="78">​야</s></p>
+<p t="67417" d="33" wp="7" ws="1"><s p="92">​안 </s><s>​</s><s p="90">​잘 </s><s p="89">​거</s><s p="87">​야 </s><s p="86">​자</s><s p="84">​지 </s><s p="83">​않</s><s p="81">​을 </s><s p="80">​거</s><s p="78">​야</s></p>
+<p t="67450" d="33" wp="7" ws="1"><s p="92">​안 </s><s>​</s><s p="91">​잘 </s><s p="90">​거</s><s p="88">​야 </s><s p="87">​자</s><s p="85">​지 </s><s p="84">​않</s><s p="82">​을 </s><s p="81">​거</s><s p="79">​야</s></p>
+<p t="67483" d="34" wp="7" ws="1"><s p="92">​안 잘 </s><s>​</s><s p="91">​거</s><s p="89">​야 </s><s p="88">​자</s><s p="86">​지 </s><s p="85">​않</s><s p="83">​을 </s><s p="82">​거</s><s p="80">​야</s></p>
+<p t="67517" d="33" wp="7" ws="1"><s p="92">​안 잘 거</s><s>​</s><s p="90">​야 </s><s p="89">​자</s><s p="87">​지 </s><s p="86">​않</s><s p="84">​을 </s><s p="83">​거</s><s p="81">​야</s></p>
+<p t="67550" d="33" wp="7" ws="1"><s p="92">​안 잘 거</s><s>​</s><s p="91">​야 </s><s p="90">​자</s><s p="88">​지 </s><s p="87">​않</s><s p="85">​을 </s><s p="84">​거</s><s p="82">​야</s></p>
+<p t="67583" d="34" wp="7" ws="1"><s p="92">​안 잘 거야 </s><s>​</s><s p="91">​자</s><s p="89">​지 </s><s p="88">​않</s><s p="86">​을 </s><s p="85">​거</s><s p="83">​야</s></p>
+<p t="67617" d="33" wp="7" ws="1"><s p="92">​안 잘 거야 자</s><s>​</s><s p="90">​지 </s><s p="89">​않</s><s p="87">​을 </s><s p="86">​거</s><s p="84">​야</s></p>
+<p t="67650" d="33" wp="7" ws="1"><s p="92">​안 잘 거야 자</s><s>​</s><s p="91">​지 </s><s p="90">​않</s><s p="88">​을 </s><s p="87">​거</s><s p="85">​야</s></p>
+<p t="67683" d="34" wp="7" ws="1"><s p="92">​안 잘 거야 자지 </s><s>​</s><s p="91">​않</s><s p="89">​을 </s><s p="88">​거</s><s p="86">​야</s></p>
+<p t="67717" d="33" wp="7" ws="1"><s p="92">​안 잘 거야 자지 않</s><s>​</s><s p="90">​을 </s><s p="89">​거</s><s p="87">​야</s></p>
+<p t="67750" d="33" wp="7" ws="1"><s p="92">​안 잘 거야 자지 않</s><s>​</s><s p="91">​을 </s><s p="90">​거</s><s p="88">​야</s></p>
+<p t="67783" d="34" wp="7" ws="1"><s p="92">​안 잘 거야 자지 않을 </s><s>​</s><s p="91">​거</s><s p="89">​야</s></p>
+<p t="67817" d="33" wp="7" ws="1"><s p="92">​안 잘 거야 자지 않을 거</s><s>​</s><s p="90">​야</s></p>
+<p t="67850" d="33" wp="7" ws="1"><s p="92">​안 잘 거야 자지 않을 거</s><s>​</s><s p="91">​야</s></p>
+<p t="67883" d="34" wp="7" ws="1" p="92">​안 잘 거야 자지 않을 거야</p>
+<p t="67917" d="1233" wp="7" ws="1" p="92">​안 잘 거야 자지 않을 거야</p>
+<p t="69350" d="33" wp="7" ws="1" p="78">​너와 리듬을 맞춰서</p>
+<p t="69383" d="34" wp="7" ws="1"><s p="79">​너</s><s>​</s><s p="78">​와 리듬을 맞춰서</s></p>
+<p t="69417" d="33" wp="7" ws="1"><s p="80">​너</s><s>​</s><s p="78">​와 리듬을 맞춰서</s></p>
+<p t="69450" d="33" wp="7" ws="1"><s p="81">​너</s><s>​</s><s p="79">​와 </s><s p="78">​리듬을 맞춰서</s></p>
+<p t="69483" d="34" wp="7" ws="1"><s p="82">​너</s><s>​</s><s p="80">​와 </s><s p="78">​리듬을 맞춰서</s></p>
+<p t="69517" d="33" wp="7" ws="1"><s p="83">​너</s><s>​</s><s p="81">​와 </s><s p="78">​리듬을 맞춰서</s></p>
+<p t="69550" d="33" wp="7" ws="1"><s p="84">​너</s><s>​</s><s p="82">​와 </s><s p="79">​리</s><s p="78">​듬을 맞춰서</s></p>
+<p t="69583" d="34" wp="7" ws="1"><s p="85">​너</s><s>​</s><s p="83">​와 </s><s p="80">​리</s><s p="78">​듬을 맞춰서</s></p>
+<p t="69617" d="33" wp="7" ws="1"><s p="86">​너</s><s>​</s><s p="84">​와 </s><s p="81">​리</s><s p="79">​듬</s><s p="78">​을 맞춰서</s></p>
+<p t="69650" d="33" wp="7" ws="1"><s p="87">​너</s><s>​</s><s p="85">​와 </s><s p="82">​리</s><s p="80">​듬</s><s p="78">​을 맞춰서</s></p>
+<p t="69683" d="34" wp="7" ws="1"><s p="88">​너</s><s>​</s><s p="86">​와 </s><s p="83">​리</s><s p="81">​듬</s><s p="78">​을 맞춰서</s></p>
+<p t="69717" d="33" wp="7" ws="1"><s p="89">​너</s><s>​</s><s p="87">​와 </s><s p="84">​리</s><s p="82">​듬</s><s p="79">​을 </s><s p="78">​맞춰서</s></p>
+<p t="69750" d="33" wp="7" ws="1"><s p="90">​너</s><s>​</s><s p="88">​와 </s><s p="85">​리</s><s p="83">​듬</s><s p="80">​을 </s><s p="78">​맞춰서</s></p>
+<p t="69783" d="34" wp="7" ws="1"><s p="91">​너</s><s>​</s><s p="89">​와 </s><s p="86">​리</s><s p="84">​듬</s><s p="81">​을 </s><s p="79">​맞</s><s p="78">​춰서</s></p>
+<p t="69817" d="33" wp="7" ws="1"><s p="92">​너</s><s>​</s><s p="90">​와 </s><s p="87">​리</s><s p="85">​듬</s><s p="82">​을 </s><s p="80">​맞</s><s p="78">​춰서</s></p>
+<p t="69850" d="33" wp="7" ws="1"><s p="92">​너</s><s>​</s><s p="91">​와 </s><s p="88">​리</s><s p="86">​듬</s><s p="83">​을 </s><s p="81">​맞</s><s p="79">​춰</s><s p="78">​서</s></p>
+<p t="69883" d="34" wp="7" ws="1"><s p="92">​너와 </s><s>​</s><s p="89">​리</s><s p="87">​듬</s><s p="84">​을 </s><s p="82">​맞</s><s p="80">​춰</s><s p="78">​서</s></p>
+<p t="69917" d="33" wp="7" ws="1"><s p="92">​너와 </s><s>​</s><s p="90">​리</s><s p="88">​듬</s><s p="85">​을 </s><s p="83">​맞</s><s p="81">​춰</s><s p="78">​서</s></p>
+<p t="69950" d="33" wp="7" ws="1"><s p="92">​너와 </s><s>​</s><s p="91">​리</s><s p="89">​듬</s><s p="86">​을 </s><s p="84">​맞</s><s p="82">​춰</s><s p="79">​서</s></p>
+<p t="69983" d="34" wp="7" ws="1"><s p="92">​너와 리</s><s>​</s><s p="90">​듬</s><s p="87">​을 </s><s p="85">​맞</s><s p="83">​춰</s><s p="80">​서</s></p>
+<p t="70017" d="33" wp="7" ws="1"><s p="92">​너와 리</s><s>​</s><s p="91">​듬</s><s p="88">​을 </s><s p="86">​맞</s><s p="84">​춰</s><s p="81">​서</s></p>
+<p t="70050" d="33" wp="7" ws="1"><s p="92">​너와 리듬</s><s>​</s><s p="89">​을 </s><s p="87">​맞</s><s p="85">​춰</s><s p="82">​서</s></p>
+<p t="70083" d="34" wp="7" ws="1"><s p="92">​너와 리듬</s><s>​</s><s p="90">​을 </s><s p="88">​맞</s><s p="86">​춰</s><s p="83">​서</s></p>
+<p t="70117" d="33" wp="7" ws="1"><s p="92">​너와 리듬</s><s>​</s><s p="91">​을 </s><s p="89">​맞</s><s p="87">​춰</s><s p="84">​서</s></p>
+<p t="70150" d="33" wp="7" ws="1"><s p="92">​너와 리듬을 </s><s>​</s><s p="90">​맞</s><s p="88">​춰</s><s p="85">​서</s></p>
+<p t="70183" d="34" wp="7" ws="1"><s p="92">​너와 리듬을 </s><s>​</s><s p="91">​맞</s><s p="89">​춰</s><s p="86">​서</s></p>
+<p t="70217" d="33" wp="7" ws="1"><s p="92">​너와 리듬을 맞</s><s>​</s><s p="90">​춰</s><s p="87">​서</s></p>
+<p t="70250" d="33" wp="7" ws="1"><s p="92">​너와 리듬을 맞</s><s>​</s><s p="91">​춰</s><s p="88">​서</s></p>
+<p t="70283" d="34" wp="7" ws="1"><s p="92">​너와 리듬을 맞춰</s><s>​</s><s p="89">​서</s></p>
+<p t="70317" d="33" wp="7" ws="1"><s p="92">​너와 리듬을 맞춰</s><s>​</s><s p="90">​서</s></p>
+<p t="70350" d="33" wp="7" ws="1"><s p="92">​너와 리듬을 맞춰</s><s>​</s><s p="91">​서</s></p>
+<p t="70383" d="34" wp="7" ws="1" p="92">​너와 리듬을 맞춰서</p>
+<p t="70417" d="1866" wp="7" ws="1" p="92">​너와 리듬을 맞춰서</p>
+<p t="72283" d="34" wp="7" ws="1" p="78">​뒤바뀐 밤낮을 즐기는 거야</p>
+<p t="72317" d="33" wp="7" ws="1"><s p="79">​뒤</s><s>​</s><s p="78">​바뀐 밤낮을 즐기는 거야</s></p>
+<p t="72350" d="33" wp="7" ws="1"><s p="80">​뒤</s><s>​</s><s p="78">​바뀐 밤낮을 즐기는 거야</s></p>
+<p t="72383" d="34" wp="7" ws="1"><s p="81">​뒤</s><s>​</s><s p="79">​바</s><s p="78">​뀐 밤낮을 즐기는 거야</s></p>
+<p t="72417" d="33" wp="7" ws="1"><s p="82">​뒤</s><s>​</s><s p="80">​바</s><s p="79">​뀐 </s><s p="78">​밤낮을 즐기는 거야</s></p>
+<p t="72450" d="33" wp="7" ws="1"><s p="83">​뒤</s><s>​</s><s p="81">​바</s><s p="80">​뀐 </s><s p="78">​밤낮을 즐기는 거야</s></p>
+<p t="72483" d="34" wp="7" ws="1"><s p="84">​뒤</s><s>​</s><s p="82">​바</s><s p="81">​뀐 </s><s p="79">​밤</s><s p="78">​낮을 즐기는 거야</s></p>
+<p t="72517" d="33" wp="7" ws="1"><s p="85">​뒤</s><s>​</s><s p="83">​바</s><s p="82">​뀐 </s><s p="80">​밤</s><s p="79">​낮</s><s p="78">​을 즐기는 거야</s></p>
+<p t="72550" d="33" wp="7" ws="1"><s p="86">​뒤</s><s>​</s><s p="84">​바</s><s p="83">​뀐 </s><s p="81">​밤</s><s p="80">​낮</s><s p="78">​을 즐기는 거야</s></p>
+<p t="72583" d="34" wp="7" ws="1"><s p="87">​뒤</s><s>​</s><s p="85">​바</s><s p="84">​뀐 </s><s p="82">​밤</s><s p="81">​낮</s><s p="79">​을 </s><s p="78">​즐기는 거야</s></p>
+<p t="72617" d="33" wp="7" ws="1"><s p="88">​뒤</s><s>​</s><s p="86">​바</s><s p="85">​뀐 </s><s p="83">​밤</s><s p="82">​낮</s><s p="80">​을 </s><s p="79">​즐</s><s p="78">​기는 거야</s></p>
+<p t="72650" d="33" wp="7" ws="1"><s p="89">​뒤</s><s>​</s><s p="87">​바</s><s p="86">​뀐 </s><s p="84">​밤</s><s p="83">​낮</s><s p="81">​을 </s><s p="80">​즐</s><s p="78">​기는 거야</s></p>
+<p t="72683" d="34" wp="7" ws="1"><s p="90">​뒤</s><s>​</s><s p="88">​바</s><s p="87">​뀐 </s><s p="85">​밤</s><s p="84">​낮</s><s p="82">​을 </s><s p="81">​즐</s><s p="79">​기</s><s p="78">​는 거야</s></p>
+<p t="72717" d="33" wp="7" ws="1"><s p="91">​뒤</s><s>​</s><s p="89">​바</s><s p="88">​뀐 </s><s p="86">​밤</s><s p="85">​낮</s><s p="83">​을 </s><s p="82">​즐</s><s p="80">​기</s><s p="79">​는</s><s p="78">​ 거야</s></p>
+<p t="72750" d="33" wp="7" ws="1"><s p="92">​뒤</s><s>​</s><s p="90">​바</s><s p="89">​뀐 </s><s p="87">​밤</s><s p="86">​낮</s><s p="84">​을 </s><s p="83">​즐</s><s p="81">​기</s><s p="80">​는</s><s p="78">​ 거야</s></p>
+<p t="72783" d="34" wp="7" ws="1"><s p="92">​뒤</s><s>​</s><s p="91">​바</s><s p="90">​뀐 </s><s p="88">​밤</s><s p="87">​낮</s><s p="85">​을 </s><s p="84">​즐</s><s p="82">​기</s><s p="81">​는</s><s p="79">​ 거</s><s p="78">​야</s></p>
+<p t="72817" d="33" wp="7" ws="1"><s p="92">​뒤바</s><s>​</s><s p="91">​뀐 </s><s p="89">​밤</s><s p="88">​낮</s><s p="86">​을 </s><s p="85">​즐</s><s p="83">​기</s><s p="82">​는</s><s p="80">​ 거</s><s p="79">​야</s></p>
+<p t="72850" d="33" wp="7" ws="1"><s p="92">​뒤바뀐 </s><s>​</s><s p="90">​밤</s><s p="89">​낮</s><s p="87">​을 </s><s p="86">​즐</s><s p="84">​기</s><s p="83">​는</s><s p="81">​ 거</s><s p="80">​야</s></p>
+<p t="72883" d="34" wp="7" ws="1"><s p="92">​뒤바뀐 </s><s>​</s><s p="91">​밤</s><s p="90">​낮</s><s p="88">​을 </s><s p="87">​즐</s><s p="85">​기</s><s p="84">​는</s><s p="82">​ 거</s><s p="81">​야</s></p>
+<p t="72917" d="33" wp="7" ws="1"><s p="92">​뒤바뀐 밤</s><s>​</s><s p="91">​낮</s><s p="89">​을 </s><s p="88">​즐</s><s p="86">​기</s><s p="85">​는</s><s p="83">​ 거</s><s p="82">​야</s></p>
+<p t="72950" d="33" wp="7" ws="1"><s p="92">​뒤바뀐 밤낮</s><s>​</s><s p="90">​을 </s><s p="89">​즐</s><s p="87">​기</s><s p="86">​는</s><s p="84">​ 거</s><s p="83">​야</s></p>
+<p t="72983" d="34" wp="7" ws="1"><s p="92">​뒤바뀐 밤낮</s><s>​</s><s p="91">​을 </s><s p="90">​즐</s><s p="88">​기</s><s p="87">​는</s><s p="85">​ 거</s><s p="84">​야</s></p>
+<p t="73017" d="33" wp="7" ws="1"><s p="92">​뒤바뀐 밤낮을 </s><s>​</s><s p="91">​즐</s><s p="89">​기</s><s p="88">​는</s><s p="86">​ 거</s><s p="85">​야</s></p>
+<p t="73050" d="33" wp="7" ws="1"><s p="92">​뒤바뀐 밤낮을 즐</s><s>​</s><s p="90">​기</s><s p="89">​는</s><s p="87">​ 거</s><s p="86">​야</s></p>
+<p t="73083" d="34" wp="7" ws="1"><s p="92">​뒤바뀐 밤낮을 즐</s><s>​</s><s p="91">​기</s><s p="90">​는</s><s p="88">​ 거</s><s p="87">​야</s></p>
+<p t="73117" d="33" wp="7" ws="1"><s p="92">​뒤바뀐 밤낮을 즐기</s><s>​</s><s p="91">​는</s><s p="89">​ 거</s><s p="88">​야</s></p>
+<p t="73150" d="33" wp="7" ws="1"><s p="92">​뒤바뀐 밤낮을 즐기는</s><s>​</s><s p="90">​ 거</s><s p="89">​야</s></p>
+<p t="73183" d="34" wp="7" ws="1"><s p="92">​뒤바뀐 밤낮을 즐기는</s><s>​</s><s p="91">​ 거</s><s p="90">​야</s></p>
+<p t="73217" d="33" wp="7" ws="1"><s p="92">​뒤바뀐 밤낮을 즐기는 거</s><s>​</s><s p="91">​야</s></p>
+<p t="73250" d="33" wp="7" ws="1" p="92">​뒤바뀐 밤낮을 즐기는 거야</p>
+<p t="73283" d="3367" wp="7" ws="1" p="92">​뒤바뀐 밤낮을 즐기는 거야</p>
+<p t="76650" d="900" wp="6" ws="1" p="93">​지금만은...</p>
+<p t="77650" d="33" wp="7" ws="1" p="78">​안 잘 거야 자지 않을 거야</p>
+<p t="77683" d="34" wp="7" ws="1"><s p="94">​안 </s><s>​</s><s p="78">​잘 거야 자지 않을 거야</s></p>
+<p t="77717" d="33" wp="7" ws="1"><s p="95">​안 </s><s>​</s><s p="78">​잘 거야 자지 않을 거야</s></p>
+<p t="77750" d="33" wp="7" ws="1"><s p="96">​안 </s><s>​</s><s p="97">​잘 </s><s p="78">​거야 자지 않을 거야</s></p>
+<p t="77783" d="34" wp="7" ws="1"><s p="98">​안 </s><s>​</s><s p="99">​잘 </s><s p="100">​거</s><s p="78">​야 자지 않을 거야</s></p>
+<p t="77817" d="33" wp="7" ws="1"><s p="101">​안 </s><s>​</s><s p="102">​잘 </s><s p="103">​거</s><s p="78">​야 자지 않을 거야</s></p>
+<p t="77850" d="33" wp="7" ws="1"><s p="104">​안 </s><s>​</s><s p="105">​잘 </s><s p="106">​거</s><s p="107">​야 </s><s p="78">​자지 않을 거야</s></p>
+<p t="77883" d="34" wp="7" ws="1"><s p="108">​안 </s><s>​</s><s p="109">​잘 </s><s p="110">​거</s><s p="111">​야 </s><s p="112">​자</s><s p="78">​지 않을 거야</s></p>
+<p t="77917" d="33" wp="7" ws="1"><s p="113">​안 </s><s>​</s><s p="114">​잘 </s><s p="115">​거</s><s p="116">​야 </s><s p="117">​자</s><s p="78">​지 않을 거야</s></p>
+<p t="77950" d="33" wp="7" ws="1"><s p="118">​안 </s><s>​</s><s p="119">​잘 </s><s p="120">​거</s><s p="121">​야 </s><s p="122">​자</s><s p="123">​지 </s><s p="78">​않을 거야</s></p>
+<p t="77983" d="34" wp="7" ws="1"><s p="124">​안 </s><s>​</s><s p="125">​잘 </s><s p="126">​거</s><s p="127">​야 </s><s p="128">​자</s><s p="129">​지 </s><s p="130">​않</s><s p="78">​을 거야</s></p>
+<p t="78017" d="33" wp="7" ws="1"><s p="89">​안 </s><s>​</s><s p="87">​잘 </s><s p="86">​거</s><s p="84">​야 </s><s p="83">​자</s><s p="81">​지 </s><s p="80">​않</s><s p="78">​을 거야</s></p>
+<p t="78050" d="33" wp="7" ws="1"><s p="90">​안 </s><s>​</s><s p="88">​잘 </s><s p="87">​거</s><s p="85">​야 </s><s p="84">​자</s><s p="82">​지 </s><s p="81">​않</s><s p="79">​을 </s><s p="78">​거야</s></p>
+<p t="78083" d="34" wp="7" ws="1"><s p="91">​안 </s><s>​</s><s p="89">​잘 </s><s p="88">​거</s><s p="86">​야 </s><s p="85">​자</s><s p="83">​지 </s><s p="82">​않</s><s p="80">​을 </s><s p="79">​거</s><s p="78">​야</s></p>
+<p t="78117" d="33" wp="7" ws="1"><s p="92">​안 </s><s>​</s><s p="90">​잘 </s><s p="89">​거</s><s p="87">​야 </s><s p="86">​자</s><s p="84">​지 </s><s p="83">​않</s><s p="81">​을 </s><s p="80">​거</s><s p="78">​야</s></p>
+<p t="78150" d="33" wp="7" ws="1"><s p="92">​안 </s><s>​</s><s p="91">​잘 </s><s p="90">​거</s><s p="88">​야 </s><s p="87">​자</s><s p="85">​지 </s><s p="84">​않</s><s p="82">​을 </s><s p="81">​거</s><s p="79">​야</s></p>
+<p t="78183" d="34" wp="7" ws="1"><s p="92">​안 잘 </s><s>​</s><s p="91">​거</s><s p="89">​야 </s><s p="88">​자</s><s p="86">​지 </s><s p="85">​않</s><s p="83">​을 </s><s p="82">​거</s><s p="80">​야</s></p>
+<p t="78217" d="33" wp="7" ws="1"><s p="92">​안 잘 거</s><s>​</s><s p="90">​야 </s><s p="89">​자</s><s p="87">​지 </s><s p="86">​않</s><s p="84">​을 </s><s p="83">​거</s><s p="81">​야</s></p>
+<p t="78250" d="33" wp="7" ws="1"><s p="92">​안 잘 거</s><s>​</s><s p="91">​야 </s><s p="90">​자</s><s p="88">​지 </s><s p="87">​않</s><s p="85">​을 </s><s p="84">​거</s><s p="82">​야</s></p>
+<p t="78283" d="34" wp="7" ws="1"><s p="92">​안 잘 거야 </s><s>​</s><s p="91">​자</s><s p="89">​지 </s><s p="88">​않</s><s p="86">​을 </s><s p="85">​거</s><s p="83">​야</s></p>
+<p t="78317" d="33" wp="7" ws="1"><s p="92">​안 잘 거야 자</s><s>​</s><s p="90">​지 </s><s p="89">​않</s><s p="87">​을 </s><s p="86">​거</s><s p="84">​야</s></p>
+<p t="78350" d="33" wp="7" ws="1"><s p="92">​안 잘 거야 자</s><s>​</s><s p="91">​지 </s><s p="90">​않</s><s p="88">​을 </s><s p="87">​거</s><s p="85">​야</s></p>
+<p t="78383" d="34" wp="7" ws="1"><s p="92">​안 잘 거야 자지 </s><s>​</s><s p="91">​않</s><s p="89">​을 </s><s p="88">​거</s><s p="86">​야</s></p>
+<p t="78417" d="33" wp="7" ws="1"><s p="92">​안 잘 거야 자지 않</s><s>​</s><s p="90">​을 </s><s p="89">​거</s><s p="87">​야</s></p>
+<p t="78450" d="33" wp="7" ws="1"><s p="92">​안 잘 거야 자지 않</s><s>​</s><s p="91">​을 </s><s p="90">​거</s><s p="88">​야</s></p>
+<p t="78483" d="34" wp="7" ws="1"><s p="92">​안 잘 거야 자지 않을 </s><s>​</s><s p="91">​거</s><s p="89">​야</s></p>
+<p t="78517" d="33" wp="7" ws="1"><s p="92">​안 잘 거야 자지 않을 거</s><s>​</s><s p="90">​야</s></p>
+<p t="78550" d="33" wp="7" ws="1"><s p="92">​안 잘 거야 자지 않을 거</s><s>​</s><s p="91">​야</s></p>
+<p t="78583" d="34" wp="7" ws="1" p="92">​안 잘 거야 자지 않을 거야</p>
+<p t="78617" d="1233" wp="7" ws="1" p="92">​안 잘 거야 자지 않을 거야</p>
+<p t="79850" d="33" wp="7" ws="1" p="78">​별 속에서 산책하고</p>
+<p t="79883" d="34" wp="7" ws="1"><s p="94">​별 </s><s>​</s><s p="78">​속에서 산책하고</s></p>
+<p t="79917" d="33" wp="7" ws="1"><s p="95">​별 </s><s>​</s><s p="78">​속에서 산책하고</s></p>
+<p t="79950" d="33" wp="7" ws="1"><s p="96">​별 </s><s>​</s><s p="97">​속</s><s p="78">​에서 산책하고</s></p>
+<p t="79983" d="34" wp="7" ws="1"><s p="98">​별 </s><s>​</s><s p="99">​속</s><s p="78">​에서 산책하고</s></p>
+<p t="80017" d="33" wp="7" ws="1"><s p="101">​별 </s><s>​</s><s p="102">​속</s><s p="78">​에서 산책하고</s></p>
+<p t="80050" d="33" wp="7" ws="1"><s p="104">​별 </s><s>​</s><s p="105">​속</s><s p="107">​에</s><s p="78">​서 산책하고</s></p>
+<p t="80083" d="34" wp="7" ws="1"><s p="108">​별 </s><s>​</s><s p="109">​속</s><s p="111">​에</s><s p="78">​서 산책하고</s></p>
+<p t="80117" d="33" wp="7" ws="1"><s p="113">​별 </s><s>​</s><s p="114">​속</s><s p="116">​에</s><s p="131">​서 </s><s p="78">​산책하고</s></p>
+<p t="80150" d="33" wp="7" ws="1"><s p="118">​별 </s><s>​</s><s p="119">​속</s><s p="121">​에</s><s p="132">​서 </s><s p="78">​산책하고</s></p>
+<p t="80183" d="34" wp="7" ws="1"><s p="124">​별 </s><s>​</s><s p="125">​속</s><s p="127">​에</s><s p="133">​서 </s><s p="78">​산책하고</s></p>
+<p t="80217" d="33" wp="7" ws="1"><s p="89">​별 </s><s>​</s><s p="87">​속</s><s p="84">​에</s><s p="82">​서 </s><s p="79">​산</s><s p="78">​책하고</s></p>
+<p t="80250" d="33" wp="7" ws="1"><s p="90">​별 </s><s>​</s><s p="88">​속</s><s p="85">​에</s><s p="83">​서 </s><s p="80">​산</s><s p="78">​책하고</s></p>
+<p t="80283" d="34" wp="7" ws="1"><s p="91">​별 </s><s>​</s><s p="89">​속</s><s p="86">​에</s><s p="84">​서 </s><s p="81">​산</s><s p="79">​책</s><s p="78">​하고</s></p>
+<p t="80317" d="33" wp="7" ws="1"><s p="92">​별 </s><s>​</s><s p="90">​속</s><s p="87">​에</s><s p="85">​서 </s><s p="82">​산</s><s p="80">​책</s><s p="78">​하고</s></p>
+<p t="80350" d="33" wp="7" ws="1"><s p="92">​별 </s><s>​</s><s p="91">​속</s><s p="88">​에</s><s p="86">​서 </s><s p="83">​산</s><s p="81">​책</s><s p="79">​하</s><s p="78">​고</s></p>
+<p t="80383" d="34" wp="7" ws="1"><s p="92">​별 속</s><s>​</s><s p="89">​에</s><s p="87">​서 </s><s p="84">​산</s><s p="82">​책</s><s p="80">​하</s><s p="78">​고</s></p>
+<p t="80417" d="33" wp="7" ws="1"><s p="92">​별 속</s><s>​</s><s p="90">​에</s><s p="88">​서 </s><s p="85">​산</s><s p="83">​책</s><s p="81">​하</s><s p="78">​고</s></p>
+<p t="80450" d="33" wp="7" ws="1"><s p="92">​별 속</s><s>​</s><s p="91">​에</s><s p="89">​서 </s><s p="86">​산</s><s p="84">​책</s><s p="82">​하</s><s p="79">​고</s></p>
+<p t="80483" d="34" wp="7" ws="1"><s p="92">​별 속에</s><s>​</s><s p="90">​서 </s><s p="87">​산</s><s p="85">​책</s><s p="83">​하</s><s p="80">​고</s></p>
+<p t="80517" d="33" wp="7" ws="1"><s p="92">​별 속에</s><s>​</s><s p="91">​서 </s><s p="88">​산</s><s p="86">​책</s><s p="84">​하</s><s p="81">​고</s></p>
+<p t="80550" d="33" wp="7" ws="1"><s p="92">​별 속에서 </s><s>​</s><s p="89">​산</s><s p="87">​책</s><s p="85">​하</s><s p="82">​고</s></p>
+<p t="80583" d="34" wp="7" ws="1"><s p="92">​별 속에서 </s><s>​</s><s p="90">​산</s><s p="88">​책</s><s p="86">​하</s><s p="83">​고</s></p>
+<p t="80617" d="33" wp="7" ws="1"><s p="92">​별 속에서 </s><s>​</s><s p="91">​산</s><s p="89">​책</s><s p="87">​하</s><s p="84">​고</s></p>
+<p t="80650" d="33" wp="7" ws="1"><s p="92">​별 속에서 산</s><s>​</s><s p="90">​책</s><s p="88">​하</s><s p="85">​고</s></p>
+<p t="80683" d="34" wp="7" ws="1"><s p="92">​별 속에서 산</s><s>​</s><s p="91">​책</s><s p="89">​하</s><s p="86">​고</s></p>
+<p t="80717" d="33" wp="7" ws="1"><s p="92">​별 속에서 산책</s><s>​</s><s p="90">​하</s><s p="87">​고</s></p>
+<p t="80750" d="33" wp="7" ws="1"><s p="92">​별 속에서 산책</s><s>​</s><s p="91">​하</s><s p="88">​고</s></p>
+<p t="80783" d="34" wp="7" ws="1"><s p="92">​별 속에서 산책하</s><s>​</s><s p="89">​고</s></p>
+<p t="80817" d="33" wp="7" ws="1"><s p="92">​별 속에서 산책하</s><s>​</s><s p="90">​고</s></p>
+<p t="80850" d="33" wp="7" ws="1"><s p="92">​별 속에서 산책하</s><s>​</s><s p="91">​고</s></p>
+<p t="80883" d="34" wp="7" ws="1" p="92">​별 속에서 산책하고</p>
+<p t="80917" d="1200" wp="7" ws="1" p="92">​별 속에서 산책하고</p>
+<p t="82117" d="33" wp="7" ws="1" p="78">​날이 부디 </p>
+<p t="82150" d="33" wp="7" ws="1"><s p="134">​날</s><s>​</s><s p="78">​이 부디 </s></p>
+<p t="82183" d="34" wp="7" ws="1"><s p="135">​날</s><s>​</s><s p="78">​이 부디 </s></p>
+<p t="82217" d="33" wp="7" ws="1"><s p="136">​날</s><s>​</s><s p="134">​이 </s><s p="78">​부디 </s></p>
+<p t="82250" d="33" wp="7" ws="1"><s p="137">​날</s><s>​</s><s p="135">​이 </s><s p="78">​부디 </s></p>
+<p t="82283" d="34" wp="7" ws="1"><s p="138">​날</s><s>​</s><s p="136">​이 </s><s p="78">​부디 </s></p>
+<p t="82317" d="33" wp="7" ws="1"><s p="139">​날</s><s>​</s><s p="137">​이 </s><s p="78">​부디 </s></p>
+<p t="82350" d="33" wp="7" ws="1"><s p="140">​날</s><s>​</s><s p="138">​이 </s><s p="78">​부디 </s></p>
+<p t="82383" d="34" wp="7" ws="1"><s p="92">​날</s><s>​</s><s p="139">​이 </s><s p="78">​부디 </s></p>
+<p t="82417" d="33" wp="7" ws="1"><s p="92">​날</s><s>​</s><s p="140">​이 </s><s p="78">​부디 </s></p>
+<p t="82450" d="33" wp="7" ws="1"><s p="92">​날이 </s><s>​</s><s p="78">​부디 </s></p>
+<p t="82483" d="967" wp="7" ws="1"><s p="92">​날이 </s><s>​</s><s p="78">​부디 </s></p>
+<p t="83450" d="33" wp="7" ws="1"><s p="92">​날이 </s><s>​</s><s p="78">​부디 </s></p>
+<p t="83483" d="34" wp="7" ws="1"><s p="92">​날이 </s><s>​</s><s p="134">​부</s><s p="78">​디 </s></p>
+<p t="83517" d="33" wp="7" ws="1"><s p="92">​날이 </s><s>​</s><s p="135">​부</s><s p="78">​디 </s></p>
+<p t="83550" d="33" wp="7" ws="1"><s p="92">​날이 </s><s>​</s><s p="136">​부</s><s p="134">​디 </s></p>
+<p t="83583" d="34" wp="7" ws="1"><s p="92">​날이 </s><s>​</s><s p="137">​부</s><s p="135">​디 </s></p>
+<p t="83617" d="33" wp="7" ws="1"><s p="92">​날이 </s><s>​</s><s p="138">​부</s><s p="136">​디 </s></p>
+<p t="83650" d="33" wp="7" ws="1"><s p="92">​날이 </s><s>​</s><s p="139">​부</s><s p="137">​디 </s></p>
+<p t="83683" d="34" wp="7" ws="1"><s p="92">​날이 </s><s>​</s><s p="140">​부</s><s p="138">​디 </s></p>
+<p t="83717" d="33" wp="7" ws="1"><s p="92">​날이 부</s><s>​</s><s p="139">​디 </s></p>
+<p t="83750" d="33" wp="7" ws="1"><s p="92">​날이 부</s><s>​</s><s p="140">​디 </s></p>
+<p t="83783" d="34" wp="7" ws="1" p="92">​날이 부디 </p>
+<p t="83817" d="1033" wp="7" ws="1" p="92">​날이 부디 </p>
+<p t="84850" d="33" wp="7" ws="1" p="78">​밝지 않도록</p>
+<p t="84883" d="34" wp="7" ws="1"><s p="79">​밝</s><s>​</s><s p="78">​지 않도록</s></p>
+<p t="84917" d="33" wp="7" ws="1"><s p="80">​밝</s><s>​</s><s p="78">​지 않도록</s></p>
+<p t="84950" d="33" wp="7" ws="1"><s p="81">​밝</s><s>​</s><s p="79">​지</s><s p="78">​ 않도록</s></p>
+<p t="84983" d="34" wp="7" ws="1"><s p="82">​밝</s><s>​</s><s p="80">​지</s><s p="78">​ 않도록</s></p>
+<p t="85017" d="33" wp="7" ws="1"><s p="83">​밝</s><s>​</s><s p="81">​지</s><s p="78">​ 않도록</s></p>
+<p t="85050" d="33" wp="7" ws="1"><s p="84">​밝</s><s>​</s><s p="82">​지</s><s p="79">​ 않</s><s p="78">​도록</s></p>
+<p t="85083" d="34" wp="7" ws="1"><s p="85">​밝</s><s>​</s><s p="83">​지</s><s p="80">​ 않</s><s p="78">​도록</s></p>
+<p t="85117" d="33" wp="7" ws="1"><s p="86">​밝</s><s>​</s><s p="84">​지</s><s p="81">​ 않</s><s p="79">​도</s><s p="78">​록</s></p>
+<p t="85150" d="33" wp="7" ws="1"><s p="87">​밝</s><s>​</s><s p="85">​지</s><s p="82">​ 않</s><s p="80">​도</s><s p="78">​록</s></p>
+<p t="85183" d="34" wp="7" ws="1"><s p="88">​밝</s><s>​</s><s p="86">​지</s><s p="83">​ 않</s><s p="81">​도</s><s p="78">​록</s></p>
+<p t="85217" d="33" wp="7" ws="1"><s p="89">​밝</s><s>​</s><s p="87">​지</s><s p="84">​ 않</s><s p="82">​도</s><s p="79">​록</s></p>
+<p t="85250" d="33" wp="7" ws="1"><s p="90">​밝</s><s>​</s><s p="88">​지</s><s p="85">​ 않</s><s p="83">​도</s><s p="80">​록</s></p>
+<p t="85283" d="34" wp="7" ws="1"><s p="91">​밝</s><s>​</s><s p="89">​지</s><s p="86">​ 않</s><s p="84">​도</s><s p="81">​록</s></p>
+<p t="85317" d="33" wp="7" ws="1"><s p="92">​밝</s><s>​</s><s p="90">​지</s><s p="87">​ 않</s><s p="85">​도</s><s p="82">​록</s></p>
+<p t="85350" d="33" wp="7" ws="1"><s p="92">​밝</s><s>​</s><s p="91">​지</s><s p="88">​ 않</s><s p="86">​도</s><s p="83">​록</s></p>
+<p t="85383" d="34" wp="7" ws="1"><s p="92">​밝지</s><s>​</s><s p="89">​ 않</s><s p="87">​도</s><s p="84">​록</s></p>
+<p t="85417" d="33" wp="7" ws="1"><s p="92">​밝지</s><s>​</s><s p="90">​ 않</s><s p="88">​도</s><s p="85">​록</s></p>
+<p t="85450" d="33" wp="7" ws="1"><s p="92">​밝지</s><s>​</s><s p="91">​ 않</s><s p="89">​도</s><s p="86">​록</s></p>
+<p t="85483" d="34" wp="7" ws="1"><s p="92">​밝지 않</s><s>​</s><s p="90">​도</s><s p="87">​록</s></p>
+<p t="85517" d="33" wp="7" ws="1"><s p="92">​밝지 않</s><s>​</s><s p="91">​도</s><s p="88">​록</s></p>
+<p t="85550" d="33" wp="7" ws="1"><s p="92">​밝지 않도</s><s>​</s><s p="89">​록</s></p>
+<p t="85583" d="34" wp="7" ws="1"><s p="92">​밝지 않도</s><s>​</s><s p="90">​록</s></p>
+<p t="85617" d="33" wp="7" ws="1"><s p="92">​밝지 않도</s><s>​</s><s p="91">​록</s></p>
+<p t="85650" d="33" wp="7" ws="1" p="92">​밝지 않도록</p>
+<p t="85683" d="967" wp="7" ws="1" p="92">​밝지 않도록</p>
+<p t="86650" d="2700" wp="6" ws="1" p="141">​언제까지나</p>
+<p t="87983" d="1700" wp="7" ws="1" p="141">​Sweet night, Sweet time...</p>
+<p t="89350" d="33" wp="6" ws="1" p="141">​언제까지나</p>
+<p t="89383" d="34" wp="6" ws="1" p="142">​언제까지나</p>
+<p t="89417" d="33" wp="6" ws="1" p="143">​언제까지나</p>
+<p t="89450" d="33" wp="6" ws="1" p="144">​언제까지나</p>
+<p t="89483" d="34" wp="6" ws="1" p="145">​언제까지나</p>
+<p t="89517" d="33" wp="6" ws="1" p="146">​언제까지나</p>
+<p t="89550" d="33" wp="6" ws="1" p="147">​언제까지나</p>
+<p t="89583" d="34" wp="6" ws="1" p="148">​언제까지나</p>
+<p t="89617" d="33" wp="6" ws="1" p="149">​언제까지나</p>
+<p t="89650" d="33" wp="6" ws="1" p="150">​언제까지나</p>
+<p t="89683" d="34" wp="6" ws="1" p="151">​언제까지나</p>
+<p t="89683" d="34" wp="7" ws="1" p="141">​Sweet night, Sweet time...</p>
+<p t="89717" d="33" wp="6" ws="1" p="152">​언제까지나</p>
+<p t="89717" d="33" wp="7" ws="1"><s p="153">​</s><s>​</s><s p="154">​Sweet night, Sweet time...</s></p>
+<p t="89750" d="33" wp="6" ws="1" p="155">​언제까지나</p>
+<p t="89750" d="33" wp="7" ws="1"><s p="156">​</s><s>​</s><s p="157">​Sweet night, Sweet time...</s></p>
+<p t="89783" d="34" wp="6" ws="1" p="158">​언제까지나</p>
+<p t="89783" d="34" wp="7" ws="1"><s p="159">​</s><s>​</s><s p="160">​Sweet night, Sweet time...</s></p>
+<p t="89817" d="33" wp="6" ws="1" p="161">​언제까지나</p>
+<p t="89817" d="33" wp="7" ws="1"><s p="162">​</s><s>​</s><s p="163">​Sweet night, Sweet time...</s></p>
+<p t="89850" d="33" wp="6" ws="1" p="164">​언제까지나</p>
+<p t="89850" d="33" wp="7" ws="1"><s p="165">​</s><s>​</s><s p="166">​Sweet night, Sweet time...</s></p>
+<p t="89883" d="34" wp="6" ws="1" p="167">​언제까지나</p>
+<p t="89883" d="34" wp="7" ws="1"><s p="168">​</s><s>​</s><s p="169">​Sweet night, Sweet time...</s></p>
+<p t="89917" d="33" wp="6" ws="1" p="170">​언제까지나</p>
+<p t="89917" d="33" wp="7" ws="1"><s p="171">​</s><s>​</s><s p="172">​Sweet night, Sweet time...</s></p>
+<p t="89950" d="33" wp="6" ws="1" p="173">​언제까지나</p>
+<p t="89950" d="33" wp="7" ws="1"><s p="174">​</s><s>​</s><s p="175">​Sweet night, Sweet time...</s></p>
+<p t="89983" d="34" wp="6" ws="1" p="176">​언제까지나</p>
+<p t="89983" d="34" wp="7" ws="1"><s p="177">​</s><s>​</s><s p="178">​Sweet night, Sweet time...</s></p>
+<p t="90017" d="33" wp="6" ws="1" p="179">​언제까지나</p>
+<p t="90017" d="33" wp="7" ws="1"><s p="180">​</s><s>​</s><s p="181">​Sweet night, Sweet time...</s></p>
+<p t="90050" d="33" wp="6" ws="1" p="182">​언제까지나</p>
+<p t="90050" d="33" wp="7" ws="1"><s p="183">​</s><s>​</s><s p="184">​Sweet night, Sweet time...</s></p>
+<p t="90083" d="34" wp="6" ws="1" p="185">​언제까지나</p>
+<p t="90083" d="34" wp="7" ws="1"><s p="186">​</s><s>​</s><s p="187">​Sweet night, Sweet time...</s></p>
+<p t="90117" d="33" wp="6" ws="1" p="188">​언제까지나</p>
+<p t="90117" d="33" wp="7" ws="1"><s p="189">​</s><s>​</s><s p="190">​Sweet night, Sweet time...</s></p>
+<p t="91983" d="2700" wp="6" ws="1" p="141">​언제까지나</p>
+<p t="93317" d="1700" wp="7" ws="1" p="141">​​Sweet night, Sweet time...</p>
+<p t="94683" d="34" wp="6" ws="1" p="141">​언제까지나</p>
+<p t="94717" d="33" wp="6" ws="1" p="142">​언제까지나</p>
+<p t="94750" d="33" wp="6" ws="1" p="191">​언제까지나</p>
+<p t="94783" d="34" wp="6" ws="1" p="192">​언제까지나</p>
+<p t="94817" d="33" wp="6" ws="1" p="193">​언제까지나</p>
+<p t="94850" d="33" wp="6" ws="1" p="194">​언제까지나</p>
+<p t="94883" d="34" wp="6" ws="1" p="195">​언제까지나</p>
+<p t="94917" d="33" wp="6" ws="1" p="196">​언제까지나</p>
+<p t="94950" d="33" wp="6" ws="1" p="197">​언제까지나</p>
+<p t="94983" d="34" wp="6" ws="1" p="198">​언제까지나</p>
+<p t="95017" d="33" wp="6" ws="1" p="199">​언제까지나</p>
+<p t="95017" d="33" wp="7" ws="1" p="141">​​Sweet night, Sweet time...</p>
+<p t="95050" d="33" wp="6" ws="1" p="200">​언제까지나</p>
+<p t="95050" d="33" wp="7" ws="1"><s p="141">​</s><s>​</s><s p="201">​Sweet night, Sweet time...</s></p>
+<p t="95083" d="34" wp="6" ws="1" p="202">​언제까지나</p>
+<p t="95083" d="34" wp="7" ws="1"><s p="141">​</s><s>​</s><s p="203">​Sweet night, Sweet time...</s></p>
+<p t="95117" d="33" wp="6" ws="1" p="204">​언제까지나</p>
+<p t="95117" d="33" wp="7" ws="1"><s p="153">​</s><s>​</s><s p="205">​Sweet night, Sweet time...</s></p>
+<p t="95150" d="33" wp="6" ws="1" p="206">​언제까지나</p>
+<p t="95150" d="33" wp="7" ws="1"><s p="156">​</s><s>​</s><s p="207">​Sweet night, Sweet time...</s></p>
+<p t="95183" d="34" wp="6" ws="1" p="208">​언제까지나</p>
+<p t="95183" d="34" wp="7" ws="1"><s p="159">​</s><s>​</s><s p="209">​Sweet night, Sweet time...</s></p>
+<p t="95217" d="33" wp="6" ws="1" p="210">​언제까지나</p>
+<p t="95217" d="33" wp="7" ws="1"><s p="162">​</s><s>​</s><s p="211">​Sweet night, Sweet time...</s></p>
+<p t="95250" d="33" wp="6" ws="1" p="212">​언제까지나</p>
+<p t="95250" d="33" wp="7" ws="1"><s p="165">​</s><s>​</s><s p="213">​Sweet night, Sweet time...</s></p>
+<p t="95283" d="34" wp="6" ws="1" p="214">​언제까지나</p>
+<p t="95283" d="34" wp="7" ws="1"><s p="168">​</s><s>​</s><s p="215">​Sweet night, Sweet time...</s></p>
+<p t="95317" d="33" wp="6" ws="1" p="216">​언제까지나</p>
+<p t="95317" d="33" wp="7" ws="1"><s p="171">​</s><s>​</s><s p="217">​Sweet night, Sweet time...</s></p>
+<p t="95350" d="33" wp="6" ws="1" p="218">​언제까지나</p>
+<p t="95350" d="33" wp="7" ws="1"><s p="174">​</s><s>​</s><s p="219">​Sweet night, Sweet time...</s></p>
+<p t="95383" d="34" wp="6" ws="1" p="220">​언제까지나</p>
+<p t="95383" d="34" wp="7" ws="1"><s p="177">​</s><s>​</s><s p="221">​Sweet night, Sweet time...</s></p>
+<p t="95417" d="33" wp="6" ws="1" p="222">​언제까지나</p>
+<p t="95417" d="33" wp="7" ws="1"><s p="180">​</s><s>​</s><s p="223">​Sweet night, Sweet time...</s></p>
+<p t="95450" d="33" wp="6" ws="1" p="224">​언제까지나</p>
+<p t="95450" d="33" wp="7" ws="1"><s p="183">​</s><s>​</s><s p="225">​Sweet night, Sweet time...</s></p>
+<p t="95483" d="34" wp="6" ws="1" p="226">​언제까지나</p>
+<p t="95483" d="34" wp="7" ws="1"><s p="186">​</s><s>​</s><s p="227">​Sweet night, Sweet time...</s></p>
+<p t="95517" d="33" wp="6" ws="1" p="228">​언제까지나</p>
+<p t="95517" d="33" wp="7" ws="1"><s p="189">​</s><s>​</s><s p="229">​Sweet night, Sweet time...</s></p>
+<p t="98950" d="5433" wp="3" ws="1" p="230">​분명 말하는 것도 웃는 것도</p>
+<p t="104383" d="5334" wp="3" ws="1" p="5">​좀 더 누군가와 이어지기 위해서야</p>
+<p t="109717" d="4700" wp="3" ws="1" p="5">​잠깐 고개 숙인 너를 향해서</p>
+<p t="114417" d="5466" wp="8" ws="1" p="5">​밤새도록 노래해줄 수 있어</p>
+<p t="119983" d="1700" wp="4" ws="1" p="6">​Sweet night, Sweet time...</p>
+<p t="121683" d="34" wp="4" ws="1" p="6">​Sweet night, Sweet time...</p>
+<p t="121717" d="33" wp="4" ws="1" p="28">​Sweet night, Sweet time...</p>
+<p t="121750" d="33" wp="4" ws="1" p="31">​Sweet night, Sweet time...</p>
+<p t="121783" d="34" wp="4" ws="1" p="34">​Sweet night, Sweet time...</p>
+<p t="121817" d="33" wp="4" ws="1" p="37">​Sweet night, Sweet time...</p>
+<p t="121850" d="33" wp="4" ws="1" p="40">​Sweet night, Sweet time...</p>
+<p t="121883" d="34" wp="4" ws="1" p="43">​Sweet night, Sweet time...</p>
+<p t="121917" d="33" wp="4" ws="1" p="46">​Sweet night, Sweet time...</p>
+<p t="121950" d="33" wp="4" ws="1" p="48">​Sweet night, Sweet time...</p>
+<p t="121983" d="34" wp="5" ws="1" p="14">​잘 수 없어 자고 싶지 않아</p>
+<p t="122017" d="33" wp="5" ws="1" p="15">​잘 수 없어 자고 싶지 않아</p>
+<p t="122050" d="33" wp="5" ws="1" p="16">​잘 수 없어 자고 싶지 않아</p>
+<p t="122083" d="34" wp="5" ws="1" p="17">​잘 수 없어 자고 싶지 않아</p>
+<p t="122117" d="33" wp="5" ws="1" p="18">​잘 수 없어 자고 싶지 않아</p>
+<p t="122150" d="33" wp="5" ws="1" p="19">​잘 수 없어 자고 싶지 않아</p>
+<p t="122183" d="34" wp="5" ws="1" p="20">​잘 수 없어 자고 싶지 않아</p>
+<p t="122217" d="33" wp="5" ws="1" p="21">​잘 수 없어 자고 싶지 않아</p>
+<p t="122250" d="33" wp="5" ws="1" p="22">​잘 수 없어 자고 싶지 않아</p>
+<p t="122283" d="34" wp="5" ws="1" p="23">​잘 수 없어 자고 싶지 않아</p>
+<p t="122317" d="33" wp="5" ws="1" p="24">​잘 수 없어 자고 싶지 않아</p>
+<p t="122350" d="33" wp="5" ws="1" p="25">​잘 수 없어 자고 싶지 않아</p>
+<p t="122383" d="34" wp="5" ws="1" p="26">​잘 수 없어 자고 싶지 않아</p>
+<p t="122417" d="33" wp="5" ws="1" p="27">​잘 수 없어 자고 싶지 않아</p>
+<p t="122450" d="4533" wp="5" ws="1" p="27">​잘 수 없어 자고 싶지 않아</p>
+<p t="125350" d="1667" wp="4" ws="1" p="6">​Sweet night, Sweet time...</p>
+<p t="126983" d="34" wp="5" ws="1" p="27">​잘 수 없어 자고 싶지 않아</p>
+<p t="127017" d="33" wp="5" ws="1" p="29">​잘 수 없어 자고 싶지 않아</p>
+<p t="127017" d="33" wp="4" ws="1" p="6">​Sweet night, Sweet time...</p>
+<p t="127050" d="33" wp="5" ws="1" p="32">​잘 수 없어 자고 싶지 않아</p>
+<p t="127050" d="33" wp="4" ws="1" p="7">​Sweet night, Sweet time...</p>
+<p t="127083" d="34" wp="5" ws="1" p="231">​잘 수 없어 자고 싶지 않아</p>
+<p t="127083" d="34" wp="4" ws="1" p="8">​Sweet night, Sweet time...</p>
+<p t="127117" d="33" wp="5" ws="1" p="232">​잘 수 없어 자고 싶지 않아</p>
+<p t="127117" d="33" wp="4" ws="1" p="9">​Sweet night, Sweet time...</p>
+<p t="127150" d="33" wp="5" ws="1" p="233">​잘 수 없어 자고 싶지 않아</p>
+<p t="127150" d="33" wp="4" ws="1" p="10">​Sweet night, Sweet time...</p>
+<p t="127183" d="34" wp="5" ws="1" p="234">​잘 수 없어 자고 싶지 않아</p>
+<p t="127183" d="34" wp="4" ws="1" p="11">​Sweet night, Sweet time...</p>
+<p t="127217" d="33" wp="5" ws="1" p="235">​잘 수 없어 자고 싶지 않아</p>
+<p t="127217" d="33" wp="4" ws="1" p="12">​Sweet night, Sweet time...</p>
+<p t="127250" d="33" wp="5" ws="1" p="236">​잘 수 없어 자고 싶지 않아</p>
+<p t="127250" d="33" wp="4" ws="1" p="13">​Sweet night, Sweet time...</p>
+<p t="127283" d="34" wp="5" ws="1" p="237">​잘 수 없어 자고 싶지 않아</p>
+<p t="127283" d="34" wp="4" ws="1" p="48">​Sweet night, Sweet time...</p>
+<p t="127317" d="33" wp="5" ws="1" p="238">​잘 수 없어 자고 싶지 않아</p>
+<p t="127350" d="33" wp="5" ws="1" p="49">​잘 수 없어 자고 싶지 않아</p>
+<p t="127383" d="34" wp="5" ws="1" p="50">​잘 수 없어 자고 싶지 않아</p>
+<p t="127417" d="33" wp="5" ws="1" p="14">​잘 수 없어 자고 싶지 않아</p>
+<p t="127450" d="33" wp="5" ws="1" p="14">​밤새 놀고 싶어</p>
+<p t="127483" d="34" wp="5" ws="1" p="15">​밤새 놀고 싶어</p>
+<p t="127517" d="33" wp="5" ws="1" p="16">​밤새 놀고 싶어</p>
+<p t="127550" d="33" wp="5" ws="1" p="17">​밤새 놀고 싶어</p>
+<p t="127583" d="34" wp="5" ws="1" p="18">​밤새 놀고 싶어</p>
+<p t="127617" d="33" wp="5" ws="1" p="19">​밤새 놀고 싶어</p>
+<p t="127650" d="33" wp="5" ws="1" p="20">​밤새 놀고 싶어</p>
+<p t="127683" d="34" wp="5" ws="1" p="21">​밤새 놀고 싶어</p>
+<p t="127717" d="33" wp="5" ws="1" p="22">​밤새 놀고 싶어</p>
+<p t="127750" d="33" wp="5" ws="1" p="23">​밤새 놀고 싶어</p>
+<p t="127783" d="34" wp="5" ws="1" p="24">​밤새 놀고 싶어</p>
+<p t="127817" d="33" wp="5" ws="1" p="25">​밤새 놀고 싶어</p>
+<p t="127850" d="33" wp="5" ws="1" p="26">​밤새 놀고 싶어</p>
+<p t="127883" d="34" wp="5" ws="1" p="27">​밤새 놀고 싶어</p>
+<p t="127917" d="4400" wp="5" ws="1" p="27">​밤새 놀고 싶어</p>
+<p t="130650" d="1667" wp="4" ws="1" p="6">​Sweet night, Sweet time...</p>
+<p t="132317" d="33" wp="5" ws="1" p="27">​밤새 놀고 싶어</p>
+<p t="132317" d="33" wp="4" ws="1" p="6">​Sweet night, Sweet time...</p>
+<p t="132350" d="33" wp="5" ws="1" p="239">​밤새 놀고 싶어</p>
+<p t="132350" d="33" wp="4" ws="1" p="7">​Sweet night, Sweet time...</p>
+<p t="132383" d="34" wp="5" ws="1" p="240">​밤새 놀고 싶어</p>
+<p t="132383" d="34" wp="4" ws="1" p="8">​Sweet night, Sweet time...</p>
+<p t="132417" d="33" wp="5" ws="1" p="241">​밤새 놀고 싶어</p>
+<p t="132417" d="33" wp="4" ws="1" p="9">​Sweet night, Sweet time...</p>
+<p t="132450" d="33" wp="5" ws="1" p="242">​밤새 놀고 싶어</p>
+<p t="132450" d="33" wp="4" ws="1" p="10">​Sweet night, Sweet time...</p>
+<p t="132483" d="34" wp="5" ws="1" p="243">​밤새 놀고 싶어</p>
+<p t="132483" d="34" wp="4" ws="1" p="11">​Sweet night, Sweet time...</p>
+<p t="132517" d="33" wp="5" ws="1" p="244">​밤새 놀고 싶어</p>
+<p t="132517" d="33" wp="4" ws="1" p="12">​Sweet night, Sweet time...</p>
+<p t="132550" d="33" wp="5" ws="1" p="245">​밤새 놀고 싶어</p>
+<p t="132550" d="33" wp="4" ws="1" p="13">​Sweet night, Sweet time...</p>
+<p t="132583" d="34" wp="5" ws="1" p="14">​밤새 놀고 싶어</p>
+<p t="132583" d="34" wp="4" ws="1" p="48">​Sweet night, Sweet time...</p>
+<p t="132617" d="33" wp="5" ws="1" p="14">​수다 떨고 싶어 수다가 부족해</p>
+<p t="132650" d="33" wp="5" ws="1" p="15">​수다 떨고 싶어 수다가 부족해</p>
+<p t="132683" d="34" wp="5" ws="1" p="16">​수다 떨고 싶어 수다가 부족해</p>
+<p t="132717" d="33" wp="5" ws="1" p="17">​수다 떨고 싶어 수다가 부족해</p>
+<p t="132750" d="33" wp="5" ws="1" p="18">​수다 떨고 싶어 수다가 부족해</p>
+<p t="132783" d="34" wp="5" ws="1" p="19">​수다 떨고 싶어 수다가 부족해</p>
+<p t="132817" d="33" wp="5" ws="1" p="20">​수다 떨고 싶어 수다가 부족해</p>
+<p t="132850" d="33" wp="5" ws="1" p="21">​수다 떨고 싶어 수다가 부족해</p>
+<p t="132883" d="34" wp="5" ws="1" p="22">​수다 떨고 싶어 수다가 부족해</p>
+<p t="132917" d="33" wp="5" ws="1" p="23">​수다 떨고 싶어 수다가 부족해</p>
+<p t="132950" d="33" wp="5" ws="1" p="24">​수다 떨고 싶어 수다가 부족해</p>
+<p t="132983" d="34" wp="5" ws="1" p="25">​수다 떨고 싶어 수다가 부족해</p>
+<p t="133017" d="33" wp="5" ws="1" p="26">​수다 떨고 싶어 수다가 부족해</p>
+<p t="133050" d="33" wp="5" ws="1" p="27">​수다 떨고 싶어 수다가 부족해</p>
+<p t="133083" d="2434" wp="5" ws="1" p="27">​수다 떨고 싶어 수다가 부족해</p>
+<p t="135517" d="33" wp="5" ws="1" p="27">​수다 떨고 싶어 수다가 부족해</p>
+<p t="135550" d="33" wp="5" ws="1" p="246">​수다 떨고 싶어 수다가 부족해</p>
+<p t="135583" d="34" wp="5" ws="1" p="247">​수다 떨고 싶어 수다가 부족해</p>
+<p t="135617" d="33" wp="5" ws="1" p="248">​수다 떨고 싶어 수다가 부족해</p>
+<p t="135650" d="33" wp="5" ws="1" p="249">​수다 떨고 싶어 수다가 부족해</p>
+<p t="135683" d="34" wp="5" ws="1" p="250">​수다 떨고 싶어 수다가 부족해</p>
+<p t="135717" d="33" wp="5" ws="1" p="251">​수다 떨고 싶어 수다가 부족해</p>
+<p t="135750" d="33" wp="5" ws="1" p="252">​수다 떨고 싶어 수다가 부족해</p>
+<p t="135983" d="1700" wp="4" ws="1" p="6">​​Sweet night, Sweet time...</p>
+<p t="137683" d="34" wp="4" ws="1" p="6">​​Sweet night, Sweet time...</p>
+<p t="137717" d="33" wp="4" ws="1" p="53">​​Sweet night, Sweet time...</p>
+<p t="137750" d="33" wp="4" ws="1" p="55">​​Sweet night, Sweet time...</p>
+<p t="137783" d="34" wp="4" ws="1" p="57">​​Sweet night, Sweet time...</p>
+<p t="137817" d="33" wp="4" ws="1" p="59">​​Sweet night, Sweet time...</p>
+<p t="137850" d="33" wp="4" ws="1" p="61">​​Sweet night, Sweet time...</p>
+<p t="137883" d="34" wp="4" ws="1" p="63">​​Sweet night, Sweet time...</p>
+<p t="137917" d="33" wp="4" ws="1" p="65">​​Sweet night, Sweet time...</p>
+<p t="137950" d="33" wp="4" ws="1" p="48">​​Sweet night, Sweet time...</p>
+<p t="137983" d="4967" wp="9" ws="1" p="253">​너와 아침까지</p>
+<p t="142950" d="33" wp="9" ws="1" p="253">​너와 아침까지</p>
+<p t="142983" d="34" wp="9" ws="1" p="254">​너와 아침까지</p>
+<p t="143017" d="33" wp="9" ws="1" p="255">​너와 아침까지</p>
+<p t="143050" d="33" wp="9" ws="1" p="256">​너와 아침까지</p>
+<p t="143083" d="34" wp="9" ws="1" p="257">​너와 아침까지</p>
+<p t="143117" d="33" wp="9" ws="1" p="258">​너와 아침까지</p>
+<p t="143150" d="33" wp="9" ws="1" p="259">​너와 아침까지</p>
+<p t="143183" d="34" wp="9" ws="1" p="260">​너와 아침까지</p>
+<p t="143217" d="33" wp="9" ws="1" p="261">​너와 아침까지</p>
+<p t="143250" d="33" wp="9" ws="1" p="262">​너와 아침까지</p>
+<p t="143283" d="34" wp="9" ws="1" p="263">​너와 아침까지</p>
+<p t="143317" d="33" wp="9" ws="1" p="264">​너와 아침까지</p>
+<p t="143350" d="33" wp="9" ws="1" p="265">​너와 아침까지</p>
+<p t="143383" d="34" wp="9" ws="1" p="266">​너와 아침까지</p>
+<p t="143417" d="33" wp="9" ws="1" p="267">​너와 아침까지</p>
+<p t="143450" d="33" wp="9" ws="1" p="268">​너와 아침까지</p>
+<p t="143483" d="34" wp="9" ws="1" p="269">​너와 아침까지</p>
+<p t="152417" d="33" wp="5" ws="1" p="14">​달도 모르는 비밀 이야기를</p>
+<p t="152450" d="33" wp="5" ws="1" p="15">​달도 모르는 비밀 이야기를</p>
+<p t="152483" d="34" wp="5" ws="1" p="16">​달도 모르는 비밀 이야기를</p>
+<p t="152517" d="33" wp="5" ws="1" p="17">​달도 모르는 비밀 이야기를</p>
+<p t="152550" d="33" wp="5" ws="1" p="18">​달도 모르는 비밀 이야기를</p>
+<p t="152583" d="34" wp="5" ws="1" p="19">​달도 모르는 비밀 이야기를</p>
+<p t="152617" d="33" wp="5" ws="1" p="20">​달도 모르는 비밀 이야기를</p>
+<p t="152650" d="33" wp="5" ws="1" p="21">​달도 모르는 비밀 이야기를</p>
+<p t="152683" d="34" wp="5" ws="1" p="22">​달도 모르는 비밀 이야기를</p>
+<p t="152717" d="33" wp="5" ws="1" p="23">​달도 모르는 비밀 이야기를</p>
+<p t="152750" d="33" wp="5" ws="1" p="24">​달도 모르는 비밀 이야기를</p>
+<p t="152783" d="34" wp="5" ws="1" p="25">​달도 모르는 비밀 이야기를</p>
+<p t="152817" d="33" wp="5" ws="1" p="26">​달도 모르는 비밀 이야기를</p>
+<p t="152850" d="33" wp="5" ws="1" p="27">​달도 모르는 비밀 이야기를</p>
+<p t="152883" d="9934" wp="5" ws="1" p="27">​달도 모르는 비밀 이야기를</p>
+<p t="162817" d="33" wp="5" ws="1" p="27">​달도 모르는 비밀 이야기를</p>
+<p t="162850" d="33" wp="5" ws="1" p="270">​달도 모르는 비밀 이야기를</p>
+<p t="162883" d="34" wp="5" ws="1" p="271">​달도 모르는 비밀 이야기를</p>
+<p t="162917" d="33" wp="5" ws="1" p="272">​달도 모르는 비밀 이야기를</p>
+<p t="162950" d="33" wp="5" ws="1" p="273">​달도 모르는 비밀 이야기를</p>
+<p t="162983" d="34" wp="5" ws="1" p="274">​달도 모르는 비밀 이야기를</p>
+<p t="163017" d="33" wp="5" ws="1" p="275">​달도 모르는 비밀 이야기를</p>
+<p t="163050" d="33" wp="5" ws="1" p="276">​달도 모르는 비밀 이야기를</p>
+<p t="163083" d="34" wp="5" ws="1" p="14">​달도 모르는 비밀 이야기를</p>
+<p t="163117" d="33" wp="5" ws="1" p="14">​파자마 바람으로 부탁이야</p>
+<p t="163150" d="33" wp="5" ws="1" p="15">​파자마 바람으로 부탁이야</p>
+<p t="163183" d="34" wp="5" ws="1" p="16">​파자마 바람으로 부탁이야</p>
+<p t="163217" d="33" wp="5" ws="1" p="17">​파자마 바람으로 부탁이야</p>
+<p t="163250" d="33" wp="5" ws="1" p="18">​파자마 바람으로 부탁이야</p>
+<p t="163283" d="34" wp="5" ws="1" p="19">​파자마 바람으로 부탁이야</p>
+<p t="163317" d="33" wp="5" ws="1" p="20">​파자마 바람으로 부탁이야</p>
+<p t="163350" d="33" wp="5" ws="1" p="21">​파자마 바람으로 부탁이야</p>
+<p t="163383" d="34" wp="5" ws="1" p="22">​파자마 바람으로 부탁이야</p>
+<p t="163417" d="33" wp="5" ws="1" p="23">​파자마 바람으로 부탁이야</p>
+<p t="163450" d="33" wp="5" ws="1" p="24">​파자마 바람으로 부탁이야</p>
+<p t="163483" d="34" wp="5" ws="1" p="25">​파자마 바람으로 부탁이야</p>
+<p t="163517" d="33" wp="5" ws="1" p="26">​파자마 바람으로 부탁이야</p>
+<p t="163550" d="33" wp="5" ws="1" p="27">​파자마 바람으로 부탁이야</p>
+<p t="163583" d="4334" wp="5" ws="1" p="27">​파자마 바람으로 부탁이야</p>
+<p t="167983" d="5367" wp="6" ws="1" p="277">​꿈속만으론 부족하니까</p>
+<p t="174617" d="66" wp="6" ws="1" p="77">​조금만 더...</p>
+<p t="174683" d="67" wp="6" ws="1" p="77">​조금만 더...</p>
+<p t="174750" d="1233" wp="6" ws="1" p="77">​조금만 더...</p>
+<p t="176317" d="33" wp="7" ws="1" p="78">​안 잘 거야 자지 않을 거야</p>
+<p t="176350" d="33" wp="7" ws="1"><s p="79">​안 </s><s>​</s><s p="78">​잘 거야 자지 않을 거야</s></p>
+<p t="176383" d="34" wp="7" ws="1"><s p="80">​안 </s><s>​</s><s p="78">​잘 거야 자지 않을 거야</s></p>
+<p t="176417" d="33" wp="7" ws="1"><s p="81">​안 </s><s>​</s><s p="79">​잘 </s><s p="78">​거야 자지 않을 거야</s></p>
+<p t="176450" d="33" wp="7" ws="1"><s p="82">​안 </s><s>​</s><s p="80">​잘 </s><s p="79">​거</s><s p="78">​야 자지 않을 거야</s></p>
+<p t="176483" d="34" wp="7" ws="1"><s p="83">​안 </s><s>​</s><s p="81">​잘 </s><s p="80">​거</s><s p="78">​야 자지 않을 거야</s></p>
+<p t="176517" d="33" wp="7" ws="1"><s p="84">​안 </s><s>​</s><s p="82">​잘 </s><s p="81">​거</s><s p="79">​야 </s><s p="78">​자지 않을 거야</s></p>
+<p t="176550" d="33" wp="7" ws="1"><s p="85">​안 </s><s>​</s><s p="83">​잘 </s><s p="82">​거</s><s p="80">​야 </s><s p="79">​자</s><s p="78">​지 않을 거야</s></p>
+<p t="176583" d="34" wp="7" ws="1"><s p="86">​안 </s><s>​</s><s p="84">​잘 </s><s p="83">​거</s><s p="81">​야 </s><s p="80">​자</s><s p="78">​지 않을 거야</s></p>
+<p t="176617" d="33" wp="7" ws="1"><s p="87">​안 </s><s>​</s><s p="85">​잘 </s><s p="84">​거</s><s p="82">​야 </s><s p="81">​자</s><s p="79">​지 </s><s p="78">​않을 거야</s></p>
+<p t="176650" d="33" wp="7" ws="1"><s p="88">​안 </s><s>​</s><s p="86">​잘 </s><s p="85">​거</s><s p="83">​야 </s><s p="82">​자</s><s p="80">​지 </s><s p="79">​않</s><s p="78">​을 거야</s></p>
+<p t="176683" d="34" wp="7" ws="1"><s p="89">​안 </s><s>​</s><s p="87">​잘 </s><s p="86">​거</s><s p="84">​야 </s><s p="83">​자</s><s p="81">​지 </s><s p="80">​않</s><s p="78">​을 거야</s></p>
+<p t="176717" d="33" wp="7" ws="1"><s p="90">​안 </s><s>​</s><s p="88">​잘 </s><s p="87">​거</s><s p="85">​야 </s><s p="84">​자</s><s p="82">​지 </s><s p="81">​않</s><s p="79">​을 </s><s p="78">​거야</s></p>
+<p t="176750" d="33" wp="7" ws="1"><s p="91">​안 </s><s>​</s><s p="89">​잘 </s><s p="88">​거</s><s p="86">​야 </s><s p="85">​자</s><s p="83">​지 </s><s p="82">​않</s><s p="80">​을 </s><s p="79">​거</s><s p="78">​야</s></p>
+<p t="176783" d="34" wp="7" ws="1"><s p="92">​안 </s><s>​</s><s p="90">​잘 </s><s p="89">​거</s><s p="87">​야 </s><s p="86">​자</s><s p="84">​지 </s><s p="83">​않</s><s p="81">​을 </s><s p="80">​거</s><s p="78">​야</s></p>
+<p t="176817" d="33" wp="7" ws="1"><s p="92">​안 </s><s>​</s><s p="91">​잘 </s><s p="90">​거</s><s p="88">​야 </s><s p="87">​자</s><s p="85">​지 </s><s p="84">​않</s><s p="82">​을 </s><s p="81">​거</s><s p="79">​야</s></p>
+<p t="176850" d="33" wp="7" ws="1"><s p="92">​안 잘 </s><s>​</s><s p="91">​거</s><s p="89">​야 </s><s p="88">​자</s><s p="86">​지 </s><s p="85">​않</s><s p="83">​을 </s><s p="82">​거</s><s p="80">​야</s></p>
+<p t="176883" d="34" wp="7" ws="1"><s p="92">​안 잘 거</s><s>​</s><s p="90">​야 </s><s p="89">​자</s><s p="87">​지 </s><s p="86">​않</s><s p="84">​을 </s><s p="83">​거</s><s p="81">​야</s></p>
+<p t="176917" d="33" wp="7" ws="1"><s p="92">​안 잘 거</s><s>​</s><s p="91">​야 </s><s p="90">​자</s><s p="88">​지 </s><s p="87">​않</s><s p="85">​을 </s><s p="84">​거</s><s p="82">​야</s></p>
+<p t="176950" d="33" wp="7" ws="1"><s p="92">​안 잘 거야 </s><s>​</s><s p="91">​자</s><s p="89">​지 </s><s p="88">​않</s><s p="86">​을 </s><s p="85">​거</s><s p="83">​야</s></p>
+<p t="176983" d="34" wp="7" ws="1"><s p="92">​안 잘 거야 자</s><s>​</s><s p="90">​지 </s><s p="89">​않</s><s p="87">​을 </s><s p="86">​거</s><s p="84">​야</s></p>
+<p t="177017" d="33" wp="7" ws="1"><s p="92">​안 잘 거야 자</s><s>​</s><s p="91">​지 </s><s p="90">​않</s><s p="88">​을 </s><s p="87">​거</s><s p="85">​야</s></p>
+<p t="177050" d="33" wp="7" ws="1"><s p="92">​안 잘 거야 자지 </s><s>​</s><s p="91">​않</s><s p="89">​을 </s><s p="88">​거</s><s p="86">​야</s></p>
+<p t="177083" d="34" wp="7" ws="1"><s p="92">​안 잘 거야 자지 않</s><s>​</s><s p="90">​을 </s><s p="89">​거</s><s p="87">​야</s></p>
+<p t="177117" d="33" wp="7" ws="1"><s p="92">​안 잘 거야 자지 않</s><s>​</s><s p="91">​을 </s><s p="90">​거</s><s p="88">​야</s></p>
+<p t="177150" d="33" wp="7" ws="1"><s p="92">​안 잘 거야 자지 않을 </s><s>​</s><s p="91">​거</s><s p="89">​야</s></p>
+<p t="177183" d="34" wp="7" ws="1"><s p="92">​안 잘 거야 자지 않을 거</s><s>​</s><s p="90">​야</s></p>
+<p t="177217" d="33" wp="7" ws="1"><s p="92">​안 잘 거야 자지 않을 거</s><s>​</s><s p="91">​야</s></p>
+<p t="177250" d="33" wp="7" ws="1" p="92">​안 잘 거야 자지 않을 거야</p>
+<p t="177283" d="1267" wp="7" ws="1" p="92">​안 잘 거야 자지 않을 거야</p>
+<p t="178550" d="33" wp="7" ws="1" p="78">​너와 리듬을 맞춰서</p>
+<p t="178583" d="34" wp="7" ws="1"><s p="79">​너</s><s>​</s><s p="78">​와 리듬을 맞춰서</s></p>
+<p t="178617" d="33" wp="7" ws="1"><s p="80">​너</s><s>​</s><s p="78">​와 리듬을 맞춰서</s></p>
+<p t="178650" d="33" wp="7" ws="1"><s p="81">​너</s><s>​</s><s p="79">​와 </s><s p="78">​리듬을 맞춰서</s></p>
+<p t="178683" d="34" wp="7" ws="1"><s p="82">​너</s><s>​</s><s p="80">​와 </s><s p="78">​리듬을 맞춰서</s></p>
+<p t="178717" d="33" wp="7" ws="1"><s p="83">​너</s><s>​</s><s p="81">​와 </s><s p="78">​리듬을 맞춰서</s></p>
+<p t="178750" d="33" wp="7" ws="1"><s p="84">​너</s><s>​</s><s p="82">​와 </s><s p="79">​리</s><s p="78">​듬을 맞춰서</s></p>
+<p t="178783" d="34" wp="7" ws="1"><s p="85">​너</s><s>​</s><s p="83">​와 </s><s p="80">​리</s><s p="78">​듬을 맞춰서</s></p>
+<p t="178817" d="33" wp="7" ws="1"><s p="86">​너</s><s>​</s><s p="84">​와 </s><s p="81">​리</s><s p="79">​듬</s><s p="78">​을 맞춰서</s></p>
+<p t="178850" d="33" wp="7" ws="1"><s p="87">​너</s><s>​</s><s p="85">​와 </s><s p="82">​리</s><s p="80">​듬</s><s p="78">​을 맞춰서</s></p>
+<p t="178883" d="34" wp="7" ws="1"><s p="88">​너</s><s>​</s><s p="86">​와 </s><s p="83">​리</s><s p="81">​듬</s><s p="78">​을 맞춰서</s></p>
+<p t="178917" d="33" wp="7" ws="1"><s p="89">​너</s><s>​</s><s p="87">​와 </s><s p="84">​리</s><s p="82">​듬</s><s p="79">​을 </s><s p="78">​맞춰서</s></p>
+<p t="178950" d="33" wp="7" ws="1"><s p="90">​너</s><s>​</s><s p="88">​와 </s><s p="85">​리</s><s p="83">​듬</s><s p="80">​을 </s><s p="78">​맞춰서</s></p>
+<p t="178983" d="34" wp="7" ws="1"><s p="91">​너</s><s>​</s><s p="89">​와 </s><s p="86">​리</s><s p="84">​듬</s><s p="81">​을 </s><s p="79">​맞</s><s p="78">​춰서</s></p>
+<p t="179017" d="33" wp="7" ws="1"><s p="92">​너</s><s>​</s><s p="90">​와 </s><s p="87">​리</s><s p="85">​듬</s><s p="82">​을 </s><s p="80">​맞</s><s p="78">​춰서</s></p>
+<p t="179050" d="33" wp="7" ws="1"><s p="92">​너</s><s>​</s><s p="91">​와 </s><s p="88">​리</s><s p="86">​듬</s><s p="83">​을 </s><s p="81">​맞</s><s p="79">​춰</s><s p="78">​서</s></p>
+<p t="179083" d="34" wp="7" ws="1"><s p="92">​너와 </s><s>​</s><s p="89">​리</s><s p="87">​듬</s><s p="84">​을 </s><s p="82">​맞</s><s p="80">​춰</s><s p="78">​서</s></p>
+<p t="179117" d="33" wp="7" ws="1"><s p="92">​너와 </s><s>​</s><s p="90">​리</s><s p="88">​듬</s><s p="85">​을 </s><s p="83">​맞</s><s p="81">​춰</s><s p="78">​서</s></p>
+<p t="179150" d="33" wp="7" ws="1"><s p="92">​너와 </s><s>​</s><s p="91">​리</s><s p="89">​듬</s><s p="86">​을 </s><s p="84">​맞</s><s p="82">​춰</s><s p="79">​서</s></p>
+<p t="179183" d="34" wp="7" ws="1"><s p="92">​너와 리</s><s>​</s><s p="90">​듬</s><s p="87">​을 </s><s p="85">​맞</s><s p="83">​춰</s><s p="80">​서</s></p>
+<p t="179217" d="33" wp="7" ws="1"><s p="92">​너와 리</s><s>​</s><s p="91">​듬</s><s p="88">​을 </s><s p="86">​맞</s><s p="84">​춰</s><s p="81">​서</s></p>
+<p t="179250" d="33" wp="7" ws="1"><s p="92">​너와 리듬</s><s>​</s><s p="89">​을 </s><s p="87">​맞</s><s p="85">​춰</s><s p="82">​서</s></p>
+<p t="179283" d="34" wp="7" ws="1"><s p="92">​너와 리듬</s><s>​</s><s p="90">​을 </s><s p="88">​맞</s><s p="86">​춰</s><s p="83">​서</s></p>
+<p t="179317" d="33" wp="7" ws="1"><s p="92">​너와 리듬</s><s>​</s><s p="91">​을 </s><s p="89">​맞</s><s p="87">​춰</s><s p="84">​서</s></p>
+<p t="179350" d="33" wp="7" ws="1"><s p="92">​너와 리듬을 </s><s>​</s><s p="90">​맞</s><s p="88">​춰</s><s p="85">​서</s></p>
+<p t="179383" d="34" wp="7" ws="1"><s p="92">​너와 리듬을 </s><s>​</s><s p="91">​맞</s><s p="89">​춰</s><s p="86">​서</s></p>
+<p t="179417" d="33" wp="7" ws="1"><s p="92">​너와 리듬을 맞</s><s>​</s><s p="90">​춰</s><s p="87">​서</s></p>
+<p t="179450" d="33" wp="7" ws="1"><s p="92">​너와 리듬을 맞</s><s>​</s><s p="91">​춰</s><s p="88">​서</s></p>
+<p t="179483" d="34" wp="7" ws="1"><s p="92">​너와 리듬을 맞춰</s><s>​</s><s p="89">​서</s></p>
+<p t="179517" d="33" wp="7" ws="1"><s p="92">​너와 리듬을 맞춰</s><s>​</s><s p="90">​서</s></p>
+<p t="179550" d="33" wp="7" ws="1"><s p="92">​너와 리듬을 맞춰</s><s>​</s><s p="91">​서</s></p>
+<p t="179583" d="34" wp="7" ws="1" p="92">​너와 리듬을 맞춰서</p>
+<p t="179617" d="2000" wp="7" ws="1" p="92">​너와 리듬을 맞춰서</p>
+<p t="181683" d="34" wp="7" ws="1" p="78">​뒤바뀐 밤낮을 즐기는 거야</p>
+<p t="181717" d="33" wp="7" ws="1"><s p="79">​뒤</s><s>​</s><s p="78">​바뀐 밤낮을 즐기는 거야</s></p>
+<p t="181750" d="33" wp="7" ws="1"><s p="80">​뒤</s><s>​</s><s p="78">​바뀐 밤낮을 즐기는 거야</s></p>
+<p t="181783" d="34" wp="7" ws="1"><s p="81">​뒤</s><s>​</s><s p="79">​바</s><s p="78">​뀐 밤낮을 즐기는 거야</s></p>
+<p t="181817" d="33" wp="7" ws="1"><s p="82">​뒤</s><s>​</s><s p="80">​바</s><s p="79">​뀐 </s><s p="78">​밤낮을 즐기는 거야</s></p>
+<p t="181850" d="33" wp="7" ws="1"><s p="83">​뒤</s><s>​</s><s p="81">​바</s><s p="80">​뀐 </s><s p="78">​밤낮을 즐기는 거야</s></p>
+<p t="181883" d="34" wp="7" ws="1"><s p="84">​뒤</s><s>​</s><s p="82">​바</s><s p="81">​뀐 </s><s p="79">​밤</s><s p="78">​낮을 즐기는 거야</s></p>
+<p t="181917" d="33" wp="7" ws="1"><s p="85">​뒤</s><s>​</s><s p="83">​바</s><s p="82">​뀐 </s><s p="80">​밤</s><s p="79">​낮</s><s p="78">​을 즐기는 거야</s></p>
+<p t="181950" d="33" wp="7" ws="1"><s p="86">​뒤</s><s>​</s><s p="84">​바</s><s p="83">​뀐 </s><s p="81">​밤</s><s p="80">​낮</s><s p="78">​을 즐기는 거야</s></p>
+<p t="181983" d="34" wp="7" ws="1"><s p="87">​뒤</s><s>​</s><s p="85">​바</s><s p="84">​뀐 </s><s p="82">​밤</s><s p="81">​낮</s><s p="79">​을 </s><s p="78">​즐기는 거야</s></p>
+<p t="182017" d="33" wp="7" ws="1"><s p="88">​뒤</s><s>​</s><s p="86">​바</s><s p="85">​뀐 </s><s p="83">​밤</s><s p="82">​낮</s><s p="80">​을 </s><s p="79">​즐</s><s p="78">​기는 거야</s></p>
+<p t="182050" d="33" wp="7" ws="1"><s p="89">​뒤</s><s>​</s><s p="87">​바</s><s p="86">​뀐 </s><s p="84">​밤</s><s p="83">​낮</s><s p="81">​을 </s><s p="80">​즐</s><s p="78">​기는 거야</s></p>
+<p t="182083" d="34" wp="7" ws="1"><s p="90">​뒤</s><s>​</s><s p="88">​바</s><s p="87">​뀐 </s><s p="85">​밤</s><s p="84">​낮</s><s p="82">​을 </s><s p="81">​즐</s><s p="79">​기</s><s p="78">​는 거야</s></p>
+<p t="182117" d="33" wp="7" ws="1"><s p="91">​뒤</s><s>​</s><s p="89">​바</s><s p="88">​뀐 </s><s p="86">​밤</s><s p="85">​낮</s><s p="83">​을 </s><s p="82">​즐</s><s p="80">​기</s><s p="79">​는</s><s p="78">​ 거야</s></p>
+<p t="182150" d="33" wp="7" ws="1"><s p="92">​뒤</s><s>​</s><s p="90">​바</s><s p="89">​뀐 </s><s p="87">​밤</s><s p="86">​낮</s><s p="84">​을 </s><s p="83">​즐</s><s p="81">​기</s><s p="80">​는</s><s p="78">​ 거야</s></p>
+<p t="182183" d="34" wp="7" ws="1"><s p="92">​뒤</s><s>​</s><s p="91">​바</s><s p="90">​뀐 </s><s p="88">​밤</s><s p="87">​낮</s><s p="85">​을 </s><s p="84">​즐</s><s p="82">​기</s><s p="81">​는</s><s p="79">​ 거</s><s p="78">​야</s></p>
+<p t="182217" d="33" wp="7" ws="1"><s p="92">​뒤바</s><s>​</s><s p="91">​뀐 </s><s p="89">​밤</s><s p="88">​낮</s><s p="86">​을 </s><s p="85">​즐</s><s p="83">​기</s><s p="82">​는</s><s p="80">​ 거</s><s p="79">​야</s></p>
+<p t="182250" d="33" wp="7" ws="1"><s p="92">​뒤바뀐 </s><s>​</s><s p="90">​밤</s><s p="89">​낮</s><s p="87">​을 </s><s p="86">​즐</s><s p="84">​기</s><s p="83">​는</s><s p="81">​ 거</s><s p="80">​야</s></p>
+<p t="182283" d="34" wp="7" ws="1"><s p="92">​뒤바뀐 </s><s>​</s><s p="91">​밤</s><s p="90">​낮</s><s p="88">​을 </s><s p="87">​즐</s><s p="85">​기</s><s p="84">​는</s><s p="82">​ 거</s><s p="81">​야</s></p>
+<p t="182317" d="33" wp="7" ws="1"><s p="92">​뒤바뀐 밤</s><s>​</s><s p="91">​낮</s><s p="89">​을 </s><s p="88">​즐</s><s p="86">​기</s><s p="85">​는</s><s p="83">​ 거</s><s p="82">​야</s></p>
+<p t="182350" d="33" wp="7" ws="1"><s p="92">​뒤바뀐 밤낮</s><s>​</s><s p="90">​을 </s><s p="89">​즐</s><s p="87">​기</s><s p="86">​는</s><s p="84">​ 거</s><s p="83">​야</s></p>
+<p t="182383" d="34" wp="7" ws="1"><s p="92">​뒤바뀐 밤낮</s><s>​</s><s p="91">​을 </s><s p="90">​즐</s><s p="88">​기</s><s p="87">​는</s><s p="85">​ 거</s><s p="84">​야</s></p>
+<p t="182417" d="33" wp="7" ws="1"><s p="92">​뒤바뀐 밤낮을 </s><s>​</s><s p="91">​즐</s><s p="89">​기</s><s p="88">​는</s><s p="86">​ 거</s><s p="85">​야</s></p>
+<p t="182450" d="33" wp="7" ws="1"><s p="92">​뒤바뀐 밤낮을 즐</s><s>​</s><s p="90">​기</s><s p="89">​는</s><s p="87">​ 거</s><s p="86">​야</s></p>
+<p t="182483" d="34" wp="7" ws="1"><s p="92">​뒤바뀐 밤낮을 즐</s><s>​</s><s p="91">​기</s><s p="90">​는</s><s p="88">​ 거</s><s p="87">​야</s></p>
+<p t="182517" d="33" wp="7" ws="1"><s p="92">​뒤바뀐 밤낮을 즐기</s><s>​</s><s p="91">​는</s><s p="89">​ 거</s><s p="88">​야</s></p>
+<p t="182550" d="33" wp="7" ws="1"><s p="92">​뒤바뀐 밤낮을 즐기는</s><s>​</s><s p="90">​ 거</s><s p="89">​야</s></p>
+<p t="182583" d="34" wp="7" ws="1"><s p="92">​뒤바뀐 밤낮을 즐기는</s><s>​</s><s p="91">​ 거</s><s p="90">​야</s></p>
+<p t="182617" d="33" wp="7" ws="1"><s p="92">​뒤바뀐 밤낮을 즐기는 거</s><s>​</s><s p="91">​야</s></p>
+<p t="182650" d="33" wp="7" ws="1" p="92">​뒤바뀐 밤낮을 즐기는 거야</p>
+<p t="182683" d="3334" wp="7" ws="1" p="92">​뒤바뀐 밤낮을 즐기는 거야</p>
+<p t="186017" d="933" wp="6" ws="1" p="141">​지금만은...</p>
+<p t="187017" d="33" wp="7" ws="1" p="78">​안 잘 거야 자지 않을 거야</p>
+<p t="187050" d="33" wp="7" ws="1"><s p="79">​안 </s><s>​</s><s p="78">​잘 거야 자지 않을 거야</s></p>
+<p t="187083" d="34" wp="7" ws="1"><s p="80">​안 </s><s>​</s><s p="78">​잘 거야 자지 않을 거야</s></p>
+<p t="187117" d="33" wp="7" ws="1"><s p="81">​안 </s><s>​</s><s p="79">​잘 </s><s p="78">​거야 자지 않을 거야</s></p>
+<p t="187150" d="33" wp="7" ws="1"><s p="82">​안 </s><s>​</s><s p="80">​잘 </s><s p="79">​거</s><s p="78">​야 자지 않을 거야</s></p>
+<p t="187183" d="34" wp="7" ws="1"><s p="83">​안 </s><s>​</s><s p="81">​잘 </s><s p="80">​거</s><s p="78">​야 자지 않을 거야</s></p>
+<p t="187217" d="33" wp="7" ws="1"><s p="84">​안 </s><s>​</s><s p="82">​잘 </s><s p="81">​거</s><s p="79">​야 </s><s p="78">​자지 않을 거야</s></p>
+<p t="187250" d="33" wp="7" ws="1"><s p="85">​안 </s><s>​</s><s p="83">​잘 </s><s p="82">​거</s><s p="80">​야 </s><s p="79">​자</s><s p="78">​지 않을 거야</s></p>
+<p t="187283" d="34" wp="7" ws="1"><s p="86">​안 </s><s>​</s><s p="84">​잘 </s><s p="83">​거</s><s p="81">​야 </s><s p="80">​자</s><s p="78">​지 않을 거야</s></p>
+<p t="187317" d="33" wp="7" ws="1"><s p="87">​안 </s><s>​</s><s p="85">​잘 </s><s p="84">​거</s><s p="82">​야 </s><s p="81">​자</s><s p="79">​지 </s><s p="78">​않을 거야</s></p>
+<p t="187350" d="33" wp="7" ws="1"><s p="88">​안 </s><s>​</s><s p="86">​잘 </s><s p="85">​거</s><s p="83">​야 </s><s p="82">​자</s><s p="80">​지 </s><s p="79">​않</s><s p="78">​을 거야</s></p>
+<p t="187383" d="34" wp="7" ws="1"><s p="89">​안 </s><s>​</s><s p="87">​잘 </s><s p="86">​거</s><s p="84">​야 </s><s p="83">​자</s><s p="81">​지 </s><s p="80">​않</s><s p="78">​을 거야</s></p>
+<p t="187417" d="33" wp="7" ws="1"><s p="90">​안 </s><s>​</s><s p="88">​잘 </s><s p="87">​거</s><s p="85">​야 </s><s p="84">​자</s><s p="82">​지 </s><s p="81">​않</s><s p="79">​을 </s><s p="78">​거야</s></p>
+<p t="187450" d="33" wp="7" ws="1"><s p="91">​안 </s><s>​</s><s p="89">​잘 </s><s p="88">​거</s><s p="86">​야 </s><s p="85">​자</s><s p="83">​지 </s><s p="82">​않</s><s p="80">​을 </s><s p="79">​거</s><s p="78">​야</s></p>
+<p t="187483" d="34" wp="7" ws="1"><s p="92">​안 </s><s>​</s><s p="90">​잘 </s><s p="89">​거</s><s p="87">​야 </s><s p="86">​자</s><s p="84">​지 </s><s p="83">​않</s><s p="81">​을 </s><s p="80">​거</s><s p="78">​야</s></p>
+<p t="187517" d="33" wp="7" ws="1"><s p="92">​안 </s><s>​</s><s p="91">​잘 </s><s p="90">​거</s><s p="88">​야 </s><s p="87">​자</s><s p="85">​지 </s><s p="84">​않</s><s p="82">​을 </s><s p="81">​거</s><s p="79">​야</s></p>
+<p t="187550" d="33" wp="7" ws="1"><s p="92">​안 잘 </s><s>​</s><s p="91">​거</s><s p="89">​야 </s><s p="88">​자</s><s p="86">​지 </s><s p="85">​않</s><s p="83">​을 </s><s p="82">​거</s><s p="80">​야</s></p>
+<p t="187583" d="34" wp="7" ws="1"><s p="92">​안 잘 거</s><s>​</s><s p="90">​야 </s><s p="89">​자</s><s p="87">​지 </s><s p="86">​않</s><s p="84">​을 </s><s p="83">​거</s><s p="81">​야</s></p>
+<p t="187617" d="33" wp="7" ws="1"><s p="92">​안 잘 거</s><s>​</s><s p="91">​야 </s><s p="90">​자</s><s p="88">​지 </s><s p="87">​않</s><s p="85">​을 </s><s p="84">​거</s><s p="82">​야</s></p>
+<p t="187650" d="33" wp="7" ws="1"><s p="92">​안 잘 거야 </s><s>​</s><s p="91">​자</s><s p="89">​지 </s><s p="88">​않</s><s p="86">​을 </s><s p="85">​거</s><s p="83">​야</s></p>
+<p t="187683" d="34" wp="7" ws="1"><s p="92">​안 잘 거야 자</s><s>​</s><s p="90">​지 </s><s p="89">​않</s><s p="87">​을 </s><s p="86">​거</s><s p="84">​야</s></p>
+<p t="187717" d="33" wp="7" ws="1"><s p="92">​안 잘 거야 자</s><s>​</s><s p="91">​지 </s><s p="90">​않</s><s p="88">​을 </s><s p="87">​거</s><s p="85">​야</s></p>
+<p t="187750" d="33" wp="7" ws="1"><s p="92">​안 잘 거야 자지 </s><s>​</s><s p="91">​않</s><s p="89">​을 </s><s p="88">​거</s><s p="86">​야</s></p>
+<p t="187783" d="34" wp="7" ws="1"><s p="92">​안 잘 거야 자지 않</s><s>​</s><s p="90">​을 </s><s p="89">​거</s><s p="87">​야</s></p>
+<p t="187817" d="33" wp="7" ws="1"><s p="92">​안 잘 거야 자지 않</s><s>​</s><s p="91">​을 </s><s p="90">​거</s><s p="88">​야</s></p>
+<p t="187850" d="33" wp="7" ws="1"><s p="92">​안 잘 거야 자지 않을 </s><s>​</s><s p="91">​거</s><s p="89">​야</s></p>
+<p t="187883" d="34" wp="7" ws="1"><s p="92">​안 잘 거야 자지 않을 거</s><s>​</s><s p="90">​야</s></p>
+<p t="187917" d="33" wp="7" ws="1"><s p="92">​안 잘 거야 자지 않을 거</s><s>​</s><s p="91">​야</s></p>
+<p t="187950" d="33" wp="7" ws="1" p="92">​안 잘 거야 자지 않을 거야</p>
+<p t="187983" d="1200" wp="7" ws="1" p="92">​안 잘 거야 자지 않을 거야</p>
+<p t="189183" d="34" wp="7" ws="1" p="78">​새하얀 하늘을 떠나보내며</p>
+<p t="189217" d="33" wp="7" ws="1"><s p="79">​새</s><s>​</s><s p="78">​하얀 하늘을 떠나보내며</s></p>
+<p t="189250" d="33" wp="7" ws="1"><s p="80">​새</s><s>​</s><s p="78">​하얀 하늘을 떠나보내며</s></p>
+<p t="189283" d="34" wp="7" ws="1"><s p="81">​새</s><s>​</s><s p="79">​하</s><s p="78">​얀 하늘을 떠나보내며</s></p>
+<p t="189317" d="33" wp="7" ws="1"><s p="82">​새</s><s>​</s><s p="80">​하</s><s p="79">​얀</s><s p="78">​ 하늘을 떠나보내며</s></p>
+<p t="189350" d="33" wp="7" ws="1"><s p="83">​새</s><s>​</s><s p="81">​하</s><s p="80">​얀</s><s p="78">​ 하늘을 떠나보내며</s></p>
+<p t="189383" d="34" wp="7" ws="1"><s p="84">​새</s><s>​</s><s p="82">​하</s><s p="81">​얀</s><s p="79">​ 하</s><s p="78">​늘을 떠나보내며</s></p>
+<p t="189417" d="33" wp="7" ws="1"><s p="85">​새</s><s>​</s><s p="83">​하</s><s p="82">​얀</s><s p="80">​ 하</s><s p="79">​늘</s><s p="78">​을 떠나보내며</s></p>
+<p t="189450" d="33" wp="7" ws="1"><s p="86">​새</s><s>​</s><s p="84">​하</s><s p="83">​얀</s><s p="81">​ 하</s><s p="80">​늘</s><s p="78">​을 떠나보내며</s></p>
+<p t="189483" d="34" wp="7" ws="1"><s p="87">​새</s><s>​</s><s p="85">​하</s><s p="84">​얀</s><s p="82">​ 하</s><s p="81">​늘</s><s p="79">​을 </s><s p="78">​떠나보내며</s></p>
+<p t="189517" d="33" wp="7" ws="1"><s p="88">​새</s><s>​</s><s p="86">​하</s><s p="85">​얀</s><s p="83">​ 하</s><s p="82">​늘</s><s p="80">​을 </s><s p="79">​떠</s><s p="78">​나보내며</s></p>
+<p t="189550" d="33" wp="7" ws="1"><s p="89">​새</s><s>​</s><s p="87">​하</s><s p="86">​얀</s><s p="84">​ 하</s><s p="83">​늘</s><s p="81">​을 </s><s p="80">​떠</s><s p="78">​나보내며</s></p>
+<p t="189583" d="34" wp="7" ws="1"><s p="90">​새</s><s>​</s><s p="88">​하</s><s p="87">​얀</s><s p="85">​ 하</s><s p="84">​늘</s><s p="82">​을 </s><s p="81">​떠</s><s p="79">​나</s><s p="78">​보내며</s></p>
+<p t="189617" d="33" wp="7" ws="1"><s p="91">​새</s><s>​</s><s p="89">​하</s><s p="88">​얀</s><s p="86">​ 하</s><s p="85">​늘</s><s p="83">​을 </s><s p="82">​떠</s><s p="80">​나</s><s p="79">​보</s><s p="78">​내며</s></p>
+<p t="189650" d="33" wp="7" ws="1"><s p="92">​새</s><s>​</s><s p="90">​하</s><s p="89">​얀</s><s p="87">​ 하</s><s p="86">​늘</s><s p="84">​을 </s><s p="83">​떠</s><s p="81">​나</s><s p="80">​보</s><s p="78">​내며</s></p>
+<p t="189683" d="34" wp="7" ws="1"><s p="92">​새</s><s>​</s><s p="91">​하</s><s p="90">​얀</s><s p="88">​ 하</s><s p="87">​늘</s><s p="85">​을 </s><s p="84">​떠</s><s p="82">​나</s><s p="81">​보</s><s p="79">​내</s><s p="78">​며</s></p>
+<p t="189717" d="33" wp="7" ws="1"><s p="92">​새하</s><s>​</s><s p="91">​얀</s><s p="89">​ 하</s><s p="88">​늘</s><s p="86">​을 </s><s p="85">​떠</s><s p="83">​나</s><s p="82">​보</s><s p="80">​내</s><s p="79">​며</s></p>
+<p t="189750" d="33" wp="7" ws="1"><s p="92">​새하얀</s><s>​</s><s p="90">​ 하</s><s p="89">​늘</s><s p="87">​을 </s><s p="86">​떠</s><s p="84">​나</s><s p="83">​보</s><s p="81">​내</s><s p="80">​며</s></p>
+<p t="189783" d="34" wp="7" ws="1"><s p="92">​새하얀</s><s>​</s><s p="91">​ 하</s><s p="90">​늘</s><s p="88">​을 </s><s p="87">​떠</s><s p="85">​나</s><s p="84">​보</s><s p="82">​내</s><s p="81">​며</s></p>
+<p t="189817" d="33" wp="7" ws="1"><s p="92">​새하얀 하</s><s>​</s><s p="91">​늘</s><s p="89">​을 </s><s p="88">​떠</s><s p="86">​나</s><s p="85">​보</s><s p="83">​내</s><s p="82">​며</s></p>
+<p t="189850" d="33" wp="7" ws="1"><s p="92">​새하얀 하늘</s><s>​</s><s p="90">​을 </s><s p="89">​떠</s><s p="87">​나</s><s p="86">​보</s><s p="84">​내</s><s p="83">​며</s></p>
+<p t="189883" d="34" wp="7" ws="1"><s p="92">​새하얀 하늘</s><s>​</s><s p="91">​을 </s><s p="90">​떠</s><s p="88">​나</s><s p="87">​보</s><s p="85">​내</s><s p="84">​며</s></p>
+<p t="189917" d="33" wp="7" ws="1"><s p="92">​새하얀 하늘을 </s><s>​</s><s p="91">​떠</s><s p="89">​나</s><s p="88">​보</s><s p="86">​내</s><s p="85">​며</s></p>
+<p t="189950" d="33" wp="7" ws="1"><s p="92">​새하얀 하늘을 떠</s><s>​</s><s p="90">​나</s><s p="89">​보</s><s p="87">​내</s><s p="86">​며</s></p>
+<p t="189983" d="34" wp="7" ws="1"><s p="92">​새하얀 하늘을 떠</s><s>​</s><s p="91">​나</s><s p="90">​보</s><s p="88">​내</s><s p="87">​며</s></p>
+<p t="190017" d="33" wp="7" ws="1"><s p="92">​새하얀 하늘을 떠나</s><s>​</s><s p="91">​보</s><s p="89">​내</s><s p="88">​며</s></p>
+<p t="190050" d="33" wp="7" ws="1"><s p="92">​새하얀 하늘을 떠나보</s><s>​</s><s p="90">​내</s><s p="89">​며</s></p>
+<p t="190083" d="34" wp="7" ws="1"><s p="92">​새하얀 하늘을 떠나보</s><s>​</s><s p="91">​내</s><s p="90">​며</s></p>
+<p t="190117" d="33" wp="7" ws="1"><s p="92">​새하얀 하늘을 떠나보내</s><s>​</s><s p="91">​며</s></p>
+<p t="190150" d="33" wp="7" ws="1" p="92">​새하얀 하늘을 떠나보내며</p>
+<p t="190183" d="1300" wp="7" ws="1" p="92">​새하얀 하늘을 떠나보내며</p>
+<p t="191483" d="34" wp="7" ws="1" p="78">​밤을 보내자</p>
+<p t="191517" d="33" wp="7" ws="1"><s p="278">​밤을 </s><s>​</s><s p="78">​보내자</s></p>
+<p t="191550" d="33" wp="7" ws="1"><s p="279">​밤을 </s><s>​</s><s p="78">​보내자</s></p>
+<p t="191583" d="34" wp="7" ws="1"><s p="280">​밤을 </s><s>​</s><s p="78">​보내자</s></p>
+<p t="191617" d="33" wp="7" ws="1"><s p="281">​밤을 </s><s>​</s><s p="78">​보내자</s></p>
+<p t="191650" d="33" wp="7" ws="1"><s p="282">​밤을 </s><s>​</s><s p="78">​보내자</s></p>
+<p t="191683" d="34" wp="7" ws="1"><s p="283">​밤을 </s><s>​</s><s p="78">​보내자</s></p>
+<p t="191717" d="33" wp="7" ws="1"><s p="137">​밤을 </s><s>​</s><s p="78">​보내자</s></p>
+<p t="191750" d="33" wp="7" ws="1"><s p="284">​밤을 </s><s>​</s><s p="78">​보내자</s></p>
+<p t="191783" d="34" wp="7" ws="1"><s p="285">​밤을 </s><s>​</s><s p="78">​보내자</s></p>
+<p t="191817" d="33" wp="7" ws="1"><s p="286">​밤을 </s><s>​</s><s p="78">​보내자</s></p>
+<p t="191850" d="33" wp="7" ws="1"><s p="287">​밤을 </s><s>​</s><s p="78">​보내자</s></p>
+<p t="191883" d="34" wp="7" ws="1"><s p="288">​밤을 </s><s>​</s><s p="78">​보내자</s></p>
+<p t="191917" d="33" wp="7" ws="1"><s p="289">​밤을 </s><s>​</s><s p="78">​보내자</s></p>
+<p t="191950" d="33" wp="7" ws="1"><s p="92">​밤을 </s><s>​</s><s p="78">​보내자</s></p>
+<p t="191983" d="900" wp="7" ws="1"><s p="92">​밤을 </s><s>​</s><s p="78">​보내자</s></p>
+<p t="192883" d="34" wp="7" ws="1"><s p="92">​밤을 </s><s>​</s><s p="78">​보내자</s></p>
+<p t="192917" d="33" wp="7" ws="1"><s p="92">​밤을 </s><s>​</s><s p="278">​보내자</s></p>
+<p t="192950" d="33" wp="7" ws="1"><s p="92">​밤을 </s><s>​</s><s p="279">​보내자</s></p>
+<p t="192983" d="34" wp="7" ws="1"><s p="92">​밤을 </s><s>​</s><s p="280">​보내자</s></p>
+<p t="193017" d="33" wp="7" ws="1"><s p="92">​밤을 </s><s>​</s><s p="281">​보내자</s></p>
+<p t="193050" d="33" wp="7" ws="1"><s p="92">​밤을 </s><s>​</s><s p="282">​보내자</s></p>
+<p t="193083" d="34" wp="7" ws="1"><s p="92">​밤을 </s><s>​</s><s p="283">​보내자</s></p>
+<p t="193117" d="33" wp="7" ws="1"><s p="92">​밤을 </s><s>​</s><s p="137">​보내자</s></p>
+<p t="193150" d="33" wp="7" ws="1"><s p="92">​밤을 </s><s>​</s><s p="284">​보내자</s></p>
+<p t="193183" d="34" wp="7" ws="1"><s p="92">​밤을 </s><s>​</s><s p="285">​보내자</s></p>
+<p t="193217" d="33" wp="7" ws="1"><s p="92">​밤을 </s><s>​</s><s p="286">​보내자</s></p>
+<p t="193250" d="33" wp="7" ws="1"><s p="92">​밤을 </s><s>​</s><s p="287">​보내자</s></p>
+<p t="193283" d="34" wp="7" ws="1"><s p="92">​밤을 </s><s>​</s><s p="288">​보내자</s></p>
+<p t="193317" d="33" wp="7" ws="1"><s p="92">​밤을 </s><s>​</s><s p="289">​보내자</s></p>
+<p t="193350" d="33" wp="7" ws="1" p="92">​밤을 보내자</p>
+<p t="193383" d="800" wp="7" ws="1" p="92">​밤을 보내자</p>
+<p t="194250" d="33" wp="7" ws="1" p="78">​또 내일도</p>
+<p t="194283" d="34" wp="7" ws="1"><s p="79">​또</s><s>​</s><s p="78">​ 내일도</s></p>
+<p t="194317" d="33" wp="7" ws="1"><s p="80">​또</s><s>​</s><s p="78">​ 내일도</s></p>
+<p t="194350" d="33" wp="7" ws="1"><s p="81">​또</s><s>​</s><s p="79">​ </s><s p="78">​내일도</s></p>
+<p t="194383" d="34" wp="7" ws="1"><s p="82">​또</s><s>​</s><s p="80">​ </s><s p="78">​내일도</s></p>
+<p t="194417" d="33" wp="7" ws="1"><s p="83">​또</s><s>​</s><s p="81">​ </s><s p="78">​내일도</s></p>
+<p t="194450" d="33" wp="7" ws="1"><s p="84">​또</s><s>​</s><s p="82">​ </s><s p="79">​내</s><s p="78">​일도</s></p>
+<p t="194483" d="34" wp="7" ws="1"><s p="85">​또</s><s>​</s><s p="83">​ </s><s p="80">​내</s><s p="78">​일도</s></p>
+<p t="194517" d="33" wp="7" ws="1"><s p="86">​또</s><s>​</s><s p="84">​ </s><s p="81">​내</s><s p="79">​일</s><s p="78">​도</s></p>
+<p t="194550" d="33" wp="7" ws="1"><s p="87">​또</s><s>​</s><s p="85">​ </s><s p="82">​내</s><s p="80">​일</s><s p="78">​도</s></p>
+<p t="194583" d="34" wp="7" ws="1"><s p="88">​또</s><s>​</s><s p="86">​ </s><s p="83">​내</s><s p="81">​일</s><s p="78">​도</s></p>
+<p t="194617" d="33" wp="7" ws="1"><s p="89">​또</s><s>​</s><s p="87">​ </s><s p="84">​내</s><s p="82">​일</s><s p="79">​도</s></p>
+<p t="194650" d="33" wp="7" ws="1"><s p="90">​또</s><s>​</s><s p="88">​ </s><s p="85">​내</s><s p="83">​일</s><s p="80">​도</s></p>
+<p t="194683" d="34" wp="7" ws="1"><s p="91">​또</s><s>​</s><s p="89">​ </s><s p="86">​내</s><s p="84">​일</s><s p="81">​도</s></p>
+<p t="194717" d="33" wp="7" ws="1"><s p="92">​또</s><s>​</s><s p="90">​ </s><s p="87">​내</s><s p="85">​일</s><s p="82">​도</s></p>
+<p t="194750" d="33" wp="7" ws="1"><s p="92">​또</s><s>​</s><s p="91">​ </s><s p="88">​내</s><s p="86">​일</s><s p="83">​도</s></p>
+<p t="194783" d="34" wp="7" ws="1"><s p="92">​또 </s><s>​</s><s p="89">​내</s><s p="87">​일</s><s p="84">​도</s></p>
+<p t="194817" d="33" wp="7" ws="1"><s p="92">​또 </s><s>​</s><s p="90">​내</s><s p="88">​일</s><s p="85">​도</s></p>
+<p t="194850" d="33" wp="7" ws="1"><s p="92">​또 </s><s>​</s><s p="91">​내</s><s p="89">​일</s><s p="86">​도</s></p>
+<p t="194883" d="34" wp="7" ws="1"><s p="92">​또 내</s><s>​</s><s p="90">​일</s><s p="87">​도</s></p>
+<p t="194917" d="33" wp="7" ws="1"><s p="92">​또 내</s><s>​</s><s p="91">​일</s><s p="88">​도</s></p>
+<p t="194950" d="33" wp="7" ws="1"><s p="92">​또 내일</s><s>​</s><s p="89">​도</s></p>
+<p t="194983" d="34" wp="7" ws="1"><s p="92">​또 내일</s><s>​</s><s p="90">​도</s></p>
+<p t="195017" d="33" wp="7" ws="1"><s p="92">​또 내일</s><s>​</s><s p="91">​도</s></p>
+<p t="195050" d="33" wp="7" ws="1" p="92">​또 내일도</p>
+<p t="195083" d="867" wp="7" ws="1" p="92">​또 내일도</p>
+<p t="195950" d="900" wp="6" ws="1" p="141">​여기서 만나자</p>
+<p t="196850" d="33" wp="6" ws="1" p="141">​여기서 만나자</p>
+<p t="196883" d="34" wp="6" ws="1" p="154">​여기서 만나자</p>
+<p t="196917" d="33" wp="6" ws="1" p="157">​여기서 만나자</p>
+<p t="196950" d="33" wp="6" ws="1" p="160">​여기서 만나자</p>
+<p t="196983" d="34" wp="6" ws="1" p="163">​여기서 만나자</p>
+<p t="197017" d="33" wp="6" ws="1" p="166">​여기서 만나자</p>
+<p t="197050" d="33" wp="6" ws="1" p="169">​여기서 만나자</p>
+<p t="197083" d="34" wp="6" ws="1" p="172">​여기서 만나자</p>
+<p t="197117" d="33" wp="6" ws="1" p="175">​여기서 만나자</p>
+<p t="197150" d="33" wp="6" ws="1" p="178">​여기서 만나자</p>
+<p t="197183" d="34" wp="6" ws="1" p="181">​여기서 만나자</p>
+<p t="197217" d="33" wp="6" ws="1" p="184">​여기서 만나자</p>
+<p t="197250" d="33" wp="6" ws="1" p="187">​여기서 만나자</p>
+<p t="197283" d="34" wp="6" ws="1" p="190">​여기서 만나자</p>
+<p t="197317" d="33" wp="6" ws="1" p="48">​여기서 만나자</p>
+<p t="197350" d="1467" wp="7" ws="1" p="141">​Good night, Good time...</p>
+<p t="198817" d="33" wp="7" ws="1" p="141">​Good night, Good time...</p>
+<p t="198850" d="33" wp="7" ws="1" p="153">​Good night, Good time...</p>
+<p t="198883" d="34" wp="7" ws="1"><s p="156">​</s><s>​</s><s p="290">​Good night, Good time...</s></p>
+<p t="198917" d="33" wp="7" ws="1"><s p="159">​</s><s>​</s><s p="291">​Good night, Good time...</s></p>
+<p t="198950" d="33" wp="7" ws="1"><s p="162">​</s><s>​</s><s p="292">​Good night, Good time...</s></p>
+<p t="198983" d="34" wp="7" ws="1"><s p="165">​</s><s>​</s><s p="293">​Good night, Good time...</s></p>
+<p t="199017" d="33" wp="7" ws="1"><s p="168">​</s><s>​</s><s p="294">​Good night, Good time...</s></p>
+<p t="199050" d="33" wp="7" ws="1"><s p="171">​</s><s>​</s><s p="295">​Good night, Good time...</s></p>
+<p t="199083" d="34" wp="7" ws="1"><s p="174">​</s><s>​</s><s p="296">​Good night, Good time...</s></p>
+<p t="199117" d="33" wp="7" ws="1"><s p="177">​</s><s>​</s><s p="297">​Good night, Good time...</s></p>
+<p t="199150" d="33" wp="7" ws="1"><s p="180">​</s><s>​</s><s p="298">​Good night, Good time...</s></p>
+<p t="199183" d="34" wp="7" ws="1"><s p="183">​</s><s>​</s><s p="299">​Good night, Good time...</s></p>
+<p t="199217" d="33" wp="7" ws="1"><s p="186">​</s><s>​</s><s p="300">​Good night, Good time...</s></p>
+<p t="199250" d="33" wp="7" ws="1"><s p="189">​</s><s>​</s><s p="301">​Good night, Good time...</s></p>
+<p t="201283" d="3500" wp="6" ws="1" p="141">​내일 보자</p>
+<p t="202650" d="2167" wp="7" ws="1" p="141">​​Good night, Good time...</p>
+<p t="204783" d="34" wp="6" ws="1" p="141">​내일 보자</p>
+<p t="204817" d="33" wp="6" ws="1" p="154">​내일 보자</p>
+<p t="204817" d="33" wp="7" ws="1" p="141">​​Good night, Good time...</p>
+<p t="204850" d="33" wp="6" ws="1" p="157">​내일 보자</p>
+<p t="204850" d="33" wp="7" ws="1" p="153">​​Good night, Good time...</p>
+<p t="204883" d="34" wp="6" ws="1" p="160">​내일 보자</p>
+<p t="204883" d="34" wp="7" ws="1"><s p="156">​</s><s>​</s><s p="290">​Good night, Good time...</s></p>
+<p t="204917" d="33" wp="6" ws="1" p="163">​내일 보자</p>
+<p t="204917" d="33" wp="7" ws="1"><s p="159">​</s><s>​</s><s p="291">​Good night, Good time...</s></p>
+<p t="204950" d="33" wp="6" ws="1" p="166">​내일 보자</p>
+<p t="204950" d="33" wp="7" ws="1"><s p="162">​</s><s>​</s><s p="292">​Good night, Good time...</s></p>
+<p t="204983" d="34" wp="6" ws="1" p="169">​내일 보자</p>
+<p t="204983" d="34" wp="7" ws="1"><s p="165">​</s><s>​</s><s p="293">​Good night, Good time...</s></p>
+<p t="205017" d="33" wp="6" ws="1" p="172">​내일 보자</p>
+<p t="205017" d="33" wp="7" ws="1"><s p="168">​</s><s>​</s><s p="294">​Good night, Good time...</s></p>
+<p t="205050" d="33" wp="6" ws="1" p="175">​내일 보자</p>
+<p t="205050" d="33" wp="7" ws="1"><s p="171">​</s><s>​</s><s p="295">​Good night, Good time...</s></p>
+<p t="205083" d="34" wp="6" ws="1" p="178">​내일 보자</p>
+<p t="205083" d="34" wp="7" ws="1"><s p="174">​</s><s>​</s><s p="296">​Good night, Good time...</s></p>
+<p t="205117" d="33" wp="6" ws="1" p="181">​내일 보자</p>
+<p t="205117" d="33" wp="7" ws="1"><s p="177">​</s><s>​</s><s p="297">​Good night, Good time...</s></p>
+<p t="205150" d="33" wp="6" ws="1" p="184">​내일 보자</p>
+<p t="205150" d="33" wp="7" ws="1"><s p="180">​</s><s>​</s><s p="298">​Good night, Good time...</s></p>
+<p t="205183" d="34" wp="6" ws="1" p="187">​내일 보자</p>
+<p t="205183" d="34" wp="7" ws="1"><s p="183">​</s><s>​</s><s p="299">​Good night, Good time...</s></p>
+<p t="205217" d="33" wp="6" ws="1" p="190">​내일 보자</p>
+<p t="205217" d="33" wp="7" ws="1"><s p="186">​</s><s>​</s><s p="300">​Good night, Good time...</s></p>
+<p t="205250" d="33" wp="6" ws="1" p="48">​내일 보자</p>
+<p t="205250" d="33" wp="7" ws="1"><s p="189">​</s><s>​</s><s p="301">​Good night, Good time...</s></p>
+<p t="206617" d="3466" wp="6" ws="1" p="141">​내일 보자</p>
+<p t="207983" d="2100" wp="7" ws="1" p="141">​Good night, Good time...</p>
+<p t="210083" d="34" wp="6" ws="1" p="141">​내일 보자</p>
+<p t="210083" d="34" wp="7" ws="1" p="141">​Good night, Good time...</p>
+<p t="210117" d="33" wp="6" ws="1" p="153">​내일 보자</p>
+<p t="210117" d="33" wp="7" ws="1"><s p="153">​</s><s>​</s><s p="154">​Good night, Good time...</s></p>
+<p t="210150" d="33" wp="6" ws="1" p="290">​내일 보자</p>
+<p t="210150" d="33" wp="7" ws="1"><s p="156">​</s><s>​</s><s p="157">​Good night, Good time...</s></p>
+<p t="210183" d="34" wp="6" ws="1" p="291">​내일 보자</p>
+<p t="210183" d="34" wp="7" ws="1"><s p="159">​</s><s>​</s><s p="160">​Good night, Good time...</s></p>
+<p t="210217" d="33" wp="6" ws="1" p="292">​내일 보자</p>
+<p t="210217" d="33" wp="7" ws="1"><s p="162">​</s><s>​</s><s p="163">​Good night, Good time...</s></p>
+<p t="210250" d="33" wp="6" ws="1" p="293">​내일 보자</p>
+<p t="210250" d="33" wp="7" ws="1"><s p="165">​</s><s>​</s><s p="166">​Good night, Good time...</s></p>
+<p t="210283" d="34" wp="6" ws="1" p="294">​내일 보자</p>
+<p t="210283" d="34" wp="7" ws="1"><s p="168">​</s><s>​</s><s p="169">​Good night, Good time...</s></p>
+<p t="210317" d="33" wp="6" ws="1" p="295">​내일 보자</p>
+<p t="210317" d="33" wp="7" ws="1"><s p="171">​</s><s>​</s><s p="172">​Good night, Good time...</s></p>
+<p t="210350" d="33" wp="6" ws="1" p="296">​내일 보자</p>
+<p t="210350" d="33" wp="7" ws="1"><s p="174">​</s><s>​</s><s p="175">​Good night, Good time...</s></p>
+<p t="210383" d="34" wp="6" ws="1" p="297">​내일 보자</p>
+<p t="210383" d="34" wp="7" ws="1"><s p="177">​</s><s>​</s><s p="178">​Good night, Good time...</s></p>
+<p t="210417" d="33" wp="6" ws="1" p="298">​내일 보자</p>
+<p t="210417" d="33" wp="7" ws="1"><s p="180">​</s><s>​</s><s p="181">​Good night, Good time...</s></p>
+<p t="210450" d="33" wp="6" ws="1" p="299">​내일 보자</p>
+<p t="210450" d="33" wp="7" ws="1"><s p="183">​</s><s>​</s><s p="184">​Good night, Good time...</s></p>
+<p t="210483" d="34" wp="6" ws="1" p="300">​내일 보자</p>
+<p t="210483" d="34" wp="7" ws="1"><s p="186">​</s><s>​</s><s p="187">​Good night, Good time...</s></p>
+<p t="210517" d="33" wp="6" ws="1" p="301">​내일 보자</p>
+<p t="210517" d="33" wp="7" ws="1"><s p="189">​</s><s>​</s><s p="190">​Good night, Good time...</s></p>
+<p t="218750" d="33" wp="7" ws="1" p="141">​Special Thanks: わためいと/watamates</p>
+<p t="218783" d="34" wp="7" ws="1"><s p="141">​</s><s>​</s><s p="302">​Special Thanks: わためいと/watamates</s></p>
+<p t="218817" d="33" wp="7" ws="1"><s p="141">​</s><s>​</s><s p="303">​Special Thanks: わためいと/watamates</s></p>
+<p t="218850" d="33" wp="7" ws="1"><s p="141">​</s><s>​</s><s p="304">​Special Thanks: わためいと/watamates</s></p>
+<p t="218883" d="34" wp="7" ws="1"><s p="141">​</s><s>​</s><s p="305">​Special Thanks: わためいと/watamates</s></p>
+<p t="218917" d="33" wp="7" ws="1"><s p="141">​</s><s>​</s><s p="306">​Special Thanks: わためいと/watamates</s></p>
+<p t="218950" d="33" wp="7" ws="1"><s p="141">​</s><s>​</s><s p="307">​Special Thanks: わためいと/watamates</s></p>
+<p t="218983" d="34" wp="7" ws="1"><s p="141">​</s><s>​</s><s p="308">​Special Thanks: わためいと/watamates</s></p>
+<p t="219017" d="33" wp="7" ws="1"><s p="141">​</s><s>​</s><s p="309">​Special Thanks: わためいと/watamates</s></p>
+<p t="219050" d="33" wp="7" ws="1"><s p="141">​</s><s>​</s><s p="310">​Special Thanks: わためいと/watamates</s></p>
+<p t="219083" d="34" wp="7" ws="1"><s p="141">​</s><s>​</s><s p="311">​Special Thanks: わためいと/watamates</s></p>
+<p t="219117" d="33" wp="7" ws="1"><s p="141">​</s><s>​</s><s p="312">​Special Thanks: わためいと/watamates</s></p>
+<p t="219150" d="7600" wp="7" ws="1"><s p="141">​</s><s>​</s><s p="312">​Special Thanks: わためいと/watamates</s></p>
+<p t="226750" d="33" wp="7" ws="1"><s p="141">​</s><s>​</s><s p="312">​Special Thanks: わためいと/watamates</s></p>
+<p t="226783" d="34" wp="7" ws="1"><s p="141">​</s><s>​</s><s p="313">​Special Thanks: わためいと/watamates</s></p>
+<p t="226817" d="33" wp="7" ws="1"><s p="141">​</s><s>​</s><s p="314">​Special Thanks: わためいと/watamates</s></p>
+<p t="226850" d="33" wp="7" ws="1"><s p="141">​</s><s>​</s><s p="315">​Special Thanks: わためいと/watamates</s></p>
+<p t="226883" d="34" wp="7" ws="1"><s p="141">​</s><s>​</s><s p="316">​Special Thanks: わためいと/watamates</s></p>
+<p t="226917" d="33" wp="7" ws="1"><s p="141">​</s><s>​</s><s p="317">​Special Thanks: わためいと/watamates</s></p>
+<p t="226950" d="33" wp="7" ws="1"><s p="141">​</s><s>​</s><s p="318">​Special Thanks: わためいと/watamates</s></p>
+<p t="226983" d="34" wp="7" ws="1"><s p="141">​</s><s>​</s><s p="319">​Special Thanks: わためいと/watamates</s></p>
+<p t="227017" d="33" wp="7" ws="1"><s p="141">​</s><s>​</s><s p="320">​Special Thanks: わためいと/watamates</s></p>
+<p t="227050" d="33" wp="7" ws="1"><s p="141">​</s><s>​</s><s p="321">​Special Thanks: わためいと/watamates</s></p>
+<p t="227083" d="34" wp="7" ws="1"><s p="141">​</s><s>​</s><s p="322">​Special Thanks: わためいと/watamates</s></p>
+<p t="227117" d="33" wp="7" ws="1"><s p="141">​</s><s>​</s><s p="323">​Special Thanks: わためいと/watamates</s></p>
+<p t="227150" d="33" wp="7" ws="1"><s p="141">​</s><s>​</s><s p="324">​Special Thanks: わためいと/watamates</s></p>
+<p t="227183" d="34" wp="7" ws="1"><s p="141">​</s><s>​</s><s p="325">​Special Thanks: わためいと/watamates</s></p>
+<p t="227217" d="33" wp="7" ws="1"><s p="141">​</s><s>​</s><s p="326">​Special Thanks: わためいと/watamates</s></p>
+<p t="227250" d="33" wp="7" ws="1"><s p="141">​</s><s>​</s><s p="327">​Special Thanks: わためいと/watamates</s></p>
+<p t="227283" d="34" wp="7" ws="1"><s p="141">​</s><s>​</s><s p="328">​Special Thanks: わためいと/watamates</s></p>
+<p t="227317" d="33" wp="7" ws="1"><s p="141">​</s><s>​</s><s p="329">​Special Thanks: わためいと/watamates</s></p>
+<p t="227350" d="33" wp="7" ws="1"><s p="141">​</s><s>​</s><s p="330">​Special Thanks: わためいと/watamates</s></p>
+<p t="227383" d="34" wp="7" ws="1"><s p="141">​</s><s>​</s><s p="331">​Special Thanks: わためいと/watamates</s></p>
+<p t="227417" d="33" wp="7" ws="1"><s p="141">​</s><s>​</s><s p="332">​Special Thanks: わためいと/watamates</s></p>
+<p t="227450" d="33" wp="7" ws="1"><s p="141">​</s><s>​</s><s p="333">​Special Thanks: わためいと/watamates</s></p>
+<p t="227483" d="34" wp="7" ws="1"><s p="141">​</s><s>​</s><s p="334">​Special Thanks: わためいと/watamates</s></p>
+<p t="227517" d="33" wp="7" ws="1"><s p="141">​</s><s>​</s><s p="335">​Special Thanks: わためいと/watamates</s></p>
+<p t="227550" d="33" wp="7" ws="1"><s p="141">​</s><s>​</s><s p="336">​Special Thanks: わためいと/watamates</s></p>
+<p t="227583" d="34" wp="7" ws="1"><s p="141">​</s><s>​</s><s p="337">​Special Thanks: わためいと/watamates</s></p>
+<p t="227617" d="33" wp="7" ws="1"><s p="141">​</s><s>​</s><s p="338">​Special Thanks: わためいと/watamates</s></p>
+<p t="227650" d="33" wp="7" ws="1"><s p="141">​</s><s>​</s><s p="339">​Special Thanks: わためいと/watamates</s></p>
+<p t="227683" d="34" wp="7" ws="1"><s p="141">​</s><s>​</s><s p="340">​Special Thanks: わためいと/watamates</s></p>
+<p t="227717" d="33" wp="7" ws="1"><s p="141">​</s><s>​</s><s p="341">​Special Thanks: わためいと/watamates</s></p>
+<p t="227750" d="33" wp="7" ws="1"><s p="141">​</s><s>​</s><s p="342">​Special Thanks: わためいと/watamates</s></p>
+<p t="227783" d="34" wp="7" ws="1"><s p="141">​</s><s>​</s><s p="343">​Special Thanks: わためいと/watamates</s></p>
+<p t="227817" d="33" wp="7" ws="1"><s p="141">​</s><s>​</s><s p="344">​Special Thanks: わためいと/watamates</s></p>
+<p t="227850" d="33" wp="7" ws="1"><s p="141">​</s><s>​</s><s p="345">​Special Thanks: わためいと/watamates</s></p>
+<p t="227883" d="34" wp="7" ws="1"><s p="141">​</s><s>​</s><s p="346">​Special Thanks: わためいと/watamates</s></p>
+<p t="227917" d="33" wp="7" ws="1"><s p="141">​</s><s>​</s><s p="347">​Special Thanks: わためいと/watamates</s></p>
+<p t="227950" d="33" wp="7" ws="1"><s p="141">​</s><s>​</s><s p="348">​Special Thanks: わためいと/watamates</s></p>
+<p t="227983" d="34" wp="7" ws="1"><s p="141">​</s><s>​</s><s p="349">​Special Thanks: わためいと/watamates</s></p>
+</body>
+</timedtext>

@@ -1,0 +1,803 @@
+<?xml version="1.0" encoding="utf-8" ?><timedtext format="3">
+<head>
+<pen id="1" fc="#000000" fo="0" bo="0" sz="100"/>
+<pen id="2" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#5E5E5E" sz="100" et="3"/>
+<pen id="3" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#1B1B1B" sz="100" et="3"/>
+<pen id="4" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#39164C" sz="100" et="3"/>
+<pen id="5" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#503A3A" sz="100" et="3"/>
+<pen id="6" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#552928" sz="100" et="3"/>
+<pen id="7" fc="#A0AAB4" fo="0" bo="0" sz="0"/>
+<pen id="8" b="1" fc="#FEFEFE" fo="147" bo="0" sz="500"/>
+<pen id="9" b="1" fc="#FEFEFE" fo="147" bo="0" sz="438"/>
+<pen id="10" b="1" fc="#FEFEFE" fo="168" bo="0" sz="438"/>
+<pen id="11" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#392E44" sz="100" et="3"/>
+<pen id="12" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#BB706F" sz="100" et="3"/>
+<pen id="13" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#5A2B2A" sz="100" et="3"/>
+<pen id="14" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#7B6E51" sz="100" et="3"/>
+<pen id="15" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#1C3221" sz="100" et="3"/>
+<pen id="16" b="1" fc="#FEFEFE" fo="147" bo="0" sz="562"/>
+<pen id="17" b="1" fc="#FEFEFE" fo="101" bo="0" sz="562"/>
+<pen id="18" b="1" fc="#FEFEFE" fo="108" bo="0" sz="562"/>
+<pen id="19" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#FFCECE" sz="100" et="3"/>
+<pen id="20" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#FAC3C3" sz="100" et="3"/>
+<pen id="21" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#F4B8B8" sz="100" et="3"/>
+<pen id="22" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#EEADAD" sz="100" et="3"/>
+<pen id="23" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#E8A2A2" sz="100" et="3"/>
+<pen id="24" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#E29797" sz="100" et="3"/>
+<pen id="25" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#DC8C8C" sz="100" et="3"/>
+<pen id="26" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#D68080" sz="100" et="3"/>
+<pen id="27" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#D07575" sz="100" et="3"/>
+<pen id="28" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#CA6A6A" sz="100" et="3"/>
+<pen id="29" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#C45F5F" sz="100" et="3"/>
+<pen id="30" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#BE5454" sz="100" et="3"/>
+<pen id="31" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#B84949" sz="100" et="3"/>
+<pen id="32" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#B23E3E" sz="100" et="3"/>
+<pen id="33" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#AC3232" sz="100" et="3"/>
+<pen id="34" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#B54343" sz="100" et="3"/>
+<pen id="35" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#C76666" sz="100" et="3"/>
+<pen id="36" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#D07777" sz="100" et="3"/>
+<pen id="37" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#DA8888" sz="100" et="3"/>
+<pen id="38" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#E39A9A" sz="100" et="3"/>
+<pen id="39" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#ECABAB" sz="100" et="3"/>
+<pen id="40" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#F5BCBC" sz="100" et="3"/>
+<pen id="41" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#EFAFAF" sz="100" et="3"/>
+<pen id="42" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#DE9090" sz="100" et="3"/>
+<pen id="43" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#CE7171" sz="100" et="3"/>
+<pen id="44" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#BD5252" sz="100" et="3"/>
+<pen id="45" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#BC5151" sz="100" et="3"/>
+<pen id="46" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#CD7070" sz="100" et="3"/>
+<pen id="47" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#DD8F8F" sz="100" et="3"/>
+<pen id="48" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#EEAEAE" sz="100" et="3"/>
+<pen id="49" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#C1A685" sz="100" et="3"/>
+<pen id="50" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#AC8C64" sz="100" et="3"/>
+<pen id="51" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#977243" sz="100" et="3"/>
+<pen id="52" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#825822" sz="100" et="3"/>
+<pen id="53" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#6D3D00" sz="100" et="3"/>
+<pen id="54" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#7B4F17" sz="100" et="3"/>
+<pen id="55" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#8A612E" sz="100" et="3"/>
+<pen id="56" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#987345" sz="100" et="3"/>
+<pen id="57" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#A7865C" sz="100" et="3"/>
+<pen id="58" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#B69874" sz="100" et="3"/>
+<pen id="59" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#C4AA8B" sz="100" et="3"/>
+<pen id="60" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#D3BDA2" sz="100" et="3"/>
+<pen id="61" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#E1CFB9" sz="100" et="3"/>
+<pen id="62" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#F0E1D0" sz="100" et="3"/>
+<pen id="63" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#FFF4E8" sz="100" et="3"/>
+<pen id="64" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#E7D6C2" sz="100" et="3"/>
+<pen id="65" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#CFB79B" sz="100" et="3"/>
+<pen id="66" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#B69974" sz="100" et="3"/>
+<pen id="67" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#9E7A4E" sz="100" et="3"/>
+<pen id="68" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#865C27" sz="100" et="3"/>
+<pen id="69" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#EDDECB" sz="100" et="3"/>
+<pen id="70" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#DBC7AE" sz="100" et="3"/>
+<pen id="71" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#C9B091" sz="100" et="3"/>
+<pen id="72" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#A48257" sz="100" et="3"/>
+<pen id="73" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#926B3A" sz="100" et="3"/>
+<pen id="74" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#80541D" sz="100" et="3"/>
+<pen id="75" b="1" fc="#FFEDDC" fo="254" bo="0" ec="#543625" sz="100" et="3"/>
+<pen id="76" b="1" fc="#C6C6C6" fo="254" bo="0" ec="#5E5E5E" sz="100" et="3"/>
+<pen id="77" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#949494" sz="100" et="3"/>
+<pen id="78" b="1" fc="#ECECEC" fo="254" bo="0" ec="#5E5E5E" sz="100" et="3"/>
+<pen id="79" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#816529" sz="100" et="3"/>
+<pen id="80" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#4B3F2B" sz="100" et="3"/>
+<pen id="81" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#7D5739" sz="100" et="3"/>
+<pen id="82" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#99876E" sz="100" et="3"/>
+<pen id="83" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#8E553C" sz="100" et="3"/>
+<pen id="84" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#6A4F43" sz="100" et="3"/>
+<pen id="85" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#66582F" sz="100" et="3"/>
+<pen id="86" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#836743" sz="100" et="3"/>
+<pen id="87" b="1" fc="#FEFEFE" fo="182" bo="0" sz="562"/>
+<pen id="88" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#92805F" sz="100" et="3"/>
+<pen id="89" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#847864" sz="100" et="3"/>
+<pen id="90" b="1" fc="#FFF4E9" fo="254" bo="0" ec="#5E5E5E" sz="100" et="3"/>
+<pen id="91" b="1" fc="#DAFFE5" fo="254" bo="0" ec="#4B8377" sz="100" et="3"/>
+<pen id="92" b="1" fc="#DAFEE7" fo="254" bo="0" ec="#4B8078" sz="100" et="3"/>
+<pen id="93" b="1" fc="#DAFDE9" fo="254" bo="0" ec="#4B7C79" sz="100" et="3"/>
+<pen id="94" b="1" fc="#DAFCEB" fo="254" bo="0" ec="#4B797A" sz="100" et="3"/>
+<pen id="95" b="1" fc="#DAFBED" fo="254" bo="0" ec="#4B757B" sz="100" et="3"/>
+<pen id="96" b="1" fc="#DAFBEF" fo="254" bo="0" ec="#4B727B" sz="100" et="3"/>
+<pen id="97" b="1" fc="#DBF9F2" fo="254" bo="0" ec="#4B6E7D" sz="100" et="3"/>
+<pen id="98" b="1" fc="#DBF9F4" fo="254" bo="0" ec="#4B6B7D" sz="100" et="3"/>
+<pen id="99" b="1" fc="#DBF7F6" fo="254" bo="0" ec="#4B677F" sz="100" et="3"/>
+<pen id="100" b="1" fc="#DBF6F8" fo="254" bo="0" ec="#4B6480" sz="100" et="3"/>
+<pen id="101" b="1" fc="#DBF6FA" fo="254" bo="0" ec="#4B6180" sz="100" et="3"/>
+<pen id="102" b="1" fc="#DBF4FC" fo="254" bo="0" ec="#4B5D82" sz="100" et="3"/>
+<pen id="103" b="1" fc="#DCF3FF" fo="254" bo="0" ec="#4B5983" sz="100" et="3"/>
+<pen id="104" b="1" fc="#E1F3FD" fo="254" bo="0" ec="#555C7F" sz="100" et="3"/>
+<pen id="105" b="1" fc="#E7F3FB" fo="254" bo="0" ec="#605F7A" sz="100" et="3"/>
+<pen id="106" b="1" fc="#EDF3F9" fo="254" bo="0" ec="#6B6275" sz="100" et="3"/>
+<pen id="107" b="1" fc="#F3F3F7" fo="254" bo="0" ec="#756570" sz="100" et="3"/>
+<pen id="108" b="1" fc="#F9F3F5" fo="254" bo="0" ec="#80676B" sz="100" et="3"/>
+<pen id="109" b="1" fc="#FFF2F2" fo="254" bo="0" ec="#8B6B66" sz="100" et="3"/>
+<pen id="110" b="1" fc="#FEF3F2" fo="254" bo="0" ec="#836E65" sz="100" et="3"/>
+<pen id="111" b="1" fc="#FDF5F3" fo="254" bo="0" ec="#7B7163" sz="100" et="3"/>
+<pen id="112" b="1" fc="#FCF6F3" fo="254" bo="0" ec="#737462" sz="100" et="3"/>
+<pen id="113" b="1" fc="#FBF8F4" fo="254" bo="0" ec="#6B7760" sz="100" et="3"/>
+<pen id="114" b="1" fc="#FAFAF4" fo="254" bo="0" ec="#637A5E" sz="100" et="3"/>
+<pen id="115" b="1" fc="#F9FBF5" fo="254" bo="0" ec="#5B7D5D" sz="100" et="3"/>
+<pen id="116" b="1" fc="#F8FDF5" fo="254" bo="0" ec="#53805B" sz="100" et="3"/>
+<pen id="117" b="1" fc="#F6FFF6" fo="254" bo="0" ec="#4B8359" sz="100" et="3"/>
+<pen id="118" b="1" fc="#F6FFF7" fo="254" bo="0" ec="#4B815E" sz="100" et="3"/>
+<pen id="119" b="1" fc="#F6FFF8" fo="254" bo="0" ec="#4B7F63" sz="100" et="3"/>
+<pen id="120" b="1" fc="#F5FEF9" fo="254" bo="0" ec="#4B7D68" sz="100" et="3"/>
+<pen id="121" b="1" fc="#F5FEFA" fo="254" bo="0" ec="#4B7B6E" sz="100" et="3"/>
+<pen id="122" b="1" fc="#F5FEFB" fo="254" bo="0" ec="#4B7973" sz="100" et="3"/>
+<pen id="123" b="1" fc="#F4FDFC" fo="254" bo="0" ec="#4B7778" sz="100" et="3"/>
+<pen id="124" b="1" fc="#F4FDFD" fo="254" bo="0" ec="#4B757D" sz="100" et="3"/>
+<pen id="125" b="1" fc="#F3FCFF" fo="254" bo="0" ec="#4B7283" sz="100" et="3"/>
+<pen id="126" b="1" fc="#FFEDE3" fo="254" bo="0" ec="#C74B00" sz="100" et="3"/>
+<pen id="127" b="1" fc="#FFF4E3" fo="254" bo="0" ec="#A45D00" sz="100" et="3"/>
+<pen id="128" b="1" fc="#FFFCE4" fo="254" bo="0" ec="#817000" sz="100" et="3"/>
+<pen id="129" b="1" fc="#F7FDE9" fo="254" bo="0" ec="#416A02" sz="100" et="3"/>
+<pen id="130" b="1" fc="#EEFFEF" fo="254" bo="0" ec="#006404" sz="100" et="3"/>
+<pen id="131" b="1" fc="#EDFEF0" fo="254" bo="0" ec="#036011" sz="100" et="3"/>
+<pen id="132" b="1" fc="#ECFCF2" fo="254" bo="0" ec="#075C1E" sz="100" et="3"/>
+<pen id="133" b="1" fc="#EBFBF4" fo="254" bo="0" ec="#0B582C" sz="100" et="3"/>
+<pen id="134" b="1" fc="#EAF9F6" fo="254" bo="0" ec="#0F5439" sz="100" et="3"/>
+<pen id="135" b="1" fc="#E9F8F7" fo="254" bo="0" ec="#135047" sz="100" et="3"/>
+<pen id="136" b="1" fc="#E8F6F9" fo="254" bo="0" ec="#174C54" sz="100" et="3"/>
+<pen id="137" b="1" fc="#E7F5FB" fo="254" bo="0" ec="#1B4862" sz="100" et="3"/>
+<pen id="138" b="1" fc="#E6F3FD" fo="254" bo="0" ec="#1F446F" sz="100" et="3"/>
+<pen id="139" b="1" fc="#E4F1FF" fo="254" bo="0" ec="#233F7D" sz="100" et="3"/>
+<pen id="140" b="1" fc="#E7F1FE" fo="254" bo="0" ec="#333E75" sz="100" et="3"/>
+<pen id="141" b="1" fc="#EAF1FD" fo="254" bo="0" ec="#433D6D" sz="100" et="3"/>
+<pen id="142" b="1" fc="#EDF1FB" fo="254" bo="0" ec="#533C65" sz="100" et="3"/>
+<pen id="143" b="1" fc="#F0F1FA" fo="254" bo="0" ec="#633B5D" sz="100" et="3"/>
+<pen id="144" b="1" fc="#F3F2F9" fo="254" bo="0" ec="#733954" sz="100" et="3"/>
+<pen id="145" b="1" fc="#F6F2F7" fo="254" bo="0" ec="#83384C" sz="100" et="3"/>
+<pen id="146" b="1" fc="#F9F2F6" fo="254" bo="0" ec="#933744" sz="100" et="3"/>
+<pen id="147" b="1" fc="#FCF2F5" fo="254" bo="0" ec="#A3363C" sz="100" et="3"/>
+<pen id="148" b="1" fc="#FFF3F3" fo="254" bo="0" ec="#B33433" sz="100" et="3"/>
+<pen id="149" b="1" fc="#FFF1EE" fo="254" bo="0" ec="#A63B29" sz="100" et="3"/>
+<pen id="150" b="1" fc="#FFEFE9" fo="254" bo="0" ec="#99421F" sz="100" et="3"/>
+<pen id="151" b="1" fc="#FFEDE3" fo="254" bo="0" ec="#8B4A15" sz="100" et="3"/>
+<pen id="152" b="1" fc="#F8F6EA" fo="254" bo="0" ec="#5B6417" sz="100" et="3"/>
+<pen id="153" b="1" fc="#F1FFF2" fo="254" bo="0" ec="#2B7E1A" sz="100" et="3"/>
+<pen id="154" b="1" fc="#EDFFED" fo="254" bo="0" ec="#206426" sz="100" et="3"/>
+<pen id="155" b="1" fc="#000000" fo="0" bo="0" sz="100"/>
+<pen id="156" b="1" fc="#EDFEEF" fo="254" bo="0" ec="#205D2D" sz="100" et="3"/>
+<pen id="157" b="1" fc="#EDFDF1" fo="254" bo="0" ec="#205635" sz="100" et="3"/>
+<pen id="158" b="1" fc="#EDFBF3" fo="254" bo="0" ec="#204E3D" sz="100" et="3"/>
+<pen id="159" b="1" fc="#EDFAF6" fo="254" bo="0" ec="#204745" sz="100" et="3"/>
+<pen id="160" b="1" fc="#EDF9F8" fo="254" bo="0" ec="#20404C" sz="100" et="3"/>
+<pen id="161" b="1" fc="#EDF7FA" fo="254" bo="0" ec="#203854" sz="100" et="3"/>
+<pen id="162" b="1" fc="#EDF6FC" fo="254" bo="0" ec="#20315C" sz="100" et="3"/>
+<pen id="163" b="1" fc="#EEF4FF" fo="254" bo="0" ec="#202964" sz="100" et="3"/>
+<pen id="164" b="1" fc="#F0F4FD" fo="254" bo="0" ec="#28285C" sz="100" et="3"/>
+<pen id="165" b="1" fc="#F2F3FB" fo="254" bo="0" ec="#312753" sz="100" et="3"/>
+<pen id="166" b="1" fc="#F4F2F9" fo="254" bo="0" ec="#39264B" sz="100" et="3"/>
+<pen id="167" b="1" fc="#F6F1F7" fo="254" bo="0" ec="#422542" sz="100" et="3"/>
+<pen id="168" b="1" fc="#F8F1F5" fo="254" bo="0" ec="#4A243A" sz="100" et="3"/>
+<pen id="169" b="1" fc="#FAF0F3" fo="254" bo="0" ec="#532331" sz="100" et="3"/>
+<pen id="170" b="1" fc="#FCEFF1" fo="254" bo="0" ec="#5B2229" sz="100" et="3"/>
+<pen id="171" b="1" fc="#FFEEEE" fo="254" bo="0" ec="#642020" sz="100" et="3"/>
+<pen id="172" b="1" fc="#FDF0EE" fo="254" bo="0" ec="#5C2820" sz="100" et="3"/>
+<pen id="173" b="1" fc="#FBF2EE" fo="254" bo="0" ec="#533121" sz="100" et="3"/>
+<pen id="174" b="1" fc="#F9F4EE" fo="254" bo="0" ec="#4B3922" sz="100" et="3"/>
+<pen id="175" b="1" fc="#F6F6EE" fo="254" bo="0" ec="#424223" sz="100" et="3"/>
+<pen id="176" b="1" fc="#F4F8EE" fo="254" bo="0" ec="#3A4A23" sz="100" et="3"/>
+<pen id="177" b="1" fc="#F2FAEE" fo="254" bo="0" ec="#315324" sz="100" et="3"/>
+<pen id="178" b="1" fc="#F0FCEE" fo="254" bo="0" ec="#295B25" sz="100" et="3"/>
+<pen id="179" b="1" fc="#DFFFDF" fo="254" bo="0" ec="#3E6F44" sz="100" et="3"/>
+<pen id="180" b="1" fc="#BFFFBF" fo="254" bo="0" ec="#1D802A" sz="100" et="3"/>
+<pen id="181" b="1" fc="#DCFEDF" fo="254" bo="0" ec="#1D804B" sz="100" et="3"/>
+<pen id="182" b="1" fc="#F9FDFF" fo="254" bo="0" ec="#1D806D" sz="100" et="3"/>
+<pen id="183" b="1" fc="#FCFEFF" fo="254" bo="0" ec="#3D6F66" sz="100" et="3"/>
+<pen id="184" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#1D2C80" sz="100" et="3"/>
+<pen id="185" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#35296D" sz="100" et="3"/>
+<pen id="186" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#4E2559" sz="100" et="3"/>
+<pen id="187" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#672146" sz="100" et="3"/>
+<pen id="188" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#801D32" sz="100" et="3"/>
+<pen id="189" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#64431D" sz="100" et="3"/>
+<pen id="190" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#967558" sz="100" et="3"/>
+<pen id="191" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#7A6145" sz="100" et="3"/>
+<pen id="192" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#90806D" sz="100" et="3"/>
+<pen id="193" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#A69E95" sz="100" et="3"/>
+<pen id="194" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#BDBDBD" sz="100" et="3"/>
+<pen id="195" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#707070" sz="100" et="3"/>
+<pen id="196" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#838383" sz="100" et="3"/>
+<pen id="197" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#959595" sz="100" et="3"/>
+<pen id="198" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#A8A8A8" sz="100" et="3"/>
+<pen id="199" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#BABABA" sz="100" et="3"/>
+<pen id="200" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#CDCDCD" sz="100" et="3"/>
+<pen id="201" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#DFDFDF" sz="100" et="3"/>
+<pen id="202" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#F2F2F2" sz="100" et="3"/>
+<pen id="203" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#563A00" sz="100" et="3"/>
+<pen id="204" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#6B4F15" sz="100" et="3"/>
+<pen id="205" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#80642B" sz="100" et="3"/>
+<pen id="206" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#957941" sz="100" et="3"/>
+<pen id="207" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#AA8E57" sz="100" et="3"/>
+<pen id="208" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#BFA36C" sz="100" et="3"/>
+<pen id="209" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#D4B882" sz="100" et="3"/>
+<pen id="210" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#E9CD98" sz="100" et="3"/>
+<pen id="211" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#FFE3AE" sz="100" et="3"/>
+<pen id="212" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#DEC28C" sz="100" et="3"/>
+<pen id="213" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#BCA069" sz="100" et="3"/>
+<pen id="214" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#9A7E46" sz="100" et="3"/>
+<pen id="215" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#785C23" sz="100" et="3"/>
+<pen id="216" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#E7CB96" sz="100" et="3"/>
+<pen id="217" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#CFB37D" sz="100" et="3"/>
+<pen id="218" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#B79B64" sz="100" et="3"/>
+<pen id="219" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#9F834B" sz="100" et="3"/>
+<pen id="220" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#876B32" sz="100" et="3"/>
+<pen id="221" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#6F5319" sz="100" et="3"/>
+<pen id="222" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#65490F" sz="100" et="3"/>
+<pen id="223" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#74581F" sz="100" et="3"/>
+<pen id="224" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#84682F" sz="100" et="3"/>
+<pen id="225" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#93773F" sz="100" et="3"/>
+<pen id="226" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#A2864F" sz="100" et="3"/>
+<pen id="227" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#B2965E" sz="100" et="3"/>
+<pen id="228" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#C1A56E" sz="100" et="3"/>
+<pen id="229" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#D0B47E" sz="100" et="3"/>
+<pen id="230" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#E0C48E" sz="100" et="3"/>
+<pen id="231" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#EFD39E" sz="100" et="3"/>
+<pen id="232" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#EACE99" sz="100" et="3"/>
+<pen id="233" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#D5B983" sz="100" et="3"/>
+<pen id="234" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#C0A46D" sz="100" et="3"/>
+<pen id="235" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#AB8F57" sz="100" et="3"/>
+<pen id="236" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#967A42" sz="100" et="3"/>
+<pen id="237" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#81652C" sz="100" et="3"/>
+<pen id="238" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#6C5016" sz="100" et="3"/>
+<pen id="239" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#665F54" sz="100" et="3"/>
+<pen id="240" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#6F614A" sz="100" et="3"/>
+<pen id="241" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#786340" sz="100" et="3"/>
+<pen id="242" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#806536" sz="100" et="3"/>
+<pen id="243" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#89672C" sz="100" et="3"/>
+<pen id="244" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#926922" sz="100" et="3"/>
+<pen id="245" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#9B6B17" sz="100" et="3"/>
+<pen id="246" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#725117" sz="100" et="3"/>
+<pen id="247" b="1" fc="#FFF3E8" fo="254" bo="0" ec="#824C12" sz="100" et="3"/>
+<pen id="248" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#6E5218" sz="100" et="3"/>
+<pen id="249" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#866A31" sz="100" et="3"/>
+<pen id="250" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#9E824A" sz="100" et="3"/>
+<pen id="251" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#B69A63" sz="100" et="3"/>
+<pen id="252" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#CEB27C" sz="100" et="3"/>
+<pen id="253" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#E6CA95" sz="100" et="3"/>
+<pen id="254" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#72561D" sz="100" et="3"/>
+<pen id="255" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#8E723A" sz="100" et="3"/>
+<pen id="256" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#C6AA74" sz="100" et="3"/>
+<pen id="257" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#E2C690" sz="100" et="3"/>
+<pen id="258" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#684C13" sz="100" et="3"/>
+<pen id="259" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#7B5F26" sz="100" et="3"/>
+<pen id="260" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#A1854D" sz="100" et="3"/>
+<pen id="261" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#B39760" sz="100" et="3"/>
+<pen id="262" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#D9BD87" sz="100" et="3"/>
+<pen id="263" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#ECD09A" sz="100" et="3"/>
+<pen id="264" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#664A11" sz="100" et="3"/>
+<pen id="265" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#775B22" sz="100" et="3"/>
+<pen id="266" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#886C34" sz="100" et="3"/>
+<pen id="267" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#997D45" sz="100" et="3"/>
+<pen id="268" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#BB9F68" sz="100" et="3"/>
+<pen id="269" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#CCB079" sz="100" et="3"/>
+<pen id="270" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#DDC18B" sz="100" et="3"/>
+<pen id="271" b="1" fc="#FEFEFE" fo="254" bo="0" ec="#EED29C" sz="100" et="3"/>
+<ws id="0"/>
+<ws id="1" ju="2" pd="0" sd="0"/>
+<wp id="0"/>
+<wp id="3" ap="4" ah="50" av="90"/>
+<wp id="2" ap="4" ah="50" av="91"/>
+<wp id="1" ap="7" ah="0" av="0"/>
+</head>
+<body>
+<p t="2383" d="767" wp="2" ws="1" p="2">​Ay</p>
+<p t="6417" d="1433" wp="2" ws="1"><s p="2">​Check </s><s>​</s><s p="2" t="400">​1 </s><s p="2" t="730">​2 </s><s p="2" t="990">​3</s></p>
+<p t="9650" d="1033" wp="2" ws="1" p="2">​태양도 새도 잠에 들어</p>
+<p t="10683" d="967" wp="2" ws="1" p="3">​태양도 새도 잠에 들어</p>
+<p t="11650" d="367" wp="2" ws="1" p="2">​태양도 새도 잠에 들어</p>
+<p t="12017" d="666" wp="2" ws="1" p="2">​거리는 조용해</p>
+<p t="12683" d="1100" wp="2" ws="1" p="4">​거리는 조용해</p>
+<p t="14283" d="1167" wp="2" ws="1" p="5">​하지만 이 마음은 이미</p>
+<p t="15450" d="700" wp="2" ws="1" p="6">​하지만 이 마음은 이미</p>
+<p t="16150" d="633" wp="2" ws="1" p="6">​불타고 있거든 준비는 OK?</p>
+<p t="16783" d="1434" wp="2" ws="1" p="2">​불타고 있거든 준비는 OK?</p>
+<p t="18217" d="933" wp="2" ws="1"><s p="7">​</s><s>​</s><s p="8">​ ​OK!​ ​</s><s p="7">​</s></p>
+<p t="18217" d="933" wp="2" ws="1"><s p="7">​</s><s>​</s><s p="2">​ ​불타고 있거든 준비는 OK?​ ​</s><s p="7">​</s></p>
+<p t="19150" d="800" wp="2" ws="1" p="2">​Ay 상태는 어때?</p>
+<p t="19950" d="1267" wp="2" ws="1"><s p="7">​</s><s>​</s><s p="9">​ ​좋은 느낌!​ ​</s><s p="7">​</s></p>
+<p t="19950" d="1267" wp="2" ws="1"><s p="7">​</s><s>​</s><s p="2">​ ​Ay 상태는 어때?​ ​</s><s p="7">​</s></p>
+<p t="21483" d="834" wp="2" ws="1" p="2">​Ay 상태는 어때?</p>
+<p t="22317" d="1200" wp="2" ws="1"><s p="7">​</s><s>​</s><s p="10">​ ​좋은 느낌!!​ ​</s><s p="7">​</s></p>
+<p t="22317" d="1200" wp="2" ws="1"><s p="7">​</s><s>​</s><s p="2">​ ​Ay 상태는 어때?​ ​</s><s p="7">​</s></p>
+<p t="23783" d="1767" wp="2" ws="1" p="11">​술렁거리는 고동이 들려와</p>
+<p t="25550" d="600" wp="2" ws="1" p="2">​술렁거리는 고동이 들려와</p>
+<p t="26150" d="2067" wp="2" ws="1" p="2">​멋지네 자 가볼까</p>
+<p t="28517" d="1166" wp="2" ws="1" p="12">​인생은 like 롤러코스터</p>
+<p t="29683" d="967" wp="2" ws="1" p="2">​인생은 like 롤러코스터</p>
+<p t="30650" d="767" wp="2" ws="1" p="2">​자주자주 마주치네 몬스터</p>
+<p t="31417" d="1400" wp="2" ws="1" p="13">​자주자주 마주치네 몬스터</p>
+<p t="33283" d="900" wp="2" ws="1" p="14">​아직 보지 못한 세계로</p>
+<p t="34183" d="1167" wp="2" ws="1" p="2">​아직 보지 못한 세계로</p>
+<p t="35350" d="700" wp="2" ws="1" p="2">​이야기를 Up and down</p>
+<p t="36050" d="933" wp="2" ws="1" p="15">​이야기를 Up and down</p>
+<p t="36983" d="700" wp="2" ws="1" p="2">​이야기를 Up and down</p>
+<p t="37683" d="2634" wp="2" ws="1"><s p="2">​일어</s><s>​</s><s p="2" t="400">​서</s><s p="2" t="920">​라 </s><s p="2" t="1490">​청</s><s p="2" t="2070">​중</s></p>
+<p t="40317" d="1366" wp="2" ws="1" p="2">​지금 한계돌파</p>
+<p t="41683" d="967" wp="3" ws="1" p="16">​Alright!</p>
+<p t="41683" d="967" wp="2" ws="1" p="2">​지금 한계돌파</p>
+<p t="42650" d="2400" wp="2" ws="1"><s p="2">​이 고</s><s>​</s><s p="2" t="640">​양</s><s p="2" t="1240">​감</s><s p="2" t="1810">​은</s></p>
+<p t="45050" d="1467" wp="2" ws="1" p="2">​누구도 멈출 수 없어</p>
+<p t="46517" d="766" wp="3" ws="1" p="17">​Bang Bang!</p>
+<p t="46517" d="766" wp="2" ws="1" p="2">​누구도 멈출 수 없어</p>
+<p t="47283" d="2434" wp="2" ws="1"><s p="2">​일어</s><s>​</s><s p="2" t="160">​서</s><s p="2" t="840">​라 </s><s p="2" t="1320">​청</s><s p="2" t="1850">​중</s></p>
+<p t="49717" d="1400" wp="2" ws="1" p="2">​하늘 향해 Put your hands up</p>
+<p t="51117" d="700" wp="3" ws="1" p="16">​Alright!</p>
+<p t="51117" d="700" wp="2" ws="1" p="2">​하늘 향해 Put your hands up</p>
+<p t="51817" d="2666" wp="2" ws="1"><s p="2">​울</s><s>​</s><s p="2" t="290">​려 </s><s p="2" t="870">​퍼</s><s p="2" t="1440">​지</s><s p="2" t="2060">​는</s></p>
+<p t="54483" d="1434" wp="2" ws="1" p="2">​이 비트를 타고</p>
+<p t="55917" d="600" wp="3" ws="1" p="18">​Bang Bang!</p>
+<p t="55917" d="600" wp="2" ws="1" p="2">​이 비트를 타고</p>
+<p t="56817" d="33" wp="2" ws="1" p="19">​WataAme WataAme Pop...</p>
+<p t="56850" d="33" wp="2" ws="1" p="20">​WataAme WataAme Pop...</p>
+<p t="56883" d="34" wp="2" ws="1" p="21">​WataAme WataAme Pop...</p>
+<p t="56917" d="33" wp="2" ws="1" p="22">​WataAme WataAme Pop...</p>
+<p t="56950" d="33" wp="2" ws="1" p="23">​WataAme WataAme Pop...</p>
+<p t="56983" d="34" wp="2" ws="1" p="24">​WataAme WataAme Pop...</p>
+<p t="57017" d="33" wp="2" ws="1" p="25">​WataAme WataAme Pop...</p>
+<p t="57050" d="33" wp="2" ws="1" p="26">​WataAme WataAme Pop...</p>
+<p t="57083" d="34" wp="2" ws="1" p="27">​WataAme WataAme Pop...</p>
+<p t="57117" d="33" wp="2" ws="1" p="28">​WataAme WataAme Pop...</p>
+<p t="57150" d="33" wp="2" ws="1" p="29">​WataAme WataAme Pop...</p>
+<p t="57183" d="34" wp="2" ws="1" p="30">​WataAme WataAme Pop...</p>
+<p t="57217" d="33" wp="2" ws="1" p="31">​WataAme WataAme Pop...</p>
+<p t="57250" d="33" wp="2" ws="1" p="32">​WataAme WataAme Pop...</p>
+<p t="57283" d="34" wp="2" ws="1" p="33">​WataAme WataAme Pop...</p>
+<p t="57317" d="33" wp="2" ws="1" p="33">​WataAme WataAme Pop...</p>
+<p t="57350" d="33" wp="2" ws="1" p="34">​WataAme WataAme Pop...</p>
+<p t="57383" d="34" wp="2" ws="1" p="30">​WataAme WataAme Pop...</p>
+<p t="57417" d="33" wp="2" ws="1" p="35">​WataAme WataAme Pop...</p>
+<p t="57450" d="33" wp="2" ws="1" p="36">​WataAme WataAme Pop...</p>
+<p t="57483" d="34" wp="2" ws="1" p="37">​WataAme WataAme Pop...</p>
+<p t="57517" d="33" wp="2" ws="1" p="38">​WataAme WataAme Pop...</p>
+<p t="57550" d="33" wp="2" ws="1" p="39">​WataAme WataAme Pop...</p>
+<p t="57583" d="34" wp="2" ws="1" p="40">​WataAme WataAme Pop...</p>
+<p t="57617" d="33" wp="2" ws="1" p="19">​WataAme WataAme Pop...</p>
+<p t="57650" d="33" wp="2" ws="1" p="19">​WataAme WataAme Pop...</p>
+<p t="57683" d="34" wp="2" ws="1" p="41">​WataAme WataAme Pop...</p>
+<p t="57717" d="33" wp="2" ws="1" p="42">​WataAme WataAme Pop...</p>
+<p t="57750" d="33" wp="2" ws="1" p="43">​WataAme WataAme Pop...</p>
+<p t="57783" d="34" wp="2" ws="1" p="44">​WataAme WataAme Pop...</p>
+<p t="57817" d="33" wp="2" ws="1" p="33">​WataAme WataAme Pop...</p>
+<p t="57850" d="33" wp="2" ws="1" p="33">​WataAme WataAme Pop...</p>
+<p t="57883" d="34" wp="2" ws="1" p="45">​WataAme WataAme Pop...</p>
+<p t="57917" d="33" wp="2" ws="1" p="46">​WataAme WataAme Pop...</p>
+<p t="57950" d="33" wp="2" ws="1" p="47">​WataAme WataAme Pop...</p>
+<p t="57983" d="34" wp="2" ws="1" p="48">​WataAme WataAme Pop...</p>
+<p t="58017" d="33" wp="2" ws="1" p="19">​WataAme WataAme Pop...</p>
+<p t="58050" d="33" wp="2" ws="1" p="49">​WataAme WataAme Pop...</p>
+<p t="58083" d="34" wp="2" ws="1" p="50">​WataAme WataAme Pop...</p>
+<p t="58117" d="33" wp="2" ws="1" p="51">​WataAme WataAme Pop...</p>
+<p t="58150" d="33" wp="2" ws="1" p="52">​WataAme WataAme Pop...</p>
+<p t="58183" d="34" wp="2" ws="1" p="53">​WataAme WataAme Pop...</p>
+<p t="58217" d="133" wp="2" ws="1" p="53">​WataAme WataAme Pop...</p>
+<p t="58350" d="33" wp="2" ws="1" p="53">​WataAme WataAme Pop...</p>
+<p t="58383" d="34" wp="2" ws="1" p="54">​WataAme WataAme Pop...</p>
+<p t="58417" d="33" wp="2" ws="1" p="55">​WataAme WataAme Pop...</p>
+<p t="58450" d="33" wp="2" ws="1" p="56">​WataAme WataAme Pop...</p>
+<p t="58483" d="34" wp="2" ws="1" p="57">​WataAme WataAme Pop...</p>
+<p t="58517" d="33" wp="2" ws="1" p="58">​WataAme WataAme Pop...</p>
+<p t="58550" d="33" wp="2" ws="1" p="59">​WataAme WataAme Pop...</p>
+<p t="58583" d="34" wp="2" ws="1" p="60">​WataAme WataAme Pop...</p>
+<p t="58617" d="33" wp="2" ws="1" p="61">​WataAme WataAme Pop...</p>
+<p t="58650" d="33" wp="2" ws="1" p="62">​WataAme WataAme Pop...</p>
+<p t="58683" d="34" wp="2" ws="1" p="63">​WataAme WataAme Pop...</p>
+<p t="58717" d="33" wp="2" ws="1" p="63">​WataAme WataAme Pop...</p>
+<p t="58750" d="33" wp="2" ws="1" p="64">​WataAme WataAme Pop...</p>
+<p t="58783" d="34" wp="2" ws="1" p="65">​WataAme WataAme Pop...</p>
+<p t="58817" d="33" wp="2" ws="1" p="66">​WataAme WataAme Pop...</p>
+<p t="58850" d="33" wp="2" ws="1" p="67">​WataAme WataAme Pop...</p>
+<p t="58883" d="34" wp="2" ws="1" p="68">​WataAme WataAme Pop...</p>
+<p t="58917" d="33" wp="2" ws="1" p="53">​WataAme WataAme Pop...</p>
+<p t="58950" d="33" wp="2" ws="1" p="53">​WataAme WataAme Pop...</p>
+<p t="58983" d="34" wp="2" ws="1" p="54">​WataAme WataAme Pop...</p>
+<p t="59017" d="33" wp="2" ws="1" p="55">​WataAme WataAme Pop...</p>
+<p t="59050" d="33" wp="2" ws="1" p="56">​WataAme WataAme Pop...</p>
+<p t="59083" d="34" wp="2" ws="1" p="57">​WataAme WataAme Pop...</p>
+<p t="59117" d="33" wp="2" ws="1" p="58">​WataAme WataAme Pop...</p>
+<p t="59150" d="33" wp="2" ws="1" p="59">​WataAme WataAme Pop...</p>
+<p t="59183" d="34" wp="2" ws="1" p="60">​WataAme WataAme Pop...</p>
+<p t="59217" d="33" wp="2" ws="1" p="61">​WataAme WataAme Pop...</p>
+<p t="59250" d="33" wp="2" ws="1" p="62">​WataAme WataAme Pop...</p>
+<p t="59283" d="34" wp="2" ws="1" p="63">​WataAme WataAme Pop...</p>
+<p t="59317" d="33" wp="2" ws="1" p="63">​WataAme WataAme Pop...</p>
+<p t="59350" d="33" wp="2" ws="1" p="69">​WataAme WataAme Pop...</p>
+<p t="59383" d="34" wp="2" ws="1" p="70">​WataAme WataAme Pop...</p>
+<p t="59417" d="33" wp="2" ws="1" p="71">​WataAme WataAme Pop...</p>
+<p t="59450" d="33" wp="2" ws="1" p="66">​WataAme WataAme Pop...</p>
+<p t="59483" d="34" wp="2" ws="1" p="72">​WataAme WataAme Pop...</p>
+<p t="59517" d="33" wp="2" ws="1" p="73">​WataAme WataAme Pop...</p>
+<p t="59550" d="33" wp="2" ws="1" p="74">​WataAme WataAme Pop...</p>
+<p t="59583" d="34" wp="2" ws="1" p="53">​WataAme WataAme Pop...</p>
+<p t="59617" d="33" wp="2" ws="1" p="53">​WataAme WataAme Pop...</p>
+<p t="59650" d="33" wp="2" ws="1" p="55">​WataAme WataAme Pop...</p>
+<p t="59683" d="34" wp="2" ws="1" p="57">​WataAme WataAme Pop...</p>
+<p t="59717" d="33" wp="2" ws="1" p="59">​WataAme WataAme Pop...</p>
+<p t="59750" d="33" wp="2" ws="1" p="61">​WataAme WataAme Pop...</p>
+<p t="59783" d="34" wp="2" ws="1" p="63">​WataAme WataAme Pop...</p>
+<p t="59817" d="33" wp="2" ws="1" p="63">​WataAme WataAme Pop...</p>
+<p t="59850" d="1433" wp="2" ws="1" p="75">​WataAme WataAme Pop...</p>
+<p t="61283" d="1067" wp="2" ws="1" p="76">​WataAme WataAme Pop...</p>
+<p t="62350" d="1367" wp="2" ws="1" p="77">​WataAme WataAme Pop...</p>
+<p t="63717" d="2000" wp="2" ws="1" p="2">​아직 더 할 수 있지?</p>
+<p t="65717" d="2700" wp="2" ws="1" p="2">​아침놀이 하늘을 물들여도</p>
+<p t="68417" d="1900" wp="2" ws="1" p="2">​거리는 조용해</p>
+<p t="70717" d="1233" wp="2" ws="1" p="78">​하지만 이 눈동자는 아직</p>
+<p t="71950" d="700" wp="2" ws="1" p="79">​하지만 이 눈동자는 아직</p>
+<p t="72650" d="900" wp="2" ws="1" p="79">​불타고 있거든 준비 OK?</p>
+<p t="73550" d="1167" wp="2" ws="1" p="80">​불타고 있거든 준비 OK?</p>
+<p t="74717" d="700" wp="2" ws="1"><s p="7">​</s><s>​</s><s p="9">​ ​OK!​ ​</s><s p="7">​</s></p>
+<p t="74717" d="700" wp="2" ws="1"><s p="7">​</s><s>​</s><s p="80">​ ​불타고 있거든 준비 OK?​ ​</s><s p="7">​</s></p>
+<p t="75550" d="967" wp="2" ws="1" p="81">​Ay 좀 더 어때?</p>
+<p t="76517" d="1100" wp="2" ws="1"><s p="7">​</s><s>​</s><s p="9">​ ​좋은 느낌!​ ​</s><s p="7">​</s></p>
+<p t="76517" d="33" wp="2" ws="1"><s p="7">​</s><s>​</s><s p="81">​ ​Ay 좀 더 어때?​ ​</s><s p="7">​</s></p>
+<p t="76550" d="33" wp="2" ws="1"><s p="7">​</s><s>​</s><s p="81">​ ​Ay 좀 더 어때?​ ​</s><s p="7">​</s></p>
+<p t="76583" d="34" wp="2" ws="1"><s p="7">​</s><s>​</s><s p="81">​ ​Ay 좀 더 어때?​ ​</s><s p="7">​</s></p>
+<p t="76617" d="1000" wp="2" ws="1"><s p="7">​</s><s>​</s><s p="81">​ ​Ay 좀 더 어때?​ ​</s><s p="7">​</s></p>
+<p t="77950" d="967" wp="2" ws="1" p="81">​Ay 좀 더 어때?</p>
+<p t="78917" d="1200" wp="2" ws="1"><s p="7">​</s><s>​</s><s p="9">​ ​좋은 느낌!!​ ​</s><s p="7">​</s></p>
+<p t="78917" d="1200" wp="2" ws="1"><s p="7">​</s><s>​</s><s p="81">​ ​Ay 좀 더 어때?​ ​</s><s p="7">​</s></p>
+<p t="80117" d="2333" wp="2" ws="1" p="2">​네게서 파동이 느껴져 와</p>
+<p t="82450" d="2367" wp="2" ws="1" p="2">​멋지네 최고야</p>
+<p t="84950" d="1667" wp="2" ws="1" p="82">​꿈은 like 제트 글라이더</p>
+<p t="86617" d="300" wp="2" ws="1" p="83">​꿈은 like 제트 글라이더</p>
+<p t="86917" d="433" wp="2" ws="1" p="83">​맞바람도 편삼아 슬라이더</p>
+<p t="87350" d="1000" wp="2" ws="1" p="84">​맞바람도 편삼아 슬라이더</p>
+<p t="88350" d="1000" wp="2" ws="1" p="2">​맞바람도 편삼아 슬라이더</p>
+<p t="89750" d="1300" wp="2" ws="1" p="85">​지금 날아오를 거야 우주로</p>
+<p t="91050" d="733" wp="2" ws="1" p="2">​지금 날아오를 거야 우주로</p>
+<p t="91783" d="2134" wp="2" ws="1" p="2">​아무도 남기지 않고 Fly up</p>
+<p t="94150" d="2667" wp="2" ws="1"><s p="2">​일어</s><s>​</s><s p="2" t="400">​서</s><s p="2" t="940">​라 </s><s p="2" t="1490">​청</s><s p="2" t="2070">​중</s></p>
+<p t="96817" d="1433" wp="2" ws="1" p="2">​지금 천원돌파</p>
+<p t="98250" d="633" wp="3" ws="1" p="16">​Alright!</p>
+<p t="98250" d="633" wp="2" ws="1" p="2">​지금 천원돌파</p>
+<p t="98883" d="2467" wp="2" ws="1"><s p="2">​이 </s><s>​</s><s p="2" t="320">​현</s><s p="2" t="850">​장</s><s p="2" t="1460">​감</s><s p="2" t="2040">​은</s></p>
+<p t="101350" d="1600" wp="2" ws="1" p="86">​어디서도 맛볼 수 없어</p>
+<p t="102950" d="633" wp="3" ws="1" p="87">​Bang Bang!</p>
+<p t="102950" d="633" wp="2" ws="1" p="86">​어디서도 맛볼 수 없어</p>
+<p t="103650" d="2033" wp="2" ws="1"><s p="2">​일어</s><s>​</s><s p="2" t="260">​서</s><s p="2" t="820">​라 </s><s p="2" t="1330">​청</s><s p="2" t="1840">​중</s></p>
+<p t="105683" d="500" wp="2" ws="1" p="88">​일어서라 청중</p>
+<p t="106183" d="600" wp="2" ws="1" p="88">​하늘 향해 Put your hands up</p>
+<p t="106783" d="900" wp="2" ws="1" p="89">​하늘 향해 Put your hands up</p>
+<p t="107683" d="634" wp="3" ws="1" p="16">​Alright!</p>
+<p t="107683" d="634" wp="2" ws="1" p="89">​하늘 향해 Put your hands up</p>
+<p t="108317" d="2600" wp="2" ws="1"><s p="2">​울</s><s>​</s><s p="2" t="330">​려 </s><s p="2" t="800">​퍼</s><s p="2" t="1440">​져</s><s p="2" t="2050">​라</s></p>
+<p t="110917" d="1466" wp="2" ws="1" p="2">​이 비트를 타고</p>
+<p t="112383" d="900" wp="3" ws="1" p="16">​Bang Bang!</p>
+<p t="112383" d="900" wp="2" ws="1" p="2">​이 비트를 타고</p>
+<p t="114150" d="867" wp="2" ws="1" p="2">​Ah ah yeah!</p>
+<p t="116217" d="400" wp="2" ws="1" p="90">​Make some noise!</p>
+<p t="116617" d="1333" wp="2" ws="1" p="2">​Make some noise!</p>
+<p t="120617" d="1200" wp="2" ws="1" p="2">​OK? Come on!</p>
+<p t="122017" d="133" wp="2" ws="1" p="91">​Say Oh yeah!</p>
+<p t="122150" d="33" wp="2" ws="1" p="91">​Say Oh yeah!</p>
+<p t="122183" d="34" wp="2" ws="1" p="92">​Say Oh yeah!</p>
+<p t="122217" d="33" wp="2" ws="1" p="93">​Say Oh yeah!</p>
+<p t="122250" d="33" wp="2" ws="1" p="94">​Say Oh yeah!</p>
+<p t="122283" d="34" wp="2" ws="1" p="95">​Say Oh yeah!</p>
+<p t="122317" d="33" wp="2" ws="1" p="96">​Say Oh yeah!</p>
+<p t="122350" d="33" wp="2" ws="1" p="97">​Say Oh yeah!</p>
+<p t="122383" d="34" wp="2" ws="1" p="98">​Say Oh yeah!</p>
+<p t="122417" d="33" wp="2" ws="1" p="99">​Say Oh yeah!</p>
+<p t="122450" d="33" wp="2" ws="1" p="100">​Say Oh yeah!</p>
+<p t="122483" d="34" wp="2" ws="1" p="101">​Say Oh yeah!</p>
+<p t="122517" d="33" wp="2" ws="1" p="102">​Say Oh yeah!</p>
+<p t="122550" d="33" wp="2" ws="1" p="103">​Say Oh yeah!</p>
+<p t="122583" d="34" wp="2" ws="1" p="103">​Say Oh yeah!</p>
+<p t="122617" d="33" wp="2" ws="1" p="104">​Say Oh yeah!</p>
+<p t="122650" d="33" wp="2" ws="1" p="105">​Say Oh yeah!</p>
+<p t="122683" d="34" wp="2" ws="1" p="106">​Say Oh yeah!</p>
+<p t="122717" d="33" wp="2" ws="1" p="107">​Say Oh yeah!</p>
+<p t="122750" d="33" wp="2" ws="1" p="108">​Say Oh yeah!</p>
+<p t="122783" d="34" wp="2" ws="1" p="109">​Say Oh yeah!</p>
+<p t="122817" d="33" wp="2" ws="1" p="109">​Say Oh yeah!</p>
+<p t="122850" d="33" wp="2" ws="1" p="110">​Say Oh yeah!</p>
+<p t="122883" d="34" wp="2" ws="1" p="111">​Say Oh yeah!</p>
+<p t="122917" d="33" wp="2" ws="1" p="112">​Say Oh yeah!</p>
+<p t="122950" d="33" wp="2" ws="1" p="113">​Say Oh yeah!</p>
+<p t="122983" d="34" wp="2" ws="1" p="114">​Say Oh yeah!</p>
+<p t="123017" d="33" wp="2" ws="1" p="115">​Say Oh yeah!</p>
+<p t="123050" d="33" wp="2" ws="1" p="116">​Say Oh yeah!</p>
+<p t="123083" d="34" wp="2" ws="1" p="117">​Say Oh yeah!</p>
+<p t="123117" d="33" wp="2" ws="1" p="117">​Say Oh yeah!</p>
+<p t="123150" d="33" wp="2" ws="1" p="118">​Say Oh yeah!</p>
+<p t="123183" d="34" wp="2" ws="1" p="119">​Say Oh yeah!</p>
+<p t="123217" d="33" wp="2" ws="1" p="120">​Say Oh yeah!</p>
+<p t="123250" d="33" wp="2" ws="1" p="121">​Say Oh yeah!</p>
+<p t="123283" d="34" wp="2" ws="1" p="122">​Say Oh yeah!</p>
+<p t="123317" d="33" wp="2" ws="1" p="123">​Say Oh yeah!</p>
+<p t="123350" d="33" wp="2" ws="1" p="124">​Say Oh yeah!</p>
+<p t="123383" d="34" wp="2" ws="1" p="125">​Say Oh yeah!</p>
+<p t="124650" d="33" wp="2" ws="1" p="126">​Oh yeah!</p>
+<p t="124683" d="34" wp="2" ws="1" p="127">​Oh yeah!</p>
+<p t="124717" d="33" wp="2" ws="1" p="128">​Oh yeah!</p>
+<p t="124750" d="33" wp="2" ws="1" p="128">​Oh yeah!</p>
+<p t="124783" d="34" wp="2" ws="1" p="129">​Oh yeah!</p>
+<p t="124817" d="33" wp="2" ws="1" p="130">​Oh yeah!</p>
+<p t="124850" d="67" wp="2" ws="1" p="130">​Oh yeah!</p>
+<p t="124917" d="33" wp="2" ws="1" p="130">​Oh yeah!</p>
+<p t="124950" d="33" wp="2" ws="1" p="131">​Oh yeah!</p>
+<p t="124983" d="34" wp="2" ws="1" p="132">​Oh yeah!</p>
+<p t="125017" d="33" wp="2" ws="1" p="133">​Oh yeah!</p>
+<p t="125050" d="33" wp="2" ws="1" p="134">​Oh yeah!</p>
+<p t="125083" d="34" wp="2" ws="1" p="135">​Oh yeah!</p>
+<p t="125117" d="33" wp="2" ws="1" p="136">​Oh yeah!</p>
+<p t="125150" d="33" wp="2" ws="1" p="137">​Oh yeah!</p>
+<p t="125183" d="34" wp="2" ws="1" p="138">​Oh yeah!</p>
+<p t="125217" d="33" wp="2" ws="1" p="139">​Oh yeah!</p>
+<p t="125250" d="67" wp="2" ws="1" p="139">​Oh yeah!</p>
+<p t="125317" d="33" wp="2" ws="1" p="139">​Oh yeah!</p>
+<p t="125350" d="33" wp="2" ws="1" p="140">​Oh yeah!</p>
+<p t="125383" d="34" wp="2" ws="1" p="141">​Oh yeah!</p>
+<p t="125417" d="33" wp="2" ws="1" p="142">​Oh yeah!</p>
+<p t="125450" d="33" wp="2" ws="1" p="143">​Oh yeah!</p>
+<p t="125483" d="34" wp="2" ws="1" p="144">​Oh yeah!</p>
+<p t="125517" d="33" wp="2" ws="1" p="145">​Oh yeah!</p>
+<p t="125550" d="33" wp="2" ws="1" p="146">​Oh yeah!</p>
+<p t="125583" d="34" wp="2" ws="1" p="147">​Oh yeah!</p>
+<p t="125617" d="33" wp="2" ws="1" p="148">​Oh yeah!</p>
+<p t="125650" d="33" wp="2" ws="1" p="148">​Oh yeah!</p>
+<p t="125683" d="34" wp="2" ws="1" p="149">​Oh yeah!</p>
+<p t="125717" d="33" wp="2" ws="1" p="150">​Oh yeah!</p>
+<p t="125750" d="33" wp="2" ws="1" p="151">​Oh yeah!</p>
+<p t="125783" d="34" wp="2" ws="1" p="151">​Oh yeah!</p>
+<p t="125817" d="33" wp="2" ws="1" p="152">​Oh yeah!</p>
+<p t="125850" d="33" wp="2" ws="1" p="153">​Oh yeah!</p>
+<p t="127117" d="33" wp="2" ws="1"><s p="154">​Oh </s><s>​</s><s p="155">​yeah yeah yeah!</s></p>
+<p t="127150" d="33" wp="2" ws="1"><s p="156">​Oh </s><s>​</s><s p="155">​yeah yeah yeah!</s></p>
+<p t="127183" d="34" wp="2" ws="1"><s p="157">​Oh </s><s>​</s><s p="155">​yeah yeah yeah!</s></p>
+<p t="127217" d="33" wp="2" ws="1"><s p="158">​Oh </s><s>​</s><s p="155">​yeah yeah yeah!</s></p>
+<p t="127250" d="33" wp="2" ws="1"><s p="159">​Oh </s><s>​</s><s p="155">​yeah yeah yeah!</s></p>
+<p t="127283" d="34" wp="2" ws="1"><s p="160">​Oh </s><s>​</s><s p="155">​yeah yeah yeah!</s></p>
+<p t="127317" d="33" wp="2" ws="1"><s p="161">​Oh </s><s>​</s><s p="155">​yeah yeah yeah!</s></p>
+<p t="127350" d="33" wp="2" ws="1"><s p="162">​Oh </s><s>​</s><s p="155">​yeah yeah yeah!</s></p>
+<p t="127383" d="34" wp="2" ws="1"><s p="163">​Oh yeah </s><s>​</s><s p="155">​yeah yeah!</s></p>
+<p t="127417" d="33" wp="2" ws="1"><s p="163">​Oh yeah </s><s>​</s><s p="155">​yeah yeah!</s></p>
+<p t="127450" d="33" wp="2" ws="1"><s p="164">​Oh yeah </s><s>​</s><s p="155">​yeah yeah!</s></p>
+<p t="127483" d="34" wp="2" ws="1"><s p="165">​Oh yeah </s><s>​</s><s p="155">​yeah yeah!</s></p>
+<p t="127517" d="33" wp="2" ws="1"><s p="166">​Oh yeah </s><s>​</s><s p="155">​yeah yeah!</s></p>
+<p t="127550" d="33" wp="2" ws="1"><s p="167">​Oh yeah </s><s>​</s><s p="155">​yeah yeah!</s></p>
+<p t="127583" d="34" wp="2" ws="1"><s p="168">​Oh yeah </s><s>​</s><s p="155">​yeah yeah!</s></p>
+<p t="127617" d="33" wp="2" ws="1"><s p="169">​Oh yeah </s><s>​</s><s p="155">​yeah yeah!</s></p>
+<p t="127650" d="33" wp="2" ws="1"><s p="170">​Oh yeah </s><s>​</s><s p="155">​yeah yeah!</s></p>
+<p t="127683" d="34" wp="2" ws="1"><s p="171">​Oh yeah yeah </s><s>​</s><s p="155">​yeah!</s></p>
+<p t="127717" d="33" wp="2" ws="1"><s p="171">​Oh yeah yeah </s><s>​</s><s p="155">​yeah!</s></p>
+<p t="127750" d="33" wp="2" ws="1"><s p="172">​Oh yeah yeah </s><s>​</s><s p="155">​yeah!</s></p>
+<p t="127783" d="34" wp="2" ws="1"><s p="173">​Oh yeah yeah </s><s>​</s><s p="155">​yeah!</s></p>
+<p t="127817" d="33" wp="2" ws="1"><s p="174">​Oh yeah yeah </s><s>​</s><s p="155">​yeah!</s></p>
+<p t="127850" d="33" wp="2" ws="1"><s p="175">​Oh yeah yeah </s><s>​</s><s p="155">​yeah!</s></p>
+<p t="127883" d="34" wp="2" ws="1"><s p="176">​Oh yeah yeah </s><s>​</s><s p="155">​yeah!</s></p>
+<p t="127917" d="33" wp="2" ws="1"><s p="177">​Oh yeah yeah </s><s>​</s><s p="155">​yeah!</s></p>
+<p t="127950" d="33" wp="2" ws="1"><s p="178">​Oh yeah yeah </s><s>​</s><s p="155">​yeah!</s></p>
+<p t="127983" d="34" wp="2" ws="1" p="154">​Oh yeah yeah yeah!</p>
+<p t="128017" d="33" wp="2" ws="1" p="154">​Oh yeah yeah yeah!</p>
+<p t="128050" d="33" wp="2" ws="1" p="156">​Oh yeah yeah yeah!</p>
+<p t="129217" d="300" wp="2" ws="1" p="2">​이 가슴에 새겨넣어</p>
+<p t="129517" d="33" wp="2" ws="1" p="2">​이 가슴에 새겨넣어</p>
+<p t="129550" d="33" wp="2" ws="1" p="179">​이 가슴에 새겨넣어</p>
+<p t="129583" d="34" wp="2" ws="1" p="180">​이 가슴에 새겨넣어</p>
+<p t="129617" d="100" wp="2" ws="1" p="180">​이 가슴에 새겨넣어</p>
+<p t="129717" d="33" wp="2" ws="1" p="180">​이 가슴에 새겨넣어</p>
+<p t="129750" d="33" wp="2" ws="1" p="181">​이 가슴에 새겨넣어</p>
+<p t="129783" d="34" wp="2" ws="1" p="182">​이 가슴에 새겨넣어</p>
+<p t="129817" d="33" wp="2" ws="1" p="182">​이 가슴에 새겨넣어</p>
+<p t="129850" d="33" wp="2" ws="1" p="183">​이 가슴에 새겨넣어</p>
+<p t="129883" d="34" wp="2" ws="1" p="2">​이 가슴에 새겨넣어</p>
+<p t="129917" d="866" wp="2" ws="1" p="2">​이 가슴에 새겨넣어</p>
+<p t="130783" d="34" wp="2" ws="1" p="184">​이 가슴에 새겨넣어</p>
+<p t="130817" d="33" wp="2" ws="1" p="185">​이 가슴에 새겨넣어</p>
+<p t="130850" d="33" wp="2" ws="1" p="186">​이 가슴에 새겨넣어</p>
+<p t="130883" d="34" wp="2" ws="1" p="187">​이 가슴에 새겨넣어</p>
+<p t="130917" d="33" wp="2" ws="1" p="188">​이 가슴에 새겨넣어</p>
+<p t="130950" d="33" wp="2" ws="1" p="188">​이 가슴에 새겨넣어</p>
+<p t="130983" d="34" wp="2" ws="1" p="2">​이 가슴에 새겨넣어</p>
+<p t="131017" d="633" wp="2" ws="1" p="2">​이 가슴에 새겨넣어</p>
+<p t="131850" d="2600" wp="2" ws="1"><s p="189">​일어</s><s>​</s><s p="189" t="290">​서</s><s p="189" t="850">​라 </s><s p="189" t="1430">​청</s><s p="189" t="1920">​중</s></p>
+<p t="134450" d="1533" wp="2" ws="1" p="189">​지금 한계돌파</p>
+<p t="135983" d="534" wp="3" ws="1" p="16">​Alright!</p>
+<p t="135983" d="534" wp="2" ws="1" p="2">​지금 한계돌파</p>
+<p t="136517" d="2766" wp="2" ws="1"><s p="2">​이 </s><s>​</s><s p="2" t="350">​고</s><s p="2" t="920">​양</s><s p="2" t="1490">​감</s><s p="2" t="2080">​은</s></p>
+<p t="139283" d="1334" wp="2" ws="1" p="189">​누구도 멈출 수 없어</p>
+<p t="140617" d="600" wp="3" ws="1" p="16">​Bang Bang!</p>
+<p t="140617" d="600" wp="2" ws="1" p="189">​누구도 멈출 수 없어</p>
+<p t="141217" d="2700" wp="2" ws="1"><s p="189">​일어</s><s>​</s><s p="189" t="400">​서</s><s p="189" t="920">​라 </s><s p="189" t="1490">​청</s><s p="189" t="2070">​중</s></p>
+<p t="143917" d="1400" wp="2" ws="1" p="189">​하늘 향해 Put your hands up</p>
+<p t="145317" d="633" wp="3" ws="1" p="16">​Alright!</p>
+<p t="145317" d="633" wp="2" ws="1" p="189">​하늘 향해 Put your hands up</p>
+<p t="145950" d="2600" wp="2" ws="1"><s p="189">​울</s><s>​</s><s p="189" t="280">​려 </s><s p="189" t="870">​퍼</s><s p="189" t="1440">​지</s><s p="189" t="2080">​는</s></p>
+<p t="148550" d="1500" wp="2" ws="1" p="189">​이 비트를 타고</p>
+<p t="150050" d="800" wp="3" ws="1" p="16">​Bang Bang!</p>
+<p t="150050" d="800" wp="2" ws="1" p="189">​이 비트를 타고</p>
+<p t="150850" d="2433" wp="2" ws="1"><s p="190">​일어</s><s>​</s><s p="190" t="90">​서</s><s p="190" t="620">​라 </s><s p="190" t="1240">​청</s><s p="190" t="1730">​중</s></p>
+<p t="153283" d="1434" wp="2" ws="1" p="190">​지금 천원돌파</p>
+<p t="154717" d="600" wp="3" ws="1" p="16">​Alright!</p>
+<p t="154717" d="600" wp="2" ws="1" p="190">​지금 천원돌파</p>
+<p t="155317" d="2666" wp="2" ws="1"><s p="190">​이 </s><s>​</s><s p="190" t="320">​현</s><s p="190" t="920">​장</s><s p="190" t="1490">​감</s><s p="190" t="2080">​은</s></p>
+<p t="157983" d="1467" wp="2" ws="1" p="190">​어디서도 맛볼 수 없어</p>
+<p t="159450" d="400" wp="3" ws="1" p="16">​Bang Bang!</p>
+<p t="159450" d="400" wp="2" ws="1" p="190">​어디서도 맛볼 수 없어</p>
+<p t="160183" d="2500" wp="2" ws="1"><s p="189">​일어</s><s>​</s><s p="189" t="200">​서</s><s p="189" t="750">​라 </s><s p="189" t="1320">​청</s><s p="189" t="1860">​중</s></p>
+<p t="162683" d="400" wp="2" ws="1" p="189">​목이 말라버릴 때까지</p>
+<p t="163083" d="34" wp="2" ws="1" p="189">​목이 말라버릴 때까지</p>
+<p t="163117" d="33" wp="2" ws="1"><s p="189">​목이 말라버릴 때</s><s>​</s><s p="191">​까지</s></p>
+<p t="163150" d="33" wp="2" ws="1"><s p="189">​목이 말라버릴 때</s><s>​</s><s p="192">​까지</s></p>
+<p t="163183" d="34" wp="2" ws="1"><s p="189">​목이 말라버릴 때</s><s>​</s><s p="193">​까지</s></p>
+<p t="163217" d="33" wp="2" ws="1"><s p="189">​목이 말라버릴 때</s><s>​</s><s p="194">​까지</s></p>
+<p t="163250" d="33" wp="2" ws="1"><s p="189">​목이 말라버릴 때</s><s>​</s><s p="194">​까지</s></p>
+<p t="163283" d="767" wp="2" ws="1" p="2">​목이 말라버릴 때까지</p>
+<p t="164050" d="600" wp="3" ws="1" p="16">​Alright!</p>
+<p t="164050" d="33" wp="2" ws="1" p="2">​목이 말라버릴 때까지</p>
+<p t="164083" d="34" wp="2" ws="1" p="195">​목이 말라버릴 때까지</p>
+<p t="164117" d="33" wp="2" ws="1" p="196">​목이 말라버릴 때까지</p>
+<p t="164150" d="33" wp="2" ws="1" p="197">​목이 말라버릴 때까지</p>
+<p t="164183" d="34" wp="2" ws="1" p="198">​목이 말라버릴 때까지</p>
+<p t="164217" d="33" wp="2" ws="1" p="199">​목이 말라버릴 때까지</p>
+<p t="164250" d="33" wp="2" ws="1" p="200">​목이 말라버릴 때까지</p>
+<p t="164283" d="34" wp="2" ws="1" p="201">​목이 말라버릴 때까지</p>
+<p t="164317" d="33" wp="2" ws="1" p="202">​목이 말라버릴 때까지</p>
+<p t="164350" d="67" wp="2" ws="1" p="202">​목이 말라버릴 때까지</p>
+<p t="164417" d="33" wp="2" ws="1" p="202">​목이 말라버릴 때까지</p>
+<p t="164450" d="33" wp="2" ws="1" p="2">​목이 말라버릴 때까지</p>
+<p t="164483" d="167" wp="2" ws="1" p="2">​목이 말라버릴 때까지</p>
+<p t="164650" d="2667" wp="2" ws="1"><s p="189">​울</s><s>​</s><s p="189" t="320">​려 </s><s p="189" t="890">​퍼</s><s p="189" t="1440">​져</s><s p="189" t="2070">​라</s></p>
+<p t="167317" d="1400" wp="2" ws="1" p="189">​이 비트를 타고</p>
+<p t="168717" d="633" wp="3" ws="1" p="16">​Bang Bang!</p>
+<p t="168717" d="633" wp="2" ws="1" p="2">​이 비트를 타고</p>
+<p t="169750" d="2367" wp="2" ws="1" p="190">​WataAme WataAme Pop...</p>
+<p t="172117" d="1833" wp="2" ws="1" p="190">​WataAme WataAme Pop...</p>
+<p t="173950" d="33" wp="2" ws="1" p="203">​WataAme WataAme Pop...</p>
+<p t="173983" d="34" wp="2" ws="1" p="204">​WataAme WataAme Pop...</p>
+<p t="174017" d="33" wp="2" ws="1" p="205">​WataAme WataAme Pop...</p>
+<p t="174050" d="33" wp="2" ws="1" p="206">​WataAme WataAme Pop...</p>
+<p t="174083" d="34" wp="2" ws="1" p="207">​WataAme WataAme Pop...</p>
+<p t="174117" d="33" wp="2" ws="1" p="208">​WataAme WataAme Pop...</p>
+<p t="174150" d="33" wp="2" ws="1" p="209">​WataAme WataAme Pop...</p>
+<p t="174183" d="34" wp="2" ws="1" p="210">​WataAme WataAme Pop...</p>
+<p t="174217" d="33" wp="2" ws="1" p="211">​WataAme WataAme Pop...</p>
+<p t="174250" d="33" wp="2" ws="1" p="211">​WataAme WataAme Pop...</p>
+<p t="174283" d="34" wp="2" ws="1" p="212">​WataAme WataAme Pop...</p>
+<p t="174317" d="33" wp="2" ws="1" p="213">​WataAme WataAme Pop...</p>
+<p t="174350" d="33" wp="2" ws="1" p="214">​WataAme WataAme Pop...</p>
+<p t="174383" d="34" wp="2" ws="1" p="215">​WataAme WataAme Pop...</p>
+<p t="174417" d="33" wp="2" ws="1" p="203">​WataAme WataAme Pop...</p>
+<p t="174450" d="33" wp="2" ws="1" p="203">​WataAme WataAme Pop...</p>
+<p t="174483" d="34" wp="2" ws="1" p="204">​WataAme WataAme Pop...</p>
+<p t="174517" d="33" wp="2" ws="1" p="205">​WataAme WataAme Pop...</p>
+<p t="174550" d="33" wp="2" ws="1" p="206">​WataAme WataAme Pop...</p>
+<p t="174583" d="34" wp="2" ws="1" p="207">​WataAme WataAme Pop...</p>
+<p t="174617" d="33" wp="2" ws="1" p="208">​WataAme WataAme Pop...</p>
+<p t="174650" d="33" wp="2" ws="1" p="209">​WataAme WataAme Pop...</p>
+<p t="174683" d="34" wp="2" ws="1" p="210">​WataAme WataAme Pop...</p>
+<p t="174717" d="33" wp="2" ws="1" p="211">​WataAme WataAme Pop...</p>
+<p t="174750" d="33" wp="2" ws="1" p="211">​WataAme WataAme Pop...</p>
+<p t="174783" d="34" wp="2" ws="1" p="211">​WataAme WataAme Pop...</p>
+<p t="174817" d="33" wp="2" ws="1" p="216">​WataAme WataAme Pop...</p>
+<p t="174850" d="33" wp="2" ws="1" p="217">​WataAme WataAme Pop...</p>
+<p t="174883" d="34" wp="2" ws="1" p="218">​WataAme WataAme Pop...</p>
+<p t="174917" d="33" wp="2" ws="1" p="219">​WataAme WataAme Pop...</p>
+<p t="174950" d="33" wp="2" ws="1" p="220">​WataAme WataAme Pop...</p>
+<p t="174983" d="34" wp="2" ws="1" p="221">​WataAme WataAme Pop...</p>
+<p t="175017" d="33" wp="2" ws="1" p="203">​WataAme WataAme Pop...</p>
+<p t="175050" d="33" wp="2" ws="1" p="203">​WataAme WataAme Pop...</p>
+<p t="175083" d="34" wp="2" ws="1" p="222">​WataAme WataAme Pop...</p>
+<p t="175117" d="33" wp="2" ws="1" p="223">​WataAme WataAme Pop...</p>
+<p t="175150" d="33" wp="2" ws="1" p="224">​WataAme WataAme Pop...</p>
+<p t="175183" d="34" wp="2" ws="1" p="225">​WataAme WataAme Pop...</p>
+<p t="175217" d="33" wp="2" ws="1" p="226">​WataAme WataAme Pop...</p>
+<p t="175250" d="33" wp="2" ws="1" p="227">​WataAme WataAme Pop...</p>
+<p t="175283" d="34" wp="2" ws="1" p="228">​WataAme WataAme Pop...</p>
+<p t="175317" d="33" wp="2" ws="1" p="229">​WataAme WataAme Pop...</p>
+<p t="175350" d="33" wp="2" ws="1" p="230">​WataAme WataAme Pop...</p>
+<p t="175383" d="34" wp="2" ws="1" p="231">​WataAme WataAme Pop...</p>
+<p t="175417" d="33" wp="2" ws="1" p="211">​WataAme WataAme Pop...</p>
+<p t="175450" d="33" wp="2" ws="1" p="211">​WataAme WataAme Pop...</p>
+<p t="175483" d="34" wp="2" ws="1" p="232">​WataAme WataAme Pop...</p>
+<p t="175517" d="33" wp="2" ws="1" p="233">​WataAme WataAme Pop...</p>
+<p t="175550" d="33" wp="2" ws="1" p="234">​WataAme WataAme Pop...</p>
+<p t="175583" d="34" wp="2" ws="1" p="235">​WataAme WataAme Pop...</p>
+<p t="175617" d="33" wp="2" ws="1" p="236">​WataAme WataAme Pop...</p>
+<p t="175650" d="33" wp="2" ws="1" p="237">​WataAme WataAme Pop...</p>
+<p t="175683" d="34" wp="2" ws="1" p="238">​WataAme WataAme Pop...</p>
+<p t="175717" d="33" wp="2" ws="1" p="203">​WataAme WataAme Pop...</p>
+<p t="175750" d="33" wp="2" ws="1" p="203">​WataAme WataAme Pop...</p>
+<p t="175783" d="34" wp="2" ws="1" p="222">​WataAme WataAme Pop...</p>
+<p t="175817" d="33" wp="2" ws="1" p="223">​WataAme WataAme Pop...</p>
+<p t="175850" d="33" wp="2" ws="1" p="224">​WataAme WataAme Pop...</p>
+<p t="175883" d="34" wp="2" ws="1" p="225">​WataAme WataAme Pop...</p>
+<p t="175917" d="33" wp="2" ws="1" p="226">​WataAme WataAme Pop...</p>
+<p t="175950" d="33" wp="2" ws="1" p="227">​WataAme WataAme Pop...</p>
+<p t="175983" d="34" wp="2" ws="1" p="228">​WataAme WataAme Pop...</p>
+<p t="176017" d="33" wp="2" ws="1" p="229">​WataAme WataAme Pop...</p>
+<p t="176050" d="33" wp="2" ws="1" p="230">​WataAme WataAme Pop...</p>
+<p t="176083" d="34" wp="2" ws="1" p="231">​WataAme WataAme Pop...</p>
+<p t="176117" d="33" wp="2" ws="1" p="211">​WataAme WataAme Pop...</p>
+<p t="176150" d="33" wp="2" ws="1" p="211">​WataAme WataAme Pop...</p>
+<p t="176183" d="34" wp="2" ws="1" p="232">​WataAme WataAme Pop...</p>
+<p t="176217" d="33" wp="2" ws="1" p="233">​WataAme WataAme Pop...</p>
+<p t="176250" d="33" wp="2" ws="1" p="234">​WataAme WataAme Pop...</p>
+<p t="176283" d="34" wp="2" ws="1" p="235">​WataAme WataAme Pop...</p>
+<p t="176317" d="900" wp="2" ws="1" p="2">​너희 최고야 자 좀 더 즐겁게</p>
+<p t="177217" d="33" wp="2" ws="1" p="2">​너희 최고야 자 좀 더 즐겁게</p>
+<p t="177250" d="33" wp="2" ws="1" p="239">​너희 최고야 자 좀 더 즐겁게</p>
+<p t="177283" d="34" wp="2" ws="1" p="240">​너희 최고야 자 좀 더 즐겁게</p>
+<p t="177317" d="33" wp="2" ws="1" p="241">​너희 최고야 자 좀 더 즐겁게</p>
+<p t="177350" d="33" wp="2" ws="1" p="242">​너희 최고야 자 좀 더 즐겁게</p>
+<p t="177383" d="34" wp="2" ws="1" p="243">​너희 최고야 자 좀 더 즐겁게</p>
+<p t="177417" d="33" wp="2" ws="1" p="244">​너희 최고야 자 좀 더 즐겁게</p>
+<p t="177450" d="33" wp="2" ws="1" p="245">​너희 최고야 자 좀 더 즐겁게</p>
+<p t="177483" d="67" wp="2" ws="1" p="245">​너희 최고야 자 좀 더 즐겁게</p>
+<p t="177550" d="1267" wp="2" ws="1" p="246">​너희 최고야 자 좀 더 즐겁게</p>
+<p t="178817" d="2033" wp="2" ws="1" p="2">​WataAme WataAme Pop...</p>
+<p t="180850" d="2467" wp="2" ws="1" p="247">​WataAme WataAme Pop...</p>
+<p t="183317" d="33" wp="2" ws="1" p="203">​WataAme WataAme Pop...</p>
+<p t="183350" d="33" wp="2" ws="1" p="248">​WataAme WataAme Pop...</p>
+<p t="183383" d="34" wp="2" ws="1" p="249">​WataAme WataAme Pop...</p>
+<p t="183417" d="33" wp="2" ws="1" p="250">​WataAme WataAme Pop...</p>
+<p t="183450" d="33" wp="2" ws="1" p="251">​WataAme WataAme Pop...</p>
+<p t="183483" d="34" wp="2" ws="1" p="252">​WataAme WataAme Pop...</p>
+<p t="183517" d="33" wp="2" ws="1" p="253">​WataAme WataAme Pop...</p>
+<p t="183550" d="33" wp="2" ws="1" p="211">​WataAme WataAme Pop...</p>
+<p t="183583" d="34" wp="2" ws="1" p="211">​WataAme WataAme Pop...</p>
+<p t="183617" d="33" wp="2" ws="1" p="216">​WataAme WataAme Pop...</p>
+<p t="183650" d="33" wp="2" ws="1" p="217">​WataAme WataAme Pop...</p>
+<p t="183683" d="34" wp="2" ws="1" p="218">​WataAme WataAme Pop...</p>
+<p t="183717" d="33" wp="2" ws="1" p="219">​WataAme WataAme Pop...</p>
+<p t="183750" d="33" wp="2" ws="1" p="220">​WataAme WataAme Pop...</p>
+<p t="183783" d="34" wp="2" ws="1" p="221">​WataAme WataAme Pop...</p>
+<p t="183817" d="33" wp="2" ws="1" p="203">​WataAme WataAme Pop...</p>
+<p t="183850" d="33" wp="2" ws="1" p="203">​WataAme WataAme Pop...</p>
+<p t="183883" d="34" wp="2" ws="1" p="254">​WataAme WataAme Pop...</p>
+<p t="183917" d="33" wp="2" ws="1" p="255">​WataAme WataAme Pop...</p>
+<p t="183950" d="33" wp="2" ws="1" p="207">​WataAme WataAme Pop...</p>
+<p t="183983" d="34" wp="2" ws="1" p="256">​WataAme WataAme Pop...</p>
+<p t="184017" d="33" wp="2" ws="1" p="257">​WataAme WataAme Pop...</p>
+<p t="184050" d="33" wp="2" ws="1" p="211">​WataAme WataAme Pop...</p>
+<p t="184083" d="34" wp="2" ws="1" p="211">​WataAme WataAme Pop...</p>
+<p t="184117" d="33" wp="2" ws="1" p="216">​WataAme WataAme Pop...</p>
+<p t="184150" d="33" wp="2" ws="1" p="217">​WataAme WataAme Pop...</p>
+<p t="184183" d="34" wp="2" ws="1" p="218">​WataAme WataAme Pop...</p>
+<p t="184217" d="33" wp="2" ws="1" p="219">​WataAme WataAme Pop...</p>
+<p t="184250" d="33" wp="2" ws="1" p="220">​WataAme WataAme Pop...</p>
+<p t="184283" d="34" wp="2" ws="1" p="221">​WataAme WataAme Pop...</p>
+<p t="184317" d="33" wp="2" ws="1" p="203">​WataAme WataAme Pop...</p>
+<p t="184350" d="33" wp="2" ws="1" p="203">​WataAme WataAme Pop...</p>
+<p t="184383" d="34" wp="2" ws="1" p="258">​WataAme WataAme Pop...</p>
+<p t="184417" d="33" wp="2" ws="1" p="259">​WataAme WataAme Pop...</p>
+<p t="184450" d="33" wp="2" ws="1" p="255">​WataAme WataAme Pop...</p>
+<p t="184483" d="34" wp="2" ws="1" p="260">​WataAme WataAme Pop...</p>
+<p t="184517" d="33" wp="2" ws="1" p="261">​WataAme WataAme Pop...</p>
+<p t="184550" d="33" wp="2" ws="1" p="256">​WataAme WataAme Pop...</p>
+<p t="184583" d="34" wp="2" ws="1" p="262">​WataAme WataAme Pop...</p>
+<p t="184617" d="33" wp="2" ws="1" p="263">​WataAme WataAme Pop...</p>
+<p t="184650" d="33" wp="2" ws="1" p="211">​WataAme WataAme Pop...</p>
+<p t="184683" d="34" wp="2" ws="1" p="211">​WataAme WataAme Pop...</p>
+<p t="184717" d="33" wp="2" ws="1" p="232">​WataAme WataAme Pop...</p>
+<p t="184750" d="33" wp="2" ws="1" p="233">​WataAme WataAme Pop...</p>
+<p t="184783" d="34" wp="2" ws="1" p="234">​WataAme WataAme Pop...</p>
+<p t="184817" d="33" wp="2" ws="1" p="235">​WataAme WataAme Pop...</p>
+<p t="184850" d="33" wp="2" ws="1" p="236">​WataAme WataAme Pop...</p>
+<p t="184883" d="34" wp="2" ws="1" p="237">​WataAme WataAme Pop...</p>
+<p t="184917" d="33" wp="2" ws="1" p="238">​WataAme WataAme Pop...</p>
+<p t="184950" d="33" wp="2" ws="1" p="203">​WataAme WataAme Pop...</p>
+<p t="184983" d="34" wp="2" ws="1" p="203">​WataAme WataAme Pop...</p>
+<p t="185017" d="33" wp="2" ws="1" p="264">​WataAme WataAme Pop...</p>
+<p t="185050" d="33" wp="2" ws="1" p="265">​WataAme WataAme Pop...</p>
+<p t="185083" d="34" wp="2" ws="1" p="266">​WataAme WataAme Pop...</p>
+<p t="185117" d="33" wp="2" ws="1" p="267">​WataAme WataAme Pop...</p>
+<p t="185150" d="33" wp="2" ws="1" p="207">​WataAme WataAme Pop...</p>
+<p t="185183" d="34" wp="2" ws="1" p="268">​WataAme WataAme Pop...</p>
+<p t="185217" d="33" wp="2" ws="1" p="269">​WataAme WataAme Pop...</p>
+<p t="185250" d="33" wp="2" ws="1" p="270">​WataAme WataAme Pop...</p>
+<p t="185283" d="34" wp="2" ws="1" p="271">​WataAme WataAme Pop...</p>
+<p t="185317" d="33" wp="2" ws="1" p="211">​WataAme WataAme Pop...</p>
+<p t="185350" d="33" wp="2" ws="1" p="211">​WataAme WataAme Pop...</p>
+<p t="185383" d="34" wp="2" ws="1" p="216">​WataAme WataAme Pop...</p>
+<p t="185417" d="33" wp="2" ws="1" p="217">​WataAme WataAme Pop...</p>
+<p t="185450" d="33" wp="2" ws="1" p="218">​WataAme WataAme Pop...</p>
+<p t="185483" d="34" wp="2" ws="1" p="219">​WataAme WataAme Pop...</p>
+<p t="185517" d="33" wp="2" ws="1" p="220">​WataAme WataAme Pop...</p>
+<p t="185550" d="33" wp="2" ws="1" p="221">​WataAme WataAme Pop...</p>
+<p t="185583" d="34" wp="2" ws="1" p="203">​WataAme WataAme Pop...</p>
+<p t="185617" d="66" wp="2" ws="1" p="203">​WataAme WataAme Pop...</p>
+<p t="185683" d="1500" wp="2" ws="1" p="2">​너희 최고야 자 좀 더 신나게</p>
+<p t="187183" d="1500" wp="2" ws="1" p="189">​너희 최고야 자 좀 더 신나게</p>
+</body>
+</timedtext>
