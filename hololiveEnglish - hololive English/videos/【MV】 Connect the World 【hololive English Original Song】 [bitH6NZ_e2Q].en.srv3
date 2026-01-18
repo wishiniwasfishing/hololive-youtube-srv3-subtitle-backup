@@ -1,0 +1,806 @@
+<?xml version="1.0" encoding="utf-8" ?><timedtext format="3">
+<head>
+<pen id="1" fc="#000000" fo="0" bo="0" sz="100"/>
+<pen id="2" fc="#A0AAB4" fo="0" bo="0" sz="100"/>
+<pen id="3" fc="#5EDDEE" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="4" fc="#FEFEFE" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="5" fc="#54BBFF" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="6" fc="#FEFEFE" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="7" fc="#E53468" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="8" fc="#D72517" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="9" fc="#FFC4DE" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="10" fc="#ADD198" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="11" fc="#F8DB92" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="12" fc="#B854FF" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="13" fc="#4162FD" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="14" fc="#B99C90" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="15" fc="#FE854E" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="16" fc="#FEBCCC" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="17" fc="#FEB4BB" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="18" fc="#FEADA9" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="19" fc="#FEA598" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="20" fc="#FE9D86" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="21" fc="#FE9675" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="22" fc="#FE8E63" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="23" fc="#FE8652" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="24" fc="#FD8C54" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="25" fc="#FC975C" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="26" fc="#FCA164" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="27" fc="#FBAC6C" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="28" fc="#FAB675" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="29" fc="#F9C07D" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="30" fc="#F9CB85" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="31" fc="#F8D58D" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="32" fc="#EED998" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="33" fc="#DAD5A5" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="34" fc="#C6D1B3" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="35" fc="#B2CDC0" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="36" fc="#9EC9CD" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="37" fc="#8AC5DA" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="38" fc="#76C1E7" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="39" fc="#62BDF5" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="40" fc="#57B7FF" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="41" fc="#63ABFF" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="42" fc="#6F9EFF" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="43" fc="#7B92FF" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="44" fc="#8785FF" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="45" fc="#9379FF" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="46" fc="#9F6CFF" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="47" fc="#AB60FF" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="48" fc="#FEB9C6" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="49" fc="#FEAFAE" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="50" fc="#FEA496" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="51" fc="#FE9A7E" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="52" fc="#FE8F66" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="53" fc="#FD9359" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="54" fc="#FBB070" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="55" fc="#FABE7B" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="56" fc="#F9CC86" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="57" fc="#DCD5A4" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="58" fc="#C1D0B6" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="59" fc="#A6CBC8" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="60" fc="#6FC0EC" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="61" fc="#64A9FF" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="62" fc="#7598FF" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="63" fc="#8687FF" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="64" fc="#9676FF" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="65" fc="#A765FF" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="66" fc="#FEB4BA" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="67" fc="#FEACA8" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="68" fc="#FE9C84" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="69" fc="#FE9472" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="70" fc="#FE8C60" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="71" fc="#FD8F56" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="72" fc="#FC9A5F" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="73" fc="#FBA567" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="74" fc="#FABA78" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="75" fc="#F9C581" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="76" fc="#F8D089" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="77" fc="#E3D79F" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="78" fc="#CFD3AD" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="79" fc="#BACFBA" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="80" fc="#91C7D6" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="81" fc="#7DC3E3" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="82" fc="#68BFF1" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="83" fc="#60AEFF" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="84" fc="#6DA1FF" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="85" fc="#7994FF" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="86" fc="#927AFF" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="87" fc="#9F6DFF" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="88" fc="#FEB6BF" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="89" fc="#FEA9A1" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="90" fc="#FE9C83" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="91" fc="#FE8E64" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="92" fc="#FD8951" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="93" fc="#FC9B5F" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="94" fc="#FBAD6E" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="95" fc="#F9BF7C" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="96" fc="#F8D18A" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="97" fc="#E6D79D" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="98" fc="#C4D0B4" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="99" fc="#A1CACB" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="100" fc="#7FC3E2" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="101" fc="#5CBCF9" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="102" fc="#63AAFF" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="103" fc="#7895FF" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="104" fc="#8D7FFF" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="105" fc="#A269FF" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="106" fc="#E3325F" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="107" fc="#E13056" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="108" fc="#E02F4D" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="109" fc="#DE2D44" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="110" fc="#DD2B3B" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="111" fc="#DB2A32" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="112" fc="#DA2829" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="113" fc="#D82620" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="114" fc="#D33224" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="115" fc="#D03F31" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="116" fc="#CD4C3F" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="117" fc="#C9594C" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="118" fc="#C6675A" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="119" fc="#C37467" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="120" fc="#BF8175" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="121" fc="#BC8E82" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="122" fc="#B7A190" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="123" fc="#B6A791" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="124" fc="#B5AD92" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="125" fc="#B3B393" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="126" fc="#B2B994" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="127" fc="#B1BF95" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="128" fc="#AFC596" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="129" fc="#AECB97" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="130" fc="#A1C4A3" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="131" fc="#95B8AE" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="132" fc="#89ACB9" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="133" fc="#7C9FC4" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="134" fc="#7193D0" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="135" fc="#6587DB" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="136" fc="#597AE6" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="137" fc="#4D6EF1" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="138" fc="#E3325D" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="139" fc="#E13053" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="140" fc="#DF2E49" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="141" fc="#DE2C3F" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="142" fc="#DC2A35" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="143" fc="#DA282B" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="144" fc="#D82621" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="145" fc="#D33326" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="146" fc="#CF4235" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="147" fc="#CB5144" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="148" fc="#C86053" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="149" fc="#C46F62" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="150" fc="#C07E71" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="151" fc="#BC8D80" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="152" fc="#B7A291" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="153" fc="#B6A992" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="154" fc="#B4AF93" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="155" fc="#B3B694" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="156" fc="#B1BD95" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="157" fc="#B0C396" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="158" fc="#AECA97" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="159" fc="#9FC3A4" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="160" fc="#92B5B1" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="161" fc="#84A7BD" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="162" fc="#7799CA" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="163" fc="#698BD7" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="164" fc="#5C7DE3" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="165" fc="#4E6FF0" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="166" fc="#E23157" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="167" fc="#DF2E47" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="168" fc="#DC2B37" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="169" fc="#D92827" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="170" fc="#D13C2F" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="171" fc="#CB5447" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="172" fc="#C56C5F" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="173" fc="#BF8477" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="174" fc="#B6A691" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="175" fc="#B4B193" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="176" fc="#B1BB94" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="177" fc="#AFC696" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="178" fc="#97BAAC" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="179" fc="#81A4C0" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="180" fc="#6C8ED4" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="181" fc="#5678E8" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="182" fc="#E3325E" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="183" fc="#E13055" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="184" fc="#E02E4C" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="185" fc="#DE2D42" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="186" fc="#DD2B39" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="187" fc="#DB2930" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="188" fc="#D8261D" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="189" fc="#D6281A" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="190" fc="#D23528" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="191" fc="#CF4336" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="192" fc="#CB5143" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="193" fc="#C85E51" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="194" fc="#C1796D" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="195" fc="#BE877B" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="196" fc="#BA9589" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="197" fc="#B89F90" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="198" fc="#B6A591" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="199" fc="#B5AB92" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="200" fc="#B2B794" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="201" fc="#B0C395" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="202" fc="#AEC996" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="203" fc="#ADCF97" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="204" fc="#A3C7A0" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="205" fc="#8BAEB7" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="206" fc="#7EA1C3" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="207" fc="#7294CE" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="208" fc="#6688DA" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="209" fc="#597BE5" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="3"/>
+<ws id="0"/>
+<ws id="1" ju="2" pd="0" sd="0"/>
+<wp id="0"/>
+<wp id="3" ap="4" ah="50" av="12"/>
+<wp id="4" ap="4" ah="50" av="87"/>
+<wp id="6" ap="4" ah="50" av="93"/>
+<wp id="5" ap="4" ah="50" av="97"/>
+<wp id="1" ap="7" ah="0" av="0"/>
+<wp id="2" ap="7" ah="50" av="100"/>
+</head>
+<body>
+<p t="884" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​We&#39;re </s><s p="4">ready to greet the world!​ ​</s><s p="2">​</s></p>
+<p t="1251" d="201" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​We&#39;re read</s><s p="4">y to greet the world!​ ​</s><s p="2">​</s></p>
+<p t="1452" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​We&#39;re ready </s><s p="4">to greet the world!​ ​</s><s p="2">​</s></p>
+<p t="1652" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​We&#39;re ready to </s><s p="4">greet the world!​ ​</s><s p="2">​</s></p>
+<p t="1986" d="533" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​We&#39;re ready to greet </s><s p="4">the world!​ ​</s><s p="2">​</s></p>
+<p t="2519" d="201" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​We&#39;re ready to greet the </s><s p="4">world!​ ​</s><s p="2">​</s></p>
+<p t="2720" d="533" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​We&#39;re ready to greet the world!​ ​</s><s p="2">​</s></p>
+<p t="3253" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​We&#39;re </s><s p="4">voyaging forward with courage​ ​</s><s p="2">​</s></p>
+<p t="3420" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​We&#39;re voy</s><s p="4">aging forward with courage​ ​</s><s p="2">​</s></p>
+<p t="3587" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​We&#39;re voyag</s><s p="4">ing forward with courage​ ​</s><s p="2">​</s></p>
+<p t="3754" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​We&#39;re voyaging </s><s p="4">forward with courage​ ​</s><s p="2">​</s></p>
+<p t="3954" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​We&#39;re voyaging for</s><s p="4">ward with courage​ ​</s><s p="2">​</s></p>
+<p t="4288" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​We&#39;re voyaging forward </s><s p="4">with courage​ ​</s><s p="2">​</s></p>
+<p t="4655" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​We&#39;re voyaging forward with </s><s p="4">courage​ ​</s><s p="2">​</s></p>
+<p t="4822" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​We&#39;re voyaging forward with cour</s><s p="4">age​ ​</s><s p="2">​</s></p>
+<p t="5022" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​We&#39;re voyaging forward with courage​ ​</s><s p="2">​</s></p>
+<p t="5222" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​to </s><s p="4">run toward a brand-new start​ ​</s><s p="2">​</s></p>
+<p t="5389" d="300" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​to run </s><s p="4">toward a brand-new start​ ​</s><s p="2">​</s></p>
+<p t="5689" d="100" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​to run to</s><s p="4">ward a brand-new start​ ​</s><s p="2">​</s></p>
+<p t="5789" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​to run toward </s><s p="4">a brand-new start​ ​</s><s p="2">​</s></p>
+<p t="6123" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​to run toward a </s><s p="4">brand-new start​ ​</s><s p="2">​</s></p>
+<p t="6290" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​to run toward a brand-</s><s p="4">new start​ ​</s><s p="2">​</s></p>
+<p t="6657" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​to run toward a brand-new </s><s p="4">start​ ​</s><s p="2">​</s></p>
+<p t="7024" d="701" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​to run toward a brand-new start​ ​</s><s p="2">​</s></p>
+<p t="7725" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Let&#39;s </s><s p="4">go live!​ ​</s><s p="2">​</s></p>
+<p t="8058" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Let&#39;s go </s><s p="4">live!​ ​</s><s p="2">​</s></p>
+<p t="8425" d="568" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Let&#39;s go live!​ ​</s><s p="2">​</s></p>
+<p t="8993" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Bridg</s><s p="4">ing the distance​ ​</s><s p="2">​
+​</s><s p="4">​ ​across the sea endlessly​ ​</s><s p="2">​</s></p>
+<p t="9360" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Bridging </s><s p="4">the distance​ ​</s><s p="2">​
+​</s><s p="4">​ ​across the sea endlessly​ ​</s><s p="2">​</s></p>
+<p t="9693" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Bridging the </s><s p="4">distance​ ​</s><s p="2">​
+​</s><s p="4">​ ​across the sea endlessly​ ​</s><s p="2">​</s></p>
+<p t="9893" d="267" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Bridging the dis</s><s p="4">tance​ ​</s><s p="2">​
+​</s><s p="4">​ ​across the sea endlessly​ ​</s><s p="2">​</s></p>
+<p t="10160" d="267" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Bridging the distance​ ​</s><s p="2">​
+​</s><s p="4">​ ​across the sea endlessly​ ​</s><s p="2">​</s></p>
+<p t="10427" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Bridging the distance​ ​</s><s p="2">​
+​</s><s p="3">​ ​a</s><s p="4">cross the sea endlessly​ ​</s><s p="2">​</s></p>
+<p t="10627" d="501" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Bridging the distance​ ​</s><s p="2">​
+​</s><s p="3">​ ​across </s><s p="4">the sea endlessly​ ​</s><s p="2">​</s></p>
+<p t="11128" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Bridging the distance​ ​</s><s p="2">​
+​</s><s p="3">​ ​across the </s><s p="4">sea endlessly​ ​</s><s p="2">​</s></p>
+<p t="11328" d="701" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Bridging the distance​ ​</s><s p="2">​
+​</s><s p="3">​ ​across the sea </s><s p="4">endlessly​ ​</s><s p="2">​</s></p>
+<p t="12029" d="534" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Bridging the distance​ ​</s><s p="2">​
+​</s><s p="3">​ ​across the sea end</s><s p="4">lessly​ ​</s><s p="2">​</s></p>
+<p t="12563" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Bridging the distance​ ​</s><s p="2">​
+​</s><s p="3">​ ​across the sea endless</s><s p="4">ly​ ​</s><s p="2">​</s></p>
+<p t="12763" d="701" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Bridging the distance​ ​</s><s p="2">​
+​</s><s p="3">​ ​across the sea endlessly​ ​</s><s p="2">​</s></p>
+<p t="13464" d="534" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Cheer</s><s p="4">fully meeting heart to heart!​ ​</s><s p="2">​</s></p>
+<p t="13998" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Cheerful</s><s p="4">ly meeting heart to heart!​ ​</s><s p="2">​</s></p>
+<p t="14198" d="1434" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Cheerfully </s><s p="4">meeting heart to heart!​ ​</s><s p="2">​</s></p>
+<p t="15632" d="368" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Cheerfully meet</s><s p="4">ing heart to heart!​ ​</s><s p="2">​</s></p>
+<p t="16000" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Cheerfully meeting </s><s p="4">heart to heart!​ ​</s><s p="2">​</s></p>
+<p t="16333" d="534" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Cheerfully meeting heart </s><s p="4">to heart!​ ​</s><s p="2">​</s></p>
+<p t="16367" d="11478" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​hololive English - Connect the World​ ​</s><s p="2">​</s></p>
+<p t="16367" d="2869" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Lyrics: Stephanie Snyder​ ​</s><s p="2">​</s></p>
+<p t="16867" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Cheerfully meeting heart to </s><s p="4">heart!​ ​</s><s p="2">​</s></p>
+<p t="17034" d="2202" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Cheerfully meeting heart to heart!​ ​</s><s p="2">​</s></p>
+<p t="19236" d="2703" wp="5" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Composition, Arrangement: Ryota Nakano​ ​</s><s p="2">​</s></p>
+<p t="21939" d="3003" wp="6" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Vocals: Mori Calliope, Takanashi Kiara,​ ​</s><s p="2">​
+​</s><s p="3">​ ​Ninomae Ina&#39;nis, Gawr Gura, Watson Amelia​ ​</s><s p="2">​</s></p>
+<p t="24942" d="2903" wp="6" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Vocals: IRyS, Ceres Fauna, Ouro Kronii,​ ​</s><s p="2">​
+​</s><s p="3">​ ​Nanashi Mumei, Hakos Baelz​ ​</s><s p="2">​</s></p>
+<p t="27845" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Wak</s><s p="6">ing from a dream,​ ​</s><s p="2">​
+​</s><s p="6">​ ​swept up into a stream​ ​</s><s p="2">​</s></p>
+<p t="28012" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Waking </s><s p="6">from a dream,​ ​</s><s p="2">​
+​</s><s p="6">​ ​swept up into a stream​ ​</s><s p="2">​</s></p>
+<p t="28212" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Waking from </s><s p="6">a dream,​ ​</s><s p="2">​
+​</s><s p="6">​ ​swept up into a stream​ ​</s><s p="2">​</s></p>
+<p t="28379" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Waking from a </s><s p="6">dream,​ ​</s><s p="2">​
+​</s><s p="6">​ ​swept up into a stream​ ​</s><s p="2">​</s></p>
+<p t="28579" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Waking from a dream,​ ​</s><s p="2">​
+​</s><s p="6">​ ​swept up into a stream​ ​</s><s p="2">​</s></p>
+<p t="28912" d="201" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Waking from a dream,​ ​</s><s p="2">​
+​</s><s p="5">​ ​swept </s><s p="6">up into a stream​ ​</s><s p="2">​</s></p>
+<p t="29113" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Waking from a dream,​ ​</s><s p="2">​
+​</s><s p="5">​ ​swept up </s><s p="6">into a stream​ ​</s><s p="2">​</s></p>
+<p t="29446" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Waking from a dream,​ ​</s><s p="2">​
+​</s><s p="5">​ ​swept up in</s><s p="6">to a stream​ ​</s><s p="2">​</s></p>
+<p t="29646" d="134" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Waking from a dream,​ ​</s><s p="2">​
+​</s><s p="5">​ ​swept up into </s><s p="6">a stream​ ​</s><s p="2">​</s></p>
+<p t="29780" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Waking from a dream,​ ​</s><s p="2">​
+​</s><s p="5">​ ​swept up into a </s><s p="6">stream​ ​</s><s p="2">​</s></p>
+<p t="29980" d="567" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Waking from a dream,​ ​</s><s p="2">​
+​</s><s p="5">​ ​swept up into a stream​ ​</s><s p="2">​</s></p>
+<p t="30547" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​I </s><s p="6">make a wish and wait for my cue—​ ​</s><s p="2">​</s></p>
+<p t="30714" d="401" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​I make </s><s p="6">a wish and wait for my cue—​ ​</s><s p="2">​</s></p>
+<p t="31115" d="166" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​I make a </s><s p="6">wish and wait for my cue—​ ​</s><s p="2">​</s></p>
+<p t="31281" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​I make a wish </s><s p="6">and wait for my cue—​ ​</s><s p="2">​</s></p>
+<p t="31648" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​I make a wish and </s><s p="6">wait for my cue—​ ​</s><s p="2">​</s></p>
+<p t="31982" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​I make a wish and wait </s><s p="6">for my cue—​ ​</s><s p="2">​</s></p>
+<p t="32349" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​I make a wish and wait for </s><s p="6">my cue—​ ​</s><s p="2">​</s></p>
+<p t="32516" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​I make a wish and wait for my </s><s p="6">cue—​ ​</s><s p="2">​</s></p>
+<p t="32883" d="701" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​I make a wish and wait for my cue—​ ​</s><s p="2">​</s></p>
+<p t="33584" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​How </s><s p="6">will we connect in this​ ​</s><s p="2">​</s></p>
+<p t="33951" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​How will </s><s p="6">we connect in this​ ​</s><s p="2">​</s></p>
+<p t="34151" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​How will we </s><s p="6">connect in this​ ​</s><s p="2">​</s></p>
+<p t="34485" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​How will we con</s><s p="6">nect in this​ ​</s><s p="2">​</s></p>
+<p t="34852" d="901" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​How will we connect </s><s p="6">in this​ ​</s><s p="2">​</s></p>
+<p t="35753" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​How will we connect in </s><s p="6">this​ ​</s><s p="2">​</s></p>
+<p t="36120" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​How will we connect in this​ ​</s><s p="2">​</s></p>
+<p t="36487" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​new </s><s p="6">frontier we&#39;re journeying through?​ ​</s><s p="2">​</s></p>
+<p t="36820" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​new fron</s><s p="6">tier we&#39;re journeying through?​ ​</s><s p="2">​</s></p>
+<p t="37187" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​new frontier </s><s p="6">we&#39;re journeying through?​ ​</s><s p="2">​</s></p>
+<p t="37554" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​new frontier we&#39;re </s><s p="6">journeying through?​ ​</s><s p="2">​</s></p>
+<p t="37888" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​new frontier we&#39;re jour</s><s p="6">neying through?​ ​</s><s p="2">​</s></p>
+<p t="38088" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​new frontier we&#39;re journey</s><s p="6">ing through?​ ​</s><s p="2">​</s></p>
+<p t="38255" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​new frontier we&#39;re journeying </s><s p="6">through?​ ​</s><s p="2">​</s></p>
+<p t="38455" d="901" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​new frontier we&#39;re journeying through?​ ​</s><s p="2">​</s></p>
+<p t="39356" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​Thriv</s><s p="6">ing in a scene where no one&#39;s ever been​ ​</s><s p="2">​</s></p>
+<p t="39523" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​Thriving </s><s p="6">in a scene where no one&#39;s ever been​ ​</s><s p="2">​</s></p>
+<p t="39723" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​Thriving in </s><s p="6">a scene where no one&#39;s ever been​ ​</s><s p="2">​</s></p>
+<p t="39890" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​Thriving in a </s><s p="6">scene where no one&#39;s ever been​ ​</s><s p="2">​</s></p>
+<p t="40090" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​Thriving in a scene </s><s p="6">where no one&#39;s ever been​ ​</s><s p="2">​</s></p>
+<p t="40424" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​Thriving in a scene where </s><s p="6">no one&#39;s ever been​ ​</s><s p="2">​</s></p>
+<p t="40624" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​Thriving in a scene where no </s><s p="6">one&#39;s ever been​ ​</s><s p="2">​</s></p>
+<p t="40991" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​Thriving in a scene where no one&#39;s </s><s p="6">ever been​ ​</s><s p="2">​</s></p>
+<p t="41158" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​Thriving in a scene where no one&#39;s ev</s><s p="6">er been​ ​</s><s p="2">​</s></p>
+<p t="41358" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​Thriving in a scene where no one&#39;s ever </s><s p="6">been​ ​</s><s p="2">​</s></p>
+<p t="41525" d="534" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​Thriving in a scene where no one&#39;s ever been​ ​</s><s p="2">​</s></p>
+<p t="42059" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​With </s><s p="6">vibrant colors bursting like stars—​ ​</s><s p="2">​</s></p>
+<p t="42226" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​With vi</s><s p="6">brant colors bursting like stars—​ ​</s><s p="2">​</s></p>
+<p t="42593" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​With vibrant </s><s p="6">colors bursting like stars—​ ​</s><s p="2">​</s></p>
+<p t="42760" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​With vibrant col</s><s p="6">ors bursting like stars—​ ​</s><s p="2">​</s></p>
+<p t="43127" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​With vibrant colors </s><s p="6">bursting like stars—​ ​</s><s p="2">​</s></p>
+<p t="43494" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​With vibrant colors burst</s><s p="6">ing like stars—​ ​</s><s p="2">​</s></p>
+<p t="43827" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​With vibrant colors bursting </s><s p="6">like stars—​ ​</s><s p="2">​</s></p>
+<p t="43994" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​With vibrant colors bursting like </s><s p="6">stars—​ ​</s><s p="2">​</s></p>
+<p t="44361" d="734" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​With vibrant colors bursting like stars—​ ​</s><s p="2">​</s></p>
+<p t="45095" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Ra</s><s p="6">diant and warm; charged with energy​ ​</s><s p="2">​</s></p>
+<p t="45462" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Radi</s><s p="6">ant and warm; charged with energy​ ​</s><s p="2">​</s></p>
+<p t="45662" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Radiant </s><s p="6">and warm; charged with energy​ ​</s><s p="2">​</s></p>
+<p t="45996" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Radiant and </s><s p="6">warm; charged with energy​ ​</s><s p="2">​</s></p>
+<p t="46363" d="868" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Radiant and warm; </s><s p="6">charged with energy​ ​</s><s p="2">​</s></p>
+<p t="47231" d="400" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Radiant and warm; charged </s><s p="6">with energy​ ​</s><s p="2">​</s></p>
+<p t="47631" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Radiant and warm; charged with </s><s p="6">energy​ ​</s><s p="2">​</s></p>
+<p t="47965" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Radiant and warm; charged with en</s><s p="6">ergy​ ​</s><s p="2">​</s></p>
+<p t="48332" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Radiant and warm; charged with ener</s><s p="6">gy​ ​</s><s p="2">​</s></p>
+<p t="48699" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Radiant and warm; charged with energy​ ​</s><s p="2">​</s></p>
+<p t="49066" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​that&#39;s </s><s p="6">carried us this far.​ ​</s><s p="2">​</s></p>
+<p t="49400" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​that&#39;s car</s><s p="6">ried us this far.​ ​</s><s p="2">​</s></p>
+<p t="49767" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​that&#39;s carried </s><s p="6">us this far.​ ​</s><s p="2">​</s></p>
+<p t="49967" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​that&#39;s carried us </s><s p="6">this far.​ ​</s><s p="2">​</s></p>
+<p t="50334" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​that&#39;s carried us this </s><s p="6">far.​ ​</s><s p="2">​</s></p>
+<p t="50667" d="1602" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​that&#39;s carried us this far.​ ​</s><s p="2">​</s></p>
+<p t="54038" d="400" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​Each </s><s p="6">new debut brings a miracle to life​ ​</s><s p="2">​</s></p>
+<p t="54438" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​Each new </s><s p="6">debut brings a miracle to life​ ​</s><s p="2">​</s></p>
+<p t="54805" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​Each new de</s><s p="6">but brings a miracle to life​ ​</s><s p="2">​</s></p>
+<p t="55172" d="701" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​Each new debut </s><s p="6">brings a miracle to life​ ​</s><s p="2">​</s></p>
+<p t="55873" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​Each new debut brings </s><s p="6">a miracle to life​ ​</s><s p="2">​</s></p>
+<p t="56240" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​Each new debut brings a </s><s p="6">miracle to life​ ​</s><s p="2">​</s></p>
+<p t="56607" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​Each new debut brings a mir</s><s p="6">acle to life​ ​</s><s p="2">​</s></p>
+<p t="56940" d="201" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​Each new debut brings a mira</s><s p="6">cle to life​ ​</s><s p="2">​</s></p>
+<p t="57141" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​Each new debut brings a miracle </s><s p="6">to life​ ​</s><s p="2">​</s></p>
+<p t="57474" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​Each new debut brings a miracle to </s><s p="6">life​ ​</s><s p="2">​</s></p>
+<p t="57841" d="868" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​Each new debut brings a miracle to life​ ​</s><s p="2">​</s></p>
+<p t="58709" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​Sure</s><s p="6">ly​ ​</s><s p="2">​</s></p>
+<p t="59076" d="600" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​Surely​ ​</s><s p="2">​</s></p>
+<p t="59676" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="11">​ ​We&#39;ve </s><s p="6">gotta take that chance​ ​</s><s p="2">​</s></p>
+<p t="59843" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="11">​ ​We&#39;ve got</s><s p="6">ta take that chance​ ​</s><s p="2">​</s></p>
+<p t="60010" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="11">​ ​We&#39;ve gotta </s><s p="6">take that chance​ ​</s><s p="2">​</s></p>
+<p t="60177" d="234" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="11">​ ​We&#39;ve gotta take </s><s p="6">that chance​ ​</s><s p="2">​</s></p>
+<p t="60411" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="11">​ ​We&#39;ve gotta take that </s><s p="6">chance​ ​</s><s p="2">​</s></p>
+<p t="60744" d="501" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="11">​ ​We&#39;ve gotta take that chance​ ​</s><s p="2">​</s></p>
+<p t="61245" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="11">​ ​We&#39;re </s><s p="6">running nonstop; straight to the top​ ​</s><s p="2">​</s></p>
+<p t="61612" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="11">​ ​We&#39;re run</s><s p="6">ning nonstop; straight to the top​ ​</s><s p="2">​</s></p>
+<p t="61979" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="11">​ ​We&#39;re running </s><s p="6">nonstop; straight to the top​ ​</s><s p="2">​</s></p>
+<p t="62346" d="534" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="11">​ ​We&#39;re running non</s><s p="6">stop; straight to the top​ ​</s><s p="2">​</s></p>
+<p t="62880" d="534" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="11">​ ​We&#39;re running nonstop; </s><s p="6">straight to the top​ ​</s><s p="2">​</s></p>
+<p t="63414" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="11">​ ​We&#39;re running nonstop; straight </s><s p="6">to the top​ ​</s><s p="2">​</s></p>
+<p t="63614" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="11">​ ​We&#39;re running nonstop; straight to </s><s p="6">the top​ ​</s><s p="2">​</s></p>
+<p t="63781" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="11">​ ​We&#39;re running nonstop; straight to the </s><s p="6">top​ ​</s><s p="2">​</s></p>
+<p t="63981" d="534" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="11">​ ​We&#39;re running nonstop; straight to the top​ ​</s><s p="2">​</s></p>
+<p t="64515" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="11">​ ​That&#39;s </s><s p="6">right!​ ​</s><s p="2">​</s></p>
+<p t="64882" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="11">​ ​That&#39;s right!​ ​</s><s p="2">​</s></p>
+<p t="67017" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​We&#39;re </s><s p="4">ready to change the game​ ​</s><s p="2">​</s></p>
+<p t="67384" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​We&#39;re read</s><s p="4">y to change the game​ ​</s><s p="2">​</s></p>
+<p t="67551" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​We&#39;re ready </s><s p="4">to change the game​ ​</s><s p="2">​</s></p>
+<p t="67751" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​We&#39;re ready to </s><s p="4">change the game​ ​</s><s p="2">​</s></p>
+<p t="68085" d="534" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​We&#39;re ready to change </s><s p="4">the game​ ​</s><s p="2">​</s></p>
+<p t="68619" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​We&#39;re ready to change the </s><s p="4">game​ ​</s><s p="2">​</s></p>
+<p t="68819" d="500" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​We&#39;re ready to change the game​ ​</s><s p="2">​</s></p>
+<p t="69319" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​A </s><s p="4">shimmering showcase​ ​</s><s p="2">​</s></p>
+<p t="69486" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​A shim</s><s p="4">mering showcase​ ​</s><s p="2">​</s></p>
+<p t="69686" d="201" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​A shimmer</s><s p="4">ing showcase​ ​</s><s p="2">​</s></p>
+<p t="69887" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​A shimmering </s><s p="4">showcase​ ​</s><s p="2">​</s></p>
+<p t="70054" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​A shimmering show</s><s p="4">case​ ​</s><s p="2">​</s></p>
+<p t="70387" d="401" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​A shimmering showcase​ ​</s><s p="2">​</s></p>
+<p t="70788" d="166" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Cre</s><s p="4">ating a new place where we can shine!​ ​</s><s p="2">​</s></p>
+<p t="70954" d="201" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Creat</s><s p="4">ing a new place where we can shine!​ ​</s><s p="2">​</s></p>
+<p t="71155" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Creating </s><s p="4">a new place where we can shine!​ ​</s><s p="2">​</s></p>
+<p t="71355" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Creating a </s><s p="4">new place where we can shine!​ ​</s><s p="2">​</s></p>
+<p t="71522" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Creating a new </s><s p="4">place where we can shine!​ ​</s><s p="2">​</s></p>
+<p t="71855" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Creating a new place </s><s p="4">where we can shine!​ ​</s><s p="2">​</s></p>
+<p t="72222" d="201" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Creating a new place where </s><s p="4">we can shine!​ ​</s><s p="2">​</s></p>
+<p t="72423" d="533" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Creating a new place where we </s><s p="4">can shine!​ ​</s><s p="2">​</s></p>
+<p t="72956" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Creating a new place where we can </s><s p="4">shine!​ ​</s><s p="2">​</s></p>
+<p t="73123" d="701" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Creating a new place where we can shine!​ ​</s><s p="2">​</s></p>
+<p t="73824" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Day </s><s p="4">by day, sparkling stories will intertwine​ ​</s><s p="2">​</s></p>
+<p t="74191" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Day by </s><s p="4">day, sparkling stories will intertwine​ ​</s><s p="2">​</s></p>
+<p t="74558" d="534" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Day by day, </s><s p="4">sparkling stories will intertwine​ ​</s><s p="2">​</s></p>
+<p t="75092" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Day by day, spar</s><s p="4">kling stories will intertwine​ ​</s><s p="2">​</s></p>
+<p t="75459" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Day by day, spark</s><s p="4">ling stories will intertwine​ ​</s><s p="2">​</s></p>
+<p t="75793" d="166" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Day by day, sparkling </s><s p="4">stories will intertwine​ ​</s><s p="2">​</s></p>
+<p t="75959" d="301" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Day by day, sparkling sto</s><s p="4">ries will intertwine​ ​</s><s p="2">​</s></p>
+<p t="76260" d="267" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Day by day, sparkling stories </s><s p="4">will intertwine​ ​</s><s p="2">​</s></p>
+<p t="76527" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Day by day, sparkling stories will </s><s p="4">intertwine​ ​</s><s p="2">​</s></p>
+<p t="76727" d="500" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Day by day, sparkling stories will in</s><s p="4">tertwine​ ​</s><s p="2">​</s></p>
+<p t="77227" d="201" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Day by day, sparkling stories will inter</s><s p="4">twine​ ​</s><s p="2">​</s></p>
+<p t="77428" d="1067" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Day by day, sparkling stories will intertwine​ ​</s><s p="2">​</s></p>
+<p t="78495" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Get </s><s p="4">ready to cross the waves​ ​</s><s p="2">​</s></p>
+<p t="78862" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Get read</s><s p="4">y to cross the waves​ ​</s><s p="2">​</s></p>
+<p t="79029" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Get ready </s><s p="4">to cross the waves​ ​</s><s p="2">​</s></p>
+<p t="79229" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Get ready to </s><s p="4">cross the waves​ ​</s><s p="2">​</s></p>
+<p t="79563" d="534" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Get ready to cross </s><s p="4">the waves​ ​</s><s p="2">​</s></p>
+<p t="80097" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Get ready to cross the </s><s p="4">waves​ ​</s><s p="2">​</s></p>
+<p t="80264" d="600" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Get ready to cross the waves​ ​</s><s p="2">​</s></p>
+<p t="80864" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​We&#39;re </s><s p="4">voyaging forward with courage​ ​</s><s p="2">​</s></p>
+<p t="81031" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​We&#39;re voy</s><s p="4">aging forward with courage​ ​</s><s p="2">​</s></p>
+<p t="81198" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​We&#39;re voyag</s><s p="4">ing forward with courage​ ​</s><s p="2">​</s></p>
+<p t="81365" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​We&#39;re voyaging </s><s p="4">forward with courage​ ​</s><s p="2">​</s></p>
+<p t="81565" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​We&#39;re voyaging for</s><s p="4">ward with courage​ ​</s><s p="2">​</s></p>
+<p t="81932" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​We&#39;re voyaging forward </s><s p="4">with courage​ ​</s><s p="2">​</s></p>
+<p t="82299" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​We&#39;re voyaging forward with </s><s p="4">courage​ ​</s><s p="2">​</s></p>
+<p t="82466" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​We&#39;re voyaging forward with cour</s><s p="4">age​ ​</s><s p="2">​</s></p>
+<p t="82666" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​We&#39;re voyaging forward with courage​ ​</s><s p="2">​</s></p>
+<p t="82833" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​to </s><s p="4">run toward a brand-new stage​ ​</s><s p="2">​</s></p>
+<p t="83000" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​to run </s><s p="4">toward a brand-new stage​ ​</s><s p="2">​</s></p>
+<p t="83367" d="67" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​to run to</s><s p="4">ward a brand-new stage​ ​</s><s p="2">​</s></p>
+<p t="83434" d="300" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​to run toward </s><s p="4">a brand-new stage​ ​</s><s p="2">​</s></p>
+<p t="83734" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​to run toward a </s><s p="4">brand-new stage​ ​</s><s p="2">​</s></p>
+<p t="83901" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​to run toward a brand-</s><s p="4">new stage​ ​</s><s p="2">​</s></p>
+<p t="84268" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​to run toward a brand-new </s><s p="4">stage​ ​</s><s p="2">​</s></p>
+<p t="84635" d="700" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​to run toward a brand-new stage​ ​</s><s p="2">​</s></p>
+<p t="85335" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Let&#39;s </s><s p="4">go live!​ ​</s><s p="2">​</s></p>
+<p t="85702" d="368" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Let&#39;s go </s><s p="4">live!​ ​</s><s p="2">​</s></p>
+<p t="86070" d="533" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Let&#39;s go live!​ ​</s><s p="2">​</s></p>
+<p t="86603" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Bridg</s><s p="4">ing the distance​ ​</s><s p="2">​
+​</s><s p="4">​ ​across the sea endlessly​ ​</s><s p="2">​</s></p>
+<p t="86937" d="400" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Bridging </s><s p="4">the distance​ ​</s><s p="2">​
+​</s><s p="4">​ ​across the sea endlessly​ ​</s><s p="2">​</s></p>
+<p t="87337" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Bridging the </s><s p="4">distance​ ​</s><s p="2">​
+​</s><s p="4">​ ​across the sea endlessly​ ​</s><s p="2">​</s></p>
+<p t="87504" d="267" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Bridging the dis</s><s p="4">tance​ ​</s><s p="2">​
+​</s><s p="4">​ ​across the sea endlessly​ ​</s><s p="2">​</s></p>
+<p t="87771" d="267" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Bridging the distance​ ​</s><s p="2">​
+​</s><s p="4">​ ​across the sea endlessly​ ​</s><s p="2">​</s></p>
+<p t="88038" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Bridging the distance​ ​</s><s p="2">​
+​</s><s p="3">​ ​a</s><s p="4">cross the sea endlessly​ ​</s><s p="2">​</s></p>
+<p t="88205" d="567" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Bridging the distance​ ​</s><s p="2">​
+​</s><s p="3">​ ​across </s><s p="4">the sea endlessly​ ​</s><s p="2">​</s></p>
+<p t="88772" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Bridging the distance​ ​</s><s p="2">​
+​</s><s p="3">​ ​across the </s><s p="4">sea endlessly​ ​</s><s p="2">​</s></p>
+<p t="88939" d="734" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Bridging the distance​ ​</s><s p="2">​
+​</s><s p="3">​ ​across the sea </s><s p="4">endlessly​ ​</s><s p="2">​</s></p>
+<p t="89673" d="534" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Bridging the distance​ ​</s><s p="2">​
+​</s><s p="3">​ ​across the sea end</s><s p="4">lessly​ ​</s><s p="2">​</s></p>
+<p t="90207" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Bridging the distance​ ​</s><s p="2">​
+​</s><s p="3">​ ​across the sea endless</s><s p="4">ly​ ​</s><s p="2">​</s></p>
+<p t="90374" d="701" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Bridging the distance​ ​</s><s p="2">​
+​</s><s p="3">​ ​across the sea endlessly​ ​</s><s p="2">​</s></p>
+<p t="91075" d="533" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Fol</s><s p="4">low me and we&#39;ll turn the page!​ ​</s><s p="2">​</s></p>
+<p t="91608" d="201" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Follow </s><s p="4">me and we&#39;ll turn the page!​ ​</s><s p="2">​</s></p>
+<p t="91809" d="1434" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Follow me </s><s p="4">and we&#39;ll turn the page!​ ​</s><s p="2">​</s></p>
+<p t="93243" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Follow me and </s><s p="4">we&#39;ll turn the page!​ ​</s><s p="2">​</s></p>
+<p t="93577" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Follow me and we&#39;ll </s><s p="4">turn the page!​ ​</s><s p="2">​</s></p>
+<p t="93944" d="567" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Follow me and we&#39;ll turn </s><s p="4">the page!​ ​</s><s p="2">​</s></p>
+<p t="94511" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Follow me and we&#39;ll turn the </s><s p="4">page!​ ​</s><s p="2">​</s></p>
+<p t="94678" d="2169" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Follow me and we&#39;ll turn the page!​ ​</s><s p="2">​</s></p>
+<p t="100417" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="12">​ ​Break</s><s p="6">ing through the doubt,​ ​</s><s p="2">​</s></p>
+<p t="100617" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="12">​ ​Breaking </s><s p="6">through the doubt,​ ​</s><s p="2">​</s></p>
+<p t="100784" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="12">​ ​Breaking through </s><s p="6">the doubt,​ ​</s><s p="2">​</s></p>
+<p t="100984" d="134" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="12">​ ​Breaking through the </s><s p="6">doubt,​ ​</s><s p="2">​</s></p>
+<p t="101118" d="400" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="12">​ ​Breaking through the doubt,​ ​</s><s p="2">​</s></p>
+<p t="101518" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="12">​ ​we </s><s p="6">know we&#39;ll figure out​ ​</s><s p="2">​</s></p>
+<p t="101685" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="12">​ ​we know </s><s p="6">we&#39;ll figure out​ ​</s><s p="2">​</s></p>
+<p t="102052" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="12">​ ​we know we&#39;ll </s><s p="6">figure out​ ​</s><s p="2">​</s></p>
+<p t="102219" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="12">​ ​we know we&#39;ll fig</s><s p="6">ure out​ ​</s><s p="2">​</s></p>
+<p t="102419" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="12">​ ​we know we&#39;ll figure </s><s p="6">out​ ​</s><s p="2">​</s></p>
+<p t="102586" d="534" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="12">​ ​we know we&#39;ll figure out​ ​</s><s p="2">​</s></p>
+<p t="103120" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="12">​ ​a </s><s p="6">way to clear each towering trial​ ​</s><s p="2">​</s></p>
+<p t="103287" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="12">​ ​a way </s><s p="6">to clear each towering trial​ ​</s><s p="2">​</s></p>
+<p t="103654" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="12">​ ​a way to </s><s p="6">clear each towering trial​ ​</s><s p="2">​</s></p>
+<p t="103854" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="12">​ ​a way to clear </s><s p="6">each towering trial​ ​</s><s p="2">​</s></p>
+<p t="104188" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="12">​ ​a way to clear each </s><s p="6">towering trial​ ​</s><s p="2">​</s></p>
+<p t="104555" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="12">​ ​a way to clear each tow</s><s p="6">ering trial​ ​</s><s p="2">​</s></p>
+<p t="104922" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="12">​ ​a way to clear each tower</s><s p="6">ing trial​ ​</s><s p="2">​</s></p>
+<p t="105089" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="12">​ ​a way to clear each towering </s><s p="6">trial​ ​</s><s p="2">​</s></p>
+<p t="105456" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="12">​ ​a way to clear each towering tri</s><s p="6">al​ ​</s><s p="2">​</s></p>
+<p t="105823" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="12">​ ​a way to clear each towering trial​ ​</s><s p="2">​</s></p>
+<p t="106190" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="13">​ ​Shar</s><s p="6">ing all our hopes,​ ​</s><s p="2">​</s></p>
+<p t="106523" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="13">​ ​Sharing </s><s p="6">all our hopes,​ ​</s><s p="2">​</s></p>
+<p t="106723" d="368" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="13">​ ​Sharing all </s><s p="6">our hopes,​ ​</s><s p="2">​</s></p>
+<p t="107091" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="13">​ ​Sharing all our </s><s p="6">hopes,​ ​</s><s p="2">​</s></p>
+<p t="107458" d="867" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="13">​ ​Sharing all our hopes,​ ​</s><s p="2">​</s></p>
+<p t="108325" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="13">​ ​we </s><s p="6">can conquer any challenge with a smile!​ ​</s><s p="2">​</s></p>
+<p t="108659" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="13">​ ​we can </s><s p="6">conquer any challenge with a smile!​ ​</s><s p="2">​</s></p>
+<p t="109026" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="13">​ ​we can con</s><s p="6">quer any challenge with a smile!​ ​</s><s p="2">​</s></p>
+<p t="109393" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="13">​ ​we can conquer </s><s p="6">any challenge with a smile!​ ​</s><s p="2">​</s></p>
+<p t="109760" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="13">​ ​we can conquer an</s><s p="6">y challenge with a smile!​ ​</s><s p="2">​</s></p>
+<p t="110127" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="13">​ ​we can conquer any </s><s p="6">challenge with a smile!​ ​</s><s p="2">​</s></p>
+<p t="110461" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="13">​ ​we can conquer any chal</s><s p="6">lenge with a smile!​ ​</s><s p="2">​</s></p>
+<p t="110828" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="13">​ ​we can conquer any challenge </s><s p="6">with a smile!​ ​</s><s p="2">​</s></p>
+<p t="111028" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="13">​ ​we can conquer any challenge with </s><s p="6">a smile!​ ​</s><s p="2">​</s></p>
+<p t="111361" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="13">​ ​we can conquer any challenge with a </s><s p="6">smile!​ ​</s><s p="2">​</s></p>
+<p t="111728" d="2002" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="13">​ ​we can conquer any challenge with a smile!​ ​</s><s p="2">​</s></p>
+<p t="115165" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="14">​ ​We&#39;ll </s><s p="6">link our hearts​ ​</s><s p="2">​
+​</s><s p="6">​ ​as we search across the globe​ ​</s><s p="2">​</s></p>
+<p t="115499" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="14">​ ​We&#39;ll link </s><s p="6">our hearts​ ​</s><s p="2">​
+​</s><s p="6">​ ​as we search across the globe​ ​</s><s p="2">​</s></p>
+<p t="115866" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="14">​ ​We&#39;ll link our </s><s p="6">hearts​ ​</s><s p="2">​
+​</s><s p="6">​ ​as we search across the globe​ ​</s><s p="2">​</s></p>
+<p t="116233" d="734" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="14">​ ​We&#39;ll link our hearts​ ​</s><s p="2">​
+​</s><s p="6">​ ​as we search across the globe​ ​</s><s p="2">​</s></p>
+<p t="116967" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="14">​ ​We&#39;ll link our hearts​ ​</s><s p="2">​
+​</s><s p="14">​ ​as </s><s p="6">we search across the globe​ ​</s><s p="2">​</s></p>
+<p t="117301" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="14">​ ​We&#39;ll link our hearts​ ​</s><s p="2">​
+​</s><s p="14">​ ​as we </s><s p="6">search across the globe​ ​</s><s p="2">​</s></p>
+<p t="117668" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="14">​ ​We&#39;ll link our hearts​ ​</s><s p="2">​
+​</s><s p="14">​ ​as we search </s><s p="6">across the globe​ ​</s><s p="2">​</s></p>
+<p t="118035" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="14">​ ​We&#39;ll link our hearts​ ​</s><s p="2">​
+​</s><s p="14">​ ​as we search a</s><s p="6">cross the globe​ ​</s><s p="2">​</s></p>
+<p t="118202" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="14">​ ​We&#39;ll link our hearts​ ​</s><s p="2">​
+​</s><s p="14">​ ​as we search across </s><s p="6">the globe​ ​</s><s p="2">​</s></p>
+<p t="118569" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="14">​ ​We&#39;ll link our hearts​ ​</s><s p="2">​
+​</s><s p="14">​ ​as we search across the </s><s p="6">globe​ ​</s><s p="2">​</s></p>
+<p t="118936" d="867" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="14">​ ​We&#39;ll link our hearts​ ​</s><s p="2">​
+​</s><s p="14">​ ​as we search across the globe​ ​</s><s p="2">​</s></p>
+<p t="119803" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="14">​ ​Know</s><s p="6">ing​ ​</s><s p="2">​</s></p>
+<p t="120170" d="567" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="14">​ ​Knowing​ ​</s><s p="2">​</s></p>
+<p t="120737" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="15">​ ​No </s><s p="6">matter where we are,​ ​</s><s p="2">​
+​</s><s p="6">​ ​no matter how far​ ​</s><s p="2">​</s></p>
+<p t="120904" d="201" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="15">​ ​No mat</s><s p="6">ter where we are,​ ​</s><s p="2">​
+​</s><s p="6">​ ​no matter how far​ ​</s><s p="2">​</s></p>
+<p t="121105" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="15">​ ​No matter </s><s p="6">where we are,​ ​</s><s p="2">​
+​</s><s p="6">​ ​no matter how far​ ​</s><s p="2">​</s></p>
+<p t="121305" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="15">​ ​No matter where </s><s p="6">we are,​ ​</s><s p="2">​
+​</s><s p="6">​ ​no matter how far​ ​</s><s p="2">​</s></p>
+<p t="121472" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="15">​ ​No matter where we </s><s p="6">are,​ ​</s><s p="2">​
+​</s><s p="6">​ ​no matter how far​ ​</s><s p="2">​</s></p>
+<p t="121805" d="567" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="15">​ ​No matter where we are,​ ​</s><s p="2">​
+​</s><s p="6">​ ​no matter how far​ ​</s><s p="2">​</s></p>
+<p t="122372" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="15">​ ​No matter where we are,​ ​</s><s p="2">​
+​</s><s p="15">​ ​no </s><s p="6">matter how far​ ​</s><s p="2">​</s></p>
+<p t="122706" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="15">​ ​No matter where we are,​ ​</s><s p="2">​
+​</s><s p="15">​ ​no mat</s><s p="6">ter how far​ ​</s><s p="2">​</s></p>
+<p t="123073" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="15">​ ​No matter where we are,​ ​</s><s p="2">​
+​</s><s p="15">​ ​no matter </s><s p="6">how far​ ​</s><s p="2">​</s></p>
+<p t="123440" d="534" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="15">​ ​No matter where we are,​ ​</s><s p="2">​
+​</s><s p="15">​ ​no matter how </s><s p="6">far​ ​</s><s p="2">​</s></p>
+<p t="123974" d="501" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="15">​ ​No matter where we are,​ ​</s><s p="2">​
+​</s><s p="15">​ ​no matter how far​ ​</s><s p="2">​</s></p>
+<p t="124475" d="166" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="15">​ ​We </s><s p="6">can be stars​ ​</s><s p="2">​</s></p>
+<p t="124641" d="201" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="15">​ ​We can </s><s p="6">be stars​ ​</s><s p="2">​</s></p>
+<p t="124842" d="166" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="15">​ ​We can be </s><s p="6">stars​ ​</s><s p="2">​</s></p>
+<p t="125008" d="568" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="15">​ ​We can be stars​ ​</s><s p="2">​</s></p>
+<p t="125576" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="15">​ ​Let&#39;s </s><s p="6">go!​ ​</s><s p="2">​</s></p>
+<p t="125943" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="15">​ ​Let&#39;s go!​ ​</s><s p="2">​</s></p>
+<p t="140124" d="166" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​I </s><s p="16"></s><s p="6">wanna chase a wish unwaveringly,​ ​</s><s p="2">​</s></p>
+<p t="140290" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​I </s><s p="16"></s><s p="17">w</s><s p="18">a</s><s p="19">n</s><s p="6">na chase a wish unwaveringly,​ ​</s><s p="2">​</s></p>
+<p t="140457" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​I </s><s p="16"></s><s p="17">w</s><s p="18">a</s><s p="19">n</s><s p="20">n</s><s p="21">a </s><s p="22"></s><s p="6">chase a wish unwaveringly,​ ​</s><s p="2">​</s></p>
+<p t="140657" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​I </s><s p="16"></s><s p="17">w</s><s p="18">a</s><s p="19">n</s><s p="20">n</s><s p="21">a </s><s p="22"></s><s p="23">c</s><s p="24">h</s><s p="25">a</s><s p="26">s</s><s p="27">e </s><s p="28"></s><s p="6">a wish unwaveringly,​ ​</s><s p="2">​</s></p>
+<p t="141024" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​I </s><s p="16"></s><s p="17">w</s><s p="18">a</s><s p="19">n</s><s p="20">n</s><s p="21">a </s><s p="22"></s><s p="23">c</s><s p="24">h</s><s p="25">a</s><s p="26">s</s><s p="27">e </s><s p="28"></s><s p="29">a </s><s p="30"></s><s p="6">wish unwaveringly,​ ​</s><s p="2">​</s></p>
+<p t="141391" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​I </s><s p="16"></s><s p="17">w</s><s p="18">a</s><s p="19">n</s><s p="20">n</s><s p="21">a </s><s p="22"></s><s p="23">c</s><s p="24">h</s><s p="25">a</s><s p="26">s</s><s p="27">e </s><s p="28"></s><s p="29">a </s><s p="30"></s><s p="31">w</s><s p="32">i</s><s p="33">s</s><s p="34">h </s><s p="35"></s><s p="6">unwaveringly,​ ​</s><s p="2">​</s></p>
+<p t="141725" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​I </s><s p="16"></s><s p="17">w</s><s p="18">a</s><s p="19">n</s><s p="20">n</s><s p="21">a </s><s p="22"></s><s p="23">c</s><s p="24">h</s><s p="25">a</s><s p="26">s</s><s p="27">e </s><s p="28"></s><s p="29">a </s><s p="30"></s><s p="31">w</s><s p="32">i</s><s p="33">s</s><s p="34">h </s><s p="35"></s><s p="36">u</s><s p="37">n</s><s p="6">waveringly,​ ​</s><s p="2">​</s></p>
+<p t="141925" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​I </s><s p="16"></s><s p="17">w</s><s p="18">a</s><s p="19">n</s><s p="20">n</s><s p="21">a </s><s p="22"></s><s p="23">c</s><s p="24">h</s><s p="25">a</s><s p="26">s</s><s p="27">e </s><s p="28"></s><s p="29">a </s><s p="30"></s><s p="31">w</s><s p="32">i</s><s p="33">s</s><s p="34">h </s><s p="35"></s><s p="36">u</s><s p="37">n</s><s p="38">w</s><s p="39">a</s><s p="6">veringly,​ ​</s><s p="2">​</s></p>
+<p t="142292" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​I </s><s p="16"></s><s p="17">w</s><s p="18">a</s><s p="19">n</s><s p="20">n</s><s p="21">a </s><s p="22"></s><s p="23">c</s><s p="24">h</s><s p="25">a</s><s p="26">s</s><s p="27">e </s><s p="28"></s><s p="29">a </s><s p="30"></s><s p="31">w</s><s p="32">i</s><s p="33">s</s><s p="34">h </s><s p="35"></s><s p="36">u</s><s p="37">n</s><s p="38">w</s><s p="39">a</s><s p="40">v</s><s p="41">e</s><s p="42">r</s><s p="6">ingly,​ ​</s><s p="2">​</s></p>
+<p t="142459" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​I </s><s p="16"></s><s p="17">w</s><s p="18">a</s><s p="19">n</s><s p="20">n</s><s p="21">a </s><s p="22"></s><s p="23">c</s><s p="24">h</s><s p="25">a</s><s p="26">s</s><s p="27">e </s><s p="28"></s><s p="29">a </s><s p="30"></s><s p="31">w</s><s p="32">i</s><s p="33">s</s><s p="34">h </s><s p="35"></s><s p="36">u</s><s p="37">n</s><s p="38">w</s><s p="39">a</s><s p="40">v</s><s p="41">e</s><s p="42">r</s><s p="43">i</s><s p="44">n</s><s p="45">g</s><s p="6">ly,​ ​</s><s p="2">​</s></p>
+<p t="142659" d="868" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​I </s><s p="16"></s><s p="17">w</s><s p="18">a</s><s p="19">n</s><s p="20">n</s><s p="21">a </s><s p="22"></s><s p="23">c</s><s p="24">h</s><s p="25">a</s><s p="26">s</s><s p="27">e </s><s p="28"></s><s p="29">a </s><s p="30"></s><s p="31">w</s><s p="32">i</s><s p="33">s</s><s p="34">h </s><s p="35"></s><s p="36">u</s><s p="37">n</s><s p="38">w</s><s p="39">a</s><s p="40">v</s><s p="41">e</s><s p="42">r</s><s p="43">i</s><s p="44">n</s><s p="45">g</s><s p="46">l</s><s p="47">y</s><s p="12">,​ ​</s><s p="2">​</s></p>
+<p t="143527" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​p</s><s p="48">l</s><s p="49">a</s><s p="50">y</s><s p="6">ing out a grand story​ ​</s><s p="2">​</s></p>
+<p t="143894" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​p</s><s p="48">l</s><s p="49">a</s><s p="50">y</s><s p="51">i</s><s p="52">n</s><s p="15">g </s><s p="53"></s><s p="6">out a grand story​ ​</s><s p="2">​</s></p>
+<p t="144228" d="400" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​p</s><s p="48">l</s><s p="49">a</s><s p="50">y</s><s p="51">i</s><s p="52">n</s><s p="15">g </s><s p="53"></s><s p="26">o</s><s p="54">u</s><s p="55">t </s><s p="56"></s><s p="6">a grand story​ ​</s><s p="2">​</s></p>
+<p t="144628" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​p</s><s p="48">l</s><s p="49">a</s><s p="50">y</s><s p="51">i</s><s p="52">n</s><s p="15">g </s><s p="53"></s><s p="26">o</s><s p="54">u</s><s p="55">t </s><s p="56"></s><s p="11">a </s><s p="57"></s><s p="6">grand story​ ​</s><s p="2">​</s></p>
+<p t="144795" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​p</s><s p="48">l</s><s p="49">a</s><s p="50">y</s><s p="51">i</s><s p="52">n</s><s p="15">g </s><s p="53"></s><s p="26">o</s><s p="54">u</s><s p="55">t </s><s p="56"></s><s p="11">a </s><s p="57"></s><s p="58">g</s><s p="59">r</s><s p="37">a</s><s p="60">n</s><s p="5">d </s><s p="61"></s><s p="6">story​ ​</s><s p="2">​</s></p>
+<p t="145162" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​p</s><s p="48">l</s><s p="49">a</s><s p="50">y</s><s p="51">i</s><s p="52">n</s><s p="15">g </s><s p="53"></s><s p="26">o</s><s p="54">u</s><s p="55">t </s><s p="56"></s><s p="11">a </s><s p="57"></s><s p="58">g</s><s p="59">r</s><s p="37">a</s><s p="60">n</s><s p="5">d </s><s p="61"></s><s p="62">s</s><s p="63">t</s><s p="64">o</s><s p="6">ry​ ​</s><s p="2">​</s></p>
+<p t="145529" d="867" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​p</s><s p="48">l</s><s p="49">a</s><s p="50">y</s><s p="51">i</s><s p="52">n</s><s p="15">g </s><s p="53"></s><s p="26">o</s><s p="54">u</s><s p="55">t </s><s p="56"></s><s p="11">a </s><s p="57"></s><s p="58">g</s><s p="59">r</s><s p="37">a</s><s p="60">n</s><s p="5">d </s><s p="61"></s><s p="62">s</s><s p="63">t</s><s p="64">o</s><s p="65">r</s><s p="12">y​ ​</s><s p="2">​</s></p>
+<p t="146396" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​S</s><s p="16">h</s><s p="66">a</s><s p="67">r</s><s p="50">e </s><s p="68"></s><s p="6">the futures that we can see​ ​</s><s p="2">​</s></p>
+<p t="146763" d="368" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​S</s><s p="16">h</s><s p="66">a</s><s p="67">r</s><s p="50">e </s><s p="68"></s><s p="69">t</s><s p="70">h</s><s p="15">e </s><s p="71"></s><s p="6">futures that we can see​ ​</s><s p="2">​</s></p>
+<p t="147131" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​S</s><s p="16">h</s><s p="66">a</s><s p="67">r</s><s p="50">e </s><s p="68"></s><s p="69">t</s><s p="70">h</s><s p="15">e </s><s p="71"></s><s p="72">f</s><s p="73">u</s><s p="6">tures that we can see​ ​</s><s p="2">​</s></p>
+<p t="147464" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​S</s><s p="16">h</s><s p="66">a</s><s p="67">r</s><s p="50">e </s><s p="68"></s><s p="69">t</s><s p="70">h</s><s p="15">e </s><s p="71"></s><s p="72">f</s><s p="73">u</s><s p="54">t</s><s p="74">u</s><s p="75">r</s><s p="76">e</s><s p="11">s </s><s p="77"></s><s p="6">that we can see​ ​</s><s p="2">​</s></p>
+<p t="147664" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​S</s><s p="16">h</s><s p="66">a</s><s p="67">r</s><s p="50">e </s><s p="68"></s><s p="69">t</s><s p="70">h</s><s p="15">e </s><s p="71"></s><s p="72">f</s><s p="73">u</s><s p="54">t</s><s p="74">u</s><s p="75">r</s><s p="76">e</s><s p="11">s </s><s p="77"></s><s p="78">t</s><s p="79">h</s><s p="59">a</s><s p="80">t </s><s p="81"></s><s p="6">we can see​ ​</s><s p="2">​</s></p>
+<p t="147998" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​S</s><s p="16">h</s><s p="66">a</s><s p="67">r</s><s p="50">e </s><s p="68"></s><s p="69">t</s><s p="70">h</s><s p="15">e </s><s p="71"></s><s p="72">f</s><s p="73">u</s><s p="54">t</s><s p="74">u</s><s p="75">r</s><s p="76">e</s><s p="11">s </s><s p="77"></s><s p="78">t</s><s p="79">h</s><s p="59">a</s><s p="80">t </s><s p="81"></s><s p="82">w</s><s p="5">e </s><s p="83"></s><s p="6">can see​ ​</s><s p="2">​</s></p>
+<p t="148198" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​S</s><s p="16">h</s><s p="66">a</s><s p="67">r</s><s p="50">e </s><s p="68"></s><s p="69">t</s><s p="70">h</s><s p="15">e </s><s p="71"></s><s p="72">f</s><s p="73">u</s><s p="54">t</s><s p="74">u</s><s p="75">r</s><s p="76">e</s><s p="11">s </s><s p="77"></s><s p="78">t</s><s p="79">h</s><s p="59">a</s><s p="80">t </s><s p="81"></s><s p="82">w</s><s p="5">e </s><s p="83"></s><s p="84">c</s><s p="85">a</s><s p="63">n </s><s p="86"></s><s p="6">see​ ​</s><s p="2">​</s></p>
+<p t="148365" d="901" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​S</s><s p="16">h</s><s p="66">a</s><s p="67">r</s><s p="50">e </s><s p="68"></s><s p="69">t</s><s p="70">h</s><s p="15">e </s><s p="71"></s><s p="72">f</s><s p="73">u</s><s p="54">t</s><s p="74">u</s><s p="75">r</s><s p="76">e</s><s p="11">s </s><s p="77"></s><s p="78">t</s><s p="79">h</s><s p="59">a</s><s p="80">t </s><s p="81"></s><s p="82">w</s><s p="5">e </s><s p="83"></s><s p="84">c</s><s p="85">a</s><s p="63">n </s><s p="86"></s><s p="87">s</s><s p="47">e</s><s p="12">e​ ​</s><s p="2">​</s></p>
+<p t="149266" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​M</s><s p="88">a</s><s p="89">k</s><s p="6">ing them reality!​ ​</s><s p="2">​</s></p>
+<p t="149633" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​M</s><s p="88">a</s><s p="89">k</s><s p="90">i</s><s p="91">n</s><s p="92">g </s><s p="93"></s><s p="6">them reality!​ ​</s><s p="2">​</s></p>
+<p t="149967" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​M</s><s p="88">a</s><s p="89">k</s><s p="90">i</s><s p="91">n</s><s p="92">g </s><s p="93"></s><s p="94">t</s><s p="95">h</s><s p="96">e</s><s p="97">m </s><s p="98"></s><s p="6">reality!​ ​</s><s p="2">​</s></p>
+<p t="150334" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​M</s><s p="88">a</s><s p="89">k</s><s p="90">i</s><s p="91">n</s><s p="92">g </s><s p="93"></s><s p="94">t</s><s p="95">h</s><s p="96">e</s><s p="97">m </s><s p="98"></s><s p="99">r</s><s p="100">e</s><s p="6">ality!​ ​</s><s p="2">​</s></p>
+<p t="150701" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​M</s><s p="88">a</s><s p="89">k</s><s p="90">i</s><s p="91">n</s><s p="92">g </s><s p="93"></s><s p="94">t</s><s p="95">h</s><s p="96">e</s><s p="97">m </s><s p="98"></s><s p="99">r</s><s p="100">e</s><s p="101">a</s><s p="102">l</s><s p="6">ity!​ ​</s><s p="2">​</s></p>
+<p t="151068" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​M</s><s p="88">a</s><s p="89">k</s><s p="90">i</s><s p="91">n</s><s p="92">g </s><s p="93"></s><s p="94">t</s><s p="95">h</s><s p="96">e</s><s p="97">m </s><s p="98"></s><s p="99">r</s><s p="100">e</s><s p="101">a</s><s p="102">l</s><s p="103">i</s><s p="6">ty!​ ​</s><s p="2">​</s></p>
+<p t="151435" d="734" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​M</s><s p="88">a</s><s p="89">k</s><s p="90">i</s><s p="91">n</s><s p="92">g </s><s p="93"></s><s p="94">t</s><s p="95">h</s><s p="96">e</s><s p="97">m </s><s p="98"></s><s p="99">r</s><s p="100">e</s><s p="101">a</s><s p="102">l</s><s p="103">i</s><s p="104">t</s><s p="105">y</s><s p="12">!​ ​</s><s p="2">​</s></p>
+<p t="152169" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​T</s><s p="106">a</s><s p="107">k</s><s p="108">e </s><s p="109"></s><s p="6">my hand and reach for the screen​ ​</s><s p="2">​</s></p>
+<p t="152536" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​T</s><s p="106">a</s><s p="107">k</s><s p="108">e </s><s p="109"></s><s p="110">m</s><s p="111">y </s><s p="112"></s><s p="6">hand and reach for the screen​ ​</s><s p="2">​</s></p>
+<p t="152870" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​T</s><s p="106">a</s><s p="107">k</s><s p="108">e </s><s p="109"></s><s p="110">m</s><s p="111">y </s><s p="112"></s><s p="113">h</s><s p="8">a</s><s p="114">n</s><s p="115">d </s><s p="116"></s><s p="6">and reach for the screen​ ​</s><s p="2">​</s></p>
+<p t="153237" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​T</s><s p="106">a</s><s p="107">k</s><s p="108">e </s><s p="109"></s><s p="110">m</s><s p="111">y </s><s p="112"></s><s p="113">h</s><s p="8">a</s><s p="114">n</s><s p="115">d </s><s p="116"></s><s p="117">a</s><s p="118">n</s><s p="119">d </s><s p="120"></s><s p="6">reach for the screen​ ​</s><s p="2">​</s></p>
+<p t="153437" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​T</s><s p="106">a</s><s p="107">k</s><s p="108">e </s><s p="109"></s><s p="110">m</s><s p="111">y </s><s p="112"></s><s p="113">h</s><s p="8">a</s><s p="114">n</s><s p="115">d </s><s p="116"></s><s p="117">a</s><s p="118">n</s><s p="119">d </s><s p="120"></s><s p="121">r</s><s p="14">e</s><s p="122">a</s><s p="123">c</s><s p="124">h </s><s p="125"></s><s p="6">for the screen​ ​</s><s p="2">​</s></p>
+<p t="153804" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​T</s><s p="106">a</s><s p="107">k</s><s p="108">e </s><s p="109"></s><s p="110">m</s><s p="111">y </s><s p="112"></s><s p="113">h</s><s p="8">a</s><s p="114">n</s><s p="115">d </s><s p="116"></s><s p="117">a</s><s p="118">n</s><s p="119">d </s><s p="120"></s><s p="121">r</s><s p="14">e</s><s p="122">a</s><s p="123">c</s><s p="124">h </s><s p="125"></s><s p="126">f</s><s p="127">o</s><s p="128">r </s><s p="129"></s><s p="6">the screen​ ​</s><s p="2">​</s></p>
+<p t="153971" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​T</s><s p="106">a</s><s p="107">k</s><s p="108">e </s><s p="109"></s><s p="110">m</s><s p="111">y </s><s p="112"></s><s p="113">h</s><s p="8">a</s><s p="114">n</s><s p="115">d </s><s p="116"></s><s p="117">a</s><s p="118">n</s><s p="119">d </s><s p="120"></s><s p="121">r</s><s p="14">e</s><s p="122">a</s><s p="123">c</s><s p="124">h </s><s p="125"></s><s p="126">f</s><s p="127">o</s><s p="128">r </s><s p="129"></s><s p="10">t</s><s p="130">h</s><s p="131">e </s><s p="132"></s><s p="6">screen​ ​</s><s p="2">​</s></p>
+<p t="154138" d="900" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​T</s><s p="106">a</s><s p="107">k</s><s p="108">e </s><s p="109"></s><s p="110">m</s><s p="111">y </s><s p="112"></s><s p="113">h</s><s p="8">a</s><s p="114">n</s><s p="115">d </s><s p="116"></s><s p="117">a</s><s p="118">n</s><s p="119">d </s><s p="120"></s><s p="121">r</s><s p="14">e</s><s p="122">a</s><s p="123">c</s><s p="124">h </s><s p="125"></s><s p="126">f</s><s p="127">o</s><s p="128">r </s><s p="129"></s><s p="10">t</s><s p="130">h</s><s p="131">e </s><s p="132"></s><s p="133">s</s><s p="134">c</s><s p="135">r</s><s p="136">e</s><s p="137">e</s><s p="13">n​ ​</s><s p="2">​</s></p>
+<p t="155038" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​A</s><s p="138">l</s><s p="139">l </s><s p="140"></s><s p="6">we need are glittering dreams​ ​</s><s p="2">​</s></p>
+<p t="155405" d="301" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​A</s><s p="138">l</s><s p="139">l </s><s p="140"></s><s p="141">w</s><s p="142">e </s><s p="143"></s><s p="6">need are glittering dreams​ ​</s><s p="2">​</s></p>
+<p t="155706" d="400" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​A</s><s p="138">l</s><s p="139">l </s><s p="140"></s><s p="141">w</s><s p="142">e </s><s p="143"></s><s p="144">n</s><s p="8">e</s><s p="145">e</s><s p="146">d </s><s p="147"></s><s p="6">are glittering dreams​ ​</s><s p="2">​</s></p>
+<p t="156106" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​A</s><s p="138">l</s><s p="139">l </s><s p="140"></s><s p="141">w</s><s p="142">e </s><s p="143"></s><s p="144">n</s><s p="8">e</s><s p="145">e</s><s p="146">d </s><s p="147"></s><s p="148">a</s><s p="149">r</s><s p="150">e </s><s p="151"></s><s p="6">glittering dreams​ ​</s><s p="2">​</s></p>
+<p t="156306" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​A</s><s p="138">l</s><s p="139">l </s><s p="140"></s><s p="141">w</s><s p="142">e </s><s p="143"></s><s p="144">n</s><s p="8">e</s><s p="145">e</s><s p="146">d </s><s p="147"></s><s p="148">a</s><s p="149">r</s><s p="150">e </s><s p="151"></s><s p="14">g</s><s p="152">l</s><s p="153">i</s><s p="154">t</s><s p="6">tering dreams​ ​</s><s p="2">​</s></p>
+<p t="156673" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​A</s><s p="138">l</s><s p="139">l </s><s p="140"></s><s p="141">w</s><s p="142">e </s><s p="143"></s><s p="144">n</s><s p="8">e</s><s p="145">e</s><s p="146">d </s><s p="147"></s><s p="148">a</s><s p="149">r</s><s p="150">e </s><s p="151"></s><s p="14">g</s><s p="152">l</s><s p="153">i</s><s p="154">t</s><s p="155">t</s><s p="156">e</s><s p="157">r</s><s p="6">ing dreams​ ​</s><s p="2">​</s></p>
+<p t="156840" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​A</s><s p="138">l</s><s p="139">l </s><s p="140"></s><s p="141">w</s><s p="142">e </s><s p="143"></s><s p="144">n</s><s p="8">e</s><s p="145">e</s><s p="146">d </s><s p="147"></s><s p="148">a</s><s p="149">r</s><s p="150">e </s><s p="151"></s><s p="14">g</s><s p="152">l</s><s p="153">i</s><s p="154">t</s><s p="155">t</s><s p="156">e</s><s p="157">r</s><s p="158">i</s><s p="10">n</s><s p="159">g </s><s p="160"></s><s p="6">dreams​ ​</s><s p="2">​</s></p>
+<p t="157007" d="734" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​A</s><s p="138">l</s><s p="139">l </s><s p="140"></s><s p="141">w</s><s p="142">e </s><s p="143"></s><s p="144">n</s><s p="8">e</s><s p="145">e</s><s p="146">d </s><s p="147"></s><s p="148">a</s><s p="149">r</s><s p="150">e </s><s p="151"></s><s p="14">g</s><s p="152">l</s><s p="153">i</s><s p="154">t</s><s p="155">t</s><s p="156">e</s><s p="157">r</s><s p="158">i</s><s p="10">n</s><s p="159">g </s><s p="160"></s><s p="161">d</s><s p="162">r</s><s p="163">e</s><s p="164">a</s><s p="165">m</s><s p="13">s​ ​</s><s p="2">​</s></p>
+<p t="157741" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​O</s><s p="166">u</s><s p="167">r </s><s p="168"></s><s p="6">hearts and souls,​ ​</s><s p="2">​</s></p>
+<p t="157908" d="534" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​O</s><s p="166">u</s><s p="167">r </s><s p="168"></s><s p="169">h</s><s p="8">e</s><s p="170">a</s><s p="171">r</s><s p="172">t</s><s p="173">s </s><s p="14"></s><s p="6">and souls,​ ​</s><s p="2">​</s></p>
+<p t="158442" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​O</s><s p="166">u</s><s p="167">r </s><s p="168"></s><s p="169">h</s><s p="8">e</s><s p="170">a</s><s p="171">r</s><s p="172">t</s><s p="173">s </s><s p="14"></s><s p="174">a</s><s p="175">n</s><s p="176">d </s><s p="177"></s><s p="6">souls,​ ​</s><s p="2">​</s></p>
+<p t="158642" d="701" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​O</s><s p="166">u</s><s p="167">r </s><s p="168"></s><s p="169">h</s><s p="8">e</s><s p="170">a</s><s p="171">r</s><s p="172">t</s><s p="173">s </s><s p="14"></s><s p="174">a</s><s p="175">n</s><s p="176">d </s><s p="177"></s><s p="10">s</s><s p="178">o</s><s p="179">u</s><s p="180">l</s><s p="181">s</s><s p="13">,​ ​</s><s p="2">​</s></p>
+<p t="159343" d="534" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​a</s><s p="182">l</s><s p="183">l </s><s p="184"></s><s p="6">fulfilled in the world we build!​ ​</s><s p="2">​</s></p>
+<p t="159877" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​a</s><s p="182">l</s><s p="183">l </s><s p="184"></s><s p="185">f</s><s p="186">u</s><s p="187">l</s><s p="6">filled in the world we build!​ ​</s><s p="2">​</s></p>
+<p t="160077" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​a</s><s p="182">l</s><s p="183">l </s><s p="184"></s><s p="185">f</s><s p="186">u</s><s p="187">l</s><s p="169">f</s><s p="188">i</s><s p="189">l</s><s p="190">l</s><s p="191">e</s><s p="192">d </s><s p="193"></s><s p="6">in the world we build!​ ​</s><s p="2">​</s></p>
+<p t="160410" d="201" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​a</s><s p="182">l</s><s p="183">l </s><s p="184"></s><s p="185">f</s><s p="186">u</s><s p="187">l</s><s p="169">f</s><s p="188">i</s><s p="189">l</s><s p="190">l</s><s p="191">e</s><s p="192">d </s><s p="193"></s><s p="172">i</s><s p="194">n </s><s p="195"></s><s p="6">the world we build!​ ​</s><s p="2">​</s></p>
+<p t="160611" d="166" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​a</s><s p="182">l</s><s p="183">l </s><s p="184"></s><s p="185">f</s><s p="186">u</s><s p="187">l</s><s p="169">f</s><s p="188">i</s><s p="189">l</s><s p="190">l</s><s p="191">e</s><s p="192">d </s><s p="193"></s><s p="172">i</s><s p="194">n </s><s p="195"></s><s p="196">t</s><s p="197">h</s><s p="198">e </s><s p="199"></s><s p="6">world we build!​ ​</s><s p="2">​</s></p>
+<p t="160777" d="568" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​a</s><s p="182">l</s><s p="183">l </s><s p="184"></s><s p="185">f</s><s p="186">u</s><s p="187">l</s><s p="169">f</s><s p="188">i</s><s p="189">l</s><s p="190">l</s><s p="191">e</s><s p="192">d </s><s p="193"></s><s p="172">i</s><s p="194">n </s><s p="195"></s><s p="196">t</s><s p="197">h</s><s p="198">e </s><s p="199"></s><s p="175">w</s><s p="200">o</s><s p="156">r</s><s p="201">l</s><s p="202">d </s><s p="203"></s><s p="6">we build!​ ​</s><s p="2">​</s></p>
+<p t="161345" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​a</s><s p="182">l</s><s p="183">l </s><s p="184"></s><s p="185">f</s><s p="186">u</s><s p="187">l</s><s p="169">f</s><s p="188">i</s><s p="189">l</s><s p="190">l</s><s p="191">e</s><s p="192">d </s><s p="193"></s><s p="172">i</s><s p="194">n </s><s p="195"></s><s p="196">t</s><s p="197">h</s><s p="198">e </s><s p="199"></s><s p="175">w</s><s p="200">o</s><s p="156">r</s><s p="201">l</s><s p="202">d </s><s p="203"></s><s p="204">w</s><s p="178">e </s><s p="205"></s><s p="6">build!​ ​</s><s p="2">​</s></p>
+<p t="161512" d="2035" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​a</s><s p="182">l</s><s p="183">l </s><s p="184"></s><s p="185">f</s><s p="186">u</s><s p="187">l</s><s p="169">f</s><s p="188">i</s><s p="189">l</s><s p="190">l</s><s p="191">e</s><s p="192">d </s><s p="193"></s><s p="172">i</s><s p="194">n </s><s p="195"></s><s p="196">t</s><s p="197">h</s><s p="198">e </s><s p="199"></s><s p="175">w</s><s p="200">o</s><s p="156">r</s><s p="201">l</s><s p="202">d </s><s p="203"></s><s p="204">w</s><s p="178">e </s><s p="205"></s><s p="206">b</s><s p="207">u</s><s p="208">i</s><s p="209">l</s><s p="137">d</s><s p="13">!​ ​</s><s p="2">​</s></p>
+<p t="165449" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​We&#39;re </s><s p="4">ready to seize the day​ ​</s><s p="2">​</s></p>
+<p t="165782" d="201" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​We&#39;re read</s><s p="4">y to seize the day​ ​</s><s p="2">​</s></p>
+<p t="165983" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​We&#39;re ready </s><s p="4">to seize the day​ ​</s><s p="2">​</s></p>
+<p t="166183" d="233" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​We&#39;re ready to </s><s p="4">seize the day​ ​</s><s p="2">​</s></p>
+<p t="166416" d="668" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​We&#39;re ready to seize </s><s p="4">the day​ ​</s><s p="2">​</s></p>
+<p t="167084" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​We&#39;re ready to seize the </s><s p="4">day​ ​</s><s p="2">​</s></p>
+<p t="167251" d="500" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​We&#39;re ready to seize the day​ ​</s><s p="2">​</s></p>
+<p t="167751" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Trav</s><s p="4">ersing the pathways,​ ​</s><s p="2">​</s></p>
+<p t="167951" d="201" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Travers</s><s p="4">ing the pathways,​ ​</s><s p="2">​</s></p>
+<p t="168152" d="166" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Traversing </s><s p="4">the pathways,​ ​</s><s p="2">​</s></p>
+<p t="168318" d="201" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Traversing the </s><s p="4">pathways,​ ​</s><s p="2">​</s></p>
+<p t="168519" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Traversing the path</s><s p="4">ways,​ ​</s><s p="2">​</s></p>
+<p t="168852" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Traversing the pathways,​ ​</s><s p="2">​</s></p>
+<p t="169219" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​dis</s><s p="4">covering highways to everywhere!​ ​</s><s p="2">​</s></p>
+<p t="169386" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​discov</s><s p="4">ering highways to everywhere!​ ​</s><s p="2">​</s></p>
+<p t="169586" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​discover</s><s p="4">ing highways to everywhere!​ ​</s><s p="2">​</s></p>
+<p t="169753" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​discovering </s><s p="4">highways to everywhere!​ ​</s><s p="2">​</s></p>
+<p t="169920" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​discovering high</s><s p="4">ways to everywhere!​ ​</s><s p="2">​</s></p>
+<p t="170287" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​discovering highways </s><s p="4">to everywhere!​ ​</s><s p="2">​</s></p>
+<p t="170654" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​discovering highways to </s><s p="4">everywhere!​ ​</s><s p="2">​</s></p>
+<p t="170821" d="534" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​discovering highways to eve</s><s p="4">rywhere!​ ​</s><s p="2">​</s></p>
+<p t="171355" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​discovering highways to every</s><s p="4">where!​ ​</s><s p="2">​</s></p>
+<p t="171555" d="701" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​discovering highways to everywhere!​ ​</s><s p="2">​</s></p>
+<p t="172256" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Step </s><s p="4">by step,​ ​</s><s p="2">​
+​</s><s p="4">​ ​gathering stories that we can share!​ ​</s><s p="2">​</s></p>
+<p t="172623" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Step by </s><s p="4">step,​ ​</s><s p="2">​
+​</s><s p="4">​ ​gathering stories that we can share!​ ​</s><s p="2">​</s></p>
+<p t="172990" d="534" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Step by step,​ ​</s><s p="2">​
+​</s><s p="4">​ ​gathering stories that we can share!​ ​</s><s p="2">​</s></p>
+<p t="173524" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Step by step,​ ​</s><s p="2">​
+​</s><s p="3">​ ​gath</s><s p="4">ering stories that we can share!​ ​</s><s p="2">​</s></p>
+<p t="173891" d="267" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Step by step,​ ​</s><s p="2">​
+​</s><s p="3">​ ​gather</s><s p="4">ing stories that we can share!​ ​</s><s p="2">​</s></p>
+<p t="174158" d="233" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Step by step,​ ​</s><s p="2">​
+​</s><s p="3">​ ​gathering </s><s p="4">stories that we can share!​ ​</s><s p="2">​</s></p>
+<p t="174391" d="300" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Step by step,​ ​</s><s p="2">​
+​</s><s p="3">​ ​gathering sto</s><s p="4">ries that we can share!​ ​</s><s p="2">​</s></p>
+<p t="174691" d="267" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Step by step,​ ​</s><s p="2">​
+​</s><s p="3">​ ​gathering stories </s><s p="4">that we can share!​ ​</s><s p="2">​</s></p>
+<p t="174958" d="201" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Step by step,​ ​</s><s p="2">​
+​</s><s p="3">​ ​gathering stories that </s><s p="4">we can share!​ ​</s><s p="2">​</s></p>
+<p t="175159" d="533" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Step by step,​ ​</s><s p="2">​
+​</s><s p="3">​ ​gathering stories that we </s><s p="4">can share!​ ​</s><s p="2">​</s></p>
+<p t="175692" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Step by step,​ ​</s><s p="2">​
+​</s><s p="3">​ ​gathering stories that we can </s><s p="4">share!​ ​</s><s p="2">​</s></p>
+<p t="175859" d="1068" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Step by step,​ ​</s><s p="2">​
+​</s><s p="3">​ ​gathering stories that we can share!​ ​</s><s p="2">​</s></p>
+<p t="176927" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Get </s><s p="4">ready to lead the way​ ​</s><s p="2">​</s></p>
+<p t="177294" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Get read</s><s p="4">y to lead the way​ ​</s><s p="2">​</s></p>
+<p t="177494" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Get ready </s><s p="4">to lead the way​ ​</s><s p="2">​</s></p>
+<p t="177661" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Get ready to </s><s p="4">lead the way​ ​</s><s p="2">​</s></p>
+<p t="178028" d="501" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Get ready to lead </s><s p="4">the way​ ​</s><s p="2">​</s></p>
+<p t="178529" d="166" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Get ready to lead the </s><s p="4">way​ ​</s><s p="2">​</s></p>
+<p t="178695" d="601" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Get ready to lead the way​ ​</s><s p="2">​</s></p>
+<p t="179296" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​With </s><s p="4">each generation, a shining sensation​ ​</s><s p="2">​</s></p>
+<p t="179463" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​With each </s><s p="4">generation, a shining sensation​ ​</s><s p="2">​</s></p>
+<p t="179663" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​With each gen</s><s p="4">eration, a shining sensation​ ​</s><s p="2">​</s></p>
+<p t="179830" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​With each gener</s><s p="4">ation, a shining sensation​ ​</s><s p="2">​</s></p>
+<p t="179997" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​With each genera</s><s p="4">tion, a shining sensation​ ​</s><s p="2">​</s></p>
+<p t="180364" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​With each generation, </s><s p="4">a shining sensation​ ​</s><s p="2">​</s></p>
+<p t="180731" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​With each generation, a </s><s p="4">shining sensation​ ​</s><s p="2">​</s></p>
+<p t="180898" d="166" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​With each generation, a shin</s><s p="4">ing sensation​ ​</s><s p="2">​</s></p>
+<p t="181064" d="201" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​With each generation, a shining </s><s p="4">sensation​ ​</s><s p="2">​</s></p>
+<p t="181265" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​With each generation, a shining sen</s><s p="4">sation​ ​</s><s p="2">​</s></p>
+<p t="181465" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​With each generation, a shining sensa</s><s p="4">tion​ ​</s><s p="2">​</s></p>
+<p t="181832" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​With each generation, a shining sensation​ ​</s><s p="2">​</s></p>
+<p t="182166" d="166" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​a </s><s p="4">dream unfurls—​ ​</s><s p="2">​</s></p>
+<p t="182332" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​a dream </s><s p="4">unfurls—​ ​</s><s p="2">​</s></p>
+<p t="182666" d="400" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​a dream un</s><s p="4">furls—​ ​</s><s p="2">​</s></p>
+<p t="183066" d="701" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​a dream unfurls—​ ​</s><s p="2">​</s></p>
+<p t="183767" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Let&#39;s </s><s p="4">make friends,​ ​</s><s p="2">​</s></p>
+<p t="184134" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Let&#39;s make </s><s p="4">friends,​ ​</s><s p="2">​</s></p>
+<p t="184501" d="534" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Let&#39;s make friends,​ ​</s><s p="2">​</s></p>
+<p t="185035" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​mak</s><s p="4">ing a moment of history joyfully!​ ​</s><s p="2">​</s></p>
+<p t="185402" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​making </s><s p="4">a moment of history joyfully!​ ​</s><s p="2">​</s></p>
+<p t="185769" d="134" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​making a </s><s p="4">moment of history joyfully!​ ​</s><s p="2">​</s></p>
+<p t="185903" d="300" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​making a mo</s><s p="4">ment of history joyfully!​ ​</s><s p="2">​</s></p>
+<p t="186203" d="267" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​making a moment </s><s p="4">of history joyfully!​ ​</s><s p="2">​</s></p>
+<p t="186470" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​making a moment of </s><s p="4">history joyfully!​ ​</s><s p="2">​</s></p>
+<p t="186637" d="534" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​making a moment of his</s><s p="4">tory joyfully!​ ​</s><s p="2">​</s></p>
+<p t="187171" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​making a moment of histo</s><s p="4">ry joyfully!​ ​</s><s p="2">​</s></p>
+<p t="187371" d="700" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​making a moment of history </s><s p="4">joyfully!​ ​</s><s p="2">​</s></p>
+<p t="188071" d="534" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​making a moment of history joy</s><s p="4">fully!​ ​</s><s p="2">​</s></p>
+<p t="188605" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​making a moment of history joyful</s><s p="4">ly!​ ​</s><s p="2">​</s></p>
+<p t="188805" d="735" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​making a moment of history joyfully!​ ​</s><s p="2">​</s></p>
+<p t="189540" d="533" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Fol</s><s p="4">low me; we&#39;ll connect the world!​ ​</s><s p="2">​</s></p>
+<p t="190073" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Follow </s><s p="4">me; we&#39;ll connect the world!​ ​</s><s p="2">​</s></p>
+<p t="190240" d="1435" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Follow me; </s><s p="4">we&#39;ll connect the world!​ ​</s><s p="2">​</s></p>
+<p t="191675" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Follow me; we&#39;ll </s><s p="4">connect the world!​ ​</s><s p="2">​</s></p>
+<p t="192042" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Follow me; we&#39;ll con</s><s p="4">nect the world!​ ​</s><s p="2">​</s></p>
+<p t="192409" d="534" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Follow me; we&#39;ll connect </s><s p="4">the world!​ ​</s><s p="2">​</s></p>
+<p t="192943" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Follow me; we&#39;ll connect the </s><s p="4">world!​ ​</s><s p="2">​</s></p>
+<p t="193143" d="1769" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Follow me; we&#39;ll connect the world!​ ​</s><s p="2">​</s></p>
+<p t="195646" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​They&#39;ll </s><s p="4">hear our song ringing out​ ​</s><s p="2">​
+​</s><s p="4">​ ​over hills and oceans​ ​</s><s p="2">​</s></p>
+<p t="196013" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​They&#39;ll hear </s><s p="4">our song ringing out​ ​</s><s p="2">​
+​</s><s p="4">​ ​over hills and oceans​ ​</s><s p="2">​</s></p>
+<p t="196380" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​They&#39;ll hear our </s><s p="4">song ringing out​ ​</s><s p="2">​
+​</s><s p="4">​ ​over hills and oceans​ ​</s><s p="2">​</s></p>
+<p t="196713" d="734" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​They&#39;ll hear our song </s><s p="4">ringing out​ ​</s><s p="2">​
+​</s><s p="4">​ ​over hills and oceans​ ​</s><s p="2">​</s></p>
+<p t="197447" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​They&#39;ll hear our song ring</s><s p="4">ing out​ ​</s><s p="2">​
+​</s><s p="4">​ ​over hills and oceans​ ​</s><s p="2">​</s></p>
+<p t="197814" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​They&#39;ll hear our song ringing </s><s p="4">out​ ​</s><s p="2">​
+​</s><s p="4">​ ​over hills and oceans​ ​</s><s p="2">​</s></p>
+<p t="198148" d="734" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​They&#39;ll hear our song ringing out​ ​</s><s p="2">​
+​</s><s p="4">​ ​over hills and oceans​ ​</s><s p="2">​</s></p>
+<p t="198882" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​They&#39;ll hear our song ringing out​ ​</s><s p="2">​
+​</s><s p="3">​ ​o</s><s p="4">ver hills and oceans​ ​</s><s p="2">​</s></p>
+<p t="199249" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​They&#39;ll hear our song ringing out​ ​</s><s p="2">​
+​</s><s p="3">​ ​over </s><s p="4">hills and oceans​ ​</s><s p="2">​</s></p>
+<p t="199616" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​They&#39;ll hear our song ringing out​ ​</s><s p="2">​
+​</s><s p="3">​ ​over hills </s><s p="4">and oceans​ ​</s><s p="2">​</s></p>
+<p t="199950" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​They&#39;ll hear our song ringing out​ ​</s><s p="2">​
+​</s><s p="3">​ ​over hills and </s><s p="4">oceans​ ​</s><s p="2">​</s></p>
+<p t="200317" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​They&#39;ll hear our song ringing out​ ​</s><s p="2">​
+​</s><s p="3">​ ​over hills and o</s><s p="4">ceans​ ​</s><s p="2">​</s></p>
+<p t="200684" d="701" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​They&#39;ll hear our song ringing out​ ​</s><s p="2">​
+​</s><s p="3">​ ​over hills and oceans​ ​</s><s p="2">​</s></p>
+<p t="201385" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Our </s><s p="4">legend grows and continues!​ ​</s><s p="2">​</s></p>
+<p t="201718" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Our leg</s><s p="4">end grows and continues!​ ​</s><s p="2">​</s></p>
+<p t="202085" d="401" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Our legend </s><s p="4">grows and continues!​ ​</s><s p="2">​</s></p>
+<p t="202486" d="534" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Our legend grows </s><s p="4">and continues!​ ​</s><s p="2">​</s></p>
+<p t="203020" d="500" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Our legend grows and </s><s p="4">continues!​ ​</s><s p="2">​</s></p>
+<p t="203520" d="401" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Our legend grows and con</s><s p="4">tinues!​ ​</s><s p="2">​</s></p>
+<p t="203921" d="533" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Our legend grows and contin</s><s p="4">ues!​ ​</s><s p="2">​</s></p>
+<p t="204454" d="1802" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Our legend grows and continues!​ ​</s><s p="2">​</s></p>
+<p t="207124" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​We&#39;ll </s><s p="4">carry on starting now;​ ​</s><s p="2">​
+​</s><s p="4">​ ​setting hearts in motion—​ ​</s><s p="2">​</s></p>
+<p t="207491" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​We&#39;ll car</s><s p="4">ry on starting now;​ ​</s><s p="2">​
+​</s><s p="4">​ ​setting hearts in motion—​ ​</s><s p="2">​</s></p>
+<p t="207858" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​We&#39;ll carry </s><s p="4">on starting now;​ ​</s><s p="2">​
+​</s><s p="4">​ ​setting hearts in motion—​ ​</s><s p="2">​</s></p>
+<p t="208192" d="734" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​We&#39;ll carry on </s><s p="4">starting now;​ ​</s><s p="2">​
+​</s><s p="4">​ ​setting hearts in motion—​ ​</s><s p="2">​</s></p>
+<p t="208926" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​We&#39;ll carry on start</s><s p="4">ing now;​ ​</s><s p="2">​
+​</s><s p="4">​ ​setting hearts in motion—​ ​</s><s p="2">​</s></p>
+<p t="209293" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​We&#39;ll carry on starting </s><s p="4">now;​ ​</s><s p="2">​
+​</s><s p="4">​ ​setting hearts in motion—​ ​</s><s p="2">​</s></p>
+<p t="209660" d="700" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​We&#39;ll carry on starting now;​ ​</s><s p="2">​
+​</s><s p="4">​ ​setting hearts in motion—​ ​</s><s p="2">​</s></p>
+<p t="210360" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​We&#39;ll carry on starting now;​ ​</s><s p="2">​
+​</s><s p="3">​ ​set</s><s p="4">ting hearts in motion—​ ​</s><s p="2">​</s></p>
+<p t="210727" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​We&#39;ll carry on starting now;​ ​</s><s p="2">​
+​</s><s p="3">​ ​setting </s><s p="4">hearts in motion—​ ​</s><s p="2">​</s></p>
+<p t="211094" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​We&#39;ll carry on starting now;​ ​</s><s p="2">​
+​</s><s p="3">​ ​setting hearts </s><s p="4">in motion—​ ​</s><s p="2">​</s></p>
+<p t="211461" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​We&#39;ll carry on starting now;​ ​</s><s p="2">​
+​</s><s p="3">​ ​setting hearts in </s><s p="4">motion—​ ​</s><s p="2">​</s></p>
+<p t="211795" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​We&#39;ll carry on starting now;​ ​</s><s p="2">​
+​</s><s p="3">​ ​setting hearts in mo</s><s p="4">tion—​ ​</s><s p="2">​</s></p>
+<p t="212162" d="701" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​We&#39;ll carry on starting now;​ ​</s><s p="2">​
+​</s><s p="3">​ ​setting hearts in motion—​ ​</s><s p="2">​</s></p>
+<p t="212863" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Con</s><s p="4">necting all of the world!​ ​</s><s p="2">​</s></p>
+<p t="213230" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Connect</s><s p="4">ing all of the world!​ ​</s><s p="2">​</s></p>
+<p t="213597" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Connecting </s><s p="4">all of the world!​ ​</s><s p="2">​</s></p>
+<p t="213964" d="534" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Connecting all </s><s p="4">of the world!​ ​</s><s p="2">​</s></p>
+<p t="214498" d="534" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Connecting all of </s><s p="4">the world!​ ​</s><s p="2">​</s></p>
+<p t="215032" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Connecting all of the </s><s p="4">world!​ ​</s><s p="2">​</s></p>
+<p t="215199" d="3069" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Connecting all of the world!​ ​</s><s p="2">​</s></p>
+</body>
+</timedtext>
