@@ -1,0 +1,841 @@
+<?xml version="1.0" encoding="utf-8" ?><timedtext format="3">
+<head>
+<pen id="1" fc="#000000" fo="0" bo="0" sz="100"/>
+<pen id="2" fc="#A0AAB4" fo="0" bo="0" sz="0"/>
+<pen id="3" fc="#F6BBBB" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="4" fc="#F6BBBB" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="5" fc="#F6BBBB" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="6" fc="#B19DDC" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="7" fc="#B19DDC" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="8" fc="#B19DDC" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="9" fc="#B3EE55" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="10" fc="#B3EE55" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="11" fc="#B3EE55" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="12" fc="#EDB7BF" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="13" fc="#E5B4C3" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="14" fc="#E0B2C5" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="15" fc="#D8AEC9" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="16" fc="#D3ACCC" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="17" fc="#CCA9CF" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="18" fc="#C8A7D1" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="19" fc="#C2A4D4" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="20" fc="#BBA1D7" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="21" fc="#B59FDA" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="22" fc="#B1A0D7" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="23" fc="#B1A8CA" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="24" fc="#B1AEC0" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="25" fc="#B2B2B8" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="26" fc="#B2BCA8" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="27" fc="#B2C49A" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="28" fc="#B2CE8B" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="29" fc="#B2D879" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="30" fc="#B3E367" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="31" fc="#EDB7BF" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="32" fc="#E5B4C3" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="33" fc="#E0B2C5" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="34" fc="#D8AEC9" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="35" fc="#D3ACCC" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="36" fc="#CCA9CF" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="37" fc="#C8A7D1" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="38" fc="#C2A4D4" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="39" fc="#BBA1D7" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="40" fc="#B59FDA" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="41" fc="#B1A0D7" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="42" fc="#B1A8CA" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="43" fc="#B1AEC0" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="44" fc="#B2B2B8" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="45" fc="#B2BCA8" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="46" fc="#B2C49A" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="47" fc="#B2CE8B" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="48" fc="#B2D879" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="49" fc="#B3E367" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="50" fc="#EDB7BF" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="51" fc="#E5B4C3" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="52" fc="#E0B2C5" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="53" fc="#D8AEC9" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="54" fc="#D3ACCC" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="55" fc="#CCA9CF" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="56" fc="#C8A7D1" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="57" fc="#C2A4D4" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="58" fc="#BBA1D7" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="59" fc="#B59FDA" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="60" fc="#B1A0D7" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="61" fc="#B1A8CA" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="62" fc="#B1AEC0" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="63" fc="#B2B2B8" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="64" fc="#B2BCA8" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="65" fc="#B2C49A" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="66" fc="#B2CE8B" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="67" fc="#B2D879" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="68" fc="#B3E367" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="69" fc="#E1B2C5" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="70" fc="#D9AEC9" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="71" fc="#D4ACCB" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="72" fc="#CDA9CF" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="73" fc="#C9A8D0" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="74" fc="#C4A5D3" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="75" fc="#BDA2D6" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="76" fc="#B7A0D9" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="77" fc="#B1A5CF" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="78" fc="#B1ABC5" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="79" fc="#B1AFBE" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="80" fc="#B2BFA4" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="81" fc="#B2D088" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="82" fc="#B3E16B" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="83" fc="#E1B2C5" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="84" fc="#D9AEC9" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="85" fc="#D4ACCB" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="86" fc="#CDA9CF" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="87" fc="#C9A8D0" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="88" fc="#C4A5D3" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="89" fc="#BDA2D6" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="90" fc="#B7A0D9" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="91" fc="#B1A5CF" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="92" fc="#B1ABC5" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="93" fc="#B1AFBE" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="94" fc="#B2BFA4" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="95" fc="#B2D088" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="96" fc="#B3E16B" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="97" fc="#E1B2C5" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="98" fc="#D9AEC9" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="99" fc="#D4ACCB" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="100" fc="#CDA9CF" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="101" fc="#C9A8D0" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="102" fc="#C4A5D3" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="103" fc="#BDA2D6" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="104" fc="#B7A0D9" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="105" fc="#B1A5CF" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="106" fc="#B1ABC5" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="107" fc="#B1AFBE" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="108" fc="#B2BFA4" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="109" fc="#B2D088" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="110" fc="#B3E16B" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="111" fc="#EFB8BE" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="112" fc="#E8B5C2" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="113" fc="#E4B3C3" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="114" fc="#DEB1C7" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="115" fc="#DAAFC8" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="116" fc="#D1ABCD" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="117" fc="#C6A6D2" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="118" fc="#BCA2D7" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="119" fc="#B8A0D9" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="120" fc="#B29EDB" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="121" fc="#B19FD9" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="122" fc="#B1A2D3" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="123" fc="#B1A9C8" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="124" fc="#B2B3B8" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="125" fc="#B2B9AD" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="126" fc="#B2BEA5" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="127" fc="#B2C29F" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="128" fc="#B2C992" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="129" fc="#B2D67E" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="130" fc="#B3DA76" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="131" fc="#B3E269" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="132" fc="#B3EA5C" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="133" fc="#EFB8BE" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="134" fc="#E8B5C2" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="135" fc="#E4B3C3" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="136" fc="#DEB1C7" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="137" fc="#DAAFC8" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="138" fc="#D1ABCD" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="139" fc="#C6A6D2" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="140" fc="#BCA2D7" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="141" fc="#B8A0D9" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="142" fc="#B29EDB" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="143" fc="#B19FD9" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="144" fc="#B1A2D3" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="145" fc="#B1A9C8" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="146" fc="#B2B3B8" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="147" fc="#B2B9AD" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="148" fc="#B2BEA5" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="149" fc="#B2C29F" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="150" fc="#B2C992" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="151" fc="#B2D67E" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="152" fc="#B3DA76" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="153" fc="#B3E269" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="154" fc="#B3EA5C" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="155" fc="#EFB8BE" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="156" fc="#E8B5C2" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="157" fc="#E4B3C3" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="158" fc="#DEB1C7" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="159" fc="#DAAFC8" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="160" fc="#D1ABCD" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="161" fc="#C6A6D2" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="162" fc="#BCA2D7" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="163" fc="#B8A0D9" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="164" fc="#B29EDB" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="165" fc="#B19FD9" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="166" fc="#B1A2D3" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="167" fc="#B1A9C8" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="168" fc="#B2B3B8" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="169" fc="#B2B9AD" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="170" fc="#B2BEA5" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="171" fc="#B2C29F" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="172" fc="#B2C992" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="173" fc="#B2D67E" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="174" fc="#B3DA76" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="175" fc="#B3E269" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="176" fc="#B3EA5C" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="177" fc="#E6B4C2" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="178" fc="#CBA8D0" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="179" fc="#BEA3D6" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="180" fc="#B29DDC" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="181" fc="#B1ADC1" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="182" fc="#B2CE8A" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="183" fc="#B3DE6F" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="184" fc="#E6B4C2" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="185" fc="#CBA8D0" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="186" fc="#BEA3D6" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="187" fc="#B29DDC" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="188" fc="#B1ADC1" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="189" fc="#B2CE8A" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="190" fc="#B3DE6F" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="191" fc="#E6B4C2" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="192" fc="#CBA8D0" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="193" fc="#BEA3D6" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="194" fc="#B29DDC" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="195" fc="#B1ADC1" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="196" fc="#B2CE8A" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="197" fc="#B3DE6F" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="198" fc="#EAB6C1" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="199" fc="#DEB1C6" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="200" fc="#CAA8D0" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="201" fc="#BFA3D5" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="202" fc="#B8A0D8" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="203" fc="#B1A1D5" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="204" fc="#B1A4D0" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="205" fc="#B2B3B7" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="206" fc="#B2BAAB" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="207" fc="#B2BFA3" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="208" fc="#B2C39D" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="209" fc="#B2C894" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="210" fc="#B2CD8C" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="211" fc="#B2D481" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="212" fc="#B3DC72" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="213" fc="#B3EA5B" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="214" fc="#B3EE56" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="215" fc="#EAB6C1" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="216" fc="#DEB1C6" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="217" fc="#CAA8D0" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="218" fc="#BFA3D5" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="219" fc="#B8A0D8" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="220" fc="#B1A1D5" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="221" fc="#B1A4D0" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="222" fc="#B2B3B7" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="223" fc="#B2BAAB" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="224" fc="#B2BFA3" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="225" fc="#B2C39D" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="226" fc="#B2C894" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="227" fc="#B2CD8C" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="228" fc="#B2D481" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="229" fc="#B3DC72" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="230" fc="#B3EA5B" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="231" fc="#B3EE56" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="232" fc="#EAB6C1" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="233" fc="#DEB1C6" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="234" fc="#CAA8D0" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="235" fc="#BFA3D5" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="236" fc="#B8A0D8" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="237" fc="#B1A1D5" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="238" fc="#B1A4D0" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="239" fc="#B2B3B7" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="240" fc="#B2BAAB" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="241" fc="#B2BFA3" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="242" fc="#B2C39D" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="243" fc="#B2C894" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="244" fc="#B2CD8C" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="245" fc="#B2D481" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="246" fc="#B3DC72" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="247" fc="#B3EA5B" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="248" fc="#B3EE56" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="249" fc="#C5A6D2" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="250" fc="#B1B1BB" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="251" fc="#C5A6D2" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="252" fc="#B1B1BB" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="253" fc="#C5A6D2" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="254" fc="#B1B1BB" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="255" fc="#ECB7C0" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="256" fc="#E3B3C4" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="257" fc="#DAAFC9" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="258" fc="#BAA1D8" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="259" fc="#B19FD8" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="260" fc="#B1ACC3" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="261" fc="#B2B8AF" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="262" fc="#B2C39C" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="263" fc="#B3E06C" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="264" fc="#ECB7C0" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="265" fc="#E3B3C4" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="266" fc="#DAAFC9" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="267" fc="#BAA1D8" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="268" fc="#B19FD8" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="269" fc="#B1ACC3" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="270" fc="#B2B8AF" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="271" fc="#B2C39C" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="272" fc="#B3E06C" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="273" fc="#ECB7C0" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="274" fc="#E3B3C4" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="275" fc="#DAAFC9" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="276" fc="#BAA1D8" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="277" fc="#B19FD8" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="278" fc="#B1ACC3" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="279" fc="#B2B8AF" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="280" fc="#B2C39C" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="281" fc="#B3E06C" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="282" fc="#E2B2C4" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="283" fc="#CFAACE" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="284" fc="#B49EDB" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="285" fc="#B1ADC2" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="286" fc="#B2B5B4" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="287" fc="#B2BEA6" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="288" fc="#B2C895" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="289" fc="#B2D57F" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="290" fc="#B3E368" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="291" fc="#E2B2C4" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="292" fc="#CFAACE" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="293" fc="#B49EDB" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="294" fc="#B1ADC2" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="295" fc="#B2B5B4" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="296" fc="#B2BEA6" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="297" fc="#B2C895" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="298" fc="#B2D57F" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="299" fc="#B3E368" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="300" fc="#E2B2C4" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="301" fc="#CFAACE" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="302" fc="#B49EDB" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="303" fc="#B1ADC2" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="304" fc="#B2B5B4" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="305" fc="#B2BEA6" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="306" fc="#B2C895" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="307" fc="#B2D57F" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="308" fc="#B3E368" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="309" fc="#EBB6C0" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="310" fc="#D7AECA" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="311" fc="#B19EDB" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="312" fc="#B2B7B0" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="313" fc="#B2D087" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="314" fc="#B3DA77" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="315" fc="#B3E16A" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="316" fc="#EBB6C0" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="317" fc="#D7AECA" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="318" fc="#B19EDB" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="319" fc="#B2B7B0" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="320" fc="#B2D087" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="321" fc="#B3DA77" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="322" fc="#B3E16A" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="323" fc="#EBB6C0" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="324" fc="#D7AECA" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="325" fc="#B19EDB" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="326" fc="#B2B7B0" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="327" fc="#B2D087" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="328" fc="#B3DA77" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="329" fc="#B3E16A" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="330" fc="#D7ADCA" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="331" fc="#D0ABCD" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="332" fc="#B2B4B5" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="333" fc="#B2BEA4" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="334" fc="#B2C993" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="335" fc="#B2D381" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="336" fc="#B3DD71" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="337" fc="#B3E663" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="338" fc="#D7ADCA" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="339" fc="#D0ABCD" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="340" fc="#B2B4B5" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="341" fc="#B2BEA4" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="342" fc="#B2C993" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="343" fc="#B2D381" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="344" fc="#B3DD71" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="345" fc="#B3E663" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="346" fc="#D7ADCA" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="347" fc="#D0ABCD" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="348" fc="#B2B4B5" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="349" fc="#B2BEA4" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="350" fc="#B2C993" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="351" fc="#B2D381" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="352" fc="#B3DD71" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="353" fc="#B3E663" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="354" fc="#B2BBAA" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="355" fc="#B2BBAA" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="356" fc="#B2BBAA" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="357" fc="#B69FD9" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="358" fc="#B2C0A1" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="359" fc="#B69FD9" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="360" fc="#B2C0A1" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="361" fc="#B69FD9" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="362" fc="#B2C0A1" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="363" fc="#EEB8BF" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="364" fc="#E7B4C2" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="365" fc="#DCAFC8" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="366" fc="#B79FD9" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="367" fc="#B19DDB" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="368" fc="#B1A3D2" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="369" fc="#B1A7CB" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="370" fc="#B2C49B" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="371" fc="#B2D283" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="372" fc="#EEB8BF" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="373" fc="#E7B4C2" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="374" fc="#DCAFC8" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="375" fc="#B79FD9" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="376" fc="#B19DDB" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="377" fc="#B1A3D2" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="378" fc="#B1A7CB" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="379" fc="#B2C49B" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="380" fc="#B2D283" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="381" fc="#EEB8BF" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="382" fc="#E7B4C2" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="383" fc="#DCAFC8" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="384" fc="#B79FD9" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="385" fc="#B19DDB" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="386" fc="#B1A3D2" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="387" fc="#B1A7CB" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="388" fc="#B2C49B" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="389" fc="#B2D283" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="390" fc="#BE4949" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="391" fc="#BE4949" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="392" fc="#BE4949" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="393" fc="#DDB0C7" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="394" fc="#C1A4D4" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="395" fc="#B29DDB" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="396" fc="#B2C1A0" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="397" fc="#B2D186" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="398" fc="#DDB0C7" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="399" fc="#C1A4D4" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="400" fc="#B29DDB" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="401" fc="#B2C1A0" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="402" fc="#B2D186" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="403" fc="#DDB0C7" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="404" fc="#C1A4D4" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="405" fc="#B29DDB" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="406" fc="#B2C1A0" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="407" fc="#B2D186" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="408" fc="#E9B5C1" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="409" fc="#B39EDB" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="410" fc="#B1A9C7" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="411" fc="#B3E466" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="412" fc="#E9B5C1" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="413" fc="#B39EDB" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="414" fc="#B1A9C7" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="415" fc="#B3E466" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="416" fc="#E9B5C1" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="417" fc="#B39EDB" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="418" fc="#B1A9C7" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="419" fc="#B3E466" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="420" fc="#B1A1D6" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="421" fc="#B2C29E" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="422" fc="#B1A1D6" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="423" fc="#B2C29E" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="424" fc="#B1A1D6" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="425" fc="#B2C29E" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="426" fc="#B1B0BC" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="427" fc="#B2B8B0" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="428" fc="#B2BDA7" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="429" fc="#B2C49C" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="430" fc="#B3E85E" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="431" fc="#B1B0BC" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="432" fc="#B2B8B0" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="433" fc="#B2BDA7" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="434" fc="#B2C49C" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="435" fc="#B3E85E" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="436" fc="#B1B0BC" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="437" fc="#B2B8B0" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="438" fc="#B2BDA7" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="439" fc="#B2C49C" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="440" fc="#B3E85E" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="441" fc="#E4B3C4" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="442" fc="#B2D979" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="443" fc="#E4B3C4" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="444" fc="#B2D979" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="445" fc="#E4B3C4" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="446" fc="#B2D979" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="447" fc="#E0B1C6" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="448" fc="#CBA8CF" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="449" fc="#B1AEBF" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="450" fc="#B2C59A" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="451" fc="#B2D87A" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="452" fc="#E0B1C6" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="453" fc="#CBA8CF" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="454" fc="#B1AEBF" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="455" fc="#B2C59A" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="456" fc="#B2D87A" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="457" fc="#E0B1C6" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="458" fc="#CBA8CF" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="459" fc="#B1AEBF" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="460" fc="#B2C59A" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="461" fc="#B2D87A" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="462" fc="#F0B8BE" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="463" fc="#E9B6C1" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="464" fc="#DCB0C8" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="465" fc="#B2B9AE" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="466" fc="#B2CB90" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="467" fc="#B2D383" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="468" fc="#F0B8BE" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="469" fc="#E9B6C1" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="470" fc="#DCB0C8" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="471" fc="#B2B9AE" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="472" fc="#B2CB90" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="473" fc="#B2D383" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="474" fc="#F0B8BE" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="475" fc="#E9B6C1" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="476" fc="#DCB0C8" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="477" fc="#B2B9AE" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="478" fc="#B2CB90" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="479" fc="#B2D383" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="480" fc="#BEA2D6" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="481" fc="#B49EDA" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="482" fc="#B2B2B9" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="483" fc="#B2BCA9" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="484" fc="#B2C697" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="485" fc="#BEA2D6" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="486" fc="#B49EDA" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="487" fc="#B2B2B9" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="488" fc="#B2BCA9" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="489" fc="#B2C697" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="490" fc="#BEA2D6" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="491" fc="#B49EDA" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="492" fc="#B2B2B9" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="493" fc="#B2BCA9" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="494" fc="#B2C697" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="495" fc="#EEB7BF" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="496" fc="#D0AACD" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="497" fc="#C1A4D5" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="498" fc="#B1ACC4" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="499" fc="#B2B4B6" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="500" fc="#B2D77C" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="501" fc="#B3DF6D" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="502" fc="#B3E761" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="503" fc="#EEB7BF" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="504" fc="#D0AACD" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="505" fc="#C1A4D5" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="506" fc="#B1ACC4" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="507" fc="#B2B4B6" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="508" fc="#B2D77C" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="509" fc="#B3DF6D" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="510" fc="#B3E761" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="511" fc="#EEB7BF" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="512" fc="#D0AACD" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="513" fc="#C1A4D5" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="514" fc="#B1ACC4" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="515" fc="#B2B4B6" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="516" fc="#B2D77C" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="517" fc="#B3DF6D" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="518" fc="#B3E761" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="519" fc="#D2ABCC" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="520" fc="#D2ABCC" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="521" fc="#D2ABCC" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="522" fc="#B2C698" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="523" fc="#B3DC73" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="524" fc="#B2C698" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="525" fc="#B3DC73" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="526" fc="#B2C698" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="527" fc="#B3DC73" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="528" fc="#E2B2C5" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="529" fc="#CEAACE" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="530" fc="#C3A5D3" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="531" fc="#B19EDA" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="532" fc="#B1ABC4" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="533" fc="#B2CA91" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="534" fc="#B2D67C" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="535" fc="#E2B2C5" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="536" fc="#CEAACE" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="537" fc="#C3A5D3" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="538" fc="#B19EDA" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="539" fc="#B1ABC4" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="540" fc="#B2CA91" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="541" fc="#B2D67C" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="542" fc="#E2B2C5" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="543" fc="#CEAACE" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="544" fc="#C3A5D3" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="545" fc="#B19EDA" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="546" fc="#B1ABC4" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="547" fc="#B2CA91" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="548" fc="#B2D67C" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="549" fc="#DBAFC8" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="550" fc="#B2D382" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="551" fc="#DBAFC8" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="552" fc="#B2D382" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="553" fc="#DBAFC8" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="554" fc="#B2D382" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<pen id="555" fc="#B2D480" fo="254" bo="0" ec="#000000" sz="140" et="4"/>
+<pen id="556" fc="#B2D480" fo="254" bo="0" ec="#000000" sz="140" et="1"/>
+<pen id="557" fc="#B2D480" fo="254" bo="0" ec="#FFFFFF" sz="140" et="3"/>
+<ws id="0"/>
+<ws id="1" ju="2" pd="0" sd="0"/>
+<wp id="0"/>
+<wp id="8" ap="1" ah="25" av="89"/>
+<wp id="2" ap="1" ah="50" av="0"/>
+<wp id="4" ap="1" ah="50" av="12"/>
+<wp id="5" ap="1" ah="50" av="70"/>
+<wp id="6" ap="1" ah="50" av="76"/>
+<wp id="3" ap="1" ah="50" av="83"/>
+<wp id="7" ap="1" ah="79" av="89"/>
+<wp id="1" ap="7" ah="0" av="0"/>
+</head>
+<body>
+<p t="1018" d="1101" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​がんばり～リス！​ ​</s><s p="2">​</s></p>
+<p t="1018" d="1101" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​がんばり～リス！​ ​</s><s p="2">​</s></p>
+<p t="1018" d="1101" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​がんばり～リス！​ ​</s><s p="2">​</s></p>
+<p t="2119" d="1802" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​ムーンムーンムーナだよ！​ ​</s><s p="2">​</s></p>
+<p t="2119" d="1802" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​ムーンムーンムーナだよ！​ ​</s><s p="2">​</s></p>
+<p t="2119" d="1802" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​ムーンムーンムーナだよ！​ ​</s><s p="2">​</s></p>
+<p t="3921" d="2502" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​IOFORIA～！OBISA！​ ​</s><s p="2">​</s></p>
+<p t="3921" d="2502" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​IOFORIA～！OBISA！​ ​</s><s p="2">​</s></p>
+<p t="3921" d="2502" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="11">​ ​IOFORIA～！OBISA！​ ​</s><s p="2">​</s></p>
+<p t="6423" d="3470" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​L</s><s p="12">​a</s><s p="13">​l</s><s p="14">​a</s><s p="15">​l</s><s p="16">​a </s><s p="17"></s><s p="18">​l</s><s p="19">​a</s><s p="20">​l</s><s p="21">​a</s><s p="22">​l</s><s p="23">​a</s><s p="24">​, </s><s p="25"></s><s p="26">​A</s><s p="27">​r</s><s p="28">​e</s><s p="29">​a</s><s p="30">​1</s><s p="9">5​ ​</s><s p="2">​</s></p>
+<p t="6423" d="3470" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​L</s><s p="31">​a</s><s p="32">​l</s><s p="33">​a</s><s p="34">​l</s><s p="35">​a </s><s p="36"></s><s p="37">​l</s><s p="38">​a</s><s p="39">​l</s><s p="40">​a</s><s p="41">​l</s><s p="42">​a</s><s p="43">​, </s><s p="44"></s><s p="45">​A</s><s p="46">​r</s><s p="47">​e</s><s p="48">​a</s><s p="49">​1</s><s p="10">5​ ​</s><s p="2">​</s></p>
+<p t="6423" d="3470" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​L</s><s p="50">​a</s><s p="51">​l</s><s p="52">​a</s><s p="53">​l</s><s p="54">​a </s><s p="55"></s><s p="56">​l</s><s p="57">​a</s><s p="58">​l</s><s p="59">​a</s><s p="60">​l</s><s p="61">​a</s><s p="62">​, </s><s p="63"></s><s p="64">​A</s><s p="65">​r</s><s p="66">​e</s><s p="67">​a</s><s p="68">​1</s><s p="11">5​ ​</s><s p="2">​</s></p>
+<p t="9893" d="3504" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​L</s><s p="12">​a</s><s p="13">​l</s><s p="69">​a</s><s p="70">​l</s><s p="71">​a </s><s p="72"></s><s p="73">​l</s><s p="74">​a</s><s p="75">​l</s><s p="76">​a</s><s p="6">​l</s><s p="77">​a</s><s p="78">​, </s><s p="79"></s><s p="80">​絆</s><s p="81">​つ</s><s p="82">​な</s><s p="9">ぐ​ ​</s><s p="2">​</s></p>
+<p t="9893" d="3504" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​L</s><s p="31">​a</s><s p="32">​l</s><s p="83">​a</s><s p="84">​l</s><s p="85">​a </s><s p="86"></s><s p="87">​l</s><s p="88">​a</s><s p="89">​l</s><s p="90">​a</s><s p="7">​l</s><s p="91">​a</s><s p="92">​, </s><s p="93"></s><s p="94">​絆</s><s p="95">​つ</s><s p="96">​な</s><s p="10">ぐ​ ​</s><s p="2">​</s></p>
+<p t="9893" d="3504" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​L</s><s p="50">​a</s><s p="51">​l</s><s p="97">​a</s><s p="98">​l</s><s p="99">​a </s><s p="100"></s><s p="101">​l</s><s p="102">​a</s><s p="103">​l</s><s p="104">​a</s><s p="8">​l</s><s p="105">​a</s><s p="106">​, </s><s p="107"></s><s p="108">​絆</s><s p="109">​つ</s><s p="110">​な</s><s p="11">ぐ​ ​</s><s p="2">​</s></p>
+<p t="13397" d="3437" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​L</s><s p="12">​a</s><s p="13">​l</s><s p="14">​a</s><s p="15">​l</s><s p="16">​a </s><s p="17"></s><s p="18">​l</s><s p="19">​a</s><s p="20">​l</s><s p="21">​a</s><s p="22">​l</s><s p="23">​a</s><s p="24">​, </s><s p="25"></s><s p="26">​A</s><s p="27">​r</s><s p="28">​e</s><s p="29">​a</s><s p="30">​1</s><s p="9">5​ ​</s><s p="2">​</s></p>
+<p t="13397" d="3437" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​L</s><s p="31">​a</s><s p="32">​l</s><s p="33">​a</s><s p="34">​l</s><s p="35">​a </s><s p="36"></s><s p="37">​l</s><s p="38">​a</s><s p="39">​l</s><s p="40">​a</s><s p="41">​l</s><s p="42">​a</s><s p="43">​, </s><s p="44"></s><s p="45">​A</s><s p="46">​r</s><s p="47">​e</s><s p="48">​a</s><s p="49">​1</s><s p="10">5​ ​</s><s p="2">​</s></p>
+<p t="13397" d="3437" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​L</s><s p="50">​a</s><s p="51">​l</s><s p="52">​a</s><s p="53">​l</s><s p="54">​a </s><s p="55"></s><s p="56">​l</s><s p="57">​a</s><s p="58">​l</s><s p="59">​a</s><s p="60">​l</s><s p="61">​a</s><s p="62">​, </s><s p="63"></s><s p="64">​A</s><s p="65">​r</s><s p="66">​e</s><s p="67">​a</s><s p="68">​1</s><s p="11">5​ ​</s><s p="2">​</s></p>
+<p t="16834" d="3937" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​L</s><s p="111">​a</s><s p="112">​l</s><s p="113">​a</s><s p="114">​l</s><s p="115">​a </s><s p="71"></s><s p="116">​l</s><s p="17">​a</s><s p="117">​l</s><s p="19">​a</s><s p="118">​l</s><s p="119">​a</s><s p="120">​, </s><s p="121"></s><s p="122">​l</s><s p="123">​e</s><s p="79">​t</s><s p="124">​’</s><s p="125">​s </s><s p="126"></s><s p="127">​j</s><s p="128">​o</s><s p="28">​i</s><s p="129">​n </s><s p="130"></s><s p="131">​u</s><s p="132">​s</s><s p="9">!​ ​</s><s p="2">​</s></p>
+<p t="16834" d="3937" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​L</s><s p="133">​a</s><s p="134">​l</s><s p="135">​a</s><s p="136">​l</s><s p="137">​a </s><s p="85"></s><s p="138">​l</s><s p="36">​a</s><s p="139">​l</s><s p="38">​a</s><s p="140">​l</s><s p="141">​a</s><s p="142">​, </s><s p="143"></s><s p="144">​l</s><s p="145">​e</s><s p="93">​t</s><s p="146">​’</s><s p="147">​s </s><s p="148"></s><s p="149">​j</s><s p="150">​o</s><s p="47">​i</s><s p="151">​n </s><s p="152"></s><s p="153">​u</s><s p="154">​s</s><s p="10">!​ ​</s><s p="2">​</s></p>
+<p t="16834" d="3937" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​L</s><s p="155">​a</s><s p="156">​l</s><s p="157">​a</s><s p="158">​l</s><s p="159">​a </s><s p="99"></s><s p="160">​l</s><s p="55">​a</s><s p="161">​l</s><s p="57">​a</s><s p="162">​l</s><s p="163">​a</s><s p="164">​, </s><s p="165"></s><s p="166">​l</s><s p="167">​e</s><s p="107">​t</s><s p="168">​’</s><s p="169">​s </s><s p="170"></s><s p="171">​j</s><s p="172">​o</s><s p="66">​i</s><s p="173">​n </s><s p="174"></s><s p="175">​u</s><s p="176">​s</s><s p="11">!​ ​</s><s p="2">​</s></p>
+<p t="20771" d="3170" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​いたずらしちゃうのは​ ​</s><s p="2">​</s></p>
+<p t="20771" d="3170" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​いたずらしちゃうのは​ ​</s><s p="2">​</s></p>
+<p t="20771" d="3170" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​いたずらしちゃうのは​ ​</s><s p="2">​</s></p>
+<p t="23941" d="3570" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​「好き」のキモチの　ほら裏返し​ ​</s><s p="2">​</s></p>
+<p t="23941" d="3570" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​「好き」のキモチの　ほら裏返し​ ​</s><s p="2">​</s></p>
+<p t="23941" d="3570" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="11">​ ​「好き」のキモチの　ほら裏返し​ ​</s><s p="2">​</s></p>
+<p t="27511" d="5005" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​そうやってゴマカしてもダマされないよ？​ ​</s><s p="2">​</s></p>
+<p t="27511" d="5005" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​そうやってゴマカしてもダマされないよ？​ ​</s><s p="2">​</s></p>
+<p t="27511" d="5005" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​そうやってゴマカしてもダマされないよ？​ ​</s><s p="2">​</s></p>
+<p t="32516" d="1935" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​…なんてダマされてあげる！​ ​</s><s p="2">​</s></p>
+<p t="32516" d="1935" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​…なんてダマされてあげる！​ ​</s><s p="2">​</s></p>
+<p t="32516" d="1935" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​…なんてダマされてあげる！​ ​</s><s p="2">​</s></p>
+<p t="34451" d="2169" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​きっときっとみんな​ ​</s><s p="2">​</s></p>
+<p t="34451" d="2169" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​きっときっとみんな​ ​</s><s p="2">​</s></p>
+<p t="34451" d="2169" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="11">​ ​きっときっとみんな​ ​</s><s p="2">​</s></p>
+<p t="36620" d="1535" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​ずっとずっと一緒で​ ​</s><s p="2">​</s></p>
+<p t="36620" d="1535" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​ずっとずっと一緒で​ ​</s><s p="2">​</s></p>
+<p t="36620" d="1535" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​ずっとずっと一緒で​ ​</s><s p="2">​</s></p>
+<p t="38155" d="2836" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​もっともっと好きになっちゃう​ ​</s><s p="2">​</s></p>
+<p t="38155" d="2836" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​もっともっと好きになっちゃう​ ​</s><s p="2">​</s></p>
+<p t="38155" d="2836" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​もっともっと好きになっちゃう​ ​</s><s p="2">​</s></p>
+<p t="40991" d="3704" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​泣きたくなるそんな時だって​ ​</s><s p="2">​</s></p>
+<p t="40991" d="3704" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​泣きたくなるそんな時だって​ ​</s><s p="2">​</s></p>
+<p t="40991" d="3704" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​泣きたくなるそんな時だって​ ​</s><s p="2">​</s></p>
+<p t="45396" d="2769" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​手</s><s p="177">​を</s><s p="115">​繋</s><s p="178">​い</s><s p="179">​で</s><s p="180">​　</s><s p="181">​目</s><s p="26">​を</s><s p="182">​合</s><s p="183">​わ</s><s p="9">せ​ ​</s><s p="2">​</s></p>
+<p t="45396" d="2769" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​手</s><s p="184">​を</s><s p="137">​繋</s><s p="185">​い</s><s p="186">​で</s><s p="187">​　</s><s p="188">​目</s><s p="45">​を</s><s p="189">​合</s><s p="190">​わ</s><s p="10">せ​ ​</s><s p="2">​</s></p>
+<p t="45396" d="2769" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​手</s><s p="191">​を</s><s p="159">​繋</s><s p="192">​い</s><s p="193">​で</s><s p="194">​　</s><s p="195">​目</s><s p="64">​を</s><s p="196">​合</s><s p="197">​わ</s><s p="11">せ​ ​</s><s p="2">​</s></p>
+<p t="48165" d="801" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​ねぇみんな！​ ​</s><s p="2">​</s></p>
+<p t="48165" d="801" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​ねぇみんな！​ ​</s><s p="2">​</s></p>
+<p t="48165" d="801" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​ねぇみんな！​ ​</s><s p="2">​</s></p>
+<p t="48966" d="734" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​準備はイイ？​ ​</s><s p="2">​</s></p>
+<p t="48966" d="734" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​準備はイイ？​ ​</s><s p="2">​</s></p>
+<p t="48966" d="734" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​準備はイイ？​ ​</s><s p="2">​</s></p>
+<p t="49700" d="567" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​ さぁ行くよ！！​ ​</s><s p="2">​</s></p>
+<p t="49700" d="567" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​ さぁ行くよ！！​ ​</s><s p="2">​</s></p>
+<p t="49700" d="567" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="11">​ ​ さぁ行くよ！！​ ​</s><s p="2">​</s></p>
+<p t="50267" d="3570" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​声</s><s p="198">​上</s><s p="199">​げ</s><s p="71">​て</s><s p="200">​！</s><s p="201">​　</s><s p="202">​L</s><s p="120">​e</s><s p="203">​t</s><s p="204">​’</s><s p="123">​s </s><s p="24"></s><s p="205">​g</s><s p="206">​e</s><s p="207">​t </s><s p="208"></s><s p="209">​s</s><s p="210">​t</s><s p="211">​a</s><s p="29">​r</s><s p="212">​t</s><s p="30">​e</s><s p="213">​d</s><s p="214">!​ ​</s><s p="2">​</s></p>
+<p t="50267" d="3570" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​声</s><s p="215">​上</s><s p="216">​げ</s><s p="85">​て</s><s p="217">​！</s><s p="218">​　</s><s p="219">​L</s><s p="142">​e</s><s p="220">​t</s><s p="221">​’</s><s p="145">​s </s><s p="43"></s><s p="222">​g</s><s p="223">​e</s><s p="224">​t </s><s p="225"></s><s p="226">​s</s><s p="227">​t</s><s p="228">​a</s><s p="48">​r</s><s p="229">​t</s><s p="49">​e</s><s p="230">​d</s><s p="231">!​ ​</s><s p="2">​</s></p>
+<p t="50267" d="3570" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​声</s><s p="232">​上</s><s p="233">​げ</s><s p="99">​て</s><s p="234">​！</s><s p="235">​　</s><s p="236">​L</s><s p="164">​e</s><s p="237">​t</s><s p="238">​’</s><s p="167">​s </s><s p="62"></s><s p="239">​g</s><s p="240">​e</s><s p="241">​t </s><s p="242"></s><s p="243">​s</s><s p="244">​t</s><s p="245">​a</s><s p="67">​r</s><s p="246">​t</s><s p="68">​e</s><s p="247">​d</s><s p="248">!​ ​</s><s p="2">​</s></p>
+<p t="54838" d="1068" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​行</s><s p="249">​く</s><s p="250">​よ</s><s p="9">！​ ​</s><s p="2">​</s></p>
+<p t="54838" d="1068" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​行</s><s p="251">​く</s><s p="252">​よ</s><s p="10">！​ ​</s><s p="2">​</s></p>
+<p t="54838" d="1068" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​行</s><s p="253">​く</s><s p="254">​よ</s><s p="11">！​ ​</s><s p="2">​</s></p>
+<p t="55906" d="5772" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​ハ</s><s p="255">​ピ</s><s p="256">​ハ</s><s p="257">​ピ</s><s p="116">​な</s><s p="117">​物</s><s p="258">​語</s><s p="259">​を</s><s p="260">​紡</s><s p="261">​い</s><s p="262">​で</s><s p="182">​い</s><s p="29">​こ</s><s p="263">​う</s><s p="9">！​ ​</s><s p="2">​</s></p>
+<p t="55906" d="5772" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​ハ</s><s p="264">​ピ</s><s p="265">​ハ</s><s p="266">​ピ</s><s p="138">​な</s><s p="139">​物</s><s p="267">​語</s><s p="268">​を</s><s p="269">​紡</s><s p="270">​い</s><s p="271">​で</s><s p="189">​い</s><s p="48">​こ</s><s p="272">​う</s><s p="10">！​ ​</s><s p="2">​</s></p>
+<p t="55906" d="5772" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​ハ</s><s p="273">​ピ</s><s p="274">​ハ</s><s p="275">​ピ</s><s p="160">​な</s><s p="161">​物</s><s p="276">​語</s><s p="277">​を</s><s p="278">​紡</s><s p="279">​い</s><s p="280">​で</s><s p="196">​い</s><s p="67">​こ</s><s p="281">​う</s><s p="11">！​ ​</s><s p="2">​</s></p>
+<p t="61678" d="3904" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​み</s><s p="255">​ん</s><s p="282">​な</s><s p="15">​の</s><s p="283">​願</s><s p="74">​い</s><s p="20">​と</s><s p="284">​　</s><s p="204">​ち</s><s p="285">​ょ</s><s p="286">​っ</s><s p="287">​と</s><s p="288">​の</s><s p="289">​勇</s><s p="290">​気</s><s p="9">で​ ​</s><s p="2">​</s></p>
+<p t="61678" d="3904" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​み</s><s p="264">​ん</s><s p="291">​な</s><s p="34">​の</s><s p="292">​願</s><s p="88">​い</s><s p="39">​と</s><s p="293">​　</s><s p="221">​ち</s><s p="294">​ょ</s><s p="295">​っ</s><s p="296">​と</s><s p="297">​の</s><s p="298">​勇</s><s p="299">​気</s><s p="10">で​ ​</s><s p="2">​</s></p>
+<p t="61678" d="3904" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​み</s><s p="273">​ん</s><s p="300">​な</s><s p="53">​の</s><s p="301">​願</s><s p="102">​い</s><s p="58">​と</s><s p="302">​　</s><s p="238">​ち</s><s p="303">​ょ</s><s p="304">​っ</s><s p="305">​と</s><s p="306">​の</s><s p="307">​勇</s><s p="308">​気</s><s p="11">で​ ​</s><s p="2">​</s></p>
+<p t="65582" d="2870" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​夢</s><s p="309">​見</s><s p="14">​た</s><s p="310">​場</s><s p="17">​所</s><s p="19">​へ</s><s p="258">​　</s><s p="311">​一</s><s p="78">​歩</s><s p="312">​踏</s><s p="262">​み</s><s p="313">​出</s><s p="314">​そ</s><s p="315">​う</s><s p="9">！​ ​</s><s p="2">​</s></p>
+<p t="65582" d="2870" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​夢</s><s p="316">​見</s><s p="33">​た</s><s p="317">​場</s><s p="36">​所</s><s p="38">​へ</s><s p="267">​　</s><s p="318">​一</s><s p="92">​歩</s><s p="319">​踏</s><s p="271">​み</s><s p="320">​出</s><s p="321">​そ</s><s p="322">​う</s><s p="10">！​ ​</s><s p="2">​</s></p>
+<p t="65582" d="2870" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​夢</s><s p="323">​見</s><s p="52">​た</s><s p="324">​場</s><s p="55">​所</s><s p="57">​へ</s><s p="276">​　</s><s p="325">​一</s><s p="106">​歩</s><s p="326">​踏</s><s p="280">​み</s><s p="327">​出</s><s p="328">​そ</s><s p="329">​う</s><s p="11">！​ ​</s><s p="2">​</s></p>
+<p t="68452" d="6673" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​今</s><s p="309">​は</s><s p="69">​遠</s><s p="330">​く</s><s p="331">​て</s><s p="18">​も</s><s p="179">​暗</s><s p="21">​く</s><s p="203">​て</s><s p="78">​も</s><s p="332">​　</s><s p="333">​い</s><s p="334">​つ</s><s p="335">​か</s><s p="336">​き</s><s p="337">​っ</s><s p="9">と​ ​</s><s p="2">​</s></p>
+<p t="68452" d="6673" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​今</s><s p="316">​は</s><s p="83">​遠</s><s p="338">​く</s><s p="339">​て</s><s p="37">​も</s><s p="186">​暗</s><s p="40">​く</s><s p="220">​て</s><s p="92">​も</s><s p="340">​　</s><s p="341">​い</s><s p="342">​つ</s><s p="343">​か</s><s p="344">​き</s><s p="345">​っ</s><s p="10">と​ ​</s><s p="2">​</s></p>
+<p t="68452" d="6673" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​今</s><s p="323">​は</s><s p="97">​遠</s><s p="346">​く</s><s p="347">​て</s><s p="56">​も</s><s p="193">​暗</s><s p="59">​く</s><s p="237">​て</s><s p="106">​も</s><s p="348">​　</s><s p="349">​い</s><s p="350">​つ</s><s p="351">​か</s><s p="352">​き</s><s p="353">​っ</s><s p="11">と​ ​</s><s p="2">​</s></p>
+<p t="75125" d="4872" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​こ</s><s p="255">​の</s><s p="69">​想</s><s p="16">​い</s><s p="18">​を</s><s p="118">​届</s><s p="22">​け</s><s p="285">​て</s><s p="354">​み</s><s p="334">​せ</s><s p="129">​る</s><s p="290">​か</s><s p="9">ら​ ​</s><s p="2">​</s></p>
+<p t="75125" d="4872" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​こ</s><s p="264">​の</s><s p="83">​想</s><s p="35">​い</s><s p="37">​を</s><s p="140">​届</s><s p="41">​け</s><s p="294">​て</s><s p="355">​み</s><s p="342">​せ</s><s p="151">​る</s><s p="299">​か</s><s p="10">ら​ ​</s><s p="2">​</s></p>
+<p t="75125" d="4872" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​こ</s><s p="273">​の</s><s p="97">​想</s><s p="54">​い</s><s p="56">​を</s><s p="162">​届</s><s p="60">​け</s><s p="303">​て</s><s p="356">​み</s><s p="350">​せ</s><s p="173">​る</s><s p="308">​か</s><s p="11">ら​ ​</s><s p="2">​</s></p>
+<p t="79997" d="2202" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​待</s><s p="331">​っ</s><s p="357">​て</s><s p="358">​て</s><s p="9">！​ ​</s><s p="2">​</s></p>
+<p t="79997" d="2202" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​待</s><s p="339">​っ</s><s p="359">​て</s><s p="360">​て</s><s p="10">！​ ​</s><s p="2">​</s></p>
+<p t="79997" d="2202" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​待</s><s p="347">​っ</s><s p="361">​て</s><s p="362">​て</s><s p="11">！​ ​</s><s p="2">​</s></p>
+<p t="82199" d="3070" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​L</s><s p="12">​a</s><s p="13">​l</s><s p="14">​a</s><s p="15">​l</s><s p="16">​a </s><s p="17"></s><s p="18">​l</s><s p="19">​a</s><s p="20">​l</s><s p="21">​a</s><s p="22">​l</s><s p="23">​a</s><s p="24">​, </s><s p="25"></s><s p="26">​A</s><s p="27">​r</s><s p="28">​e</s><s p="29">​a</s><s p="30">​1</s><s p="9">5​ ​</s><s p="2">​</s></p>
+<p t="82199" d="3070" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​L</s><s p="31">​a</s><s p="32">​l</s><s p="33">​a</s><s p="34">​l</s><s p="35">​a </s><s p="36"></s><s p="37">​l</s><s p="38">​a</s><s p="39">​l</s><s p="40">​a</s><s p="41">​l</s><s p="42">​a</s><s p="43">​, </s><s p="44"></s><s p="45">​A</s><s p="46">​r</s><s p="47">​e</s><s p="48">​a</s><s p="49">​1</s><s p="10">5​ ​</s><s p="2">​</s></p>
+<p t="82199" d="3070" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​L</s><s p="50">​a</s><s p="51">​l</s><s p="52">​a</s><s p="53">​l</s><s p="54">​a </s><s p="55"></s><s p="56">​l</s><s p="57">​a</s><s p="58">​l</s><s p="59">​a</s><s p="60">​l</s><s p="61">​a</s><s p="62">​, </s><s p="63"></s><s p="64">​A</s><s p="65">​r</s><s p="66">​e</s><s p="67">​a</s><s p="68">​1</s><s p="11">5​ ​</s><s p="2">​</s></p>
+<p t="85269" d="3703" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​L</s><s p="363">​a</s><s p="364">​l</s><s p="256">​a</s><s p="365">​l</s><s p="310">​a </s><s p="331"></s><s p="72">​l</s><s p="18">​a</s><s p="19">​l</s><s p="75">​a</s><s p="366">​l</s><s p="367">​a</s><s p="368">​, </s><s p="369"></s><s p="332">​夢</s><s p="370">​を</s><s p="371">​つ</s><s p="131">​な</s><s p="9">ぐ​ ​</s><s p="2">​</s></p>
+<p t="85269" d="3703" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​L</s><s p="372">​a</s><s p="373">​l</s><s p="265">​a</s><s p="374">​l</s><s p="317">​a </s><s p="339"></s><s p="86">​l</s><s p="37">​a</s><s p="38">​l</s><s p="89">​a</s><s p="375">​l</s><s p="376">​a</s><s p="377">​, </s><s p="378"></s><s p="340">​夢</s><s p="379">​を</s><s p="380">​つ</s><s p="153">​な</s><s p="10">ぐ​ ​</s><s p="2">​</s></p>
+<p t="85269" d="3703" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​L</s><s p="381">​a</s><s p="382">​l</s><s p="274">​a</s><s p="383">​l</s><s p="324">​a </s><s p="347"></s><s p="100">​l</s><s p="56">​a</s><s p="57">​l</s><s p="103">​a</s><s p="384">​l</s><s p="385">​a</s><s p="386">​, </s><s p="387"></s><s p="348">​夢</s><s p="388">​を</s><s p="389">​つ</s><s p="175">​な</s><s p="11">ぐ​ ​</s><s p="2">​</s></p>
+<p t="88972" d="3604" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​L</s><s p="12">​a</s><s p="13">​l</s><s p="14">​a</s><s p="15">​l</s><s p="16">​a </s><s p="17"></s><s p="18">​l</s><s p="19">​a</s><s p="20">​l</s><s p="21">​a</s><s p="22">​l</s><s p="23">​a</s><s p="24">​, </s><s p="25"></s><s p="26">​A</s><s p="27">​r</s><s p="28">​e</s><s p="29">​a</s><s p="30">​1</s><s p="9">5​ ​</s><s p="2">​</s></p>
+<p t="88972" d="3604" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​L</s><s p="31">​a</s><s p="32">​l</s><s p="33">​a</s><s p="34">​l</s><s p="35">​a </s><s p="36"></s><s p="37">​l</s><s p="38">​a</s><s p="39">​l</s><s p="40">​a</s><s p="41">​l</s><s p="42">​a</s><s p="43">​, </s><s p="44"></s><s p="45">​A</s><s p="46">​r</s><s p="47">​e</s><s p="48">​a</s><s p="49">​1</s><s p="10">5​ ​</s><s p="2">​</s></p>
+<p t="88972" d="3604" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​L</s><s p="50">​a</s><s p="51">​l</s><s p="52">​a</s><s p="53">​l</s><s p="54">​a </s><s p="55"></s><s p="56">​l</s><s p="57">​a</s><s p="58">​l</s><s p="59">​a</s><s p="60">​l</s><s p="61">​a</s><s p="62">​, </s><s p="63"></s><s p="64">​A</s><s p="65">​r</s><s p="66">​e</s><s p="67">​a</s><s p="68">​1</s><s p="11">5​ ​</s><s p="2">​</s></p>
+<p t="92576" d="3570" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​L</s><s p="111">​a</s><s p="112">​l</s><s p="113">​a</s><s p="114">​l</s><s p="115">​a </s><s p="71"></s><s p="116">​l</s><s p="17">​a</s><s p="117">​l</s><s p="19">​a</s><s p="118">​l</s><s p="119">​a</s><s p="120">​, </s><s p="121"></s><s p="122">​l</s><s p="123">​e</s><s p="79">​t</s><s p="124">​’</s><s p="125">​s </s><s p="126"></s><s p="127">​j</s><s p="128">​o</s><s p="28">​i</s><s p="129">​n </s><s p="130"></s><s p="131">​u</s><s p="132">​s</s><s p="9">!​ ​</s><s p="2">​</s></p>
+<p t="92576" d="3570" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​L</s><s p="133">​a</s><s p="134">​l</s><s p="135">​a</s><s p="136">​l</s><s p="137">​a </s><s p="85"></s><s p="138">​l</s><s p="36">​a</s><s p="139">​l</s><s p="38">​a</s><s p="140">​l</s><s p="141">​a</s><s p="142">​, </s><s p="143"></s><s p="144">​l</s><s p="145">​e</s><s p="93">​t</s><s p="146">​’</s><s p="147">​s </s><s p="148"></s><s p="149">​j</s><s p="150">​o</s><s p="47">​i</s><s p="151">​n </s><s p="152"></s><s p="153">​u</s><s p="154">​s</s><s p="10">!​ ​</s><s p="2">​</s></p>
+<p t="92576" d="3570" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​L</s><s p="155">​a</s><s p="156">​l</s><s p="157">​a</s><s p="158">​l</s><s p="159">​a </s><s p="99"></s><s p="160">​l</s><s p="55">​a</s><s p="161">​l</s><s p="57">​a</s><s p="162">​l</s><s p="163">​a</s><s p="164">​, </s><s p="165"></s><s p="166">​l</s><s p="167">​e</s><s p="107">​t</s><s p="168">​’</s><s p="169">​s </s><s p="170"></s><s p="171">​j</s><s p="172">​o</s><s p="66">​i</s><s p="173">​n </s><s p="174"></s><s p="175">​u</s><s p="176">​s</s><s p="11">!​ ​</s><s p="2">​</s></p>
+<p t="96146" d="3337" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​泣いた</s><s p="390">​りす</s><s p="3">るだとか​ ​</s><s p="2">​</s></p>
+<p t="96146" d="3337" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​泣いた</s><s p="391">​りす</s><s p="4">るだとか​ ​</s><s p="2">​</s></p>
+<p t="96146" d="3337" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​泣いた</s><s p="392">​りす</s><s p="5">るだとか​ ​</s><s p="2">​</s></p>
+<p t="99483" d="3670" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​悩</s><s p="390">​むな</s><s p="6">んてもったいないよ​ ​</s><s p="2">​</s></p>
+<p t="99483" d="3670" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​悩</s><s p="391">​むな</s><s p="7">んてもったいないよ​ ​</s><s p="2">​</s></p>
+<p t="99483" d="3670" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​悩</s><s p="392">​むな</s><s p="8">んてもったいないよ​ ​</s><s p="2">​</s></p>
+<p t="103153" d="4638" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​幸せお手伝</s><s p="390">​い　オフィ</s><s p="9">シャルな愛​ ​</s><s p="2">​</s></p>
+<p t="103153" d="4638" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​幸せお手伝</s><s p="391">​い　オフィ</s><s p="10">シャルな愛​ ​</s><s p="2">​</s></p>
+<p t="103153" d="4638" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="11">​ ​幸せお手伝</s><s p="392">​い　オフィ</s><s p="11">シャルな愛​ ​</s><s p="2">​</s></p>
+<p t="107791" d="2269" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​も</s><s p="112">​っ</s><s p="393">​と</s><s p="331">​お</s><s p="394">​す</s><s p="395">​そ</s><s p="79">​わ</s><s p="396">​け</s><s p="397">​し</s><s p="82">​よ</s><s p="9">う​ ​</s><s p="2">​</s></p>
+<p t="107791" d="2269" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​も</s><s p="134">​っ</s><s p="398">​と</s><s p="339">​お</s><s p="399">​す</s><s p="400">​そ</s><s p="93">​わ</s><s p="401">​け</s><s p="402">​し</s><s p="96">​よ</s><s p="10">う​ ​</s><s p="2">​</s></p>
+<p t="107791" d="2269" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​も</s><s p="156">​っ</s><s p="403">​と</s><s p="347">​お</s><s p="404">​す</s><s p="405">​そ</s><s p="107">​わ</s><s p="406">​け</s><s p="407">​し</s><s p="110">​よ</s><s p="11">う​ ​</s><s p="2">​</s></p>
+<p t="110060" d="2036" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​おいでおいでワンダーランド​ ​</s><s p="2">​</s></p>
+<p t="110060" d="2036" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​おいでおいでワンダーランド​ ​</s><s p="2">​</s></p>
+<p t="110060" d="2036" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​おいでおいでワンダーランド​ ​</s><s p="2">​</s></p>
+<p t="112096" d="1801" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​だってだって最高の​ ​</s><s p="2">​</s></p>
+<p t="112096" d="1801" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​だってだって最高の​ ​</s><s p="2">​</s></p>
+<p t="112096" d="1801" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="11">​ ​だってだって最高の​ ​</s><s p="2">​</s></p>
+<p t="113897" d="2670" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​みんなみんな仲間でしょ？​ ​</s><s p="2">​</s></p>
+<p t="113897" d="2670" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​みんなみんな仲間でしょ？​ ​</s><s p="2">​</s></p>
+<p t="113897" d="2670" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​みんなみんな仲間でしょ？​ ​</s><s p="2">​</s></p>
+<p t="116567" d="4271" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​哀しくなるそんな時こそ​ ​</s><s p="2">​</s></p>
+<p t="116567" d="4271" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​哀しくなるそんな時こそ​ ​</s><s p="2">​</s></p>
+<p t="116567" d="4271" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="11">​ ​哀しくなるそんな時こそ​ ​</s><s p="2">​</s></p>
+<p t="120838" d="2802" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​モ</s><s p="408">​ニ</s><s p="393">​タ</s><s p="116">​ー</s><s p="19">​越</s><s p="409">​し</s><s p="410">​　</s><s p="354">​笑</s><s p="81">​顔</s><s p="411">​咲</s><s p="9">く​ ​</s><s p="2">​</s></p>
+<p t="120838" d="2802" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​モ</s><s p="412">​ニ</s><s p="398">​タ</s><s p="138">​ー</s><s p="38">​越</s><s p="413">​し</s><s p="414">​　</s><s p="355">​笑</s><s p="95">​顔</s><s p="415">​咲</s><s p="10">く​ ​</s><s p="2">​</s></p>
+<p t="120838" d="2802" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​モ</s><s p="416">​ニ</s><s p="403">​タ</s><s p="160">​ー</s><s p="57">​越</s><s p="417">​し</s><s p="418">​　</s><s p="356">​笑</s><s p="109">​顔</s><s p="419">​咲</s><s p="11">く​ ​</s><s p="2">​</s></p>
+<p t="123640" d="868" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​時差なんて​ ​</s><s p="2">​</s></p>
+<p t="123640" d="868" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​時差なんて​ ​</s><s p="2">​</s></p>
+<p t="123640" d="868" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​時差なんて​ ​</s><s p="2">​</s></p>
+<p t="124508" d="634" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​気にならない​ ​</s><s p="2">​</s></p>
+<p t="124508" d="634" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​気にならない​ ​</s><s p="2">​</s></p>
+<p t="124508" d="634" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="11">​ ​気にならない​ ​</s><s p="2">​</s></p>
+<p t="125142" d="701" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​世界中​ ​</s><s p="2">​</s></p>
+<p t="125142" d="701" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​世界中​ ​</s><s p="2">​</s></p>
+<p t="125142" d="701" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​世界中​ ​</s><s p="2">​</s></p>
+<p t="125843" d="567" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​届</s><s p="331">​け</s><s p="420">​る</s><s p="421">​よ</s><s p="9">！​ ​</s><s p="2">​</s></p>
+<p t="125843" d="567" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​届</s><s p="339">​け</s><s p="422">​る</s><s p="423">​よ</s><s p="10">！​ ​</s><s p="2">​</s></p>
+<p t="125843" d="567" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​届</s><s p="347">​け</s><s p="424">​る</s><s p="425">​よ</s><s p="11">！​ ​</s><s p="2">​</s></p>
+<p t="126410" d="2636" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​L</s><s p="255">​e</s><s p="282">​t</s><s p="393">​’</s><s p="15">​s </s><s p="283"></s><s p="73">​c</s><s p="201">​h</s><s p="21">​e</s><s p="77">​c</s><s p="426">​k </s><s p="427"></s><s p="428">​i</s><s p="429">​t </s><s p="128"></s><s p="289">​o</s><s p="82">​u</s><s p="430">​t</s><s p="9">!​ ​</s><s p="2">​</s></p>
+<p t="126410" d="2636" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​L</s><s p="264">​e</s><s p="291">​t</s><s p="398">​’</s><s p="34">​s </s><s p="292"></s><s p="87">​c</s><s p="218">​h</s><s p="40">​e</s><s p="91">​c</s><s p="431">​k </s><s p="432"></s><s p="433">​i</s><s p="434">​t </s><s p="150"></s><s p="298">​o</s><s p="96">​u</s><s p="435">​t</s><s p="10">!​ ​</s><s p="2">​</s></p>
+<p t="126410" d="2636" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​L</s><s p="273">​e</s><s p="300">​t</s><s p="403">​’</s><s p="53">​s </s><s p="301"></s><s p="101">​c</s><s p="235">​h</s><s p="59">​e</s><s p="105">​c</s><s p="436">​k </s><s p="437"></s><s p="438">​i</s><s p="439">​t </s><s p="172"></s><s p="307">​o</s><s p="110">​u</s><s p="440">​t</s><s p="11">!​ ​</s><s p="2">​</s></p>
+<p t="129046" d="1802" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​そ</s><s p="441">​ば</s><s p="283">​に</s><s p="20">​感</s><s p="181">​じ</s><s p="208">​て</s><s p="442">​る</s><s p="9">よ​ ​</s><s p="2">​</s></p>
+<p t="129046" d="1802" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​そ</s><s p="443">​ば</s><s p="292">​に</s><s p="39">​感</s><s p="188">​じ</s><s p="225">​て</s><s p="444">​る</s><s p="10">よ​ ​</s><s p="2">​</s></p>
+<p t="129046" d="1802" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​そ</s><s p="445">​ば</s><s p="301">​に</s><s p="58">​感</s><s p="195">​じ</s><s p="242">​て</s><s p="446">​る</s><s p="11">よ​ ​</s><s p="2">​</s></p>
+<p t="130848" d="1601" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​ムーナの貯金箱がない…​ ​</s><s p="2">​</s></p>
+<p t="130848" d="1601" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​ムーナの貯金箱がない…​ ​</s><s p="2">​</s></p>
+<p t="130848" d="1601" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​ムーナの貯金箱がない…​ ​</s><s p="2">​</s></p>
+<p t="132449" d="1735" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​リス！また隠したでしょー！​ ​</s><s p="2">​</s></p>
+<p t="132449" d="1735" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​リス！また隠したでしょー！​ ​</s><s p="2">​</s></p>
+<p t="132449" d="1735" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​リス！また隠したでしょー！​ ​</s><s p="2">​</s></p>
+<p t="132449" d="1268" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​私じゃないよ…！​ ​</s><s p="2">​</s></p>
+<p t="132449" d="1268" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​私じゃないよ…！​ ​</s><s p="2">​</s></p>
+<p t="132449" d="1268" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​私じゃないよ…！​ ​</s><s p="2">​</s></p>
+<p t="133717" d="3871" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​疑うなんてひどい…えーん！​ ​</s><s p="2">​</s></p>
+<p t="133717" d="3871" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​疑うなんてひどい…えーん！​ ​</s><s p="2">​</s></p>
+<p t="133717" d="3871" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​疑うなんてひどい…えーん！​ ​</s><s p="2">​</s></p>
+<p t="135919" d="2536" wp="5" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​ムーナ！リスを泣かしちゃダメでしょー！​ ​</s><s p="2">​</s></p>
+<p t="135919" d="2536" wp="5" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​ムーナ！リスを泣かしちゃダメでしょー！​ ​</s><s p="2">​</s></p>
+<p t="135919" d="2536" wp="5" ws="1"><s p="2">​</s><s>​</s><s p="11">​ ​ムーナ！リスを泣かしちゃダメでしょー！​ ​</s><s p="2">​</s></p>
+<p t="135919" d="3304" wp="6" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​絶対リスが隠したに決まってる！​ ​</s><s p="2">​</s></p>
+<p t="135919" d="3304" wp="6" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​絶対リスが隠したに決まってる！​ ​</s><s p="2">​</s></p>
+<p t="135919" d="3304" wp="6" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​絶対リスが隠したに決まってる！​ ​</s><s p="2">​</s></p>
+<p t="138455" d="1935" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​決めつけるのは良くないよ！！​ ​</s><s p="2">​</s></p>
+<p t="138455" d="1935" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​決めつけるのは良くないよ！！​ ​</s><s p="2">​</s></p>
+<p t="138455" d="1935" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="11">​ ​決めつけるのは良くないよ！！​ ​</s><s p="2">​</s></p>
+<p t="138455" d="1201" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​ケンカはやめて！​ ​</s><s p="2">​</s></p>
+<p t="138455" d="1201" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​ケンカはやめて！​ ​</s><s p="2">​</s></p>
+<p t="138455" d="1201" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​ケンカはやめて！​ ​</s><s p="2">​</s></p>
+<p t="139656" d="1535" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​貯金箱ならここにあるから！​ ​</s><s p="2">​</s></p>
+<p t="139656" d="1535" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​貯金箱ならここにあるから！​ ​</s><s p="2">​</s></p>
+<p t="139656" d="1535" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​貯金箱ならここにあるから！​ ​</s><s p="2">​</s></p>
+<p t="141191" d="2403" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​リス！​ ​</s><s p="2">​</s></p>
+<p t="141191" d="2403" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​リス！​ ​</s><s p="2">​</s></p>
+<p t="141191" d="2403" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="11">​ ​リス！​ ​</s><s p="2">​</s></p>
+<p t="141191" d="2403" wp="8" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​リス！​ ​</s><s p="2">​</s></p>
+<p t="141191" d="2403" wp="8" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​リス！​ ​</s><s p="2">​</s></p>
+<p t="141191" d="2403" wp="8" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​リス！​ ​</s><s p="2">​</s></p>
+<p t="144361" d="968" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​やんのか？​ ​</s><s p="2">​</s></p>
+<p t="144361" d="968" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​やんのか？​ ​</s><s p="2">​</s></p>
+<p t="144361" d="968" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​やんのか？​ ​</s><s p="2">​</s></p>
+<p t="145329" d="600" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​やんのか？​ ​</s><s p="2">​</s></p>
+<p t="145329" d="600" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​やんのか？​ ​</s><s p="2">​</s></p>
+<p t="145329" d="600" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​やんのか？​ ​</s><s p="2">​</s></p>
+<p t="145929" d="668" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​やんのか！？​ ​</s><s p="2">​</s></p>
+<p t="145929" d="668" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​やんのか！？​ ​</s><s p="2">​</s></p>
+<p t="145929" d="668" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="11">​ ​やんのか！？​ ​</s><s p="2">​</s></p>
+<p t="146597" d="634" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​やっぱり​ ​</s><s p="2">​</s></p>
+<p t="146597" d="634" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​やっぱり​ ​</s><s p="2">​</s></p>
+<p t="146597" d="634" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​やっぱり​ ​</s><s p="2">​</s></p>
+<p t="147231" d="467" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​やんない！​ ​</s><s p="2">​</s></p>
+<p t="147231" d="467" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​やんない！​ ​</s><s p="2">​</s></p>
+<p t="147231" d="467" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​やんない！​ ​</s><s p="2">​</s></p>
+<p t="147698" d="801" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​ごめんね？​ ​</s><s p="2">​</s></p>
+<p t="147698" d="801" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​ごめんね？​ ​</s><s p="2">​</s></p>
+<p t="147698" d="801" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="11">​ ​ごめんね？​ ​</s><s p="2">​</s></p>
+<p t="148499" d="867" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​ごめんね？​ ​</s><s p="2">​</s></p>
+<p t="148499" d="867" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​ごめんね？​ ​</s><s p="2">​</s></p>
+<p t="148499" d="867" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​ごめんね？​ ​</s><s p="2">​</s></p>
+<p t="149366" d="601" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​ごめんね？​ ​</s><s p="2">​</s></p>
+<p t="149366" d="601" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​ごめんね？​ ​</s><s p="2">​</s></p>
+<p t="149366" d="601" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​ごめんね？​ ​</s><s p="2">​</s></p>
+<p t="149967" d="700" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​ぜんぜん​ ​</s><s p="2">​</s></p>
+<p t="149967" d="700" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​ぜんぜん​ ​</s><s p="2">​</s></p>
+<p t="149967" d="700" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="11">​ ​ぜんぜん​ ​</s><s p="2">​</s></p>
+<p t="150667" d="668" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​いいよー！​ ​</s><s p="2">​</s></p>
+<p t="150667" d="668" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​いいよー！​ ​</s><s p="2">​</s></p>
+<p t="150667" d="668" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​いいよー！​ ​</s><s p="2">​</s></p>
+<p t="151335" d="834" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​大好き！​ ​</s><s p="2">​</s></p>
+<p t="151335" d="834" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​大好き！​ ​</s><s p="2">​</s></p>
+<p t="151335" d="834" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​大好き！​ ​</s><s p="2">​</s></p>
+<p t="152169" d="634" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​大好き！！​ ​</s><s p="2">​</s></p>
+<p t="152169" d="634" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​大好き！！​ ​</s><s p="2">​</s></p>
+<p t="152169" d="634" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="11">​ ​大好き！！​ ​</s><s p="2">​</s></p>
+<p t="152803" d="634" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​大好き！！！​ ​</s><s p="2">​</s></p>
+<p t="152803" d="634" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​大好き！！！​ ​</s><s p="2">​</s></p>
+<p t="152803" d="634" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​大好き！！！​ ​</s><s p="2">​</s></p>
+<p t="153437" d="634" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​相思？​ ​</s><s p="2">​</s></p>
+<p t="153437" d="634" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​相思？​ ​</s><s p="2">​</s></p>
+<p t="153437" d="634" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​相思？​ ​</s><s p="2">​</s></p>
+<p t="154071" d="600" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​相愛！​ ​</s><s p="2">​</s></p>
+<p t="154071" d="600" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​相愛！​ ​</s><s p="2">​</s></p>
+<p t="154071" d="600" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="11">​ ​相愛！​ ​</s><s p="2">​</s></p>
+<p t="154671" d="1769" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​み</s><s p="447">​ん</s><s p="448">​な</s><s p="357">​で</s><s p="449">​　</s><s p="450">​ひ</s><s p="451">​と</s><s p="9">つ​ ​</s><s p="2">​</s></p>
+<p t="154671" d="1769" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​み</s><s p="452">​ん</s><s p="453">​な</s><s p="359">​で</s><s p="454">​　</s><s p="455">​ひ</s><s p="456">​と</s><s p="10">つ​ ​</s><s p="2">​</s></p>
+<p t="154671" d="1769" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​み</s><s p="457">​ん</s><s p="458">​な</s><s p="361">​で</s><s p="459">​　</s><s p="460">​ひ</s><s p="461">​と</s><s p="11">つ​ ​</s><s p="2">​</s></p>
+<p t="156440" d="4971" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​さ</s><s p="462">​ぁ</s><s p="463">​行</s><s p="69">​く</s><s p="464">​よ</s><s p="71">​！</s><s p="17">​　</s><s p="249">​い</s><s p="179">​っ</s><s p="76">​せ</s><s p="259">​ー</s><s p="23">​の</s><s p="250">​で</s><s p="465">​　</s><s p="208">​笑</s><s p="466">​っ</s><s p="467">​ち</s><s p="130">​ゃ</s><s p="30">​お</s><s p="9">！​ ​</s><s p="2">​</s></p>
+<p t="156440" d="4971" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​さ</s><s p="468">​ぁ</s><s p="469">​行</s><s p="83">​く</s><s p="470">​よ</s><s p="85">​！</s><s p="36">​　</s><s p="251">​い</s><s p="186">​っ</s><s p="90">​せ</s><s p="268">​ー</s><s p="42">​の</s><s p="252">​で</s><s p="471">​　</s><s p="225">​笑</s><s p="472">​っ</s><s p="473">​ち</s><s p="152">​ゃ</s><s p="49">​お</s><s p="10">！​ ​</s><s p="2">​</s></p>
+<p t="156440" d="4971" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​さ</s><s p="474">​ぁ</s><s p="475">​行</s><s p="97">​く</s><s p="476">​よ</s><s p="99">​！</s><s p="55">​　</s><s p="253">​い</s><s p="193">​っ</s><s p="104">​せ</s><s p="277">​ー</s><s p="61">​の</s><s p="254">​で</s><s p="477">​　</s><s p="242">​笑</s><s p="478">​っ</s><s p="479">​ち</s><s p="174">​ゃ</s><s p="68">​お</s><s p="11">！​ ​</s><s p="2">​</s></p>
+<p t="162479" d="7107" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​もしも　願い事ひとつだけ叶うのなら​ ​</s><s p="2">​</s></p>
+<p t="162479" d="7107" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​もしも　願い事ひとつだけ叶うのなら​ ​</s><s p="2">​</s></p>
+<p t="162479" d="7107" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​もしも　願い事ひとつだけ叶うのなら​ ​</s><s p="2">​</s></p>
+<p t="169586" d="2102" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​みんなで一緒に​ ​</s><s p="2">​</s></p>
+<p t="169586" d="2102" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​みんなで一緒に​ ​</s><s p="2">​</s></p>
+<p t="169586" d="2102" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​みんなで一緒に​ ​</s><s p="2">​</s></p>
+<p t="171688" d="1669" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​もっといっぱい​ ​</s><s p="2">​</s></p>
+<p t="171688" d="1669" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​もっといっぱい​ ​</s><s p="2">​</s></p>
+<p t="171688" d="1669" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="11">​ ​もっといっぱい​ ​</s><s p="2">​</s></p>
+<p t="173357" d="3136" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​泣</s><s p="309">​い</s><s p="282">​て</s><s p="257">​！</s><s p="283">​怒</s><s p="249">​っ</s><s p="480">​て</s><s p="481">​！</s><s p="369">​笑</s><s p="482">​え</s><s p="483">​ま</s><s p="484">​す</s><s p="313">​よ</s><s p="451">​う</s><s p="315">​に</s><s p="9">！​ ​</s><s p="2">​</s></p>
+<p t="173357" d="3136" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​泣</s><s p="316">​い</s><s p="291">​て</s><s p="266">​！</s><s p="292">​怒</s><s p="251">​っ</s><s p="485">​て</s><s p="486">​！</s><s p="378">​笑</s><s p="487">​え</s><s p="488">​ま</s><s p="489">​す</s><s p="320">​よ</s><s p="456">​う</s><s p="322">​に</s><s p="10">！​ ​</s><s p="2">​</s></p>
+<p t="173357" d="3136" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​泣</s><s p="323">​い</s><s p="300">​て</s><s p="275">​！</s><s p="301">​怒</s><s p="253">​っ</s><s p="490">​て</s><s p="491">​！</s><s p="387">​笑</s><s p="492">​え</s><s p="493">​ま</s><s p="494">​す</s><s p="327">​よ</s><s p="461">​う</s><s p="329">​に</s><s p="11">！​ ​</s><s p="2">​</s></p>
+<p t="176493" d="6507" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​や</s><s p="495">​っ</s><s p="112">​と</s><s p="69">​見</s><s p="310">​え</s><s p="496">​て</s><s p="18">​き</s><s p="497">​た</s><s p="119">​未</s><s p="203">​来</s><s p="498">​へ</s><s p="499">​と</s><s p="354">​　</s><s p="370">​い</s><s p="210">​つ</s><s p="500">​か</s><s p="501">​き</s><s p="502">​っ</s><s p="9">と​ ​</s><s p="2">​</s></p>
+<p t="176493" d="6507" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​や</s><s p="503">​っ</s><s p="134">​と</s><s p="83">​見</s><s p="317">​え</s><s p="504">​て</s><s p="37">​き</s><s p="505">​た</s><s p="141">​未</s><s p="220">​来</s><s p="506">​へ</s><s p="507">​と</s><s p="355">​　</s><s p="379">​い</s><s p="227">​つ</s><s p="508">​か</s><s p="509">​き</s><s p="510">​っ</s><s p="10">と​ ​</s><s p="2">​</s></p>
+<p t="176493" d="6507" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​や</s><s p="511">​っ</s><s p="156">​と</s><s p="97">​見</s><s p="324">​え</s><s p="512">​て</s><s p="56">​き</s><s p="513">​た</s><s p="163">​未</s><s p="237">​来</s><s p="514">​へ</s><s p="515">​と</s><s p="356">​　</s><s p="388">​い</s><s p="244">​つ</s><s p="516">​か</s><s p="517">​き</s><s p="518">​っ</s><s p="11">と​ ​</s><s p="2">​</s></p>
+<p t="183000" d="4771" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​こ</s><s p="255">​の</s><s p="69">​想</s><s p="16">​い</s><s p="18">​を</s><s p="118">​届</s><s p="22">​け</s><s p="285">​て</s><s p="354">​み</s><s p="334">​せ</s><s p="129">​る</s><s p="290">​か</s><s p="9">ら​ ​</s><s p="2">​</s></p>
+<p t="183000" d="4771" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​こ</s><s p="264">​の</s><s p="83">​想</s><s p="35">​い</s><s p="37">​を</s><s p="140">​届</s><s p="41">​け</s><s p="294">​て</s><s p="355">​み</s><s p="342">​せ</s><s p="151">​る</s><s p="299">​か</s><s p="10">ら​ ​</s><s p="2">​</s></p>
+<p t="183000" d="4771" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​こ</s><s p="273">​の</s><s p="97">​想</s><s p="54">​い</s><s p="56">​を</s><s p="162">​届</s><s p="60">​け</s><s p="303">​て</s><s p="356">​み</s><s p="350">​せ</s><s p="173">​る</s><s p="308">​か</s><s p="11">ら​ ​</s><s p="2">​</s></p>
+<p t="187771" d="2202" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​見</s><s p="519">​て</s><s p="21">​て</s><s p="421">​ね</s><s p="9">！​ ​</s><s p="2">​</s></p>
+<p t="187771" d="2202" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​見</s><s p="520">​て</s><s p="40">​て</s><s p="423">​ね</s><s p="10">！​ ​</s><s p="2">​</s></p>
+<p t="187771" d="2202" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​見</s><s p="521">​て</s><s p="59">​て</s><s p="425">​ね</s><s p="11">！​ ​</s><s p="2">​</s></p>
+<p t="189973" d="3337" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​暑</s><s p="256">​い</s><s p="519">​時</s><s p="201">​も</s><s p="311">​　</s><s p="482">​寒</s><s p="522">​い</s><s p="523">​時</s><s p="9">も​ ​</s><s p="2">​</s></p>
+<p t="189973" d="3337" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​暑</s><s p="265">​い</s><s p="520">​時</s><s p="218">​も</s><s p="318">​　</s><s p="487">​寒</s><s p="524">​い</s><s p="525">​時</s><s p="10">も​ ​</s><s p="2">​</s></p>
+<p t="189973" d="3337" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​暑</s><s p="274">​い</s><s p="521">​時</s><s p="235">​も</s><s p="325">​　</s><s p="492">​寒</s><s p="526">​い</s><s p="527">​時</s><s p="11">も​ ​</s><s p="2">​</s></p>
+<p t="193310" d="3337" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​も</s><s p="309">​っ</s><s p="528">​と</s><s p="15">​　</s><s p="529">​も</s><s p="530">​っ</s><s p="258">​と</s><s p="531">​　</s><s p="532">​お</s><s p="26">​話</s><s p="533">​し</s><s p="534">​し</s><s p="411">​よ</s><s p="9">う​ ​</s><s p="2">​</s></p>
+<p t="193310" d="3337" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​も</s><s p="316">​っ</s><s p="535">​と</s><s p="34">​　</s><s p="536">​も</s><s p="537">​っ</s><s p="267">​と</s><s p="538">​　</s><s p="539">​お</s><s p="45">​話</s><s p="540">​し</s><s p="541">​し</s><s p="415">​よ</s><s p="10">う​ ​</s><s p="2">​</s></p>
+<p t="193310" d="3337" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​も</s><s p="323">​っ</s><s p="542">​と</s><s p="53">​　</s><s p="543">​も</s><s p="544">​っ</s><s p="276">​と</s><s p="545">​　</s><s p="546">​お</s><s p="64">​話</s><s p="547">​し</s><s p="548">​し</s><s p="419">​よ</s><s p="11">う​ ​</s><s p="2">​</s></p>
+<p t="196647" d="3503" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​晴</s><s p="112">​れ</s><s p="549">​の</s><s p="529">​日</s><s p="497">​で</s><s p="21">​も</s><s p="77">​　</s><s p="499">​雨</s><s p="421">​の</s><s p="550">​日</s><s p="315">​で</s><s p="9">も​ ​</s><s p="2">​</s></p>
+<p t="196647" d="3503" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​晴</s><s p="134">​れ</s><s p="551">​の</s><s p="536">​日</s><s p="505">​で</s><s p="40">​も</s><s p="91">​　</s><s p="507">​雨</s><s p="423">​の</s><s p="552">​日</s><s p="322">​で</s><s p="10">も​ ​</s><s p="2">​</s></p>
+<p t="196647" d="3503" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​晴</s><s p="156">​れ</s><s p="553">​の</s><s p="543">​日</s><s p="513">​で</s><s p="59">​も</s><s p="105">​　</s><s p="515">​雨</s><s p="425">​の</s><s p="554">​日</s><s p="329">​で</s><s p="11">も​ ​</s><s p="2">​</s></p>
+<p t="200150" d="2970" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​い</s><s p="198">​っ</s><s p="14">​ぱ</s><s p="71">​い</s><s p="18">​　</s><s p="179">​い</s><s p="409">​っ</s><s p="123">​ぱ</s><s p="312">​い</s><s p="429">​　</s><s p="555">​遊</s><s p="411">​ぼ</s><s p="9">う​ ​</s><s p="2">​</s></p>
+<p t="200150" d="2970" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​い</s><s p="215">​っ</s><s p="33">​ぱ</s><s p="85">​い</s><s p="37">​　</s><s p="186">​い</s><s p="413">​っ</s><s p="145">​ぱ</s><s p="319">​い</s><s p="434">​　</s><s p="556">​遊</s><s p="415">​ぼ</s><s p="10">う​ ​</s><s p="2">​</s></p>
+<p t="200150" d="2970" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​い</s><s p="232">​っ</s><s p="52">​ぱ</s><s p="99">​い</s><s p="56">​　</s><s p="193">​い</s><s p="417">​っ</s><s p="167">​ぱ</s><s p="326">​い</s><s p="439">​　</s><s p="557">​遊</s><s p="419">​ぼ</s><s p="11">う​ ​</s><s p="2">​</s></p>
+<p t="203620" d="3604" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​L</s><s p="12">​a</s><s p="13">​l</s><s p="14">​a</s><s p="15">​l</s><s p="16">​a </s><s p="17"></s><s p="18">​l</s><s p="19">​a</s><s p="20">​l</s><s p="21">​a</s><s p="22">​l</s><s p="23">​a</s><s p="24">​, </s><s p="25"></s><s p="26">​A</s><s p="27">​r</s><s p="28">​e</s><s p="29">​a</s><s p="30">​1</s><s p="9">5​ ​</s><s p="2">​</s></p>
+<p t="203620" d="3604" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​L</s><s p="31">​a</s><s p="32">​l</s><s p="33">​a</s><s p="34">​l</s><s p="35">​a </s><s p="36"></s><s p="37">​l</s><s p="38">​a</s><s p="39">​l</s><s p="40">​a</s><s p="41">​l</s><s p="42">​a</s><s p="43">​, </s><s p="44"></s><s p="45">​A</s><s p="46">​r</s><s p="47">​e</s><s p="48">​a</s><s p="49">​1</s><s p="10">5​ ​</s><s p="2">​</s></p>
+<p t="203620" d="3604" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​L</s><s p="50">​a</s><s p="51">​l</s><s p="52">​a</s><s p="53">​l</s><s p="54">​a </s><s p="55"></s><s p="56">​l</s><s p="57">​a</s><s p="58">​l</s><s p="59">​a</s><s p="60">​l</s><s p="61">​a</s><s p="62">​, </s><s p="63"></s><s p="64">​A</s><s p="65">​r</s><s p="66">​e</s><s p="67">​a</s><s p="68">​1</s><s p="11">5​ ​</s><s p="2">​</s></p>
+<p t="207224" d="3270" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​L</s><s p="12">​a</s><s p="13">​l</s><s p="69">​a</s><s p="70">​l</s><s p="71">​a </s><s p="72"></s><s p="73">​l</s><s p="74">​a</s><s p="75">​l</s><s p="76">​a</s><s p="6">​l</s><s p="77">​a</s><s p="78">​, </s><s p="79"></s><s p="80">​絆</s><s p="81">​つ</s><s p="82">​な</s><s p="9">ぐ​ ​</s><s p="2">​</s></p>
+<p t="207224" d="3270" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​L</s><s p="31">​a</s><s p="32">​l</s><s p="83">​a</s><s p="84">​l</s><s p="85">​a </s><s p="86"></s><s p="87">​l</s><s p="88">​a</s><s p="89">​l</s><s p="90">​a</s><s p="7">​l</s><s p="91">​a</s><s p="92">​, </s><s p="93"></s><s p="94">​絆</s><s p="95">​つ</s><s p="96">​な</s><s p="10">ぐ​ ​</s><s p="2">​</s></p>
+<p t="207224" d="3270" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​L</s><s p="50">​a</s><s p="51">​l</s><s p="97">​a</s><s p="98">​l</s><s p="99">​a </s><s p="100"></s><s p="101">​l</s><s p="102">​a</s><s p="103">​l</s><s p="104">​a</s><s p="8">​l</s><s p="105">​a</s><s p="106">​, </s><s p="107"></s><s p="108">​絆</s><s p="109">​つ</s><s p="110">​な</s><s p="11">ぐ​ ​</s><s p="2">​</s></p>
+<p t="210494" d="3603" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​L</s><s p="12">​a</s><s p="13">​l</s><s p="14">​a</s><s p="15">​l</s><s p="16">​a </s><s p="17"></s><s p="18">​l</s><s p="19">​a</s><s p="20">​l</s><s p="21">​a</s><s p="22">​l</s><s p="23">​a</s><s p="24">​, </s><s p="25"></s><s p="26">​A</s><s p="27">​r</s><s p="28">​e</s><s p="29">​a</s><s p="30">​1</s><s p="9">5​ ​</s><s p="2">​</s></p>
+<p t="210494" d="3603" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​L</s><s p="31">​a</s><s p="32">​l</s><s p="33">​a</s><s p="34">​l</s><s p="35">​a </s><s p="36"></s><s p="37">​l</s><s p="38">​a</s><s p="39">​l</s><s p="40">​a</s><s p="41">​l</s><s p="42">​a</s><s p="43">​, </s><s p="44"></s><s p="45">​A</s><s p="46">​r</s><s p="47">​e</s><s p="48">​a</s><s p="49">​1</s><s p="10">5​ ​</s><s p="2">​</s></p>
+<p t="210494" d="3603" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​L</s><s p="50">​a</s><s p="51">​l</s><s p="52">​a</s><s p="53">​l</s><s p="54">​a </s><s p="55"></s><s p="56">​l</s><s p="57">​a</s><s p="58">​l</s><s p="59">​a</s><s p="60">​l</s><s p="61">​a</s><s p="62">​, </s><s p="63"></s><s p="64">​A</s><s p="65">​r</s><s p="66">​e</s><s p="67">​a</s><s p="68">​1</s><s p="11">5​ ​</s><s p="2">​</s></p>
+<p t="214097" d="3838" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​L</s><s p="111">​a</s><s p="112">​l</s><s p="113">​a</s><s p="114">​l</s><s p="115">​a </s><s p="71"></s><s p="116">​l</s><s p="17">​a</s><s p="117">​l</s><s p="19">​a</s><s p="118">​l</s><s p="119">​a</s><s p="120">​, </s><s p="121"></s><s p="122">​l</s><s p="123">​e</s><s p="79">​t</s><s p="124">​’</s><s p="125">​s </s><s p="126"></s><s p="127">​j</s><s p="128">​o</s><s p="28">​i</s><s p="129">​n </s><s p="130"></s><s p="131">​u</s><s p="132">​s</s><s p="9">!​ ​</s><s p="2">​</s></p>
+<p t="214097" d="3838" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​L</s><s p="133">​a</s><s p="134">​l</s><s p="135">​a</s><s p="136">​l</s><s p="137">​a </s><s p="85"></s><s p="138">​l</s><s p="36">​a</s><s p="139">​l</s><s p="38">​a</s><s p="140">​l</s><s p="141">​a</s><s p="142">​, </s><s p="143"></s><s p="144">​l</s><s p="145">​e</s><s p="93">​t</s><s p="146">​’</s><s p="147">​s </s><s p="148"></s><s p="149">​j</s><s p="150">​o</s><s p="47">​i</s><s p="151">​n </s><s p="152"></s><s p="153">​u</s><s p="154">​s</s><s p="10">!​ ​</s><s p="2">​</s></p>
+<p t="214097" d="3838" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​L</s><s p="155">​a</s><s p="156">​l</s><s p="157">​a</s><s p="158">​l</s><s p="159">​a </s><s p="99"></s><s p="160">​l</s><s p="55">​a</s><s p="161">​l</s><s p="57">​a</s><s p="162">​l</s><s p="163">​a</s><s p="164">​, </s><s p="165"></s><s p="166">​l</s><s p="167">​e</s><s p="107">​t</s><s p="168">​’</s><s p="169">​s </s><s p="170"></s><s p="171">​j</s><s p="172">​o</s><s p="66">​i</s><s p="173">​n </s><s p="174"></s><s p="175">​u</s><s p="176">​s</s><s p="11">!​ ​</s><s p="2">​</s></p>
+</body>
+</timedtext>

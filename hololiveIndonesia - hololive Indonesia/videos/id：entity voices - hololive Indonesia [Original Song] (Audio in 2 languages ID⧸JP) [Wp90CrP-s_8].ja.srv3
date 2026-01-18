@@ -1,0 +1,765 @@
+<?xml version="1.0" encoding="utf-8" ?><timedtext format="3">
+<head>
+<pen id="1" fc="#000000" fo="0" bo="0" sz="100"/>
+<pen id="2" fc="#A0AAB4" fo="0" bo="0" sz="0"/>
+<pen id="3" fc="#5EDDEE" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="4" fc="#D9D9D9" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="5" fc="#F6BBBB" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="6" fc="#B19DDC" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="7" fc="#B3EE55" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="8" fc="#D60E54" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="9" fc="#F2C95C" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="10" fc="#0F52BA" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="11" fc="#EFC0B0" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="12" fc="#E8C6A6" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="13" fc="#E1CB9B" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="14" fc="#E9C5A7" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="15" fc="#DBCF92" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="16" fc="#CEDA7E" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="17" fc="#C0E469" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="18" fc="#B3DE70" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="19" fc="#B2CE8B" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="20" fc="#B2BDA6" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="21" fc="#B1ADC1" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="22" fc="#DAD090" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="23" fc="#D3D685" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="24" fc="#CCDB7B" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="25" fc="#C5E170" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="26" fc="#BEE665" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="27" fc="#B7EB5A" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="28" fc="#B3EA5C" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="29" fc="#B3E16A" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="30" fc="#B2D979" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="31" fc="#B2D087" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="32" fc="#B2C895" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="33" fc="#B2BFA3" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="34" fc="#B2B7B1" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="35" fc="#B1AEC0" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="36" fc="#B1A6CE" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="37" fc="#F1BFB3" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="38" fc="#EBC4AA" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="39" fc="#E0CC99" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="40" fc="#D4D488" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="41" fc="#C9DD77" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="42" fc="#BEE666" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="43" fc="#B3E06C" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="44" fc="#B2D382" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="45" fc="#B2C698" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="46" fc="#B2B8AF" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="47" fc="#B1ABC5" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="48" fc="#EBC3AB" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="49" fc="#E6C7A3" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="50" fc="#E1CB9A" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="51" fc="#D6D38A" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="52" fc="#D0D882" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="53" fc="#CBDC7A" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="54" fc="#C6E072" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="55" fc="#BBE861" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="56" fc="#B6EC59" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="57" fc="#B3EB5A" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="58" fc="#B3E465" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="59" fc="#B2D77B" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="60" fc="#B2D186" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="61" fc="#B2CA90" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="62" fc="#B2C49B" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="63" fc="#B1B0BC" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="64" fc="#B1AAC6" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="65" fc="#B1A3D1" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="66" fc="#D91F55" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="67" fc="#DB3055" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="68" fc="#DC3356" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="69" fc="#E15957" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="70" fc="#E77E59" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="71" fc="#ECA45A" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="72" fc="#C5B16F" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="73" fc="#979982" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="74" fc="#6A8294" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="75" fc="#3C6AA7" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="76" fc="#DE4156" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="77" fc="#E05257" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="78" fc="#E36358" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="79" fc="#E57458" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="80" fc="#E88559" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="81" fc="#EA965A" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="82" fc="#EDA75B" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="83" fc="#EFB85B" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="84" fc="#DDBE65" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="85" fc="#C9B36D" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="86" fc="#B4A976" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="87" fc="#9F9E7E" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="88" fc="#8B9387" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="89" fc="#76888F" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="90" fc="#627D98" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="91" fc="#4D72A0" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="92" fc="#3868A9" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="93" fc="#245DB1" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="94" fc="#D92455" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="95" fc="#DA2B55" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="96" fc="#DF4856" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="97" fc="#E36458" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="98" fc="#E78159" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="99" fc="#EC9E5A" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="100" fc="#F0BB5B" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="101" fc="#E1C063" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="102" fc="#BEAE72" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="103" fc="#9B9B80" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="104" fc="#78898F" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="105" fc="#55779D" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="106" fc="#3264AC" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="107" fc="#DD3A56" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="108" fc="#E05057" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="109" fc="#E36658" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="110" fc="#E67C59" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="111" fc="#EA925A" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="112" fc="#EDA85B" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="113" fc="#F0BE5C" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="114" fc="#E5C262" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="115" fc="#CAB46D" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="116" fc="#AFA678" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="117" fc="#959883" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="118" fc="#7A8A8E" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="119" fc="#5F7C99" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="120" fc="#446EA4" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="121" fc="#2A60AF" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="122" fc="#F0C0B1" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="123" fc="#E9C5A8" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="124" fc="#E3CA9E" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="125" fc="#E5C8A2" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="126" fc="#C4E16E" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="127" fc="#B2DA77" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="128" fc="#B2B1BA" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="129" fc="#DCCE94" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="130" fc="#D0D881" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="131" fc="#C3E26D" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="132" fc="#BDE764" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="133" fc="#B6EC5A" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="134" fc="#B3EA5B" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="135" fc="#B3E268" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="136" fc="#B3DB75" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="137" fc="#B2CB8F" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="138" fc="#B2C49C" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="139" fc="#B2BCA9" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="140" fc="#B2B4B5" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="141" fc="#B1ACC2" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="142" fc="#B1A5CF" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="143" fc="#EAC4A8" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="144" fc="#DECE96" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="145" fc="#D1D783" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="146" fc="#C5E071" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="147" fc="#B9E95E" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="148" fc="#B3E761" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="149" fc="#B2D87A" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="150" fc="#B2C992" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="151" fc="#B2BAAB" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="152" fc="#B1ACC3" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="153" fc="#DA2555" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="154" fc="#DD3D56" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="155" fc="#DF4C57" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="156" fc="#E98B59" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="157" fc="#A6A17B" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="158" fc="#5B7A9B" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="159" fc="#E05457" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="160" fc="#E46C58" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="161" fc="#E88359" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="162" fc="#EB9A5A" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="163" fc="#EEB25B" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="164" fc="#D6BA68" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="165" fc="#B9AB74" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="166" fc="#9D9C7F" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="167" fc="#808E8B" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="168" fc="#647F97" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="169" fc="#4870A2" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="170" fc="#2B61AE" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="171" fc="#DA2955" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="172" fc="#DE4356" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="173" fc="#E25E57" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="174" fc="#E67959" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="175" fc="#EA945A" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="176" fc="#EEAE5B" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="177" fc="#D2B869" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="178" fc="#B1A777" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="179" fc="#919684" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="180" fc="#708592" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="181" fc="#50749F" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="182" fc="#2F63AD" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<ws id="0"/>
+<ws id="1" ju="2" pd="0" sd="0"/>
+<wp id="0"/>
+<wp id="2" ap="1" ah="50" av="0"/>
+<wp id="5" ap="4" ah="50" av="12"/>
+<wp id="6" ap="4" ah="50" av="87"/>
+<wp id="4" ap="4" ah="50" av="97"/>
+<wp id="1" ap="7" ah="0" av="0"/>
+<wp id="3" ap="7" ah="50" av="100"/>
+<wp id="7" ap="7" ah="50" av="91"/>
+</head>
+<body>
+<p t="1218" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​De</s><s p="4">ngarkanlah Suaraku​ ​</s><s p="2">​</s></p>
+<p t="1218" d="4238" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​聞いてよ この声を​ ​</s><s p="2">​</s></p>
+<p t="1385" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Dengar</s><s p="4">kanlah Suaraku​ ​</s><s p="2">​</s></p>
+<p t="1585" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Dengarkan</s><s p="4">lah Suaraku​ ​</s><s p="2">​</s></p>
+<p t="1919" d="734" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Dengarkanlah </s><s p="4">Suaraku​ ​</s><s p="2">​</s></p>
+<p t="2653" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Dengarkanlah Su</s><s p="4">araku​ ​</s><s p="2">​</s></p>
+<p t="2820" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Dengarkanlah Sua</s><s p="4">raku​ ​</s><s p="2">​</s></p>
+<p t="3187" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Dengarkanlah Suara</s><s p="4">ku​ ​</s><s p="2">​</s></p>
+<p t="3354" d="2102" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Dengarkanlah Suaraku​ ​</s><s p="2">​</s></p>
+<p t="5456" d="233" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Id:</s><s p="4">entity​ ​</s><s p="2">​</s></p>
+<p t="5456" d="3737" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Id:entity​ ​</s><s p="2">​</s></p>
+<p t="5689" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Id:en</s><s p="4">tity​ ​</s><s p="2">​</s></p>
+<p t="6023" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Id:enti</s><s p="4">ty​ ​</s><s p="2">​</s></p>
+<p t="6190" d="3003" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Id:entity​ ​</s><s p="2">​</s></p>
+<p t="6357" d="2836" wp="5" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​hololive ID - id:entity voices​ ​</s><s p="2">​</s></p>
+<p t="6357" d="2836" wp="6" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​歌詞: Datenkou​ ​</s><s p="2">​</s></p>
+<p t="9193" d="2803" wp="6" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​作編曲: Farhan Sarasin​ ​</s><s p="2">​</s></p>
+<p t="12363" d="2469" wp="5" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​歌: hololive Indonesia​ ​</s><s p="2">​</s></p>
+<p t="12363" d="2469" wp="6" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​(</s><s p="5">​Ayunda Risu</s><s p="3">​, </s><s p="6">​Moona Hoshinova</s><s p="3">​, </s><s p="7">​Airani Iofifteen</s><s p="3">,​ ​</s><s p="2">​</s></p>
+<p t="12363" d="2469" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​Kureiji Ollie</s><s p="3">​, </s><s p="9">​Anya Melfissa</s><s p="3">​, </s><s p="10">​Pavolia Reine</s><s p="3">)​ ​</s><s p="2">​</s></p>
+<p t="18002" d="166" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Ber</s><s p="4">diri di tengah terangnya kilau cahaya​ ​</s><s p="2">​</s></p>
+<p t="18002" d="4771" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​眩しい灯りの真ん中で立って​ ​</s><s p="2">​</s></p>
+<p t="18168" d="201" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Berdi</s><s p="4">ri di tengah terangnya kilau cahaya​ ​</s><s p="2">​</s></p>
+<p t="18369" d="166" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Berdiri </s><s p="4">di tengah terangnya kilau cahaya​ ​</s><s p="2">​</s></p>
+<p t="18535" d="201" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Berdiri di </s><s p="4">tengah terangnya kilau cahaya​ ​</s><s p="2">​</s></p>
+<p t="18736" d="166" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Berdiri di te</s><s p="4">ngah terangnya kilau cahaya​ ​</s><s p="2">​</s></p>
+<p t="18902" d="534" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Berdiri di tengah </s><s p="4">terangnya kilau cahaya​ ​</s><s p="2">​</s></p>
+<p t="19436" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Berdiri di tengah te</s><s p="4">rangnya kilau cahaya​ ​</s><s p="2">​</s></p>
+<p t="19770" d="300" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Berdiri di tengah terang</s><s p="4">nya kilau cahaya​ ​</s><s p="2">​</s></p>
+<p t="20070" d="401" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Berdiri di tengah terangnya </s><s p="4">kilau cahaya​ ​</s><s p="2">​</s></p>
+<p t="20471" d="300" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Berdiri di tengah terangnya ki</s><s p="4">lau cahaya​ ​</s><s p="2">​</s></p>
+<p t="20771" d="267" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Berdiri di tengah terangnya kilau </s><s p="4">cahaya​ ​</s><s p="2">​</s></p>
+<p t="21038" d="300" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Berdiri di tengah terangnya kilau ca</s><s p="4">haya​ ​</s><s p="2">​</s></p>
+<p t="21338" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Berdiri di tengah terangnya kilau caha</s><s p="4">ya​ ​</s><s p="2">​</s></p>
+<p t="21705" d="1068" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Berdiri di tengah terangnya kilau cahaya​ ​</s><s p="2">​</s></p>
+<p t="22773" d="133" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​O</s><s p="4">hayou! , Konbanwa!​ ​</s><s p="2">​</s></p>
+<p t="22773" d="1401" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​“おはよう! こんばんは!”​ ​</s><s p="2">​</s></p>
+<p t="22906" d="234" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Oha</s><s p="4">you! , Konbanwa!​ ​</s><s p="2">​</s></p>
+<p t="23140" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Ohayo</s><s p="4">u! , Konbanwa!​ ​</s><s p="2">​</s></p>
+<p t="23307" d="133" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Ohayou! , </s><s p="4">Konbanwa!​ ​</s><s p="2">​</s></p>
+<p t="23440" d="134" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Ohayou! , Ko</s><s p="4">nbanwa!​ ​</s><s p="2">​</s></p>
+<p t="23574" d="66" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Ohayou! , Kon</s><s p="4">banwa!​ ​</s><s p="2">​</s></p>
+<p t="23640" d="101" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Ohayou! , Konba</s><s p="4">nwa!​ ​</s><s p="2">​</s></p>
+<p t="23741" d="100" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Ohayou! , Konban</s><s p="4">wa!​ ​</s><s p="2">​</s></p>
+<p t="23841" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Ohayou! , Konbanwa!​ ​</s><s p="2">​</s></p>
+<p t="24174" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​Ka</s><s p="4">mi serukan kepada dunia​ ​</s><s p="2">​</s></p>
+<p t="24174" d="4238" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​世界に声を出した​ ​</s><s p="2">​</s></p>
+<p t="24341" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​Kami </s><s p="4">serukan kepada dunia​ ​</s><s p="2">​</s></p>
+<p t="24541" d="534" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​Kami se</s><s p="4">rukan kepada dunia​ ​</s><s p="2">​</s></p>
+<p t="25075" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​Kami seru</s><s p="4">kan kepada dunia​ ​</s><s p="2">​</s></p>
+<p t="25409" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​Kami serukan </s><s p="4">kepada dunia​ ​</s><s p="2">​</s></p>
+<p t="25776" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​Kami serukan ke</s><s p="4">pada dunia​ ​</s><s p="2">​</s></p>
+<p t="26110" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​Kami serukan kepa</s><s p="4">da dunia​ ​</s><s p="2">​</s></p>
+<p t="26477" d="166" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​Kami serukan kepada </s><s p="4">dunia​ ​</s><s p="2">​</s></p>
+<p t="26643" d="368" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​Kami serukan kepada du</s><s p="4">nia​ ​</s><s p="2">​</s></p>
+<p t="27011" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​Kami serukan kepada duni</s><s p="4">a​ ​</s><s p="2">​</s></p>
+<p t="27378" d="1034" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​Kami serukan kepada dunia​ ​</s><s p="2">​</s></p>
+<p t="28412" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Meng</s><s p="4">udara tuk hari ini​ ​</s><s p="2">​</s></p>
+<p t="28412" d="2836" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​本日のライブでは​ ​</s><s p="2">​</s></p>
+<p t="28579" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Mengu</s><s p="4">dara tuk hari ini​ ​</s><s p="2">​</s></p>
+<p t="28779" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Menguda</s><s p="4">ra tuk hari ini​ ​</s><s p="2">​</s></p>
+<p t="28946" d="534" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Mengudara </s><s p="4">tuk hari ini​ ​</s><s p="2">​</s></p>
+<p t="29480" d="166" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Mengudara tuk </s><s p="4">hari ini​ ​</s><s p="2">​</s></p>
+<p t="29646" d="368" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Mengudara tuk ha</s><s p="4">ri ini​ ​</s><s p="2">​</s></p>
+<p t="30014" d="166" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Mengudara tuk hari </s><s p="4">ini​ ​</s><s p="2">​</s></p>
+<p t="30180" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Mengudara tuk hari i</s><s p="4">ni​ ​</s><s p="2">​</s></p>
+<p t="30514" d="734" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Mengudara tuk hari ini​ ​</s><s p="2">​</s></p>
+<p t="31248" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Ba</s><s p="4">gian dari diri yang mana kah​ ​</s><s p="2">​</s></p>
+<p t="31248" d="3337" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​どれの自分を​ ​</s><s p="2">​</s></p>
+<p t="31415" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Bagi</s><s p="4">an dari diri yang mana kah​ ​</s><s p="2">​</s></p>
+<p t="31582" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Bagian </s><s p="4">dari diri yang mana kah​ ​</s><s p="2">​</s></p>
+<p t="31782" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Bagian da</s><s p="4">ri diri yang mana kah​ ​</s><s p="2">​</s></p>
+<p t="32149" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Bagian dari </s><s p="4">diri yang mana kah​ ​</s><s p="2">​</s></p>
+<p t="32316" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Bagian dari di</s><s p="4">ri yang mana kah​ ​</s><s p="2">​</s></p>
+<p t="32649" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Bagian dari diri </s><s p="4">yang mana kah​ ​</s><s p="2">​</s></p>
+<p t="32983" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Bagian dari diri yang </s><s p="4">mana kah​ ​</s><s p="2">​</s></p>
+<p t="33350" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Bagian dari diri yang ma</s><s p="4">na kah​ ​</s><s p="2">​</s></p>
+<p t="33517" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Bagian dari diri yang mana </s><s p="4">kah​ ​</s><s p="2">​</s></p>
+<p t="33717" d="868" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Bagian dari diri yang mana kah​ ​</s><s p="2">​</s></p>
+<p t="34585" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Y</s><s p="11">​a</s><s p="12">​n</s><s p="13">​g </s><s p="4">harus kutunjukkan​ ​</s><s p="2">​</s></p>
+<p t="34585" d="2302" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​世</s><s p="14">​界</s><s p="15">​に</s><s p="16">​見</s><s p="17">​せ</s><s p="7">​て</s><s p="18">​い</s><s p="19">​い</s><s p="20">​の</s><s p="21">​か</s><s p="6">?​ ​</s><s p="2">​</s></p>
+<p t="34918" d="401" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Y</s><s p="11">​a</s><s p="12">​n</s><s p="13">​g </s><s p="22">​h</s><s p="23">​a</s><s p="4">rus kutunjukkan​ ​</s><s p="2">​</s></p>
+<p t="35319" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Y</s><s p="11">​a</s><s p="12">​n</s><s p="13">​g </s><s p="22">​h</s><s p="23">​a</s><s p="24">​r</s><s p="25">​u</s><s p="26">​s </s><s p="4">kutunjukkan​ ​</s><s p="2">​</s></p>
+<p t="35652" d="201" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Y</s><s p="11">​a</s><s p="12">​n</s><s p="13">​g </s><s p="22">​h</s><s p="23">​a</s><s p="24">​r</s><s p="25">​u</s><s p="26">​s </s><s p="27">​k</s><s p="28">​u</s><s p="4">tunjukkan​ ​</s><s p="2">​</s></p>
+<p t="35853" d="300" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Y</s><s p="11">​a</s><s p="12">​n</s><s p="13">​g </s><s p="22">​h</s><s p="23">​a</s><s p="24">​r</s><s p="25">​u</s><s p="26">​s </s><s p="27">​k</s><s p="28">​u</s><s p="29">​t</s><s p="30">​u</s><s p="31">​n</s><s p="4">jukkan​ ​</s><s p="2">​</s></p>
+<p t="36153" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Y</s><s p="11">​a</s><s p="12">​n</s><s p="13">​g </s><s p="22">​h</s><s p="23">​a</s><s p="24">​r</s><s p="25">​u</s><s p="26">​s </s><s p="27">​k</s><s p="28">​u</s><s p="29">​t</s><s p="30">​u</s><s p="31">​n</s><s p="32">​j</s><s p="33">​u</s><s p="34">​k</s><s p="4">kan​ ​</s><s p="2">​</s></p>
+<p t="36520" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Y</s><s p="11">​a</s><s p="12">​n</s><s p="13">​g </s><s p="22">​h</s><s p="23">​a</s><s p="24">​r</s><s p="25">​u</s><s p="26">​s </s><s p="27">​k</s><s p="28">​u</s><s p="29">​t</s><s p="30">​u</s><s p="31">​n</s><s p="32">​j</s><s p="33">​u</s><s p="34">​k</s><s p="35">​k</s><s p="36">​a</s><s p="6">n​ ​</s><s p="2">​</s></p>
+<p t="36887" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​K</s><s p="37">​u </s><s p="4">tak dapat pernah memutuskan​ ​</s><s p="2">​</s></p>
+<p t="36887" d="3670" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​い</s><s p="38">​つ</s><s p="39">​も</s><s p="40">​の</s><s p="41">​よ</s><s p="42">​う</s><s p="7">​に</s><s p="43">​決</s><s p="44">​め</s><s p="45">​ら</s><s p="46">​れ</s><s p="47">​な</s><s p="6">い​ ​</s><s p="2">​</s></p>
+<p t="37054" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​K</s><s p="37">​u </s><s p="48">​t</s><s p="49">​a</s><s p="50">​k </s><s p="4">dapat pernah memutuskan​ ​</s><s p="2">​</s></p>
+<p t="37254" d="501" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​K</s><s p="37">​u </s><s p="48">​t</s><s p="49">​a</s><s p="50">​k </s><s p="15">​d</s><s p="51">​a</s><s p="4">pat pernah memutuskan​ ​</s><s p="2">​</s></p>
+<p t="37755" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​K</s><s p="37">​u </s><s p="48">​t</s><s p="49">​a</s><s p="50">​k </s><s p="15">​d</s><s p="51">​a</s><s p="52">​p</s><s p="53">​a</s><s p="54">​t </s><s p="4">pernah memutuskan​ ​</s><s p="2">​</s></p>
+<p t="38122" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​K</s><s p="37">​u </s><s p="48">​t</s><s p="49">​a</s><s p="50">​k </s><s p="15">​d</s><s p="51">​a</s><s p="52">​p</s><s p="53">​a</s><s p="54">​t </s><s p="17">​p</s><s p="55">​e</s><s p="56">​r</s><s p="4">nah memutuskan​ ​</s><s p="2">​</s></p>
+<p t="38322" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​K</s><s p="37">​u </s><s p="48">​t</s><s p="49">​a</s><s p="50">​k </s><s p="15">​d</s><s p="51">​a</s><s p="52">​p</s><s p="53">​a</s><s p="54">​t </s><s p="17">​p</s><s p="55">​e</s><s p="56">​r</s><s p="57">​n</s><s p="58">​a</s><s p="18">​h </s><s p="4">memutuskan​ ​</s><s p="2">​</s></p>
+<p t="38655" d="368" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​K</s><s p="37">​u </s><s p="48">​t</s><s p="49">​a</s><s p="50">​k </s><s p="15">​d</s><s p="51">​a</s><s p="52">​p</s><s p="53">​a</s><s p="54">​t </s><s p="17">​p</s><s p="55">​e</s><s p="56">​r</s><s p="57">​n</s><s p="58">​a</s><s p="18">​h </s><s p="59">​m</s><s p="60">​e</s><s p="4">mutuskan​ ​</s><s p="2">​</s></p>
+<p t="39023" d="166" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​K</s><s p="37">​u </s><s p="48">​t</s><s p="49">​a</s><s p="50">​k </s><s p="15">​d</s><s p="51">​a</s><s p="52">​p</s><s p="53">​a</s><s p="54">​t </s><s p="17">​p</s><s p="55">​e</s><s p="56">​r</s><s p="57">​n</s><s p="58">​a</s><s p="18">​h </s><s p="59">​m</s><s p="60">​e</s><s p="61">​m</s><s p="62">​u</s><s p="4">tuskan​ ​</s><s p="2">​</s></p>
+<p t="39189" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​K</s><s p="37">​u </s><s p="48">​t</s><s p="49">​a</s><s p="50">​k </s><s p="15">​d</s><s p="51">​a</s><s p="52">​p</s><s p="53">​a</s><s p="54">​t </s><s p="17">​p</s><s p="55">​e</s><s p="56">​r</s><s p="57">​n</s><s p="58">​a</s><s p="18">​h </s><s p="59">​m</s><s p="60">​e</s><s p="61">​m</s><s p="62">​u</s><s p="20">​t</s><s p="34">​u</s><s p="63">​s</s><s p="4">kan​ ​</s><s p="2">​</s></p>
+<p t="39356" d="1201" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​K</s><s p="37">​u </s><s p="48">​t</s><s p="49">​a</s><s p="50">​k </s><s p="15">​d</s><s p="51">​a</s><s p="52">​p</s><s p="53">​a</s><s p="54">​t </s><s p="17">​p</s><s p="55">​e</s><s p="56">​r</s><s p="57">​n</s><s p="58">​a</s><s p="18">​h </s><s p="59">​m</s><s p="60">​e</s><s p="61">​m</s><s p="62">​u</s><s p="20">​t</s><s p="34">​u</s><s p="63">​s</s><s p="64">​k</s><s p="65">​a</s><s p="6">n​ ​</s><s p="2">​</s></p>
+<p t="40557" d="234" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​La</s><s p="4">lu suatu hari​ ​</s><s p="2">​</s></p>
+<p t="40557" d="1469" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​そしてある日​ ​</s><s p="2">​</s></p>
+<p t="40791" d="133" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​Lalu </s><s p="4">suatu hari​ ​</s><s p="2">​</s></p>
+<p t="40924" d="101" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​Lalu su</s><s p="4">atu hari​ ​</s><s p="2">​</s></p>
+<p t="41025" d="100" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​Lalu sua</s><s p="4">tu hari​ ​</s><s p="2">​</s></p>
+<p t="41125" d="166" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​Lalu suatu </s><s p="4">hari​ ​</s><s p="2">​</s></p>
+<p t="41291" d="201" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​Lalu suatu ha</s><s p="4">ri​ ​</s><s p="2">​</s></p>
+<p t="41492" d="534" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​Lalu suatu hari​ ​</s><s p="2">​</s></p>
+<p t="42026" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​Pe</s><s p="4">san-pesan berdatangan​ ​</s><s p="2">​</s></p>
+<p t="42026" d="3303" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​沢山のメッセージが来た​ ​</s><s p="2">​</s></p>
+<p t="42393" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​Pesan-</s><s p="4">pesan berdatangan​ ​</s><s p="2">​</s></p>
+<p t="42726" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​Pesan-pe</s><s p="4">san berdatangan​ ​</s><s p="2">​</s></p>
+<p t="43093" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​Pesan-pesan </s><s p="4">berdatangan​ ​</s><s p="2">​</s></p>
+<p t="43427" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​Pesan-pesan ber</s><s p="4">datangan​ ​</s><s p="2">​</s></p>
+<p t="43594" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​Pesan-pesan berda</s><s p="4">tangan​ ​</s><s p="2">​</s></p>
+<p t="43961" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​Pesan-pesan berdata</s><s p="4">ngan​ ​</s><s p="2">​</s></p>
+<p t="44328" d="1001" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​Pesan-pesan berdatangan​ ​</s><s p="2">​</s></p>
+<p t="45329" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​Ka</s><s p="4">ta-kata perih membuatku​ ​</s><s p="2">​</s></p>
+<p t="45329" d="3003" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​痛い言葉だらけで​ ​</s><s p="2">​</s></p>
+<p t="45496" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​Kata-</s><s p="4">kata perih membuatku​ ​</s><s p="2">​</s></p>
+<p t="45696" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​Kata-ka</s><s p="4">ta perih membuatku​ ​</s><s p="2">​</s></p>
+<p t="46063" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​Kata-kata </s><s p="4">perih membuatku​ ​</s><s p="2">​</s></p>
+<p t="46230" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​Kata-kata pe</s><s p="4">rih membuatku​ ​</s><s p="2">​</s></p>
+<p t="46397" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​Kata-kata perih </s><s p="4">membuatku​ ​</s><s p="2">​</s></p>
+<p t="46764" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​Kata-kata perih mem</s><s p="4">buatku​ ​</s><s p="2">​</s></p>
+<p t="47097" d="534" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​Kata-kata perih membu</s><s p="4">atku​ ​</s><s p="2">​</s></p>
+<p t="47631" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​Kata-kata perih membuat</s><s p="4">ku​ ​</s><s p="2">​</s></p>
+<p t="47965" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​Kata-kata perih membuatku​ ​</s><s p="2">​</s></p>
+<p t="48332" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​Ke</s><s p="4">hilangan arah​ ​</s><s p="2">​</s></p>
+<p t="48332" d="2669" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​自分を見失ってしまった​ ​</s><s p="2">​</s></p>
+<p t="48699" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​Kehi</s><s p="4">langan arah​ ​</s><s p="2">​</s></p>
+<p t="49033" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​Kehilang</s><s p="4">an arah​ ​</s><s p="2">​</s></p>
+<p t="49233" d="300" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​Kehilangan </s><s p="4">arah​ ​</s><s p="2">​</s></p>
+<p t="49533" d="434" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​Kehilangan a</s><s p="4">rah​ ​</s><s p="2">​</s></p>
+<p t="49967" d="1034" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​Kehilangan arah​ ​</s><s p="2">​</s></p>
+<p t="51001" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Se</s><s p="4">nyuman di balik layar​ ​</s><s p="2">​</s></p>
+<p t="51001" d="2836" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​画面の向こうにあるこの笑顔は​ ​</s><s p="2">​</s></p>
+<p t="51168" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Senyum</s><s p="4">an di balik layar​ ​</s><s p="2">​</s></p>
+<p t="51368" d="501" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Senyuman </s><s p="4">di balik layar​ ​</s><s p="2">​</s></p>
+<p t="51869" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Senyuman di </s><s p="4">balik layar​ ​</s><s p="2">​</s></p>
+<p t="52236" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Senyuman di ba</s><s p="4">lik layar​ ​</s><s p="2">​</s></p>
+<p t="52569" d="201" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Senyuman di balik </s><s p="4">layar​ ​</s><s p="2">​</s></p>
+<p t="52770" d="300" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Senyuman di balik la</s><s p="4">yar​ ​</s><s p="2">​</s></p>
+<p t="53070" d="767" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Senyuman di balik layar​ ​</s><s p="2">​</s></p>
+<p t="53837" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Sang</s><s p="4">gup kah untuk ku pertahankan?​ ​</s><s p="2">​</s></p>
+<p t="53837" d="2970" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​その先までずっと守れるのか？​ ​</s><s p="2">​</s></p>
+<p t="54004" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Sanggup </s><s p="4">kah untuk ku pertahankan?​ ​</s><s p="2">​</s></p>
+<p t="54204" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Sanggup kah </s><s p="4">untuk ku pertahankan?​ ​</s><s p="2">​</s></p>
+<p t="54371" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Sanggup kah un</s><s p="4">tuk ku pertahankan?​ ​</s><s p="2">​</s></p>
+<p t="54705" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Sanggup kah untuk </s><s p="4">ku pertahankan?​ ​</s><s p="2">​</s></p>
+<p t="54872" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Sanggup kah untuk ku </s><s p="4">pertahankan?​ ​</s><s p="2">​</s></p>
+<p t="55239" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Sanggup kah untuk ku per</s><s p="4">tahankan?​ ​</s><s p="2">​</s></p>
+<p t="55406" d="166" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Sanggup kah untuk ku perta</s><s p="4">hankan?​ ​</s><s p="2">​</s></p>
+<p t="55572" d="701" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Sanggup kah untuk ku pertahan</s><s p="4">kan?​ ​</s><s p="2">​</s></p>
+<p t="56273" d="534" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Sanggup kah untuk ku pertahankan?​ ​</s><s p="2">​</s></p>
+<p t="56807" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​T</s><s p="66">​a</s><s p="67">​k </s><s p="4">pernah ingin kecewakan​ ​</s><s p="2">​</s></p>
+<p t="56807" d="2669" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​も</s><s p="68">​う</s><s p="69">​こ</s><s p="70">​れ</s><s p="71">​以</s><s p="9">​上</s><s p="72">​他</s><s p="73">​の</s><s p="74">​誰</s><s p="75">​か</s><s p="10">を​ ​</s><s p="2">​</s></p>
+<p t="56974" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​T</s><s p="66">​a</s><s p="67">​k </s><s p="76">​p</s><s p="77">​e</s><s p="78">​r</s><s p="4">nah ingin kecewakan​ ​</s><s p="2">​</s></p>
+<p t="57174" d="500" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​T</s><s p="66">​a</s><s p="67">​k </s><s p="76">​p</s><s p="77">​e</s><s p="78">​r</s><s p="79">​n</s><s p="80">​a</s><s p="81">​h </s><s p="4">ingin kecewakan​ ​</s><s p="2">​</s></p>
+<p t="57674" d="201" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​T</s><s p="66">​a</s><s p="67">​k </s><s p="76">​p</s><s p="77">​e</s><s p="78">​r</s><s p="79">​n</s><s p="80">​a</s><s p="81">​h </s><s p="82">​i</s><s p="83">​n</s><s p="9">​g</s><s p="4">in kecewakan​ ​</s><s p="2">​</s></p>
+<p t="57875" d="500" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​T</s><s p="66">​a</s><s p="67">​k </s><s p="76">​p</s><s p="77">​e</s><s p="78">​r</s><s p="79">​n</s><s p="80">​a</s><s p="81">​h </s><s p="82">​i</s><s p="83">​n</s><s p="9">​g</s><s p="84">​i</s><s p="85">​n </s><s p="4">kecewakan​ ​</s><s p="2">​</s></p>
+<p t="58375" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​T</s><s p="66">​a</s><s p="67">​k </s><s p="76">​p</s><s p="77">​e</s><s p="78">​r</s><s p="79">​n</s><s p="80">​a</s><s p="81">​h </s><s p="82">​i</s><s p="83">​n</s><s p="9">​g</s><s p="84">​i</s><s p="85">​n </s><s p="86">​k</s><s p="87">​e</s><s p="4">cewakan​ ​</s><s p="2">​</s></p>
+<p t="58575" d="201" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​T</s><s p="66">​a</s><s p="67">​k </s><s p="76">​p</s><s p="77">​e</s><s p="78">​r</s><s p="79">​n</s><s p="80">​a</s><s p="81">​h </s><s p="82">​i</s><s p="83">​n</s><s p="9">​g</s><s p="84">​i</s><s p="85">​n </s><s p="86">​k</s><s p="87">​e</s><s p="88">​c</s><s p="89">​e</s><s p="4">wakan​ ​</s><s p="2">​</s></p>
+<p t="58776" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​T</s><s p="66">​a</s><s p="67">​k </s><s p="76">​p</s><s p="77">​e</s><s p="78">​r</s><s p="79">​n</s><s p="80">​a</s><s p="81">​h </s><s p="82">​i</s><s p="83">​n</s><s p="9">​g</s><s p="84">​i</s><s p="85">​n </s><s p="86">​k</s><s p="87">​e</s><s p="88">​c</s><s p="89">​e</s><s p="90">​w</s><s p="91">​a</s><s p="4">kan​ ​</s><s p="2">​</s></p>
+<p t="59109" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​T</s><s p="66">​a</s><s p="67">​k </s><s p="76">​p</s><s p="77">​e</s><s p="78">​r</s><s p="79">​n</s><s p="80">​a</s><s p="81">​h </s><s p="82">​i</s><s p="83">​n</s><s p="9">​g</s><s p="84">​i</s><s p="85">​n </s><s p="86">​k</s><s p="87">​e</s><s p="88">​c</s><s p="89">​e</s><s p="90">​w</s><s p="91">​a</s><s p="92">​k</s><s p="93">​a</s><s p="10">n​ ​</s><s p="2">​</s></p>
+<p t="59476" d="134" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​S</s><s p="94">​i</s><s p="4">apapun di luar sana​ ​</s><s p="2">​</s></p>
+<p t="59476" d="3270" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​が</s><s p="95">​っ</s><s p="96">​か</s><s p="97">​り</s><s p="98">​さ</s><s p="99">​せ</s><s p="100">​た</s><s p="101">​く</s><s p="102">​な</s><s p="103">​い</s><s p="104">​と</s><s p="105">​決</s><s p="106">​め</s><s p="10">た​ ​</s><s p="2">​</s></p>
+<p t="59610" d="233" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​S</s><s p="94">​i</s><s p="107">​a</s><s p="4">papun di luar sana​ ​</s><s p="2">​</s></p>
+<p t="59843" d="501" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​S</s><s p="94">​i</s><s p="107">​a</s><s p="108">​p</s><s p="109">​a</s><s p="4">pun di luar sana​ ​</s><s p="2">​</s></p>
+<p t="60344" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​S</s><s p="94">​i</s><s p="107">​a</s><s p="108">​p</s><s p="109">​a</s><s p="110">​p</s><s p="111">​u</s><s p="112">​n </s><s p="4">di luar sana​ ​</s><s p="2">​</s></p>
+<p t="60711" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​S</s><s p="94">​i</s><s p="107">​a</s><s p="108">​p</s><s p="109">​a</s><s p="110">​p</s><s p="111">​u</s><s p="112">​n </s><s p="113">​d</s><s p="114">​i </s><s p="4">luar sana​ ​</s><s p="2">​</s></p>
+<p t="60911" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​S</s><s p="94">​i</s><s p="107">​a</s><s p="108">​p</s><s p="109">​a</s><s p="110">​p</s><s p="111">​u</s><s p="112">​n </s><s p="113">​d</s><s p="114">​i </s><s p="115">​l</s><s p="116">​u</s><s p="4">ar sana​ ​</s><s p="2">​</s></p>
+<p t="61245" d="534" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​S</s><s p="94">​i</s><s p="107">​a</s><s p="108">​p</s><s p="109">​a</s><s p="110">​p</s><s p="111">​u</s><s p="112">​n </s><s p="113">​d</s><s p="114">​i </s><s p="115">​l</s><s p="116">​u</s><s p="117">​a</s><s p="118">​r </s><s p="4">sana​ ​</s><s p="2">​</s></p>
+<p t="61779" d="166" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​S</s><s p="94">​i</s><s p="107">​a</s><s p="108">​p</s><s p="109">​a</s><s p="110">​p</s><s p="111">​u</s><s p="112">​n </s><s p="113">​d</s><s p="114">​i </s><s p="115">​l</s><s p="116">​u</s><s p="117">​a</s><s p="118">​r </s><s p="119">​s</s><s p="120">​a</s><s p="4">na​ ​</s><s p="2">​</s></p>
+<p t="61945" d="801" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​S</s><s p="94">​i</s><s p="107">​a</s><s p="108">​p</s><s p="109">​a</s><s p="110">​p</s><s p="111">​u</s><s p="112">​n </s><s p="113">​d</s><s p="114">​i </s><s p="115">​l</s><s p="116">​u</s><s p="117">​a</s><s p="118">​r </s><s p="119">​s</s><s p="120">​a</s><s p="121">​n</s><s p="10">a​ ​</s><s p="2">​</s></p>
+<p t="63180" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Na</s><s p="4">mun di saat banyaknya suara​ ​</s><s p="2">​</s></p>
+<p t="63180" d="5606" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​だけど周りの声に包まれたから​ ​</s><s p="2">​</s></p>
+<p t="63547" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Namun </s><s p="4">di saat banyaknya suara​ ​</s><s p="2">​</s></p>
+<p t="63881" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Namun di </s><s p="4">saat banyaknya suara​ ​</s><s p="2">​</s></p>
+<p t="64248" d="500" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Namun di sa</s><s p="4">at banyaknya suara​ ​</s><s p="2">​</s></p>
+<p t="64748" d="1268" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Namun di saat </s><s p="4">banyaknya suara​ ​</s><s p="2">​</s></p>
+<p t="66016" d="300" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Namun di saat ba</s><s p="4">nyaknya suara​ ​</s><s p="2">​</s></p>
+<p t="66316" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Namun di saat banyak</s><s p="4">nya suara​ ​</s><s p="2">​</s></p>
+<p t="66683" d="401" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Namun di saat banyaknya </s><s p="4">suara​ ​</s><s p="2">​</s></p>
+<p t="67084" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Namun di saat banyaknya su</s><s p="4">ara​ ​</s><s p="2">​</s></p>
+<p t="67418" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Namun di saat banyaknya sua</s><s p="4">ra​ ​</s><s p="2">​</s></p>
+<p t="67618" d="1168" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Namun di saat banyaknya suara​ ​</s><s p="2">​</s></p>
+<p t="68786" d="400" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Ma</s><s p="4">na kah yang ‘ku harus dengar?​ ​</s><s p="2">​</s></p>
+<p t="68786" d="3937" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​どれを聞けばいいですか？​ ​</s><s p="2">​</s></p>
+<p t="69186" d="234" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Mana </s><s p="4">kah yang ‘ku harus dengar?​ ​</s><s p="2">​</s></p>
+<p t="69420" d="233" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Mana kah </s><s p="4">yang ‘ku harus dengar?​ ​</s><s p="2">​</s></p>
+<p t="69653" d="234" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Mana kah yang </s><s p="4">‘ku harus dengar?​ ​</s><s p="2">​</s></p>
+<p t="69887" d="467" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Mana kah yang ‘ku </s><s p="4">harus dengar?​ ​</s><s p="2">​</s></p>
+<p t="70354" d="267" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Mana kah yang ‘ku ha</s><s p="4">rus dengar?​ ​</s><s p="2">​</s></p>
+<p t="70621" d="300" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Mana kah yang ‘ku harus </s><s p="4">dengar?​ ​</s><s p="2">​</s></p>
+<p t="70921" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Mana kah yang ‘ku harus de</s><s p="4">ngar?​ ​</s><s p="2">​</s></p>
+<p t="71121" d="1602" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Mana kah yang ‘ku harus dengar?​ ​</s><s p="2">​</s></p>
+<p t="73757" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Men</s><s p="4">coba mendengarkan​ ​</s><s p="2">​</s></p>
+<p t="73757" d="2836" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​聞いてみようとした​ ​</s><s p="2">​</s></p>
+<p t="73957" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Menco</s><s p="4">ba mendengarkan​ ​</s><s p="2">​</s></p>
+<p t="74124" d="701" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Mencoba </s><s p="4">mendengarkan​ ​</s><s p="2">​</s></p>
+<p t="74825" d="734" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Mencoba men</s><s p="4">dengarkan​ ​</s><s p="2">​</s></p>
+<p t="75559" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Mencoba mende</s><s p="4">ngarkan​ ​</s><s p="2">​</s></p>
+<p t="75893" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Mencoba mendengar</s><s p="4">kan​ ​</s><s p="2">​</s></p>
+<p t="76260" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Mencoba mendengarkan​ ​</s><s p="2">​</s></p>
+<p t="76593" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Su</s><s p="4">ara di dalam hati​ ​</s><s p="2">​</s></p>
+<p t="76593" d="3204" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​心の中にある声を​ ​</s><s p="2">​</s></p>
+<p t="76927" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Sua</s><s p="4">ra di dalam hati​ ​</s><s p="2">​</s></p>
+<p t="77294" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Suara </s><s p="4">di dalam hati​ ​</s><s p="2">​</s></p>
+<p t="77628" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Suara di </s><s p="4">dalam hati​ ​</s><s p="2">​</s></p>
+<p t="77995" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Suara di da</s><s p="4">lam hati​ ​</s><s p="2">​</s></p>
+<p t="78328" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Suara di dalam </s><s p="4">hati​ ​</s><s p="2">​</s></p>
+<p t="78695" d="201" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Suara di dalam ha</s><s p="4">ti​ ​</s><s p="2">​</s></p>
+<p t="78896" d="901" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Suara di dalam hati​ ​</s><s p="2">​</s></p>
+<p t="79797" d="700" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​I</s><s p="4">nilah diri yang ingin​ ​</s><s p="2">​</s></p>
+<p t="79797" d="3503" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​これはこれからもずっと​ ​</s><s p="2">​</s></p>
+<p t="80497" d="701" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Ini</s><s p="4">lah diri yang ingin​ ​</s><s p="2">​</s></p>
+<p t="81198" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Inilah </s><s p="4">diri yang ingin​ ​</s><s p="2">​</s></p>
+<p t="81565" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Inilah di</s><s p="4">ri yang ingin​ ​</s><s p="2">​</s></p>
+<p t="81732" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Inilah diri </s><s p="4">yang ingin​ ​</s><s p="2">​</s></p>
+<p t="82099" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Inilah diri yang </s><s p="4">ingin​ ​</s><s p="2">​</s></p>
+<p t="82433" d="500" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Inilah diri yang ing</s><s p="4">in​ ​</s><s p="2">​</s></p>
+<p t="82933" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Inilah diri yang ingin​ ​</s><s p="2">​</s></p>
+<p t="83300" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Ku </s><s p="4">selalu tunjukkan​ ​</s><s p="2">​</s></p>
+<p t="83300" d="2836" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​見せたい自分だった​ ​</s><s p="2">​</s></p>
+<p t="83667" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Ku se</s><s p="4">lalu tunjukkan​ ​</s><s p="2">​</s></p>
+<p t="84001" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Ku sela</s><s p="4">lu tunjukkan​ ​</s><s p="2">​</s></p>
+<p t="84368" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Ku selalu </s><s p="4">tunjukkan​ ​</s><s p="2">​</s></p>
+<p t="84535" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Ku selalu tun</s><s p="4">jukkan​ ​</s><s p="2">​</s></p>
+<p t="84902" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Ku selalu tunjuk</s><s p="4">kan​ ​</s><s p="2">​</s></p>
+<p t="85235" d="901" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Ku selalu tunjukkan​ ​</s><s p="2">​</s></p>
+<p t="86136" d="234" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Ber</s><s p="4">bagai suara yang berpadu​ ​</s><s p="2">​</s></p>
+<p t="86136" d="4571" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​それぞれ違う声たちが集まって​ ​</s><s p="2">​</s></p>
+<p t="86370" d="233" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Berba</s><s p="4">gai suara yang berpadu​ ​</s><s p="2">​</s></p>
+<p t="86603" d="234" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Berbagai </s><s p="4">suara yang berpadu​ ​</s><s p="2">​</s></p>
+<p t="86837" d="1068" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Berbagai su</s><s p="4">ara yang berpadu​ ​</s><s p="2">​</s></p>
+<p t="87905" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Berbagai sua</s><s p="4">ra yang berpadu​ ​</s><s p="2">​</s></p>
+<p t="88272" d="300" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Berbagai suara </s><s p="4">yang berpadu​ ​</s><s p="2">​</s></p>
+<p t="88572" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Berbagai suara yang </s><s p="4">berpadu​ ​</s><s p="2">​</s></p>
+<p t="88772" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Berbagai suara yang ber</s><s p="4">padu​ ​</s><s p="2">​</s></p>
+<p t="89139" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Berbagai suara yang berpa</s><s p="4">du​ ​</s><s p="2">​</s></p>
+<p t="89473" d="1234" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Berbagai suara yang berpadu​ ​</s><s p="2">​</s></p>
+<p t="90707" d="368" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Dan </s><s p="4">menjadi satu id:entity​ ​</s><s p="2">​</s></p>
+<p t="90707" d="6006" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​そしてひとつになる id:entity​ ​</s><s p="2">​</s></p>
+<p t="91075" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Dan men</s><s p="4">jadi satu id:entity​ ​</s><s p="2">​</s></p>
+<p t="91408" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Dan menja</s><s p="4">di satu id:entity​ ​</s><s p="2">​</s></p>
+<p t="91775" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Dan menjadi </s><s p="4">satu id:entity​ ​</s><s p="2">​</s></p>
+<p t="91942" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Dan menjadi sa</s><s p="4">tu id:entity​ ​</s><s p="2">​</s></p>
+<p t="92276" d="667" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Dan menjadi satu </s><s p="4">id:entity​ ​</s><s p="2">​</s></p>
+<p t="92943" d="234" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Dan menjadi satu id:</s><s p="4">entity​ ​</s><s p="2">​</s></p>
+<p t="93177" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Dan menjadi satu id:en</s><s p="4">tity​ ​</s><s p="2">​</s></p>
+<p t="93510" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Dan menjadi satu id:enti</s><s p="4">ty​ ​</s><s p="2">​</s></p>
+<p t="93710" d="3003" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Dan menjadi satu id:entity​ ​</s><s p="2">​</s></p>
+<p t="105489" d="233" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Ha</s><s p="4">ri-hari berlalu​ ​</s><s p="2">​</s></p>
+<p t="105489" d="1835" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​日々が過ぎていて​ ​</s><s p="2">​</s></p>
+<p t="105722" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Hari-</s><s p="4">hari berlalu​ ​</s><s p="2">​</s></p>
+<p t="105889" d="201" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Hari-ha</s><s p="4">ri berlalu​ ​</s><s p="2">​</s></p>
+<p t="106090" d="133" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Hari-hari </s><s p="4">berlalu​ ​</s><s p="2">​</s></p>
+<p t="106223" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Hari-hari ber</s><s p="4">lalu​ ​</s><s p="2">​</s></p>
+<p t="106423" d="501" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Hari-hari berla</s><s p="4">lu​ ​</s><s p="2">​</s></p>
+<p t="106924" d="400" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Hari-hari berlalu​ ​</s><s p="2">​</s></p>
+<p t="107324" d="267" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Dan </s><s p="4">sekarang ‘ku di sini​ ​</s><s p="2">​</s></p>
+<p t="107324" d="3003" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​やっとここに辿り着いた​ ​</s><s p="2">​</s></p>
+<p t="107591" d="133" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Dan se</s><s p="4">karang ‘ku di sini​ ​</s><s p="2">​</s></p>
+<p t="107724" d="301" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Dan seka</s><s p="4">rang ‘ku di sini​ ​</s><s p="2">​</s></p>
+<p t="108025" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Dan sekarang </s><s p="4">‘ku di sini​ ​</s><s p="2">​</s></p>
+<p t="108358" d="201" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Dan sekarang ‘ku </s><s p="4">di sini​ ​</s><s p="2">​</s></p>
+<p t="108559" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Dan sekarang ‘ku di </s><s p="4">sini​ ​</s><s p="2">​</s></p>
+<p t="108926" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Dan sekarang ‘ku di si</s><s p="4">ni​ ​</s><s p="2">​</s></p>
+<p t="109259" d="1068" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Dan sekarang ‘ku di sini​ ​</s><s p="2">​</s></p>
+<p t="110327" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​Ber</s><s p="4">diri di tepi panggung ini​ ​</s><s p="2">​</s></p>
+<p t="110327" d="2936" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​ステージの手前に立って​ ​</s><s p="2">​</s></p>
+<p t="110494" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​Berdi</s><s p="4">ri di tepi panggung ini​ ​</s><s p="2">​</s></p>
+<p t="110694" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​Berdiri </s><s p="4">di tepi panggung ini​ ​</s><s p="2">​</s></p>
+<p t="111028" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​Berdiri di </s><s p="4">tepi panggung ini​ ​</s><s p="2">​</s></p>
+<p t="111195" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​Berdiri di te</s><s p="4">pi panggung ini​ ​</s><s p="2">​</s></p>
+<p t="111395" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​Berdiri di tepi </s><s p="4">panggung ini​ ​</s><s p="2">​</s></p>
+<p t="111728" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​Berdiri di tepi pang</s><s p="4">gung ini​ ​</s><s p="2">​</s></p>
+<p t="112062" d="534" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​Berdiri di tepi panggung </s><s p="4">ini​ ​</s><s p="2">​</s></p>
+<p t="112596" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​Berdiri di tepi panggung i</s><s p="4">ni​ ​</s><s p="2">​</s></p>
+<p t="112963" d="300" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​Berdiri di tepi panggung ini​ ​</s><s p="2">​</s></p>
+<p t="113263" d="434" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​Me</s><s p="4">nyambut dunia​ ​</s><s p="2">​</s></p>
+<p t="113263" d="2670" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​世界を迎える​ ​</s><s p="2">​</s></p>
+<p t="113697" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​Menyam</s><s p="4">but dunia​ ​</s><s p="2">​</s></p>
+<p t="114064" d="134" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​Menyambut </s><s p="4">dunia​ ​</s><s p="2">​</s></p>
+<p t="114198" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​Menyambut du</s><s p="4">nia​ ​</s><s p="2">​</s></p>
+<p t="114565" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​Menyambut duni</s><s p="4">a​ ​</s><s p="2">​</s></p>
+<p t="114898" d="1035" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​Menyambut dunia​ ​</s><s p="2">​</s></p>
+<p t="115933" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Te</s><s p="4">tapi! ‘Ku tak sendiri​ ​</s><s p="2">​</s></p>
+<p t="115933" d="2836" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​けど！もう一人じゃない​ ​</s><s p="2">​</s></p>
+<p t="116133" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Teta</s><s p="4">pi! ‘Ku tak sendiri​ ​</s><s p="2">​</s></p>
+<p t="116300" d="700" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Tetapi! </s><s p="4">‘Ku tak sendiri​ ​</s><s p="2">​</s></p>
+<p t="117000" d="201" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Tetapi! ‘Ku </s><s p="4">tak sendiri​ ​</s><s p="2">​</s></p>
+<p t="117201" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Tetapi! ‘Ku tak </s><s p="4">sendiri​ ​</s><s p="2">​</s></p>
+<p t="117534" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Tetapi! ‘Ku tak sen</s><s p="4">diri​ ​</s><s p="2">​</s></p>
+<p t="117734" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Tetapi! ‘Ku tak sendi</s><s p="4">ri​ ​</s><s p="2">​</s></p>
+<p t="118068" d="701" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Tetapi! ‘Ku tak sendiri​ ​</s><s p="2">​</s></p>
+<p t="118769" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Ber</s><s p="4">sama lainnya sekarang​ ​</s><s p="2">​</s></p>
+<p t="118769" d="3003" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​他のみんなと一緒で​ ​</s><s p="2">​</s></p>
+<p t="118969" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Bersa</s><s p="4">ma lainnya sekarang​ ​</s><s p="2">​</s></p>
+<p t="119136" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Bersama </s><s p="4">lainnya sekarang​ ​</s><s p="2">​</s></p>
+<p t="119303" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Bersama la</s><s p="4">innya sekarang​ ​</s><s p="2">​</s></p>
+<p t="119670" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Bersama lain</s><s p="4">nya sekarang​ ​</s><s p="2">​</s></p>
+<p t="119837" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Bersama lainnya </s><s p="4">sekarang​ ​</s><s p="2">​</s></p>
+<p t="120204" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Bersama lainnya se</s><s p="4">karang​ ​</s><s p="2">​</s></p>
+<p t="120537" d="734" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Bersama lainnya seka</s><s p="4">rang​ ​</s><s p="2">​</s></p>
+<p t="121271" d="501" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Bersama lainnya sekarang​ ​</s><s p="2">​</s></p>
+<p t="121772" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Se</s><s p="4">akan seperti keluarga​ ​</s><s p="2">​</s></p>
+<p t="121772" d="2636" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​まるで家族のように​ ​</s><s p="2">​</s></p>
+<p t="121939" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Sea</s><s p="4">kan seperti keluarga​ ​</s><s p="2">​</s></p>
+<p t="122106" d="533" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Seakan </s><s p="4">seperti keluarga​ ​</s><s p="2">​</s></p>
+<p t="122639" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Seakan se</s><s p="4">perti keluarga​ ​</s><s p="2">​</s></p>
+<p t="122806" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Seakan seper</s><s p="4">ti keluarga​ ​</s><s p="2">​</s></p>
+<p t="123173" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Seakan seperti </s><s p="4">keluarga​ ​</s><s p="2">​</s></p>
+<p t="123340" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Seakan seperti ke</s><s p="4">luarga​ ​</s><s p="2">​</s></p>
+<p t="123707" d="134" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Seakan seperti kelu</s><s p="4">arga​ ​</s><s p="2">​</s></p>
+<p t="123841" d="233" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Seakan seperti keluar</s><s p="4">ga​ ​</s><s p="2">​</s></p>
+<p t="124074" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Seakan seperti keluarga​ ​</s><s p="2">​</s></p>
+<p t="124408" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Ber</s><s p="4">satu dalam perbedaan​ ​</s><s p="2">​</s></p>
+<p t="124408" d="3704" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​違いの中で結ばれている​ ​</s><s p="2">​</s></p>
+<p t="124575" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Bersa</s><s p="4">tu dalam perbedaan​ ​</s><s p="2">​</s></p>
+<p t="124775" d="500" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Bersatu </s><s p="4">dalam perbedaan​ ​</s><s p="2">​</s></p>
+<p t="125275" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Bersatu da</s><s p="4">lam perbedaan​ ​</s><s p="2">​</s></p>
+<p t="125642" d="201" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Bersatu dalam </s><s p="4">perbedaan​ ​</s><s p="2">​</s></p>
+<p t="125843" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Bersatu dalam per</s><s p="4">bedaan​ ​</s><s p="2">​</s></p>
+<p t="126176" d="534" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Bersatu dalam perbe</s><s p="4">daan​ ​</s><s p="2">​</s></p>
+<p t="126710" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Bersatu dalam perbeda</s><s p="4">an​ ​</s><s p="2">​</s></p>
+<p t="126877" d="1235" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Bersatu dalam perbedaan​ ​</s><s p="2">​</s></p>
+<p t="128112" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​Na</s><s p="4">mun di saat banyaknya perbedaan​ ​</s><s p="2">​</s></p>
+<p t="128112" d="5672" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​でもこんなに違いがあると​ ​</s><s p="2">​</s></p>
+<p t="128479" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​Namun </s><s p="4">di saat banyaknya perbedaan​ ​</s><s p="2">​</s></p>
+<p t="128812" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​Namun di </s><s p="4">saat banyaknya perbedaan​ ​</s><s p="2">​</s></p>
+<p t="129179" d="534" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​Namun di sa</s><s p="4">at banyaknya perbedaan​ ​</s><s p="2">​</s></p>
+<p t="129713" d="1235" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​Namun di saat </s><s p="4">banyaknya perbedaan​ ​</s><s p="2">​</s></p>
+<p t="130948" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​Namun di saat ba</s><s p="4">nyaknya perbedaan​ ​</s><s p="2">​</s></p>
+<p t="131281" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​Namun di saat banyak</s><s p="4">nya perbedaan​ ​</s><s p="2">​</s></p>
+<p t="131648" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​Namun di saat banyaknya </s><s p="4">perbedaan​ ​</s><s p="2">​</s></p>
+<p t="131982" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​Namun di saat banyaknya per</s><s p="4">bedaan​ ​</s><s p="2">​</s></p>
+<p t="132182" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​Namun di saat banyaknya perbe</s><s p="4">daan​ ​</s><s p="2">​</s></p>
+<p t="132349" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​Namun di saat banyaknya perbeda</s><s p="4">an​ ​</s><s p="2">​</s></p>
+<p t="132549" d="1235" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​Namun di saat banyaknya perbedaan​ ​</s><s p="2">​</s></p>
+<p t="133784" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​Da</s><s p="4">pat kah harmoni tercipta?​ ​</s><s p="2">​</s></p>
+<p t="133784" d="3870" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​ハーモニーを生み出せるのか?​ ​</s><s p="2">​</s></p>
+<p t="134151" d="233" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​Dapat </s><s p="4">kah harmoni tercipta?​ ​</s><s p="2">​</s></p>
+<p t="134384" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​Dapat kah </s><s p="4">harmoni tercipta?​ ​</s><s p="2">​</s></p>
+<p t="134551" d="267" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​Dapat kah har</s><s p="4">moni tercipta?​ ​</s><s p="2">​</s></p>
+<p t="134818" d="534" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​Dapat kah harmo</s><s p="4">ni tercipta?​ ​</s><s p="2">​</s></p>
+<p t="135352" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​Dapat kah harmoni </s><s p="4">tercipta?​ ​</s><s p="2">​</s></p>
+<p t="135552" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​Dapat kah harmoni ter</s><s p="4">cipta?​ ​</s><s p="2">​</s></p>
+<p t="135886" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​Dapat kah harmoni tercip</s><s p="4">ta?​ ​</s><s p="2">​</s></p>
+<p t="136086" d="1568" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​Dapat kah harmoni tercipta?​ ​</s><s p="2">​</s></p>
+<p t="138522" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Ber</s><s p="4">gandengan tangan​ ​</s><s p="2">​</s></p>
+<p t="138522" d="2336" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​手をつないで​ ​</s><s p="2">​</s></p>
+<p t="138689" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Bergan</s><s p="4">dengan tangan​ ​</s><s p="2">​</s></p>
+<p t="138889" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Bergandeng</s><s p="4">an tangan​ ​</s><s p="2">​</s></p>
+<p t="139056" d="700" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Bergandengan </s><s p="4">tangan​ ​</s><s p="2">​</s></p>
+<p t="139756" d="701" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Bergandengan ta</s><s p="4">ngan​ ​</s><s p="2">​</s></p>
+<p t="140457" d="401" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Bergandengan tangan​ ​</s><s p="2">​</s></p>
+<p t="140858" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​ber</s><s p="4">juang raih mimpi bersama​ ​</s><s p="2">​</s></p>
+<p t="140858" d="3870" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​共に頑張って夢を追う​ ​</s><s p="2">​</s></p>
+<p t="141225" d="300" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​berju</s><s p="4">ang raih mimpi bersama​ ​</s><s p="2">​</s></p>
+<p t="141525" d="400" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​berjuang </s><s p="4">raih mimpi bersama​ ​</s><s p="2">​</s></p>
+<p t="141925" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​berjuang ra</s><s p="4">ih mimpi bersama​ ​</s><s p="2">​</s></p>
+<p t="142259" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​berjuang raih </s><s p="4">mimpi bersama​ ​</s><s p="2">​</s></p>
+<p t="142593" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​berjuang raih mim</s><s p="4">pi bersama​ ​</s><s p="2">​</s></p>
+<p t="142960" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​berjuang raih mimpi </s><s p="4">bersama​ ​</s><s p="2">​</s></p>
+<p t="143327" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​berjuang raih mimpi ber</s><s p="4">sama​ ​</s><s p="2">​</s></p>
+<p t="143660" d="201" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​berjuang raih mimpi bersa</s><s p="4">ma​ ​</s><s p="2">​</s></p>
+<p t="143861" d="867" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​berjuang raih mimpi bersama​ ​</s><s p="2">​</s></p>
+<p t="144728" d="667" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Se</s><s p="4">mua bersorak​ ​</s><s p="2">​</s></p>
+<p t="144728" d="2636" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​みんなが声を出して​ ​</s><s p="2">​</s></p>
+<p t="145395" d="735" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Semu</s><s p="4">a bersorak​ ​</s><s p="2">​</s></p>
+<p t="146130" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Semua </s><s p="4">bersorak​ ​</s><s p="2">​</s></p>
+<p t="146463" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Semua ber</s><s p="4">sorak​ ​</s><s p="2">​</s></p>
+<p t="146663" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Semua berso</s><s p="4">rak​ ​</s><s p="2">​</s></p>
+<p t="147030" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Semua bersorak​ ​</s><s p="2">​</s></p>
+<p t="147364" d="501" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​De</s><s p="4">ngan suara gempita​ ​</s><s p="2">​</s></p>
+<p t="147364" d="3670" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​大きく歓声を上げた​ ​</s><s p="2">​</s></p>
+<p t="147865" d="400" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Dengan </s><s p="4">suara gempita​ ​</s><s p="2">​</s></p>
+<p t="148265" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Dengan su</s><s p="4">ara gempita​ ​</s><s p="2">​</s></p>
+<p t="148599" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Dengan sua</s><s p="4">ra gempita​ ​</s><s p="2">​</s></p>
+<p t="148966" d="500" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Dengan suara </s><s p="4">gempita​ ​</s><s p="2">​</s></p>
+<p t="149466" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Dengan suara gem</s><s p="4">pita​ ​</s><s p="2">​</s></p>
+<p t="149833" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Dengan suara gempi</s><s p="4">ta​ ​</s><s p="2">​</s></p>
+<p t="150200" d="834" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Dengan suara gempita​ ​</s><s p="2">​</s></p>
+<p t="151034" d="234" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Me</s><s p="4">nyebarkan kebahagiaan​ ​</s><s p="2">​</s></p>
+<p t="151034" d="4638" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​幸せを届けていく​ ​</s><s p="2">​</s></p>
+<p t="151268" d="267" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Menye</s><s p="4">barkan kebahagiaan​ ​</s><s p="2">​</s></p>
+<p t="151535" d="233" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Menyebar</s><s p="4">kan kebahagiaan​ ​</s><s p="2">​</s></p>
+<p t="151768" d="1068" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Menyebarkan </s><s p="4">kebahagiaan​ ​</s><s p="2">​</s></p>
+<p t="152836" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Menyebarkan ke</s><s p="4">bahagiaan​ ​</s><s p="2">​</s></p>
+<p t="153170" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Menyebarkan keba</s><s p="4">hagiaan​ ​</s><s p="2">​</s></p>
+<p t="153537" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Menyebarkan kebaha</s><s p="4">giaan​ ​</s><s p="2">​</s></p>
+<p t="153737" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Menyebarkan kebahagi</s><s p="4">aan​ ​</s><s p="2">​</s></p>
+<p t="154071" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Menyebarkan kebahagia</s><s p="4">an​ ​</s><s p="2">​</s></p>
+<p t="154404" d="1268" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Menyebarkan kebahagiaan​ ​</s><s p="2">​</s></p>
+<p t="155672" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Di </s><s p="4">mana pun itu, bergemalah​ ​</s><s p="2">​</s></p>
+<p t="155672" d="4572" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​どこにでも 響けよ​ ​</s><s p="2">​</s></p>
+<p t="156039" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Di ma</s><s p="4">na pun itu, bergemalah​ ​</s><s p="2">​</s></p>
+<p t="156373" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Di mana </s><s p="4">pun itu, bergemalah​ ​</s><s p="2">​</s></p>
+<p t="156740" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Di mana pun </s><s p="4">itu, bergemalah​ ​</s><s p="2">​</s></p>
+<p t="156907" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Di mana pun i</s><s p="4">tu, bergemalah​ ​</s><s p="2">​</s></p>
+<p t="157241" d="700" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Di mana pun itu, </s><s p="4">bergemalah​ ​</s><s p="2">​</s></p>
+<p t="157941" d="201" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Di mana pun itu, ber</s><s p="4">gemalah​ ​</s><s p="2">​</s></p>
+<p t="158142" d="166" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Di mana pun itu, berge</s><s p="4">malah​ ​</s><s p="2">​</s></p>
+<p t="158308" d="301" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Di mana pun itu, bergema</s><s p="4">lah​ ​</s><s p="2">​</s></p>
+<p t="158609" d="1635" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Di mana pun itu, bergemalah​ ​</s><s p="2">​</s></p>
+<p t="167284" d="734" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​P</s><s p="122">​a</s><s p="123">​n</s><s p="124">​g</s><s p="4">gung yang lebih besar​ ​</s><s p="2">​</s></p>
+<p t="167284" d="3203" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​も</s><s p="125">​っ</s><s p="40">​と</s><s p="126">​大</s><s p="7">​き</s><s p="127">​い</s><s p="45">​舞</s><s p="128">​台</s><s p="6">が​ ​</s><s p="2">​</s></p>
+<p t="168018" d="667" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​P</s><s p="122">​a</s><s p="123">​n</s><s p="124">​g</s><s p="129">​g</s><s p="51">​u</s><s p="130">​n</s><s p="41">​g </s><s p="4">yang lebih besar​ ​</s><s p="2">​</s></p>
+<p t="168685" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​P</s><s p="122">​a</s><s p="123">​n</s><s p="124">​g</s><s p="129">​g</s><s p="51">​u</s><s p="130">​n</s><s p="41">​g </s><s p="131">​y</s><s p="132">​a</s><s p="133">​n</s><s p="134">​g </s><s p="4">lebih besar​ ​</s><s p="2">​</s></p>
+<p t="169019" d="400" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​P</s><s p="122">​a</s><s p="123">​n</s><s p="124">​g</s><s p="129">​g</s><s p="51">​u</s><s p="130">​n</s><s p="41">​g </s><s p="131">​y</s><s p="132">​a</s><s p="133">​n</s><s p="134">​g </s><s p="135">​l</s><s p="136">​e</s><s p="4">bih besar​ ​</s><s p="2">​</s></p>
+<p t="169419" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​P</s><s p="122">​a</s><s p="123">​n</s><s p="124">​g</s><s p="129">​g</s><s p="51">​u</s><s p="130">​n</s><s p="41">​g </s><s p="131">​y</s><s p="132">​a</s><s p="133">​n</s><s p="134">​g </s><s p="135">​l</s><s p="136">​e</s><s p="44">​b</s><s p="137">​i</s><s p="138">​h </s><s p="4">besar​ ​</s><s p="2">​</s></p>
+<p t="169786" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​P</s><s p="122">​a</s><s p="123">​n</s><s p="124">​g</s><s p="129">​g</s><s p="51">​u</s><s p="130">​n</s><s p="41">​g </s><s p="131">​y</s><s p="132">​a</s><s p="133">​n</s><s p="134">​g </s><s p="135">​l</s><s p="136">​e</s><s p="44">​b</s><s p="137">​i</s><s p="138">​h </s><s p="139">​b</s><s p="140">​e</s><s p="4">sar​ ​</s><s p="2">​</s></p>
+<p t="170120" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​P</s><s p="122">​a</s><s p="123">​n</s><s p="124">​g</s><s p="129">​g</s><s p="51">​u</s><s p="130">​n</s><s p="41">​g </s><s p="131">​y</s><s p="132">​a</s><s p="133">​n</s><s p="134">​g </s><s p="135">​l</s><s p="136">​e</s><s p="44">​b</s><s p="137">​i</s><s p="138">​h </s><s p="139">​b</s><s p="140">​e</s><s p="141">​s</s><s p="142">​a</s><s p="6">r​ ​</s><s p="2">​</s></p>
+<p t="170487" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​K</s><s p="143">​i</s><s p="4">ni menunggu​ ​</s><s p="2">​</s></p>
+<p t="170487" d="2403" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​僕</s><s p="124">​ら</s><s p="130">​を</s><s p="132">​待</s><s p="135">​っ</s><s p="137">​て</s><s p="140">​い</s><s p="6">る​ ​</s><s p="2">​</s></p>
+<p t="170854" d="301" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​K</s><s p="143">​i</s><s p="144">​n</s><s p="145">​i </s><s p="4">menunggu​ ​</s><s p="2">​</s></p>
+<p t="171155" d="400" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​K</s><s p="143">​i</s><s p="144">​n</s><s p="145">​i </s><s p="146">​m</s><s p="147">​e</s><s p="4">nunggu​ ​</s><s p="2">​</s></p>
+<p t="171555" d="500" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​K</s><s p="143">​i</s><s p="144">​n</s><s p="145">​i </s><s p="146">​m</s><s p="147">​e</s><s p="148">​n</s><s p="149">​u</s><s p="150">​n</s><s p="151">​g</s><s p="4">gu​ ​</s><s p="2">​</s></p>
+<p t="172055" d="835" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​K</s><s p="143">​i</s><s p="144">​n</s><s p="145">​i </s><s p="146">​m</s><s p="147">​e</s><s p="148">​n</s><s p="149">​u</s><s p="150">​n</s><s p="151">​g</s><s p="152">​g</s><s p="6">u​ ​</s><s p="2">​</s></p>
+<p t="172890" d="767" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​W</s><s p="153">​a</s><s p="154">​k</s><s p="4">tunya telah tiba​ ​</s><s p="2">​</s></p>
+<p t="172890" d="3236" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​時</s><s p="155">​が</s><s p="156">​や</s><s p="9">​っ</s><s p="157">​て</s><s p="158">​き</s><s p="10">た​ ​</s><s p="2">​</s></p>
+<p t="173657" d="667" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​W</s><s p="153">​a</s><s p="154">​k</s><s p="159">​t</s><s p="160">​u</s><s p="4">nya telah tiba​ ​</s><s p="2">​</s></p>
+<p t="174324" d="401" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​W</s><s p="153">​a</s><s p="154">​k</s><s p="159">​t</s><s p="160">​u</s><s p="161">​n</s><s p="162">​y</s><s p="163">​a </s><s p="4">telah tiba​ ​</s><s p="2">​</s></p>
+<p t="174725" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​W</s><s p="153">​a</s><s p="154">​k</s><s p="159">​t</s><s p="160">​u</s><s p="161">​n</s><s p="162">​y</s><s p="163">​a </s><s p="9">​t</s><s p="164">​e</s><s p="4">lah tiba​ ​</s><s p="2">​</s></p>
+<p t="174892" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​W</s><s p="153">​a</s><s p="154">​k</s><s p="159">​t</s><s p="160">​u</s><s p="161">​n</s><s p="162">​y</s><s p="163">​a </s><s p="9">​t</s><s p="164">​e</s><s p="165">​l</s><s p="166">​a</s><s p="167">​h </s><s p="4">tiba​ ​</s><s p="2">​</s></p>
+<p t="175225" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​W</s><s p="153">​a</s><s p="154">​k</s><s p="159">​t</s><s p="160">​u</s><s p="161">​n</s><s p="162">​y</s><s p="163">​a </s><s p="9">​t</s><s p="164">​e</s><s p="165">​l</s><s p="166">​a</s><s p="167">​h </s><s p="168">​t</s><s p="169">​i</s><s p="4">ba​ ​</s><s p="2">​</s></p>
+<p t="175592" d="534" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​W</s><s p="153">​a</s><s p="154">​k</s><s p="159">​t</s><s p="160">​u</s><s p="161">​n</s><s p="162">​y</s><s p="163">​a </s><s p="9">​t</s><s p="164">​e</s><s p="165">​l</s><s p="166">​a</s><s p="167">​h </s><s p="168">​t</s><s p="169">​i</s><s p="170">​b</s><s p="10">a​ ​</s><s p="2">​</s></p>
+<p t="176126" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​T</s><s p="171">​a</s><s p="172">​n</s><s p="4">pa adanya ragu​ ​</s><s p="2">​</s></p>
+<p t="176126" d="3170" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​今</s><s p="67">​は</s><s p="77">​も</s><s p="79">​う</s><s p="81">​た</s><s p="83">​め</s><s p="84">​ら</s><s p="86">​い</s><s p="88">​な</s><s p="90">​ど</s><s p="92">​な</s><s p="10">い​ ​</s><s p="2">​</s></p>
+<p t="176493" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​T</s><s p="171">​a</s><s p="172">​n</s><s p="173">​p</s><s p="174">​a </s><s p="4">adanya ragu​ ​</s><s p="2">​</s></p>
+<p t="176827" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​T</s><s p="171">​a</s><s p="172">​n</s><s p="173">​p</s><s p="174">​a </s><s p="175">​a</s><s p="4">danya ragu​ ​</s><s p="2">​</s></p>
+<p t="177194" d="500" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​T</s><s p="171">​a</s><s p="172">​n</s><s p="173">​p</s><s p="174">​a </s><s p="175">​a</s><s p="176">​d</s><s p="9">​a</s><s p="4">nya ragu​ ​</s><s p="2">​</s></p>
+<p t="177694" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​T</s><s p="171">​a</s><s p="172">​n</s><s p="173">​p</s><s p="174">​a </s><s p="175">​a</s><s p="176">​d</s><s p="9">​a</s><s p="177">​n</s><s p="178">​y</s><s p="179">​a </s><s p="4">ragu​ ​</s><s p="2">​</s></p>
+<p t="178061" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​T</s><s p="171">​a</s><s p="172">​n</s><s p="173">​p</s><s p="174">​a </s><s p="175">​a</s><s p="176">​d</s><s p="9">​a</s><s p="177">​n</s><s p="178">​y</s><s p="179">​a </s><s p="180">​r</s><s p="181">​a</s><s p="4">gu​ ​</s><s p="2">​</s></p>
+<p t="178395" d="901" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​T</s><s p="171">​a</s><s p="172">​n</s><s p="173">​p</s><s p="174">​a </s><s p="175">​a</s><s p="176">​d</s><s p="9">​a</s><s p="177">​n</s><s p="178">​y</s><s p="179">​a </s><s p="180">​r</s><s p="181">​a</s><s p="182">​g</s><s p="10">u​ ​</s><s p="2">​</s></p>
+<p t="179296" d="234" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​De</s><s p="4">ngan semua warna suara​ ​</s><s p="2">​</s></p>
+<p t="179296" d="4605" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​全ての音色で​ ​</s><s p="2">​</s></p>
+<p t="179530" d="233" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Dengan </s><s p="4">semua warna suara​ ​</s><s p="2">​</s></p>
+<p t="179763" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Dengan se</s><s p="4">mua warna suara​ ​</s><s p="2">​</s></p>
+<p t="179963" d="1101" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Dengan semu</s><s p="4">a warna suara​ ​</s><s p="2">​</s></p>
+<p t="181064" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Dengan semua </s><s p="4">warna suara​ ​</s><s p="2">​</s></p>
+<p t="181398" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Dengan semua war</s><s p="4">na suara​ ​</s><s p="2">​</s></p>
+<p t="181732" d="233" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Dengan semua warna </s><s p="4">suara​ ​</s><s p="2">​</s></p>
+<p t="181965" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Dengan semua warna su</s><s p="4">ara​ ​</s><s p="2">​</s></p>
+<p t="182299" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Dengan semua warna sua</s><s p="4">ra​ ​</s><s p="2">​</s></p>
+<p t="182666" d="1235" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Dengan semua warna suara​ ​</s><s p="2">​</s></p>
+<p t="183901" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​Men</s><s p="4">jadi harmoni sebenarnya​ ​</s><s p="2">​</s></p>
+<p t="183901" d="6006" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​本当の</s><s p="7">ハーモニーになる​ ​</s><s p="2">​</s></p>
+<p t="184234" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​Menja</s><s p="4">di harmoni sebenarnya​ ​</s><s p="2">​</s></p>
+<p t="184601" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​Menjadi </s><s p="4">harmoni sebenarnya​ ​</s><s p="2">​</s></p>
+<p t="184968" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​Menjadi har</s><s p="4">moni sebenarnya​ ​</s><s p="2">​</s></p>
+<p t="185135" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​Menjadi harmo</s><s p="4">ni sebenarnya​ ​</s><s p="2">​</s></p>
+<p t="185502" d="634" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​Menjadi harmoni </s><s p="4">sebenarnya​ ​</s><s p="2">​</s></p>
+<p t="186136" d="234" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​Menjadi harmoni </s><s p="3">​se</s><s p="4">benarnya​ ​</s><s p="2">​</s></p>
+<p t="186370" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​Menjadi harmoni </s><s p="3">​sebe</s><s p="4">narnya​ ​</s><s p="2">​</s></p>
+<p t="186537" d="300" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​Menjadi harmoni </s><s p="3">​sebenar</s><s p="4">nya​ ​</s><s p="2">​</s></p>
+<p t="186837" d="3070" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​Menjadi harmoni </s><s p="3">sebenarnya​ ​</s><s p="2">​</s></p>
+<p t="187070" d="668" wp="5" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Hi</s><s p="4">langlah semua​ ​</s><s p="2">​</s></p>
+<p t="187070" d="2837" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​心にある迷いが​ ​</s><s p="2">​</s></p>
+<p t="187738" d="700" wp="5" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Hilang</s><s p="4">lah semua​ ​</s><s p="2">​</s></p>
+<p t="188438" d="367" wp="5" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Hilanglah </s><s p="4">semua​ ​</s><s p="2">​</s></p>
+<p t="188805" d="368" wp="5" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Hilanglah se</s><s p="4">mua​ ​</s><s p="2">​</s></p>
+<p t="189173" d="367" wp="5" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Hilanglah semu</s><s p="4">a​ ​</s><s p="2">​</s></p>
+<p t="189540" d="367" wp="5" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Hilanglah semua​ ​</s><s p="2">​</s></p>
+<p t="189907" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Ra</s><s p="4">sa bimbang di hati​ ​</s><s p="2">​</s></p>
+<p t="189907" d="2802" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​全部消えてゆく​ ​</s><s p="2">​</s></p>
+<p t="190240" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Rasa </s><s p="4">bimbang di hati​ ​</s><s p="2">​</s></p>
+<p t="190607" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Rasa bim</s><s p="4">bang di hati​ ​</s><s p="2">​</s></p>
+<p t="190941" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Rasa bimbang </s><s p="4">di hati​ ​</s><s p="2">​</s></p>
+<p t="191275" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Rasa bimbang di </s><s p="4">hati​ ​</s><s p="2">​</s></p>
+<p t="191608" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Rasa bimbang di ha</s><s p="4">ti​ ​</s><s p="2">​</s></p>
+<p t="191808" d="901" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Rasa bimbang di hati​ ​</s><s p="2">​</s></p>
+<p t="192709" d="701" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​I</s><s p="4">nilah diri yang​ ​</s><s p="2">​</s></p>
+<p t="192709" d="2670" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​これはこれからもずっと​ ​</s><s p="2">​</s></p>
+<p t="193410" d="734" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Ini</s><s p="4">lah diri yang​ ​</s><s p="2">​</s></p>
+<p t="194144" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Inilah </s><s p="4">diri yang​ ​</s><s p="2">​</s></p>
+<p t="194478" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Inilah di</s><s p="4">ri yang​ ​</s><s p="2">​</s></p>
+<p t="194645" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Inilah diri </s><s p="4">yang​ ​</s><s p="2">​</s></p>
+<p t="194978" d="401" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Inilah diri yang​ ​</s><s p="2">​</s></p>
+<p t="195379" d="500" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​ing</s><s p="4">inku selalu tunjukkan​ ​</s><s p="2">​</s></p>
+<p t="195379" d="3703" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​見せたい自分だった​ ​</s><s p="2">​</s></p>
+<p t="195879" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​ingin</s><s p="4">ku selalu tunjukkan​ ​</s><s p="2">​</s></p>
+<p t="196246" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​inginku </s><s p="4">selalu tunjukkan​ ​</s><s p="2">​</s></p>
+<p t="196613" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​inginku se</s><s p="4">lalu tunjukkan​ ​</s><s p="2">​</s></p>
+<p t="196947" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​inginku sela</s><s p="4">lu tunjukkan​ ​</s><s p="2">​</s></p>
+<p t="197314" d="133" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​inginku selalu </s><s p="4">tunjukkan​ ​</s><s p="2">​</s></p>
+<p t="197447" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​inginku selalu tun</s><s p="4">jukkan​ ​</s><s p="2">​</s></p>
+<p t="197814" d="368" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​inginku selalu tunjuk</s><s p="4">kan​ ​</s><s p="2">​</s></p>
+<p t="198182" d="900" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​inginku selalu tunjukkan​ ​</s><s p="2">​</s></p>
+<p t="199082" d="234" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Ber</s><s p="4">bagai suara yang berpadu​ ​</s><s p="2">​</s></p>
+<p t="199082" d="4738" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​それぞれ違う声たちが集まって​ ​</s><s p="2">​</s></p>
+<p t="199316" d="234" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Berba</s><s p="4">gai suara yang berpadu​ ​</s><s p="2">​</s></p>
+<p t="199550" d="233" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Berbagai </s><s p="4">suara yang berpadu​ ​</s><s p="2">​</s></p>
+<p t="199783" d="1068" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Berbagai su</s><s p="4">ara yang berpadu​ ​</s><s p="2">​</s></p>
+<p t="200851" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Berbagai sua</s><s p="4">ra yang berpadu​ ​</s><s p="2">​</s></p>
+<p t="201218" d="300" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Berbagai suara </s><s p="4">yang berpadu​ ​</s><s p="2">​</s></p>
+<p t="201518" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Berbagai suara yang </s><s p="4">berpadu​ ​</s><s p="2">​</s></p>
+<p t="201718" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Berbagai suara yang ber</s><s p="4">padu​ ​</s><s p="2">​</s></p>
+<p t="202085" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Berbagai suara yang berpa</s><s p="4">du​ ​</s><s p="2">​</s></p>
+<p t="202419" d="1401" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Berbagai suara yang berpadu​ ​</s><s p="2">​</s></p>
+<p t="203820" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Da</s><s p="4">lam perbedaan​ ​</s><s p="2">​</s></p>
+<p t="203820" d="2503" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​違いがあっても​ ​</s><s p="2">​</s></p>
+<p t="203987" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Dalam </s><s p="4">perbedaan​ ​</s><s p="2">​</s></p>
+<p t="204354" d="201" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Dalam per</s><s p="4">bedaan​ ​</s><s p="2">​</s></p>
+<p t="204555" d="300" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Dalam perbe</s><s p="4">daan​ ​</s><s p="2">​</s></p>
+<p t="204855" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Dalam perbeda</s><s p="4">an​ ​</s><s p="2">​</s></p>
+<p t="205222" d="1101" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Dalam perbedaan​ ​</s><s p="2">​</s></p>
+<p t="206323" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Tak</s><s p="4">kan pernah tergoyahkan​ ​</s><s p="2">​</s></p>
+<p t="206323" d="2970" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​決して揺るがないから​ ​</s><s p="2">​</s></p>
+<p t="206490" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Takkan </s><s p="4">pernah tergoyahkan​ ​</s><s p="2">​</s></p>
+<p t="206690" d="133" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Takkan per</s><s p="4">nah tergoyahkan​ ​</s><s p="2">​</s></p>
+<p t="206823" d="368" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Takkan pernah </s><s p="4">tergoyahkan​ ​</s><s p="2">​</s></p>
+<p t="207191" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Takkan pernah ter</s><s p="4">goyahkan​ ​</s><s p="2">​</s></p>
+<p t="207391" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Takkan pernah tergo</s><s p="4">yahkan​ ​</s><s p="2">​</s></p>
+<p t="207724" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Takkan pernah tergoyah</s><s p="4">kan​ ​</s><s p="2">​</s></p>
+<p t="208091" d="1202" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Takkan pernah tergoyahkan​ ​</s><s p="2">​</s></p>
+<p t="209293" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Dan </s><s p="4">menjadi satu id:entity​ ​</s><s p="2">​</s></p>
+<p t="209293" d="6006" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​そしてひとつになる id:entity​ ​</s><s p="2">​</s></p>
+<p t="209660" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Dan men</s><s p="4">jadi satu id:entity​ ​</s><s p="2">​</s></p>
+<p t="210027" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Dan menja</s><s p="4">di satu id:entity​ ​</s><s p="2">​</s></p>
+<p t="210360" d="201" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Dan menjadi </s><s p="4">satu id:entity​ ​</s><s p="2">​</s></p>
+<p t="210561" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Dan menjadi sa</s><s p="4">tu id:entity​ ​</s><s p="2">​</s></p>
+<p t="210894" d="668" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Dan menjadi satu </s><s p="4">id:entity​ ​</s><s p="2">​</s></p>
+<p t="211562" d="233" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Dan menjadi satu id:</s><s p="4">entity​ ​</s><s p="2">​</s></p>
+<p t="211795" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Dan menjadi satu id:en</s><s p="4">tity​ ​</s><s p="2">​</s></p>
+<p t="212129" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Dan menjadi satu id:enti</s><s p="4">ty​ ​</s><s p="2">​</s></p>
+<p t="212329" d="2970" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Dan menjadi satu id:entity​ ​</s><s p="2">​</s></p>
+<p t="215299" d="2836" wp="6" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​イラスト: SAKON​ ​</s><s p="2">​</s></p>
+<p t="215299" d="2836" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​動画: Rou Fleur​ ​</s><s p="2">​</s></p>
+<p t="218135" d="2769" wp="6" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​ギター: Raditya Mahendra​ ​</s><s p="2">​</s></p>
+<p t="220904" d="2870" wp="6" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​ベース: Aubrey Situmorang​ ​</s><s p="2">​</s></p>
+<p t="223774" d="500" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​O</s><s p="4">hayo! Konbanwa!​ ​</s><s p="2">​</s></p>
+<p t="223774" d="2803" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​おはよう! こんばんは!​ ​</s><s p="2">​</s></p>
+<p t="224274" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Oha</s><s p="4">yo! Konbanwa!​ ​</s><s p="2">​</s></p>
+<p t="224441" d="567" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Ohayo! </s><s p="4">Konbanwa!​ ​</s><s p="2">​</s></p>
+<p t="225008" d="234" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Ohayo! Ko</s><s p="4">nbanwa!​ ​</s><s p="2">​</s></p>
+<p t="225242" d="100" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Ohayo! Kon</s><s p="4">banwa!​ ​</s><s p="2">​</s></p>
+<p t="225342" d="234" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Ohayo! Konba</s><s p="4">nwa!​ ​</s><s p="2">​</s></p>
+<p t="225576" d="133" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Ohayo! Konban</s><s p="4">wa!​ ​</s><s p="2">​</s></p>
+<p t="225709" d="868" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Ohayo! Konbanwa!​ ​</s><s p="2">​</s></p>
+<p t="226577" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​O</s><s p="4">tsukaresama deshita!​ ​</s><s p="2">​</s></p>
+<p t="226577" d="2836" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​お疲れ様でした!​ ​</s><s p="2">​</s></p>
+<p t="226944" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Otsu</s><s p="4">karesama deshita!​ ​</s><s p="2">​</s></p>
+<p t="227277" d="234" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Otsuka</s><s p="4">resama deshita!​ ​</s><s p="2">​</s></p>
+<p t="227511" d="133" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Otsukare</s><s p="4">sama deshita!​ ​</s><s p="2">​</s></p>
+<p t="227644" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Otsukaresa</s><s p="4">ma deshita!​ ​</s><s p="2">​</s></p>
+<p t="227844" d="368" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Otsukaresama </s><s p="4">deshita!​ ​</s><s p="2">​</s></p>
+<p t="228212" d="133" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Otsukaresama de</s><s p="4">shita!​ ​</s><s p="2">​</s></p>
+<p t="228345" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Otsukaresama deshi</s><s p="4">ta!​ ​</s><s p="2">​</s></p>
+<p t="228712" d="701" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Otsukaresama deshita!​ ​</s><s p="2">​</s></p>
+<p t="229413" d="500" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​O</s><s p="4">hayo! Konbanwa!​ ​</s><s p="2">​</s></p>
+<p t="229413" d="3170" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​おはよう! こんばんは!​ ​</s><s p="2">​</s></p>
+<p t="229913" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Oha</s><s p="4">yo! Konbanwa!​ ​</s><s p="2">​</s></p>
+<p t="230080" d="567" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Ohayo! </s><s p="4">Konbanwa!​ ​</s><s p="2">​</s></p>
+<p t="230647" d="234" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Ohayo! Ko</s><s p="4">nbanwa!​ ​</s><s p="2">​</s></p>
+<p t="230881" d="100" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Ohayo! Kon</s><s p="4">banwa!​ ​</s><s p="2">​</s></p>
+<p t="230981" d="234" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Ohayo! Konba</s><s p="4">nwa!​ ​</s><s p="2">​</s></p>
+<p t="231215" d="133" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Ohayo! Konban</s><s p="4">wa!​ ​</s><s p="2">​</s></p>
+<p t="231348" d="1235" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Ohayo! Konbanwa!​ ​</s><s p="2">​</s></p>
+<p t="232583" d="166" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Ki</s><s p="4">ta kan jumpa lagi​ ​</s><s p="2">​</s></p>
+<p t="232583" d="5472" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​また次に会おう​ ​</s><s p="2">​</s></p>
+<p t="232749" d="201" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Kita </s><s p="4">kan jumpa lagi​ ​</s><s p="2">​</s></p>
+<p t="232950" d="300" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Kita kan </s><s p="4">jumpa lagi​ ​</s><s p="2">​</s></p>
+<p t="233250" d="400" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Kita kan jum</s><s p="4">pa lagi​ ​</s><s p="2">​</s></p>
+<p t="233650" d="501" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Kita kan jumpa </s><s p="4">lagi​ ​</s><s p="2">​</s></p>
+<p t="234151" d="567" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Kita kan jumpa la</s><s p="4">gi​ ​</s><s p="2">​</s></p>
+<p t="234718" d="3337" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Kita kan jumpa lagi​ ​</s><s p="2">​</s></p>
+</body>
+</timedtext>
