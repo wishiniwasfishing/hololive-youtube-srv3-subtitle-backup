@@ -7,7 +7,7 @@ Since yt seem to purge their proprietary srv3 format and nuking all user provide
 
 ## **Repository**
 
-**Directory naming scheme:** Channel name - Alias
+**Directory naming scheme:** Alias - Channel name
 
 **Directory hierarchy**
 
