@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="utf-8" ?><timedtext format="3">
+<head>
+<pen id="1" fc="#FEFEFE" fo="0" bo="0" sz="100"/>
+<pen id="2" fc="#FEFEFE" fo="254" bo="0" ec="#000000" sz="100" et="4"/>
+<pen id="3" fc="#FEFEFE" fo="254" bc="#000000" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="4" fc="#F04E87" fo="254" bo="0" ec="#000000" sz="100" et="4"/>
+<pen id="5" fc="#F04E87" fo="254" bc="#000000" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="6" fc="#F495E1" fo="254" bo="0" ec="#000000" sz="100" et="4"/>
+<pen id="7" fc="#F495E1" fo="254" bc="#000000" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="8" fc="#FAD850" fo="254" bo="0" ec="#000000" sz="100" et="4"/>
+<pen id="9" fc="#F897E7" fo="254" bo="0" ec="#000000" sz="100" et="4"/>
+<pen id="10" fc="#FAD850" fo="254" bc="#000000" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="11" fc="#F897E7" fo="254" bc="#000000" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="12" i="1" fc="#FEFEFE" fo="254" bo="0" ec="#000000" sz="100" et="4"/>
+<pen id="13" i="1" fc="#FEFEFE" fo="254" bc="#000000" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="14" fc="#5EDDEE" fo="254" bo="0" ec="#000000" sz="100" et="4"/>
+<pen id="15" fc="#5EDDEE" fo="254" bc="#000000" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="16" fc="#D4D6DE" fo="254" bo="0" ec="#000000" sz="100" et="4"/>
+<pen id="17" fc="#D4D6DE" fo="254" bc="#000000" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="18" fc="#F795D5" fo="254" bo="0" ec="#000000" sz="100" et="4"/>
+<pen id="19" fc="#F795D5" fo="254" bc="#000000" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="20" fc="#F37157" fo="254" bo="0" ec="#000000" sz="100" et="4"/>
+<pen id="21" fc="#F37157" fo="254" bc="#000000" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="22" fc="#B6E9FE" fo="254" bo="0" ec="#000000" sz="100" et="4"/>
+<pen id="23" fc="#B6E9FE" fo="254" bc="#000000" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="24" fc="#ED2866" fo="254" bo="0" ec="#000000" sz="100" et="4"/>
+<pen id="25" fc="#ED2866" fo="254" bc="#000000" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="26" fc="#F49208" fo="254" bo="0" ec="#000000" sz="100" et="4"/>
+<pen id="27" fc="#F49208" fo="254" bc="#000000" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="28" fc="#F9C73B" fo="254" bo="0" ec="#000000" sz="100" et="4"/>
+<pen id="29" fc="#F9C73B" fo="254" bc="#000000" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="30" fc="#5844C8" fo="254" bo="0" ec="#000000" sz="100" et="4"/>
+<pen id="31" fc="#5844C8" fo="254" bc="#000000" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="32" fc="#DE64F9" fo="254" bo="0" ec="#000000" sz="100" et="4"/>
+<pen id="33" fc="#DE64F9" fo="254" bc="#000000" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="34" fc="#EC414F" fo="254" bo="0" ec="#000000" sz="100" et="4"/>
+<pen id="35" fc="#EC414F" fo="254" bc="#000000" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="36" fc="#F599E2" fo="254" bo="0" ec="#000000" sz="100" et="4"/>
+<pen id="37" fc="#F599E2" fo="254" bc="#000000" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="38" fc="#CA80F5" fo="254" bo="0" ec="#000000" sz="100" et="4"/>
+<pen id="39" fc="#CA80F5" fo="254" bc="#000000" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="40" fc="#DDDDDC" fo="254" bo="0" ec="#000000" sz="100" et="4"/>
+<pen id="41" fc="#DDDDDC" fo="254" bc="#000000" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="42" fc="#F15857" fo="254" bo="0" ec="#000000" sz="100" et="4"/>
+<pen id="43" fc="#F15857" fo="254" bc="#000000" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="44" fc="#FEFEFE" fo="254" bc="#000000" bo="0" ec="#EA575C" sz="100" et="3"/>
+<pen id="45" fc="#1FF0B0" fo="254" bo="0" ec="#000000" sz="100" et="4"/>
+<pen id="46" fc="#1FF0B0" fo="254" bc="#000000" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="47" fc="#23FD19" fo="254" bo="0" ec="#000000" sz="100" et="4"/>
+<pen id="48" fc="#23FD19" fo="254" bc="#000000" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="49" fc="#FBE799" fo="254" bo="0" ec="#000000" sz="100" et="4"/>
+<pen id="50" fc="#FBE799" fo="254" bc="#000000" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="51" fc="#C7EFFD" fo="254" bo="0" ec="#000000" sz="100" et="4"/>
+<pen id="52" fc="#C7EFFD" fo="254" bc="#000000" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="53" fc="#8CD9F8" fo="254" bo="0" ec="#000000" sz="100" et="4"/>
+<pen id="54" fc="#8CD9F8" fo="254" bc="#000000" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="55" fc="#FCD340" fo="254" bo="0" ec="#000000" sz="100" et="4"/>
+<pen id="56" fc="#FCD340" fo="254" bc="#000000" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="57" fc="#8BD5F4" fo="254" bo="0" ec="#000000" sz="100" et="4"/>
+<pen id="58" fc="#8BD5F4" fo="254" bc="#000000" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="59" fc="#B0BEEB" fo="254" bo="0" ec="#000000" sz="100" et="4"/>
+<pen id="60" fc="#B0BEEB" fo="254" bc="#000000" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="61" fc="#EF6234" fo="254" bo="0" ec="#000000" sz="100" et="4"/>
+<pen id="62" fc="#EF6234" fo="254" bc="#000000" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="63" fc="#DB3F46" fo="254" bo="0" ec="#000000" sz="100" et="4"/>
+<pen id="64" fc="#DB3F46" fo="254" bc="#000000" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="65" i="1" fc="#DB3F46" fo="254" bo="0" ec="#000000" sz="100" et="4"/>
+<pen id="66" i="1" fc="#DB3F46" fo="254" bc="#000000" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="67" fc="#F6C91D" fo="254" bo="0" ec="#000000" sz="100" et="4"/>
+<pen id="68" fc="#F6C91D" fo="254" bc="#000000" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="69" fc="#F579DE" fo="254" bo="0" ec="#000000" sz="100" et="4"/>
+<pen id="70" fc="#F579DE" fo="254" bc="#000000" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="71" fc="#E90002" fo="254" bo="0" ec="#000000" sz="100" et="4"/>
+<pen id="72" fc="#E90002" fo="254" bc="#000000" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="73" i="1" fc="#000000" fo="1" bo="0" sz="100"/>
+<pen id="74" i="1" fc="#FEFEFE" fo="0" bc="#000000" bo="0" sz="100"/>
+<ws id="0"/>
+<ws id="2" ju="0" pd="0" sd="0"/>
+<ws id="3" ju="1" pd="0" sd="0"/>
+<ws id="1" ju="2" pd="0" sd="0"/>
+<wp id="0"/>
+<wp id="25" ap="6" ah="1" av="57"/>
+<wp id="6" ap="6" ah="1" av="7"/>
+<wp id="36" ap="6" ah="12" av="100"/>
+<wp id="23" ap="6" ah="15" av="100"/>
+<wp id="32" ap="6" ah="17" av="100"/>
+<wp id="27" ap="6" ah="19" av="100"/>
+<wp id="13" ap="6" ah="20" av="100"/>
+<wp id="42" ap="6" ah="22" av="100"/>
+<wp id="34" ap="6" ah="23" av="29"/>
+<wp id="16" ap="6" ah="24" av="100"/>
+<wp id="39" ap="6" ah="25" av="100"/>
+<wp id="19" ap="6" ah="26" av="55"/>
+<wp id="37" ap="6" ah="29" av="100"/>
+<wp id="7" ap="6" ah="32" av="100"/>
+<wp id="43" ap="6" ah="34" av="100"/>
+<wp id="41" ap="6" ah="40" av="26"/>
+<wp id="17" ap="6" ah="40" av="53"/>
+<wp id="11" ap="6" ah="41" av="100"/>
+<wp id="18" ap="6" ah="44" av="100"/>
+<wp id="12" ap="6" ah="47" av="49"/>
+<wp id="20" ap="6" ah="5" av="49"/>
+<wp id="31" ap="6" ah="50" av="52"/>
+<wp id="24" ap="6" ah="56" av="53"/>
+<wp id="26" ap="6" ah="56" av="59"/>
+<wp id="35" ap="6" ah="56" av="67"/>
+<wp id="38" ap="6" ah="6" av="100"/>
+<wp id="40" ap="6" ah="6" av="58"/>
+<wp id="1" ap="7" ah="0" av="0"/>
+<wp id="2" ap="7" ah="100" av="0"/>
+<wp id="15" ap="7" ah="12" av="53"/>
+<wp id="14" ap="7" ah="12" av="58"/>
+<wp id="47" ap="7" ah="16" av="64"/>
+<wp id="8" ap="7" ah="20" av="19"/>
+<wp id="44" ap="7" ah="24" av="35"/>
+<wp id="48" ap="7" ah="44" av="39"/>
+<wp id="9" ap="7" ah="46" av="24"/>
+<wp id="4" ap="7" ah="50" av="100"/>
+<wp id="3" ap="7" ah="50" av="13"/>
+<wp id="28" ap="7" ah="50" av="40"/>
+<wp id="29" ap="7" ah="50" av="78"/>
+<wp id="49" ap="7" ah="51" av="58"/>
+<wp id="22" ap="7" ah="59" av="42"/>
+<wp id="33" ap="7" ah="63" av="62"/>
+<wp id="5" ap="7" ah="67" av="79"/>
+<wp id="30" ap="7" ah="68" av="87"/>
+<wp id="21" ap="7" ah="69" av="27"/>
+<wp id="46" ap="7" ah="69" av="51"/>
+<wp id="45" ap="7" ah="75" av="18"/>
+<wp id="10" ap="7" ah="76" av="21"/>
+<wp id="50" ap="8" ah="0" av="0"/>
+</head>
+<body>
+<p t="70" d="374680" wp="2" ws="1" p="2">.</p>
+<p t="70" d="374680" wp="2" ws="1" p="3">.</p>
+<p t="70" d="3000" wp="3" ws="1" p="2">Vietsub bởi Tớ Mang Clip Hololive Về Dịch</p>
+<p t="70" d="3000" wp="3" ws="1" p="3">Vietsub bởi Tớ Mang Clip Hololive Về Dịch</p>
+<p t="70" d="610" wp="4" ws="1" p="2">Subatani Subao, FuBuKi, Kijin Hyakki, Kurokami Omi</p>
+<p t="70" d="610" wp="4" ws="1" p="3">Subatani Subao, FuBuKi, Kijin Hyakki, Kurokami Omi</p>
+<p t="680" d="1900" wp="4" ws="1" p="4">Chuẩn rồi</p>
+<p t="680" d="1900" wp="4" ws="1" p="5">Chuẩn rồi</p>
+<p t="3350" d="1400" wp="5" ws="1" p="6">lolol</p>
+<p t="3350" d="1400" wp="5" ws="1" p="7">lolol</p>
+<p t="4750" d="320" wp="4" ws="1"><s p="8">Tụi này sẽ gọi một tháp ly Dom Perignon ​</s><s>​</s><s p="9">(Sa lưới)</s></p>
+<p t="4750" d="320" wp="4" ws="1"><s p="10">Tụi này sẽ gọi một tháp ly Dom Perignon ​</s><s>​</s><s p="11">(Sa lưới)</s></p>
+<p t="5070" d="100" wp="4" ws="1"><s p="12">​</s><s>​</s><s p="8">​
+Tụi này sẽ gọi một tháp ly Dom Perignon ​</s><s p="9">(Sa lưới)</s></p>
+<p t="5070" d="100" wp="4" ws="1"><s p="13">​</s><s>​</s><s p="10">​
+Tụi này sẽ gọi một tháp ly Dom Perignon ​</s><s p="11">(Sa lưới)</s></p>
+<p t="5170" d="2080" wp="4" ws="1"><s p="8">Tụi này sẽ gọi một tháp ly Dom Perignon ​</s><s>​</s><s p="9">(Sa lưới)</s></p>
+<p t="5170" d="2080" wp="4" ws="1"><s p="10">Tụi này sẽ gọi một tháp ly Dom Perignon ​</s><s>​</s><s p="11">(Sa lưới)</s></p>
+<p t="7250" d="3040" wp="4" ws="1" p="14">Log 006: Hãy mê mẩn trước giọng nói này đi nào</p>
+<p t="7250" d="3040" wp="4" ws="1" p="15">Log 006: Hãy mê mẩn trước giọng nói này đi nào</p>
+<p t="10290" d="870" wp="4" ws="1"><s p="16">Thế giới này chỉ có ​</s><s>​</s><s p="2">hai loại đàn ông:</s></p>
+<p t="10290" d="870" wp="4" ws="1"><s p="17">Thế giới này chỉ có ​</s><s>​</s><s p="3">hai loại đàn ông:</s></p>
+<p t="10720" d="62160" wp="6" ws="2" p="14">Hãy mê mẩn trước giọng nói này đi nào</p>
+<p t="10720" d="62160" wp="6" ws="2" p="15">Hãy mê mẩn trước giọng nói này đi nào</p>
+<p t="11160" d="1770" wp="4" ws="1" p="16">Thế giới này chỉ có hai loại đàn ông:</p>
+<p t="11160" d="1770" wp="4" ws="1" p="17">Thế giới này chỉ có hai loại đàn ông:</p>
+<p t="12930" d="1600" wp="7" ws="2" p="16">Là tôi </p>
+<p t="12930" d="1600" wp="7" ws="2" p="17">Là tôi </p>
+<p t="14530" d="2790" wp="7" ws="2" p="16">Là tôi, và không phải tôi</p>
+<p t="14530" d="2790" wp="7" ws="2" p="17">Là tôi, và không phải tôi</p>
+<p t="17320" d="2100" wp="4" ws="1" p="16">Trông hai cô có vẻ mệt rồi,</p>
+<p t="17320" d="2100" wp="4" ws="1" p="17">Trông hai cô có vẻ mệt rồi,</p>
+<p t="17420" d="2000" wp="8" ws="1" p="18">Sakura Miko</p>
+<p t="17420" d="2000" wp="8" ws="1" p="19">Sakura Miko</p>
+<p t="17420" d="2000" wp="9" ws="1" p="8">Hololive Gamers: 
+Inugami Korone</p>
+<p t="17420" d="2000" wp="9" ws="1" p="10">Hololive Gamers: 
+Inugami Korone</p>
+<p t="17420" d="2000" wp="10" ws="1" p="16">Hololive đời thứ 3: 
+Shirogane Noel</p>
+<p t="17420" d="2000" wp="10" ws="1" p="17">Hololive đời thứ 3: 
+Shirogane Noel</p>
+<p t="19420" d="1520" wp="4" ws="1" p="16">Nên tôi nghĩ là mình nên ngoáy tai cho hai người</p>
+<p t="19420" d="1520" wp="4" ws="1" p="17">Nên tôi nghĩ là mình nên ngoáy tai cho hai người</p>
+<p t="20940" d="780" wp="4" ws="1" p="18">Cái gì cơ!?</p>
+<p t="20940" d="780" wp="4" ws="1" p="19">Cái gì cơ!?</p>
+<p t="21720" d="860" wp="4" ws="1" p="18">Ngoáy tai?!</p>
+<p t="21720" d="860" wp="4" ws="1" p="19">Ngoáy tai?!</p>
+<p t="22580" d="1640" wp="4" ws="1" p="16">Nhẹ tay nào...</p>
+<p t="22580" d="1640" wp="4" ws="1" p="17">Nhẹ tay nào...</p>
+<p t="24220" d="790" wp="4" ws="1" p="18">Aaa!</p>
+<p t="24220" d="790" wp="4" ws="1" p="19">Aaa!</p>
+<p t="25010" d="430" wp="11" ws="2" p="18">Đ-​</p>
+<p t="25010" d="430" wp="11" ws="2" p="19">Đ-​</p>
+<p t="25440" d="1110" wp="11" ws="2" p="18">Đã thiệt đó!</p>
+<p t="25440" d="1110" wp="11" ws="2" p="19">Đã thiệt đó!</p>
+<p t="26550" d="2200" wp="4" ws="1" p="18">Đã quá trời luôn!</p>
+<p t="26550" d="2200" wp="4" ws="1" p="19">Đã quá trời luôn!</p>
+<p t="28750" d="3270" wp="4" ws="1" p="16">Khi ở bên Kurogane này,</p>
+<p t="28750" d="3270" wp="4" ws="1" p="17">Khi ở bên Kurogane này,</p>
+<p t="32020" d="1820" wp="4" ws="1" p="16">Thì tôi muốn các cô hãy là chính mình</p>
+<p t="32020" d="1820" wp="4" ws="1" p="17">Thì tôi muốn các cô hãy là chính mình</p>
+<p t="33840" d="1800" wp="4" ws="1" p="18">T-Tốt... Thiệt đó</p>
+<p t="33840" d="1800" wp="4" ws="1" p="19">T-Tốt... Thiệt đó</p>
+<p t="35880" d="2940" wp="4" ws="1"><s p="8">Tụi này sẽ gọi một tháp Ly Dom Perignon ​</s><s>​</s><s p="9">(Thua sạch)</s></p>
+<p t="35880" d="2940" wp="4" ws="1"><s p="10">Tụi này sẽ gọi một tháp Ly Dom Perignon ​</s><s>​</s><s p="11">(Thua sạch)</s></p>
+<p t="38820" d="2030" wp="4" ws="1" p="18">Tay của cậu ta đẹp thật nhỉ</p>
+<p t="38820" d="2030" wp="4" ws="1" p="19">Tay của cậu ta đẹp thật nhỉ</p>
+<p t="40850" d="2200" wp="4" ws="1" p="8">Tui cũng thích tay cậu ấy lắm</p>
+<p t="40850" d="2200" wp="4" ws="1" p="10">Tui cũng thích tay cậu ấy lắm</p>
+<p t="43050" d="1530" wp="4" ws="1" p="8">Mình gọi cho anh tay đẹp đi</p>
+<p t="43050" d="1530" wp="4" ws="1" p="10">Mình gọi cho anh tay đẹp đi</p>
+<p t="44580" d="1240" wp="4" ws="1" p="18">Ừ, anh tay đẹp</p>
+<p t="44580" d="1240" wp="4" ws="1" p="19">Ừ, anh tay đẹp</p>
+<p t="45820" d="1860" wp="4" ws="1" p="20">Tôi là Homura, người được chọn nhờ bàn tay của mình</p>
+<p t="45820" d="1860" wp="4" ws="1" p="21">Tôi là Homura, người được chọn nhờ bàn tay của mình</p>
+<p t="45920" d="3610" wp="12" ws="2" p="20">Hololive đời thứ 3: 
+Shiranui Flare</p>
+<p t="45920" d="3610" wp="12" ws="2" p="21">Hololive đời thứ 3: 
+Shiranui Flare</p>
+<p t="47680" d="2140" wp="4" ws="1" p="20">Hân hạnh được gặp hai người</p>
+<p t="47680" d="2140" wp="4" ws="1" p="21">Hân hạnh được gặp hai người</p>
+<p t="49820" d="1460" wp="4" ws="1" p="20">Cách các cô chọn người thú vị thật nhỉ</p>
+<p t="49820" d="1460" wp="4" ws="1" p="21">Cách các cô chọn người thú vị thật nhỉ</p>
+<p t="51480" d="1840" wp="4" ws="1" p="20">Các cô có thấy khát không?</p>
+<p t="51480" d="1840" wp="4" ws="1" p="21">Các cô có thấy khát không?</p>
+<p t="53320" d="2620" wp="4" ws="1" p="18">Anh muốn uống cái gì??</p>
+<p t="53320" d="2620" wp="4" ws="1" p="19">Anh muốn uống cái gì??</p>
+<p t="55940" d="930" wp="13" ws="2" p="20">Tôi thì ​</p>
+<p t="55940" d="930" wp="13" ws="2" p="21">Tôi thì ​</p>
+<p t="56870" d="2150" wp="13" ws="2" p="20">Tôi thì cứ cái gì mấy cô thích là được</p>
+<p t="56870" d="2150" wp="13" ws="2" p="21">Tôi thì cứ cái gì mấy cô thích là được</p>
+<p t="59020" d="2990" wp="4" ws="1" p="18">Tự nhiên mình thấy ảnh soái ca vãi...</p>
+<p t="59020" d="2990" wp="4" ws="1" p="19">Tự nhiên mình thấy ảnh soái ca vãi...</p>
+<p t="62010" d="1170" wp="4" ws="1" p="18">Có thật là anh không bận tâm 
+​​</p>
+<p t="62010" d="1170" wp="4" ws="1" p="19">Có thật là anh không bận tâm 
+​​</p>
+<p t="63180" d="1400" wp="4" ws="1" p="18">Có thật là anh không bận tâm 
+nếu tụi này chỉ gọi rượu xoàng thôi không?</p>
+<p t="63180" d="1400" wp="4" ws="1" p="19">Có thật là anh không bận tâm 
+nếu tụi này chỉ gọi rượu xoàng thôi không?</p>
+<p t="64580" d="1170" wp="4" ws="1" p="20">Tất nhiên rồi</p>
+<p t="64580" d="1170" wp="4" ws="1" p="21">Tất nhiên rồi</p>
+<p t="65750" d="1670" wp="4" ws="1" p="20">Các cô muốn chọn gì cũng được</p>
+<p t="65750" d="1670" wp="4" ws="1" p="21">Các cô muốn chọn gì cũng được</p>
+<p t="67420" d="2130" wp="4" ws="1" p="18">Biết điều thật! Ảnh biết điều thật đó!</p>
+<p t="67420" d="2130" wp="4" ws="1" p="19">Biết điều thật! Ảnh biết điều thật đó!</p>
+<p t="69550" d="1930" wp="4" ws="1" p="8">Đừng có gọi người ta là &quot;biết điều&quot; chứ!</p>
+<p t="69550" d="1930" wp="4" ws="1" p="10">Đừng có gọi người ta là &quot;biết điều&quot; chứ!</p>
+<p t="71480" d="1470" wp="4" ws="1" p="20">Hai cô đúng là thú vị thật</p>
+<p t="71480" d="1470" wp="4" ws="1" p="21">Hai cô đúng là thú vị thật</p>
+<p t="73350" d="1130" wp="4" ws="1" p="14">Hololog!</p>
+<p t="73350" d="1130" wp="4" ws="1" p="15">Hololog!</p>
+<p t="74550" d="1900" wp="4" ws="1" p="22">Tôi VTuber nam</p>
+<p t="74550" d="1900" wp="4" ws="1" p="23">Tôi VTuber nam</p>
+<p t="74650" d="55060" wp="6" ws="2" p="14">Hãy mê mẩn trước giọng nói này đi nào</p>
+<p t="74650" d="55060" wp="6" ws="2" p="15">Hãy mê mẩn trước giọng nói này đi nào</p>
+<p t="76450" d="1500" wp="4" ws="1" p="22">Tokino Sora.</p>
+<p t="76450" d="1500" wp="4" ws="1" p="23">Tokino Sora.</p>
+<p t="77950" d="900" wp="4" ws="1" p="22">Này...</p>
+<p t="77950" d="900" wp="4" ws="1" p="23">Này...</p>
+<p t="78850" d="2000" wp="4" ws="1" p="22">Có gì vướng lên tóc của đằng ấy này!</p>
+<p t="78850" d="2000" wp="4" ws="1" p="23">Có gì vướng lên tóc của đằng ấy này!</p>
+<p t="78920" d="2000" wp="14" ws="1" p="24">Oa...</p>
+<p t="78920" d="2000" wp="14" ws="1" p="25">Oa...</p>
+<p t="80850" d="3120" wp="4" ws="1" p="22">Đôi tai đó là hàng thật đấy à?</p>
+<p t="80850" d="3120" wp="4" ws="1" p="23">Đôi tai đó là hàng thật đấy à?</p>
+<p t="83970" d="1810" wp="4" ws="1" p="22">Dễ thương thật nhỉ!</p>
+<p t="83970" d="1810" wp="4" ws="1" p="23">Dễ thương thật nhỉ!</p>
+<p t="85780" d="2470" wp="15" ws="1" p="24">Đừng sợ, 
+lại đây nào, 
+cáo con</p>
+<p t="85780" d="2470" wp="15" ws="1" p="25">Đừng sợ, 
+lại đây nào, 
+cáo con</p>
+<p t="86430" d="1710" wp="4" ws="1" p="22">Yêu lắm cơ</p>
+<p t="86430" d="1710" wp="4" ws="1" p="23">Yêu lắm cơ</p>
+<p t="88140" d="2100" wp="16" ws="2" p="26">Xin chào,</p>
+<p t="88140" d="2100" wp="16" ws="2" p="27">Xin chào,</p>
+<p t="88250" d="3630" wp="17" ws="2" p="26">Hololive đời đầu: 
+Natsuiro Matsuri</p>
+<p t="88250" d="3630" wp="17" ws="2" p="27">Hololive đời đầu: 
+Natsuiro Matsuri</p>
+<p t="90240" d="1980" wp="16" ws="2" p="26">Xin chào, tôi là Natsuiro Matsuhiko</p>
+<p t="90240" d="1980" wp="16" ws="2" p="27">Xin chào, tôi là Natsuiro Matsuhiko</p>
+<p t="92220" d="4160" wp="4" ws="1" p="26">Trong này lắm câu hỏi nhạy cảm thế...</p>
+<p t="92220" d="4160" wp="4" ws="1" p="27">Trong này lắm câu hỏi nhạy cảm thế...</p>
+<p t="96380" d="1200" wp="4" ws="1" p="26">Cái gì thế không biết?</p>
+<p t="96380" d="1200" wp="4" ws="1" p="27">Cái gì thế không biết?</p>
+<p t="99020" d="2030" wp="4" ws="1" p="26">Tại đằng ấy hết đấy, Matsuri?</p>
+<p t="99020" d="2030" wp="4" ws="1" p="27">Tại đằng ấy hết đấy, Matsuri?</p>
+<p t="101180" d="1600" wp="4" ws="1" p="26">Cái này làm tôi tự hỏi...
+​​</p>
+<p t="101180" d="1600" wp="4" ws="1" p="27">Cái này làm tôi tự hỏi...
+​​</p>
+<p t="102780" d="2600" wp="4" ws="1" p="26">Cái này làm tôi tự hỏi...
+Bình thường cậu stream cái gì thế</p>
+<p t="102780" d="2600" wp="4" ws="1" p="27">Cái này làm tôi tự hỏi...
+Bình thường cậu stream cái gì thế</p>
+<p t="105950" d="940" wp="18" ws="2" p="26">Hả? ​</p>
+<p t="105950" d="940" wp="18" ws="2" p="27">Hả? ​</p>
+<p t="106890" d="2360" wp="18" ws="2" p="26">Hả?? Thì...</p>
+<p t="106890" d="2360" wp="18" ws="2" p="27">Hả?? Thì...</p>
+<p t="109250" d="2200" wp="4" ws="1" p="26">Ừm...?</p>
+<p t="109250" d="2200" wp="4" ws="1" p="27">Ừm...?</p>
+<p t="111450" d="770" wp="4" ws="1" p="28">Này nhé...</p>
+<p t="111450" d="770" wp="4" ws="1" p="29">Này nhé...</p>
+<p t="111550" d="3600" wp="19" ws="2" p="28">Hololive đời đầu: Yozora Mel</p>
+<p t="111550" d="3600" wp="19" ws="2" p="29">Hololive đời đầu: Yozora Mel</p>
+<p t="112220" d="4400" wp="4" ws="1" p="28">Mấy nhỏ thẳng thắn trong chuyện tình cảm ai cũng đều dễ thương lắm phải không nào??</p>
+<p t="112220" d="4400" wp="4" ws="1" p="29">Mấy nhỏ thẳng thắn trong chuyện tình cảm ai cũng đều dễ thương lắm phải không nào??</p>
+<p t="116620" d="4600" wp="4" ws="1" p="28">Chẳng phải là mình sẽ &quot;Thật không thể tin là cậu lại tỏ tình với một người như tôi đấy!&quot; cả sao?</p>
+<p t="116620" d="4600" wp="4" ws="1" p="29">Chẳng phải là mình sẽ &quot;Thật không thể tin là cậu lại tỏ tình với một người như tôi đấy!&quot; cả sao?</p>
+<p t="121220" d="2790" wp="4" ws="1" p="30">Bồ nói lại câu đó bằng giọng soái ca có được không?</p>
+<p t="121220" d="2790" wp="4" ws="1" p="31">Bồ nói lại câu đó bằng giọng soái ca có được không?</p>
+<p t="124010" d="1560" wp="4" ws="1" p="28">Thật không thể tin là cậu lại tỏ tình 
+​​</p>
+<p t="124010" d="1560" wp="4" ws="1" p="29">Thật không thể tin là cậu lại tỏ tình 
+​​</p>
+<p t="125570" d="2080" wp="4" ws="1" p="28">Thật không thể tin là cậu lại tỏ tình 
+với một người như tôi đấy, đáng yêu ghê.</p>
+<p t="125570" d="2080" wp="4" ws="1" p="29">Thật không thể tin là cậu lại tỏ tình 
+với một người như tôi đấy, đáng yêu ghê.</p>
+<p t="127650" d="2000" wp="4" ws="1" p="30">Cảm ơn bồ rất nhiều!</p>
+<p t="127650" d="2000" wp="4" ws="1" p="31">Cảm ơn bồ rất nhiều!</p>
+<p t="130010" d="1140" wp="4" ws="1" p="14">Hololog!</p>
+<p t="130010" d="1140" wp="4" ws="1" p="15">Hololog!</p>
+<p t="131320" d="1390" wp="20" ws="2" p="32">Hololive đời thứ tư:
+ Tokoyami Towa</p>
+<p t="131320" d="1390" wp="20" ws="2" p="33">Hololive đời thứ tư:
+ Tokoyami Towa</p>
+<p t="131320" d="1390" wp="21" ws="1" p="34">Roboco San</p>
+<p t="131320" d="1390" wp="21" ws="1" p="35">Roboco San</p>
+<p t="131450" d="116730" wp="6" ws="2" p="14">Hãy mê mẩn trước giọng nói này đi nào</p>
+<p t="131450" d="116730" wp="6" ws="2" p="15">Hãy mê mẩn trước giọng nói này đi nào</p>
+<p t="131450" d="1670" wp="4" ws="1" p="32">Chà, giọng em trầm thật (Mới ngủ dậy)</p>
+<p t="131450" d="1670" wp="4" ws="1" p="33">Chà, giọng em trầm thật (Mới ngủ dậy)</p>
+<p t="133120" d="260" wp="4" ws="1"><s p="34">Đúng vậy ha!</s><s>​</s><s p="32">​
+Chà, giọng em trầm thật (Mới ngủ dậy)</s></p>
+<p t="133120" d="260" wp="4" ws="1"><s p="35">Đúng vậy ha!</s><s>​</s><s p="33">​
+Chà, giọng em trầm thật (Mới ngủ dậy)</s></p>
+<p t="133380" d="800" wp="4" ws="1"><s p="34">Đúng vậy ha!</s><s>​</s><s p="32">​
+Trầm vãi</s></p>
+<p t="133380" d="800" wp="4" ws="1"><s p="35">Đúng vậy ha!</s><s>​</s><s p="33">​
+Trầm vãi</s></p>
+<p t="134180" d="670" wp="4" ws="1" p="32">Trầm vãi</p>
+<p t="134180" d="670" wp="4" ws="1" p="33">Trầm vãi</p>
+<p t="135560" d="970" wp="4" ws="1" p="32">Ảo vãi!</p>
+<p t="135560" d="970" wp="4" ws="1" p="33">Ảo vãi!</p>
+<p t="136530" d="250" wp="4" ws="1" p="32">Khoan, cái này là trầm quá rồi</p>
+<p t="136530" d="250" wp="4" ws="1" p="33">Khoan, cái này là trầm quá rồi</p>
+<p t="136780" d="1020" wp="4" ws="1"><s p="34">Thiệt luôn</s><s>​</s><s p="32">​
+Khoan, cái này là trầm quá rồi</s></p>
+<p t="136780" d="1020" wp="4" ws="1"><s p="35">Thiệt luôn</s><s>​</s><s p="33">​
+Khoan, cái này là trầm quá rồi</s></p>
+<p t="137800" d="490" wp="4" ws="1" p="32">Khoan, cái này là trầm quá rồi</p>
+<p t="137800" d="490" wp="4" ws="1" p="33">Khoan, cái này là trầm quá rồi</p>
+<p t="138290" d="2090" wp="4" ws="1" p="34">Siêu trầm luôn!</p>
+<p t="138290" d="2090" wp="4" ws="1" p="35">Siêu trầm luôn!</p>
+<p t="140380" d="1600" wp="4" ws="1" p="34">Giả giọng Orochimaru cho chị nghe đi\c}</p>
+<p t="140380" d="1600" wp="4" ws="1" p="35">Giả giọng Orochimaru cho chị nghe đi\c}</p>
+<p t="142120" d="2130" wp="4" ws="1" p="32">Em thì..</p>
+<p t="142120" d="2130" wp="4" ws="1" p="33">Em thì..</p>
+<p t="144250" d="2330" wp="4" ws="1" p="32">Chả biết phải giả giọng Orochimaru kiểu gì!</p>
+<p t="144250" d="2330" wp="4" ws="1" p="33">Chả biết phải giả giọng Orochimaru kiểu gì!</p>
+<p t="146980" d="1270" wp="4" ws="1" p="34">Nói thử &quot;Sasuke-kun!&quot; đi</p>
+<p t="146980" d="1270" wp="4" ws="1" p="35">Nói thử &quot;Sasuke-kun!&quot; đi</p>
+<p t="148250" d="2670" wp="4" ws="1" p="32">Sasuke-kun!</p>
+<p t="148250" d="2670" wp="4" ws="1" p="33">Sasuke-kun!</p>
+<p t="151320" d="2060" wp="4" ws="1" p="34">Tui không có buồn ngủ đâu</p>
+<p t="151320" d="2060" wp="4" ws="1" p="35">Tui không có buồn ngủ đâu</p>
+<p t="153380" d="1770" wp="4" ws="1" p="34">Chỉ là giọng tui lúc này nó như thế thôi</p>
+<p t="153380" d="1770" wp="4" ws="1" p="35">Chỉ là giọng tui lúc này nó như thế thôi</p>
+<p t="156180" d="1570" wp="4" ws="1" p="34">Nên...</p>
+<p t="156180" d="1570" wp="4" ws="1" p="35">Nên...</p>
+<p t="158150" d="2430" wp="4" ws="1" p="34">Làm ván nữa nào?</p>
+<p t="158150" d="2430" wp="4" ws="1" p="35">Làm ván nữa nào?</p>
+<p t="160580" d="1470" wp="22" ws="1" p="36">*Lườm*</p>
+<p t="160580" d="1470" wp="22" ws="1" p="37">*Lườm*</p>
+<p t="162220" d="3460" wp="4" ws="1" p="38">Họ muốn tui nói cái gì để giúp họ dễ ngủ hơn??</p>
+<p t="162220" d="3460" wp="4" ws="1" p="39">Họ muốn tui nói cái gì để giúp họ dễ ngủ hơn??</p>
+<p t="165680" d="1840" wp="4" ws="1" p="38">Biết nói gì đây trời?</p>
+<p t="165680" d="1840" wp="4" ws="1" p="39">Biết nói gì đây trời?</p>
+<p t="167820" d="1030" wp="23" ws="2" p="38">Chúc ngủ ngon ​</p>
+<p t="167820" d="1030" wp="23" ws="2" p="39">Chúc ngủ ngon ​</p>
+<p t="168850" d="1600" wp="23" ws="2" p="38">Chúc ngủ ngon và có những giấc mơ đẹp nhé</p>
+<p t="168850" d="1600" wp="23" ws="2" p="39">Chúc ngủ ngon và có những giấc mơ đẹp nhé</p>
+<p t="170450" d="1600" wp="4" ws="1" p="38">Sao nào?</p>
+<p t="170450" d="1600" wp="4" ws="1" p="39">Sao nào?</p>
+<p t="172050" d="1900" wp="4" ws="1" p="38">Nó có giúp được gì không?</p>
+<p t="172050" d="1900" wp="4" ws="1" p="39">Nó có giúp được gì không?</p>
+<p t="173950" d="3560" wp="4" ws="1" p="40">Cảm ơn nhé, Alphonso-chan (Đang đọc SuperChats)</p>
+<p t="173950" d="3560" wp="4" ws="1" p="41">Cảm ơn nhé, Alphonso-chan (Đang đọc SuperChats)</p>
+<p t="174050" d="3730" wp="24" ws="2" p="42">Hololive đời đầu: Akai Haato</p>
+<p t="174050" d="3730" wp="24" ws="2" p="43">Hololive đời đầu: Akai Haato</p>
+<p t="177510" d="3790" wp="4" ws="1" p="2">&quot;Soái ca với giọng quyến rũ vãi bên trái là ai thế?&quot;</p>
+<p t="177510" d="3790" wp="4" ws="1" p="3">&quot;Soái ca với giọng quyến rũ vãi bên trái là ai thế?&quot;</p>
+<p t="181300" d="2580" wp="4" ws="1" p="2">&quot;Làm tui thấy nghi chính mình quá lol&quot;</p>
+<p t="181300" d="2580" wp="4" ws="1" p="3">&quot;Làm tui thấy nghi chính mình quá lol&quot;</p>
+<p t="183880" d="2160" wp="4" ws="1" p="2">&quot;Giỡn thôi, nhưng có khi nào...!?&quot;</p>
+<p t="183880" d="2160" wp="4" ws="1" p="3">&quot;Giỡn thôi, nhưng có khi nào...!?&quot;</p>
+<p t="186040" d="2000" wp="4" ws="1" p="2">Cảm ơn nhé</p>
+<p t="186040" d="2000" wp="4" ws="1" p="44">Cảm ơn nhé</p>
+<p t="190680" d="1400" wp="5" ws="1" p="6">lolol</p>
+<p t="190680" d="1400" wp="5" ws="1" p="7">lolol</p>
+<p t="192150" d="3630" wp="25" ws="2" p="4">Hololive đời thứ hai: 
+Nakiri Ayame</p>
+<p t="192150" d="3630" wp="25" ws="2" p="5">Hololive đời thứ hai: 
+Nakiri Ayame</p>
+<p t="192150" d="3630" wp="26" ws="2" p="45">Hololive đời thứ ba: 
+Uruha Rushia</p>
+<p t="192150" d="3630" wp="26" ws="2" p="46">Hololive đời thứ ba: 
+Uruha Rushia</p>
+<p t="192610" d="470" wp="27" ws="2" p="4">T-Tui</p>
+<p t="192610" d="470" wp="27" ws="2" p="5">T-Tui</p>
+<p t="192620" d="19930" wp="28" ws="1" p="2">Hãy cho Lucifer và Kijin Hyakki 
+nói chuyện với nhau đi</p>
+<p t="192620" d="19930" wp="28" ws="1" p="3">Hãy cho Lucifer và Kijin Hyakki 
+nói chuyện với nhau đi</p>
+<p t="193080" d="3300" wp="27" ws="2" p="4">T-Tui gọi cậu là Lucifer có được không?</p>
+<p t="193080" d="3300" wp="27" ws="2" p="5">T-Tui gọi cậu là Lucifer có được không?</p>
+<p t="197580" d="3800" wp="4" ws="1" p="45">Cảm ơn vì hôm nay đã đến với buổi stream của tui nhé</p>
+<p t="197580" d="3800" wp="4" ws="1" p="46">Cảm ơn vì hôm nay đã đến với buổi stream của tui nhé</p>
+<p t="201630" d="3350" wp="4" ws="1" p="4">Đâu vào, cảm ơn vì đã rủ tui nhé</p>
+<p t="201630" d="3350" wp="4" ws="1" p="5">Đâu vào, cảm ơn vì đã rủ tui nhé</p>
+<p t="204980" d="1600" wp="4" ws="1" p="45">Đợi chút!</p>
+<p t="204980" d="1600" wp="4" ws="1" p="46">Đợi chút!</p>
+<p t="208680" d="1740" wp="4" ws="1" p="45">Mặt em giờ đỏ vãi! Nóng hết lên luôn rồi!</p>
+<p t="208680" d="1740" wp="4" ws="1" p="46">Mặt em giờ đỏ vãi! Nóng hết lên luôn rồi!</p>
+<p t="210420" d="2000" wp="4" ws="1" p="4">Mình qua cái khác đi! Cái khác đi!</p>
+<p t="210420" d="2000" wp="4" ws="1" p="5">Mình qua cái khác đi! Cái khác đi!</p>
+<p t="212420" d="1600" wp="4" ws="1" p="47">Đợi chút nào!</p>
+<p t="212420" d="1600" wp="4" ws="1" p="48">Đợi chút nào!</p>
+<p t="212450" d="1570" wp="29" ws="1" p="2">Subatani Subao, FuBuKi, Kijin Hyakki, Kurokami Omi</p>
+<p t="212450" d="1570" wp="29" ws="1" p="3">Subatani Subao, FuBuKi, Kijin Hyakki, Kurokami Omi</p>
+<p t="214020" d="1600" wp="4" ws="1" p="47">Ricchan (Khán giả) đang đổ tui cơ mà!</p>
+<p t="214020" d="1600" wp="4" ws="1" p="48">Ricchan (Khán giả) đang đổ tui cơ mà!</p>
+<p t="215620" d="2200" wp="4" ws="1" p="47">Nên rõ ràng thanh chocolate đó là cho tui chứ</p>
+<p t="215620" d="2200" wp="4" ws="1" p="48">Nên rõ ràng thanh chocolate đó là cho tui chứ</p>
+<p t="217820" d="1560" wp="4" ws="1" p="49">Bậy nào</p>
+<p t="217820" d="1560" wp="4" ws="1" p="50">Bậy nào</p>
+<p t="219380" d="3070" wp="4" ws="1" p="49">Cậu có biết Ricchan thích kiểu người như thế nào không đó?</p>
+<p t="219380" d="3070" wp="4" ws="1" p="50">Cậu có biết Ricchan thích kiểu người như thế nào không đó?</p>
+<p t="222450" d="1630" wp="4" ws="1" p="51">Cái gì?</p>
+<p t="222450" d="1630" wp="4" ws="1" p="52">Cái gì?</p>
+<p t="224080" d="2900" wp="4" ws="1" p="49">Ricchan thích mấy ai cơ bắp cuồn cuộn cơ</p>
+<p t="224080" d="2900" wp="4" ws="1" p="50">Ricchan thích mấy ai cơ bắp cuồn cuộn cơ</p>
+<p t="227880" d="2040" wp="4" ws="1" p="4">Không, không, xí cái nào</p>
+<p t="227880" d="2040" wp="4" ws="1" p="5">Không, không, xí cái nào</p>
+<p t="229920" d="2660" wp="4" ws="1" p="4">Mấy cậu có biết Ricchan thích nghe câu nào nhất không??</p>
+<p t="229920" d="2660" wp="4" ws="1" p="5">Mấy cậu có biết Ricchan thích nghe câu nào nhất không??</p>
+<p t="232580" d="890" wp="4" ws="1" p="49">Câu nào?</p>
+<p t="232580" d="890" wp="4" ws="1" p="50">Câu nào?</p>
+<p t="233470" d="680" wp="4" ws="1" p="49">Nói đi</p>
+<p t="233470" d="680" wp="4" ws="1" p="50">Nói đi</p>
+<p t="235680" d="1600" wp="4" ws="1" p="4">Sẵn sàng chưa? Là câu...</p>
+<p t="235680" d="1600" wp="4" ws="1" p="5">Sẵn sàng chưa? Là câu...</p>
+<p t="238980" d="2100" wp="4" ws="1" p="4">&quot;Chuẩn rồi&quot;</p>
+<p t="238980" d="2100" wp="4" ws="1" p="5">&quot;Chuẩn rồi&quot;</p>
+<p t="242580" d="1870" wp="4" ws="1" p="47">Biết ngay mà</p>
+<p t="242580" d="1870" wp="4" ws="1" p="48">Biết ngay mà</p>
+<p t="244450" d="930" wp="4" ws="1" p="49">Fail rồi nhé</p>
+<p t="244450" d="930" wp="4" ws="1" p="50">Fail rồi nhé</p>
+<p t="245380" d="2700" wp="4" ws="1" p="2">Ayame fail rồi!</p>
+<p t="245380" d="2700" wp="4" ws="1" p="3">Ayame fail rồi!</p>
+<p t="248080" d="4140" wp="4" ws="1" p="14">Log 006: Đổ chưa? Chuẩn rồi</p>
+<p t="248080" d="4140" wp="4" ws="1" p="15">Log 006: Đổ chưa? Chuẩn rồi</p>
+<p t="252220" d="1700" wp="4" ws="1" p="2">Bonus</p>
+<p t="252220" d="1700" wp="4" ws="1" p="3">Bonus</p>
+<p t="254010" d="5910" wp="4" ws="1" p="53">Để tui cho mấy cô biết là ông chủ của Kabukicho quất ngay tháp ly DomPeri ngay lúc đầu luôn đấy</p>
+<p t="254010" d="5910" wp="4" ws="1" p="54">Để tui cho mấy cô biết là ông chủ của Kabukicho quất ngay tháp ly DomPeri ngay lúc đầu luôn đấy</p>
+<p t="254010" d="5910" wp="30" ws="1" p="2">(Khu đèn đỏ lớn nhất Tokyo)</p>
+<p t="254010" d="5910" wp="30" ws="1" p="3">(Khu đèn đỏ lớn nhất Tokyo)</p>
+<p t="254020" d="3690" wp="31" ws="2" p="53">Hololive đời thứ ba: 
+Usada Pekora</p>
+<p t="254020" d="3690" wp="31" ws="2" p="54">Hololive đời thứ ba: 
+Usada Pekora</p>
+<p t="254050" d="109860" wp="6" ws="2" p="14">Hội làm soái ca không thành</p>
+<p t="254050" d="109860" wp="6" ws="2" p="15">Hội làm soái ca không thành</p>
+<p t="259920" d="3290" wp="4" ws="1" p="53">Tui nghĩ là mình, Pegora nên cho mấy cô biết điều đó</p>
+<p t="259920" d="3290" wp="4" ws="1" p="54">Tui nghĩ là mình, Pegora nên cho mấy cô biết điều đó</p>
+<p t="263210" d="900" wp="4" ws="1" p="8">Từ lúc mình ngồi chung nãy giờ thì cậu ta 
+
+</p>
+<p t="263210" d="900" wp="4" ws="1" p="10">Từ lúc mình ngồi chung nãy giờ thì cậu ta 
+
+</p>
+<p t="264110" d="2970" wp="4" ws="1" p="8">Từ lúc mình ngồi chung nãy giờ thì cậu ta 
+chỉ toàn nói về cái tháp ly Dom Perignon thôi!</p>
+<p t="264110" d="2970" wp="4" ws="1" p="10">Từ lúc mình ngồi chung nãy giờ thì cậu ta 
+chỉ toàn nói về cái tháp ly Dom Perignon thôi!</p>
+<p t="267080" d="1600" wp="32" ws="2" p="18">Và cậu ta còn gọi tụi mình là</p>
+<p t="267080" d="1600" wp="32" ws="2" p="19">Và cậu ta còn gọi tụi mình là</p>
+<p t="268680" d="1600" wp="32" ws="2"><s p="18">Và cậu ta còn gọi tụi mình là </s><s>​</s><s p="55">hai lúa </s><s p="18">nữa cơ!!</s></p>
+<p t="268680" d="1600" wp="32" ws="2"><s p="19">Và cậu ta còn gọi tụi mình là </s><s>​</s><s p="56">hai lúa </s><s p="19">nữa cơ!!</s></p>
+<p t="270280" d="1740" wp="4" ws="1" p="8">Đúng là đồ tồi mà!</p>
+<p t="270280" d="1740" wp="4" ws="1" p="10">Đúng là đồ tồi mà!</p>
+<p t="272020" d="1030" wp="4" ws="1" p="8">Phải không nào?</p>
+<p t="272020" d="1030" wp="4" ws="1" p="10">Phải không nào?</p>
+<p t="273050" d="1600" wp="4" ws="1"><s p="8">Cho tui này chút </s><s>​</s><s p="57">nước lọc </s><s p="8">được không?</s></p>
+<p t="273050" d="1600" wp="4" ws="1"><s p="10">Cho tui này chút </s><s>​</s><s p="58">nước lọc </s><s p="10">được không?</s></p>
+<p t="274650" d="1370" wp="33" ws="1" p="59">Nước lọc!?</p>
+<p t="274650" d="1370" wp="33" ws="1" p="60">Nước lọc!?</p>
+<p t="276020" d="2130" wp="4" ws="1" p="18">Với khăn ướt luôn</p>
+<p t="276020" d="2130" wp="4" ws="1" p="19">Với khăn ướt luôn</p>
+<p t="279250" d="3700" wp="34" ws="2" p="61">Hololive đời thứ tư: 
+Kiryu Coco</p>
+<p t="279250" d="3700" wp="34" ws="2" p="62">Hololive đời thứ tư: 
+Kiryu Coco</p>
+<p t="279250" d="3700" wp="35" ws="2" p="63">Hololive đời thứ ba: 
+Houshou Marine</p>
+<p t="279250" d="3700" wp="35" ws="2" p="64">Hololive đời thứ ba: 
+Houshou Marine</p>
+<p t="279450" d="1170" wp="4" ws="1" p="63">Tại sao vậy?</p>
+<p t="279450" d="1170" wp="4" ws="1" p="64">Tại sao vậy?</p>
+<p t="280620" d="2210" wp="4" ws="1" p="63">Tại sao lúc nào nó cũng thế nào?</p>
+<p t="280620" d="2210" wp="4" ws="1" p="64">Tại sao lúc nào nó cũng thế nào?</p>
+<p t="282830" d="1100" wp="36" ws="2" p="63">Tại sao một trong hai chúng ta</p>
+<p t="282830" d="1100" wp="36" ws="2" p="64">Tại sao một trong hai chúng ta</p>
+<p t="283930" d="1450" wp="36" ws="2" p="63">Tại sao một trong hai chúng ta lại phải chết chứ?</p>
+<p t="283930" d="1450" wp="36" ws="2" p="64">Tại sao một trong hai chúng ta lại phải chết chứ?</p>
+<p t="285380" d="2560" wp="4" ws="1" p="63">Tại sao vậy? Ai đó mau nói cho tui biết đi!</p>
+<p t="285380" d="2560" wp="4" ws="1" p="64">Tại sao vậy? Ai đó mau nói cho tui biết đi!</p>
+<p t="287940" d="600" wp="4" ws="1" p="61">Marine-paisen cũng tính
+​​</p>
+<p t="287940" d="600" wp="4" ws="1" p="62">Marine-paisen cũng tính
+​​</p>
+<p t="288540" d="1840" wp="4" ws="1" p="61">Marine-paisen cũng tính 
+chơi trò hy sinh à?</p>
+<p t="288540" d="1840" wp="4" ws="1" p="62">Marine-paisen cũng tính 
+chơi trò hy sinh à?</p>
+<p t="291620" d="1630" wp="4" ws="1" p="63">Khoan, để chị giải thích</p>
+<p t="291620" d="1630" wp="4" ws="1" p="64">Khoan, để chị giải thích</p>
+<p t="293250" d="2100" wp="4" ws="1"><s p="63">Chị đang coi clip tổng hợp mấy câu trong ​</s><s>​</s><s p="65">Yakuza </s><s p="63"> ấy mà</s></p>
+<p t="293250" d="2100" wp="4" ws="1"><s p="64">Chị đang coi clip tổng hợp mấy câu trong ​</s><s>​</s><s p="66">Yakuza </s><s p="64"> ấy mà</s></p>
+<p t="295820" d="1360" wp="4" ws="1" p="63">Ta sẽ không nương tay đâu...</p>
+<p t="295820" d="1360" wp="4" ws="1" p="64">Ta sẽ không nương tay đâu...</p>
+<p t="297180" d="2140" wp="4" ws="1" p="63">Muốn chết thì lại đây!</p>
+<p t="297180" d="2140" wp="4" ws="1" p="64">Muốn chết thì lại đây!</p>
+<p t="299380" d="1340" wp="37" ws="2" p="63">Cứ coi tôi là</p>
+<p t="299380" d="1340" wp="37" ws="2" p="64">Cứ coi tôi là</p>
+<p t="300720" d="2700" wp="37" ws="2" p="63">Cứ coi tôi là K-Kazuma nhé?</p>
+<p t="300720" d="2700" wp="37" ws="2" p="64">Cứ coi tôi là K-Kazuma nhé?</p>
+<p t="303420" d="360" wp="4" ws="1" p="63">Hả?</p>
+<p t="303420" d="360" wp="4" ws="1" p="64">Hả?</p>
+<p t="303780" d="760" wp="4" ws="1" p="61">K... Ka...</p>
+<p t="303780" d="760" wp="4" ws="1" p="62">K... Ka...</p>
+<p t="305720" d="1600" wp="4" ws="1" p="61">Houshou Kazuma-san?</p>
+<p t="305720" d="1600" wp="4" ws="1" p="62">Houshou Kazuma-san?</p>
+<p t="308820" d="2740" wp="4" ws="1" p="63">T-Thôi nhé tui về đây...</p>
+<p t="308820" d="2740" wp="4" ws="1" p="64">T-Thôi nhé tui về đây...</p>
+<p t="311560" d="1070" wp="38" ws="2" p="61">Tui đang định</p>
+<p t="311560" d="1070" wp="38" ws="2" p="62">Tui đang định</p>
+<p t="312630" d="2750" wp="38" ws="2" p="61">Tui đang định thì thầm vài câu tởm lợm vào tai mấy bạn</p>
+<p t="312630" d="2750" wp="38" ws="2" p="62">Tui đang định thì thầm vài câu tởm lợm vào tai mấy bạn</p>
+<p t="315380" d="1240" wp="4" ws="1" p="61">Bằng giọng soái ca của mình</p>
+<p t="315380" d="1240" wp="4" ws="1" p="62">Bằng giọng soái ca của mình</p>
+<p t="316620" d="1410" wp="4" ws="1" p="61">Phải, bằng giọng soái ca của tui đó</p>
+<p t="316620" d="1410" wp="4" ws="1" p="62">Phải, bằng giọng soái ca của tui đó</p>
+<p t="318030" d="1570" wp="39" ws="2" p="61">Hả? cưng không ngủ được</p>
+<p t="318030" d="1570" wp="39" ws="2" p="62">Hả? cưng không ngủ được</p>
+<p t="319600" d="1670" wp="39" ws="2" p="61">Hả? cưng không ngủ được sao?</p>
+<p t="319600" d="1670" wp="39" ws="2" p="62">Hả? cưng không ngủ được sao?</p>
+<p t="321270" d="570" wp="37" ws="2" p="61">Cưng có muốn</p>
+<p t="321270" d="570" wp="37" ws="2" p="62">Cưng có muốn</p>
+<p t="321840" d="1140" wp="37" ws="2" p="61">Cưng có muốn nằm xuống</p>
+<p t="321840" d="1140" wp="37" ws="2" p="62">Cưng có muốn nằm xuống</p>
+<p t="322980" d="2140" wp="4" ws="1" p="61">Kế bên tôi không?</p>
+<p t="322980" d="2140" wp="4" ws="1" p="62">Kế bên tôi không?</p>
+<p t="325120" d="3030" wp="4" ws="1" p="61">A đệt, cái đó thì sao mà được chứ</p>
+<p t="325120" d="3030" wp="4" ws="1" p="62">A đệt, cái đó thì sao mà được chứ</p>
+<p t="328280" d="3670" wp="40" ws="2" p="67">Hololive đời thứ tư: 
+Tsunomaki Watame</p>
+<p t="328280" d="3670" wp="40" ws="2" p="68">Hololive đời thứ tư: 
+Tsunomaki Watame</p>
+<p t="328280" d="3670" wp="41" ws="2" p="69">Hololive đời thứ tư:
+ Himemori Luna</p>
+<p t="328280" d="3670" wp="41" ws="2" p="70">Hololive đời thứ tư:
+ Himemori Luna</p>
+<p t="328340" d="1740" wp="42" ws="2" p="67">Cảm ơn</p>
+<p t="328340" d="1740" wp="42" ws="2" p="68">Cảm ơn</p>
+<p t="330080" d="2070" wp="42" ws="2" p="67">Cảm ơn vì đã đến đây vào hôm nay</p>
+<p t="330080" d="2070" wp="42" ws="2" p="68">Cảm ơn vì đã đến đây vào hôm nay</p>
+<p t="332150" d="1370" wp="4" ws="1" p="67">Cô muốn uống gì?</p>
+<p t="332150" d="1370" wp="4" ws="1" p="68">Cô muốn uống gì?</p>
+<p t="333520" d="2000" wp="43" ws="2" p="67">Sâm panh?</p>
+<p t="333520" d="2000" wp="43" ws="2" p="68">Sâm panh?</p>
+<p t="335520" d="1200" wp="43" ws="2" p="67">Sâm panh? DomPeri?</p>
+<p t="335520" d="1200" wp="43" ws="2" p="68">Sâm panh? DomPeri?</p>
+<p t="336720" d="1240" wp="4" ws="1" p="69">Đó là Sh*n cậu bé bút chì à?</p>
+<p t="336720" d="1240" wp="4" ws="1" p="70">Đó là Sh*n cậu bé bút chì à?</p>
+<p t="337960" d="720" wp="4" ws="1" p="67">Hay là bia?</p>
+<p t="337960" d="720" wp="4" ws="1" p="68">Hay là bia?</p>
+<p t="340120" d="1400" wp="4" ws="1" p="42">Cậu là ai vậy?</p>
+<p t="340120" d="1400" wp="4" ws="1" p="43">Cậu là ai vậy?</p>
+<p t="341520" d="540" wp="43" ws="2" p="67">DomPeri,</p>
+<p t="341520" d="540" wp="43" ws="2" p="68">DomPeri,</p>
+<p t="342060" d="1690" wp="43" ws="2" p="67">DomPeri, ​Bàn 1 nhé!</p>
+<p t="342060" d="1690" wp="43" ws="2" p="68">DomPeri, ​Bàn 1 nhé!</p>
+<p t="343750" d="3000" wp="44" ws="1" p="67">Hây!</p>
+<p t="343750" d="3000" wp="44" ws="1" p="68">Hây!</p>
+<p t="344380" d="2370" wp="45" ws="1" p="67">Hây hây!</p>
+<p t="344380" d="2370" wp="45" ws="1" p="68">Hây hây!</p>
+<p t="344850" d="1900" wp="46" ws="1" p="67">Hây!</p>
+<p t="344850" d="1900" wp="46" ws="1" p="68">Hây!</p>
+<p t="345080" d="1670" wp="47" ws="1" p="67">Hây!</p>
+<p t="345080" d="1670" wp="47" ws="1" p="68">Hây!</p>
+<p t="345420" d="1330" wp="48" ws="1" p="67">Hây hây!</p>
+<p t="345420" d="1330" wp="48" ws="1" p="68">Hây hây!</p>
+<p t="345880" d="870" wp="49" ws="1" p="71">HÂY HÂY!</p>
+<p t="345880" d="870" wp="49" ws="1" p="72">HÂY HÂY!</p>
+<p t="346750" d="1970" wp="4" ws="1" p="69">Đợi chút nào! x1</p>
+<p t="346750" d="1970" wp="4" ws="1" p="70">Đợi chút nào! x1</p>
+<p t="348720" d="1800" wp="4" ws="1" p="69">Đợi chút nào! x2</p>
+<p t="348720" d="1800" wp="4" ws="1" p="70">Đợi chút nào! x2</p>
+<p t="350520" d="2030" wp="4" ws="1" p="69">Cái đó mà là giọng soái ca cái gì!</p>
+<p t="350520" d="2030" wp="4" ws="1" p="70">Cái đó mà là giọng soái ca cái gì!</p>
+<p t="352550" d="2400" wp="4" ws="1" p="69">Vì cưng...</p>
+<p t="352550" d="2400" wp="4" ws="1" p="70">Vì cưng...</p>
+<p t="354950" d="3490" wp="4" ws="1" p="69">Mà anh đã đặt phòng này đấy</p>
+<p t="354950" d="3490" wp="4" ws="1" p="70">Mà anh đã đặt phòng này đấy</p>
+<p t="358440" d="1400" wp="37" ws="2" p="69">Mình hãy dành</p>
+<p t="358440" d="1400" wp="37" ws="2" p="70">Mình hãy dành</p>
+<p t="359840" d="1280" wp="37" ws="2" p="69">Mình hãy dành cả đêm nay</p>
+<p t="359840" d="1280" wp="37" ws="2" p="70">Mình hãy dành cả đêm nay</p>
+<p t="361120" d="2660" wp="4" ws="1" p="69">Để truyền chút hơi ấm cho nhau nào</p>
+<p t="361120" d="2660" wp="4" ws="1" p="70">Để truyền chút hơi ấm cho nhau nào</p>
+<p t="363910" d="10820" wp="4" ws="1" p="14">Nếu bạn thấy ai thú vị thì hãy đến xem stream của họ nhé!</p>
+<p t="363910" d="10820" wp="4" ws="1" p="15">Nếu bạn thấy ai thú vị thì hãy đến xem stream của họ nhé!</p>
+<p t="5000" d="100" wp="50" ws="3" p="73">​</p>
+<p t="5000" d="100" wp="50" ws="3" p="74">​</p>
+</body>
+</timedtext>

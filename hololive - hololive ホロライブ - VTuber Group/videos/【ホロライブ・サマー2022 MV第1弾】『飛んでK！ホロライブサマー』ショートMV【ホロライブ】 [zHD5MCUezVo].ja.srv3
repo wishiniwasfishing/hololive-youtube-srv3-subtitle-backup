@@ -1,0 +1,1171 @@
+<?xml version="1.0" encoding="utf-8" ?><timedtext format="3">
+<head>
+<pen id="1" fc="#000000" fo="0" bo="0" sz="100"/>
+<pen id="2" fc="#A0AAB4" fo="0" bo="0" sz="100"/>
+<pen id="3" fc="#5EDDEE" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="4" fc="#FEFEFE" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="5" fc="#008CD9" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="6" fc="#894DF7" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="7" fc="#8359F6" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="8" fc="#825AF6" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="9" fc="#7D65F6" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="10" fc="#7871F6" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="11" fc="#7C68F6" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="12" fc="#727DF6" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="13" fc="#6D89F5" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="14" fc="#7676F6" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="15" fc="#6795F5" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="16" fc="#6F83F5" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="17" fc="#62A1F5" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="18" fc="#6991F5" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="19" fc="#5CADF5" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="20" fc="#5DB5F5" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="21" fc="#5DADF5" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="22" fc="#64B8F6" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="23" fc="#6BBBF7" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="24" fc="#72BEF9" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="25" fc="#6DBCF8" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="26" fc="#79C1FA" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="27" fc="#76BFF9" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="28" fc="#80C4FB" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="29" fc="#7EC3FB" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="30" fc="#87C7FC" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="31" fc="#86C6FC" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="32" fc="#8ECAFD" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="33" fc="#8EC9FD" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="34" fc="#96CDFF" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="35" fc="#FA7D00" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="36" fc="#EA7A1E" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="37" fc="#DA773C" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="38" fc="#CA755B" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="39" fc="#BA7279" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="40" fc="#AA6F98" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="41" fc="#9A6DB6" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="42" fc="#956FC8" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="43" fc="#9A75CC" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="44" fc="#9F7CD0" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="45" fc="#A482D4" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="46" fc="#A989D8" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="47" fc="#AE8FDC" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="48" fc="#B496E1" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="49" fc="#EB0A5A" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="50" fc="#E7226C" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="51" fc="#E33A7E" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="52" fc="#E6256E" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="53" fc="#DF5391" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="54" fc="#DB6BA3" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="55" fc="#DD5C97" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="56" fc="#D784B5" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="57" fc="#D39CC7" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="58" fc="#CFB5DA" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="59" fc="#D593C1" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="60" fc="#CBCDEC" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="61" fc="#C8E6FF" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="62" fc="#CCCAEA" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="63" fc="#CEE1F7" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="64" fc="#D4DCEF" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="65" fc="#DAD7E7" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="66" fc="#E0D2DF" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="67" fc="#DCD5E4" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="68" fc="#E6CDD8" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="69" fc="#ECC8D0" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="70" fc="#F2C3C8" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="71" fc="#E3CFDC" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="72" fc="#EAC9D3" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="73" fc="#F1C4CA" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="74" fc="#F8BEC0" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="75" fc="#F8BEC1" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="76" fc="#FFB9B9" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="77" fc="#00E6EB" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="78" fc="#31CCC6" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="79" fc="#C87E57" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="80" fc="#FA6432" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="81" fc="#63B2A1" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="82" fc="#96987B" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="83" fc="#FF96DF" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="84" fc="#FF88AA" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="85" fc="#FF415A" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="86" fc="#FF8CAF" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="87" fc="#FF98DD" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="88" fc="#FF9ADC" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="89" fc="#FF9BDC" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="90" fc="#FF9DDB" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="91" fc="#FF9FD9" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="92" fc="#FF9DDA" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="93" fc="#FFA0D9" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="94" fc="#FFA2D8" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="95" fc="#FFA2D7" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="96" fc="#FFA4D7" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="97" fc="#FFA5D6" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="98" fc="#FFA7D5" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="99" fc="#FFA8D5" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="100" fc="#FFA9D4" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="101" fc="#FFAAD3" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="102" fc="#FFACD3" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="103" fc="#FFA5CB" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="104" fc="#FFA0C5" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="105" fc="#FF99BD" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="106" fc="#FF94B8" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="107" fc="#FF7FA1" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="108" fc="#FF7C9D" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="109" fc="#FF7392" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="110" fc="#FF708F" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="111" fc="#FF6684" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="112" fc="#FF6482" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="113" fc="#FF5874" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="114" fc="#FF5A76" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="115" fc="#FF4C67" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="116" fc="#A1FAFF" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="117" fc="#FF4D68" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="118" fc="#FFB65D" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="119" fc="#FFD700" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="120" fc="#F8D721" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="121" fc="#FF64AA" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="122" fc="#F1D843" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="123" fc="#EAD965" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="124" fc="#F6D728" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="125" fc="#E3DA87" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="126" fc="#EED850" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="127" fc="#DCDAA9" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="128" fc="#E6D977" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="129" fc="#D5DBCB" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="130" fc="#D5D2D8" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="131" fc="#D6DBC8" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="132" fc="#DCC0D0" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="133" fc="#D6D1D7" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="134" fc="#E3ADC8" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="135" fc="#DEBBCE" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="136" fc="#EA9BC1" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="137" fc="#F188B9" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="138" fc="#E6A5C5" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="139" fc="#EE8FBC" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="140" fc="#F876B1" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="141" fc="#F679B3" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="142" fc="#E9007D" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="143" fc="#DF2088" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="144" fc="#D54194" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="145" fc="#CB62A0" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="146" fc="#DC298B" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="147" fc="#C182AB" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="148" fc="#B7A3B7" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="149" fc="#CF539A" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="150" fc="#ADC4C3" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="151" fc="#C27CA9" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="152" fc="#A3E5CF" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="153" fc="#B6A6B8" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="154" fc="#A1E8B9" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="155" fc="#A9D0C7" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="156" fc="#9FECA3" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="157" fc="#9DF08D" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="158" fc="#9BF378" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="159" fc="#9DF089" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="160" fc="#99F762" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="161" fc="#9AF56E" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="162" fc="#97FB4C" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="163" fc="#98FA52" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="164" fc="#96FF37" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="165" fc="#E10019" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="166" fc="#DD0D21" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="167" fc="#DA1B2A" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="168" fc="#D91E2C" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="169" fc="#D72933" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="170" fc="#D62D36" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="171" fc="#D3373C" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="172" fc="#D23C40" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="173" fc="#D04545" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="174" fc="#D3464F" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="175" fc="#CF4C4A" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="176" fc="#DC3B58" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="177" fc="#E43063" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="178" fc="#E23360" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="179" fc="#ED256D" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="180" fc="#EB276B" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="181" fc="#F61A77" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="182" fc="#F51B76" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="183" fc="#FF0F81" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="184" fc="#E22B6D" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="185" fc="#E1235A" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="186" fc="#E12359" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="187" fc="#E01C48" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="188" fc="#E01B46" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="189" fc="#DF1536" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="190" fc="#DF1433" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="191" fc="#DE0E24" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="192" fc="#DE0C20" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="193" fc="#DD0712" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="194" fc="#DD0000" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="195" fc="#DD050C" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="196" fc="#DB0001" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="197" fc="#D90005" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="198" fc="#D80007" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="199" fc="#D60009" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="200" fc="#D4000C" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="201" fc="#D2000F" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="202" fc="#D00011" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="203" fc="#CF0014" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="204" fc="#CC0016" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="205" fc="#CB0019" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="206" fc="#C8001E" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="207" fc="#C9001C" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="208" fc="#A61E40" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="209" fc="#853D62" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="210" fc="#645C84" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="211" fc="#B01536" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="212" fc="#8D365A" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="213" fc="#69577E" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="214" fc="#E22B6D" fo="0" bo="0" sz="100"/>
+<pen id="215" fc="#E12359" fo="0" bo="0" sz="100"/>
+<pen id="216" fc="#E01B46" fo="0" bo="0" sz="100"/>
+<pen id="217" fc="#DF1433" fo="0" bo="0" sz="100"/>
+<pen id="218" fc="#DE0C20" fo="0" bo="0" sz="100"/>
+<pen id="219" fc="#DD050C" fo="0" bo="0" sz="100"/>
+<pen id="220" fc="#DB0001" fo="0" bo="0" sz="100"/>
+<pen id="221" fc="#D80007" fo="0" bo="0" sz="100"/>
+<pen id="222" fc="#D4000C" fo="0" bo="0" sz="100"/>
+<pen id="223" fc="#D00011" fo="0" bo="0" sz="100"/>
+<pen id="224" fc="#CC0016" fo="0" bo="0" sz="100"/>
+<pen id="225" fc="#C9001C" fo="0" bo="0" sz="100"/>
+<pen id="226" fc="#B01536" fo="0" bo="0" sz="100"/>
+<pen id="227" fc="#8D365A" fo="0" bo="0" sz="100"/>
+<pen id="228" fc="#D4B0FF" fo="0" bo="0" sz="100"/>
+<pen id="229" fc="#FEFEFE" fo="0" bo="0" sz="100"/>
+<pen id="230" fc="#427BA6" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="231" fc="#4677A2" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="232" fc="#4677A2" fo="0" bo="0" sz="100"/>
+<pen id="233" fc="#219AC8" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="234" fc="#00B9EB" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="235" fc="#2398C6" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="236" fc="#2398C6" fo="0" bo="0" sz="100"/>
+<pen id="237" fc="#00B9EB" fo="0" bo="0" sz="100"/>
+<pen id="238" fc="#BE32A5" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="239" fc="#FFBE00" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="240" fc="#C64390" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="241" fc="#CE557B" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="242" fc="#D66667" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="243" fc="#DE7852" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="244" fc="#E6893D" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="245" fc="#EE9B29" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="246" fc="#F6AC14" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="247" fc="#3A8ECD" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="248" fc="#548FC7" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="249" fc="#7590C1" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="250" fc="#A992B6" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="251" fc="#B092B5" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="252" fc="#FF96A5" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="253" fc="#EB95A9" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="254" fc="#FFA4A3" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="255" fc="#FFB4A2" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="256" fc="#FFB9A2" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="257" fc="#FFCEA0" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="258" fc="#FFE39F" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="259" fc="#FFD2A0" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="260" fc="#F6EFA2" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="261" fc="#DDEAAF" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="262" fc="#FFF19E" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="263" fc="#C4E5BD" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="264" fc="#DBEAB1" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="265" fc="#ABE0CA" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="266" fc="#93DCD8" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="267" fc="#328ECE" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="268" fc="#6590C4" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="269" fc="#9992B9" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="270" fc="#CC94AF" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="271" fc="#FFA8A3" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="272" fc="#FFBAA2" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="273" fc="#FFCCA0" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="274" fc="#FFDE9F" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="275" fc="#E9ECA9" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="276" fc="#D3E8B5" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="277" fc="#BEE4C0" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="278" fc="#A8E0CC" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="279" fc="#5AB4F5" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="280" fc="#66B4F0" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="281" fc="#73B4EB" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="282" fc="#80B5E7" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="283" fc="#8CB5E2" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="284" fc="#99B5DD" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="285" fc="#A6B6D9" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="286" fc="#B2B6D4" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="287" fc="#BFB7D0" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="288" fc="#CCB7CB" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="289" fc="#D8B7C6" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="290" fc="#E5B8C2" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="291" fc="#F2B8BD" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="292" fc="#FFB038" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="293" fc="#FF8A71" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<ws id="0"/>
+<ws id="2" ju="0" pd="0" sd="0"/>
+<ws id="3" ju="1" pd="0" sd="0"/>
+<ws id="1" ju="2" pd="0" sd="0"/>
+<wp id="0"/>
+<wp id="4" ap="3" ah="0" av="19"/>
+<wp id="8" ap="3" ah="54" av="4"/>
+<wp id="9" ap="3" ah="54" av="86"/>
+<wp id="7" ap="4" ah="50" av="14"/>
+<wp id="11" ap="4" ah="50" av="25"/>
+<wp id="2" ap="4" ah="50" av="4"/>
+<wp id="12" ap="4" ah="50" av="75"/>
+<wp id="10" ap="4" ah="50" av="86"/>
+<wp id="3" ap="4" ah="50" av="96"/>
+<wp id="5" ap="5" ah="47" av="4"/>
+<wp id="6" ap="5" ah="47" av="86"/>
+<wp id="1" ap="7" ah="0" av="0"/>
+</head>
+<body>
+<p t="1285" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​こ</s><s p="4">の なつ は なん ど も ゆめみた なぎさ の たからもの​ ​</s><s p="2">​</s></p>
+<p t="1285" d="333" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​こ</s><s p="4">の夏は 何度も 夢見た渚の宝物​ ​</s><s p="2">​</s></p>
+<p t="1618" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​この </s><s p="4">なつ は なん ど も ゆめみた なぎさ の たからもの​ ​</s><s p="2">​</s></p>
+<p t="1618" d="334" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​この</s><s p="4">夏は 何度も 夢見た渚の宝物​ ​</s><s p="2">​</s></p>
+<p t="1952" d="2636" wp="4" ws="2"><s p="2">​</s><s>​</s><s p="3">​ ​hololive IDOL PROJECT - 飛んでK！ホロライブサマー​ ​</s><s p="2">​
+​</s><s p="3">​ ​作編曲：ARM (IOSYS)​ ​</s><s p="2">​</s></p>
+<p t="1952" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​この な</s><s p="4">つ は なん ど も ゆめみた なぎさ の たからもの​ ​</s><s p="2">​</s></p>
+<p t="1952" d="334" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​この夏</s><s p="4">は 何度も 夢見た渚の宝物​ ​</s><s p="2">​</s></p>
+<p t="2286" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​この なつ </s><s p="4">は なん ど も ゆめみた なぎさ の たからもの​ ​</s><s p="2">​</s></p>
+<p t="2286" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​この夏</s><s p="4">は 何度も 夢見た渚の宝物​ ​</s><s p="2">​</s></p>
+<p t="2453" d="667" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​この なつ は </s><s p="4">なん ど も ゆめみた なぎさ の たからもの​ ​</s><s p="2">​</s></p>
+<p t="2453" d="667" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​この夏は </s><s p="4">何度も 夢見た渚の宝物​ ​</s><s p="2">​</s></p>
+<p t="3120" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​この なつ は な</s><s p="4">ん ど も ゆめみた なぎさ の たからもの​ ​</s><s p="2">​</s></p>
+<p t="3120" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​この夏は 何</s><s p="4">度も 夢見た渚の宝物​ ​</s><s p="2">​</s></p>
+<p t="3287" d="300" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​この なつ は なん </s><s p="4">ど も ゆめみた なぎさ の たからもの​ ​</s><s p="2">​</s></p>
+<p t="3287" d="300" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​この夏は 何</s><s p="4">度も 夢見た渚の宝物​ ​</s><s p="2">​</s></p>
+<p t="3587" d="134" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​この なつ は なん ど </s><s p="4">も ゆめみた なぎさ の たからもの​ ​</s><s p="2">​</s></p>
+<p t="3587" d="134" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​この夏は 何度</s><s p="4">も 夢見た渚の宝物​ ​</s><s p="2">​</s></p>
+<p t="3721" d="700" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​この なつ は なん ど も </s><s p="4">ゆめみた なぎさ の たからもの​ ​</s><s p="2">​</s></p>
+<p t="3721" d="700" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​この夏は 何度も </s><s p="4">夢見た渚の宝物​ ​</s><s p="2">​</s></p>
+<p t="4421" d="134" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​この なつ は なん ど も ゆ</s><s p="4">めみた なぎさ の たからもの​ ​</s><s p="2">​</s></p>
+<p t="4421" d="134" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​この夏は 何度も 夢</s><s p="4">見た渚の宝物​ ​</s><s p="2">​</s></p>
+<p t="4555" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​この なつ は なん ど も ゆめ</s><s p="4">みた なぎさ の たからもの​ ​</s><s p="2">​</s></p>
+<p t="4555" d="333" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​この夏は 何度も 夢</s><s p="4">見た渚の宝物​ ​</s><s p="2">​</s></p>
+<p t="4588" d="2669" wp="4" ws="2"><s p="2">​</s><s>​</s><s p="3">​ ​hololive IDOL PROJECT - 飛んでK！ホロライブサマー​ ​</s><s p="2">​
+​</s><s p="3">​ ​作詞：七条レタス (IOSYS) &amp; まろん (IOSYS)​ ​</s><s p="2">​</s></p>
+<p t="4888" d="201" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​この なつ は なん ど も ゆめみ</s><s p="4">た なぎさ の たからもの​ ​</s><s p="2">​</s></p>
+<p t="4888" d="201" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​この夏は 何度も 夢見</s><s p="4">た渚の宝物​ ​</s><s p="2">​</s></p>
+<p t="5089" d="300" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​この なつ は なん ど も ゆめみた </s><s p="4">なぎさ の たからもの​ ​</s><s p="2">​</s></p>
+<p t="5089" d="300" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​この夏は 何度も 夢見た</s><s p="4">渚の宝物​ ​</s><s p="2">​</s></p>
+<p t="5389" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​この なつ は なん ど も ゆめみた な</s><s p="4">ぎさ の たからもの​ ​</s><s p="2">​</s></p>
+<p t="5389" d="334" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​この夏は 何度も 夢見た渚</s><s p="4">の宝物​ ​</s><s p="2">​</s></p>
+<p t="5723" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​この なつ は なん ど も ゆめみた なぎ</s><s p="4">さ の たからもの​ ​</s><s p="2">​</s></p>
+<p t="5723" d="333" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​この夏は 何度も 夢見た渚</s><s p="4">の宝物​ ​</s><s p="2">​</s></p>
+<p t="6056" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​この なつ は なん ど も ゆめみた なぎさ </s><s p="4">の たからもの​ ​</s><s p="2">​</s></p>
+<p t="6056" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​この夏は 何度も 夢見た渚</s><s p="4">の宝物​ ​</s><s p="2">​</s></p>
+<p t="6223" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​この なつ は なん ど も ゆめみた なぎさ の </s><s p="4">たからもの​ ​</s><s p="2">​</s></p>
+<p t="6223" d="334" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​この夏は 何度も 夢見た渚の</s><s p="4">宝物​ ​</s><s p="2">​</s></p>
+<p t="6557" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​この なつ は なん ど も ゆめみた なぎさ の た</s><s p="4">からもの​ ​</s><s p="2">​</s></p>
+<p t="6557" d="333" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​この夏は 何度も 夢見た渚の宝</s><s p="4">物​ ​</s><s p="2">​</s></p>
+<p t="6890" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​この なつ は なん ど も ゆめみた なぎさ の たか</s><s p="4">らもの​ ​</s><s p="2">​</s></p>
+<p t="6890" d="334" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​この夏は 何度も 夢見た渚の宝</s><s p="4">物​ ​</s><s p="2">​</s></p>
+<p t="7224" d="300" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​この なつ は なん ど も ゆめみた なぎさ の たから</s><s p="4">もの​ ​</s><s p="2">​</s></p>
+<p t="7224" d="300" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​この夏は 何度も 夢見た渚の宝</s><s p="4">物​ ​</s><s p="2">​</s></p>
+<p t="7257" d="2636" wp="4" ws="2"><s p="2">​</s><s>​</s><s p="3">​ ​hololive IDOL PROJECT - 飛んでK！ホロライブサマー​ ​</s><s p="2">​
+​</s><s p="3">​ ​Vocal：hololive IDOL PROJECT​ ​</s><s p="2">​</s></p>
+<p t="7524" d="201" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​この なつ は なん ど も ゆめみた なぎさ の たからも</s><s p="4">の​ ​</s><s p="2">​</s></p>
+<p t="7524" d="1035" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​この夏は 何度も 夢見た渚の宝物​ ​</s><s p="2">​</s></p>
+<p t="7725" d="834" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​この なつ は なん ど も ゆめみた なぎさ の たからもの​ ​</s><s p="2">​</s></p>
+<p t="8559" d="634" wp="5" ws="3"><s p="2">​</s><s>​</s><s p="3">​ ​Shin</s><s p="4">y Smile​ ​</s><s p="2">​</s></p>
+<p t="8559" d="634" wp="6" ws="3"><s p="2">​</s><s>​</s><s p="3">​ ​Shin</s><s p="4">y Smile​ ​</s><s p="2">​</s></p>
+<p t="9193" d="700" wp="5" ws="3"><s p="2">​</s><s>​</s><s p="3">​ ​Shiny </s><s p="4">Smile​ ​</s><s p="2">​</s></p>
+<p t="9193" d="700" wp="6" ws="3"><s p="2">​</s><s>​</s><s p="3">​ ​Shiny </s><s p="4">Smile​ ​</s><s p="2">​</s></p>
+<p t="9893" d="4572" wp="5" ws="3"><s p="2">​</s><s>​</s><s p="3">​ ​Shiny Smile​ ​</s><s p="2">​</s></p>
+<p t="9893" d="668" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Smile </s><s p="4">Your Heart​ ​</s><s p="2">​</s></p>
+<p t="9893" d="4572" wp="6" ws="3"><s p="2">​</s><s>​</s><s p="3">​ ​Shiny Smile​ ​</s><s p="2">​</s></p>
+<p t="9893" d="668" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Smile </s><s p="4">Your Heart​ ​</s><s p="2">​</s></p>
+<p t="10561" d="634" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Smile Your </s><s p="4">Heart​ ​</s><s p="2">​</s></p>
+<p t="10561" d="634" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Smile Your </s><s p="4">Heart​ ​</s><s p="2">​</s></p>
+<p t="11195" d="3270" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Smile Your Heart​ ​</s><s p="2">​</s></p>
+<p t="11195" d="667" wp="8" ws="2"><s p="2">​</s><s>​</s><s p="3">​ ​Heart </s><s p="4">To Heart​ ​</s><s p="2">​</s></p>
+<p t="11195" d="3270" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Smile Your Heart​ ​</s><s p="2">​</s></p>
+<p t="11195" d="667" wp="9" ws="2"><s p="2">​</s><s>​</s><s p="3">​ ​Heart </s><s p="4">To Heart​ ​</s><s p="2">​</s></p>
+<p t="11862" d="634" wp="8" ws="2"><s p="2">​</s><s>​</s><s p="3">​ ​Heart To </s><s p="4">Heart​ ​</s><s p="2">​</s></p>
+<p t="11862" d="634" wp="9" ws="2"><s p="2">​</s><s>​</s><s p="3">​ ​Heart To </s><s p="4">Heart​ ​</s><s p="2">​</s></p>
+<p t="12496" d="1969" wp="8" ws="2"><s p="2">​</s><s>​</s><s p="3">​ ​Heart To Heart​ ​</s><s p="2">​</s></p>
+<p t="12496" d="1969" wp="9" ws="2"><s p="2">​</s><s>​</s><s p="3">​ ​Heart To Heart​ ​</s><s p="2">​</s></p>
+<p t="14465" d="634" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Oh </s><s p="4">Yeah​ ​</s><s p="2">​</s></p>
+<p t="14465" d="634" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Oh </s><s p="4">Yeah​ ​</s><s p="2">​</s></p>
+<p t="15099" d="2002" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Oh Yeah​ ​</s><s p="2">​</s></p>
+<p t="15099" d="2002" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Oh Yeah​ ​</s><s p="2">​</s></p>
+<p t="17101" d="333" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（せー</s><s p="4">のっ</s><s p="3">）​ ​</s><s p="2">​</s></p>
+<p t="17101" d="333" wp="10" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（せー</s><s p="4">のっ</s><s p="3">）​ ​</s><s p="2">​</s></p>
+<p t="17434" d="334" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（せーのっ）​ ​</s><s p="2">​</s></p>
+<p t="17434" d="334" wp="10" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（せーのっ）​ ​</s><s p="2">​</s></p>
+<p t="17768" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​ぴ</s><s p="4">えん ぱおん はにゃん​ ​</s><s p="2">​</s></p>
+<p t="17768" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​ぴ</s><s p="4">えん　ぱおん　はにゃん​ ​</s><s p="2">​</s></p>
+<p t="17935" d="300" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​ぴえん </s><s p="4">ぱおん はにゃん​ ​</s><s p="2">​</s></p>
+<p t="17935" d="300" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​ぴえん　</s><s p="4">ぱおん　はにゃん​ ​</s><s p="2">​</s></p>
+<p t="18235" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​ぴえん ぱ</s><s p="4">おん はにゃん​ ​</s><s p="2">​</s></p>
+<p t="18235" d="200" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​ぴえん　ぱ</s><s p="4">おん　はにゃん​ ​</s><s p="2">​</s></p>
+<p t="18435" d="301" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​ぴえん ぱおん </s><s p="4">はにゃん​ ​</s><s p="2">​</s></p>
+<p t="18435" d="301" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​ぴえん　ぱおん　</s><s p="4">はにゃん​ ​</s><s p="2">​</s></p>
+<p t="18736" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​ぴえん ぱおん は</s><s p="4">にゃん​ ​</s><s p="2">​</s></p>
+<p t="18736" d="200" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​ぴえん　ぱおん　は</s><s p="4">にゃん​ ​</s><s p="2">​</s></p>
+<p t="18936" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​ぴえん ぱおん はにゃん​ ​</s><s p="2">​</s></p>
+<p t="18936" d="333" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​ぴえん　ぱおん　はにゃん​ ​</s><s p="2">​</s></p>
+<p t="19269" d="134" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​お</s><s p="4">またせっ</s><s p="5">♡​ ​</s><s p="2">​</s></p>
+<p t="19269" d="134" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​お</s><s p="4">待たせっ</s><s p="5">♡​ ​</s><s p="2">​</s></p>
+<p t="19403" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​おま</s><s p="4">たせっ</s><s p="5">♡​ ​</s><s p="2">​</s></p>
+<p t="19403" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​お待</s><s p="4">たせっ</s><s p="5">♡​ ​</s><s p="2">​</s></p>
+<p t="19570" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​おまた</s><s p="4">せっ</s><s p="5">♡​ ​</s><s p="2">​</s></p>
+<p t="19570" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​お待た</s><s p="4">せっ</s><s p="5">♡​ ​</s><s p="2">​</s></p>
+<p t="19737" d="500" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​おまたせっ♡​ ​</s><s p="2">​</s></p>
+<p t="19737" d="500" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​お待たせっ♡​ ​</s><s p="2">​</s></p>
+<p t="20237" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​さー</s><s p="4">まさま さまさま あっちっちー の さまー​ ​</s><s p="2">​</s></p>
+<p t="20237" d="334" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​さー</s><s p="4">まさまさまさま　あっちっちーのさまー​ ​</s><s p="2">​</s></p>
+<p t="20571" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​さーま</s><s p="4">さま さまさま あっちっちー の さまー​ ​</s><s p="2">​</s></p>
+<p t="20571" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​さーま</s><s p="4">さまさまさま　あっちっちーのさまー​ ​</s><s p="2">​</s></p>
+<p t="20738" d="133" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​さーまさ</s><s p="4">ま さまさま あっちっちー の さまー​ ​</s><s p="2">​</s></p>
+<p t="20738" d="133" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​さーまさ</s><s p="4">まさまさま　あっちっちーのさまー​ ​</s><s p="2">​</s></p>
+<p t="20871" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​さーまさま </s><s p="4">さまさま あっちっちー の さまー​ ​</s><s p="2">​</s></p>
+<p t="20871" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​さーまさま</s><s p="4">さまさま　あっちっちーのさまー​ ​</s><s p="2">​</s></p>
+<p t="21038" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​さーまさま さ</s><s p="4">まさま あっちっちー の さまー​ ​</s><s p="2">​</s></p>
+<p t="21038" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​さーまさまさ</s><s p="4">まさま　あっちっちーのさまー​ ​</s><s p="2">​</s></p>
+<p t="21205" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​さーまさま さま</s><s p="4">さま あっちっちー の さまー​ ​</s><s p="2">​</s></p>
+<p t="21205" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​さーまさまさま</s><s p="4">さま　あっちっちーのさまー​ ​</s><s p="2">​</s></p>
+<p t="21372" d="166" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​さーまさま さまさ</s><s p="4">ま あっちっちー の さまー​ ​</s><s p="2">​</s></p>
+<p t="21372" d="166" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​さーまさまさまさ</s><s p="4">ま　あっちっちーのさまー​ ​</s><s p="2">​</s></p>
+<p t="21538" d="134" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​さーまさま さまさま </s><s p="4">あっちっちー の さまー​ ​</s><s p="2">​</s></p>
+<p t="21538" d="134" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​さーまさまさまさま　</s><s p="4">あっちっちーのさまー​ ​</s><s p="2">​</s></p>
+<p t="21672" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​さーまさま さまさま あっ</s><s p="4">ちっちー の さまー​ ​</s><s p="2">​</s></p>
+<p t="21672" d="200" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​さーまさまさまさま　あっ</s><s p="4">ちっちーのさまー​ ​</s><s p="2">​</s></p>
+<p t="21872" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​さーまさま さまさま あっちっ</s><s p="4">ちー の さまー​ ​</s><s p="2">​</s></p>
+<p t="21872" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​さーまさまさまさま　あっちっ</s><s p="4">ちーのさまー​ ​</s><s p="2">​</s></p>
+<p t="22039" d="133" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​さーまさま さまさま あっちっちー </s><s p="4">の さまー​ ​</s><s p="2">​</s></p>
+<p t="22039" d="133" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​さーまさまさまさま　あっちっちー</s><s p="4">のさまー​ ​</s><s p="2">​</s></p>
+<p t="22172" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​さーまさま さまさま あっちっちー の </s><s p="4">さまー​ ​</s><s p="2">​</s></p>
+<p t="22172" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​さーまさまさまさま　あっちっちーの</s><s p="4">さまー​ ​</s><s p="2">​</s></p>
+<p t="22339" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​さーまさま さまさま あっちっちー の さ</s><s p="4">まー​ ​</s><s p="2">​</s></p>
+<p t="22339" d="200" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​さーまさまさまさま　あっちっちーのさ</s><s p="4">まー​ ​</s><s p="2">​</s></p>
+<p t="22539" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​さーまさま さまさま あっちっちー の さまー​ ​</s><s p="2">​</s></p>
+<p t="22539" d="334" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​さーまさまさまさま　あっちっちーのさまー​ ​</s><s p="2">​</s></p>
+<p t="22873" d="300" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​さー</s><s p="4">まさま さまさま ぴっちぴち さまー​ ​</s><s p="2">​</s></p>
+<p t="22873" d="300" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​さー</s><s p="4">まさまさまさま　ぴっちぴちさまー​ ​</s><s p="2">​</s></p>
+<p t="23173" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​さーま</s><s p="4">さま さまさま ぴっちぴち さまー​ ​</s><s p="2">​</s></p>
+<p t="23173" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​さーま</s><s p="4">さまさまさま　ぴっちぴちさまー​ ​</s><s p="2">​</s></p>
+<p t="23340" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​さーまさ</s><s p="4">ま さまさま ぴっちぴち さまー​ ​</s><s p="2">​</s></p>
+<p t="23340" d="200" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​さーまさ</s><s p="4">まさまさま　ぴっちぴちさまー​ ​</s><s p="2">​</s></p>
+<p t="23540" d="134" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​さーまさま </s><s p="4">さまさま ぴっちぴち さまー​ ​</s><s p="2">​</s></p>
+<p t="23540" d="134" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​さーまさま</s><s p="4">さまさま　ぴっちぴちさまー​ ​</s><s p="2">​</s></p>
+<p t="23674" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​さーまさま さ</s><s p="4">まさま ぴっちぴち さまー​ ​</s><s p="2">​</s></p>
+<p t="23674" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​さーまさまさ</s><s p="4">まさま　ぴっちぴちさまー​ ​</s><s p="2">​</s></p>
+<p t="23841" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​さーまさま さま</s><s p="4">さま ぴっちぴち さまー​ ​</s><s p="2">​</s></p>
+<p t="23841" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​さーまさまさま</s><s p="4">さま　ぴっちぴちさまー​ ​</s><s p="2">​</s></p>
+<p t="24008" d="166" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​さーまさま さまさ</s><s p="4">ま ぴっちぴち さまー​ ​</s><s p="2">​</s></p>
+<p t="24008" d="166" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​さーまさまさまさ</s><s p="4">ま　ぴっちぴちさまー​ ​</s><s p="2">​</s></p>
+<p t="24174" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​さーまさま さまさま </s><s p="4">ぴっちぴち さまー​ ​</s><s p="2">​</s></p>
+<p t="24174" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​さーまさまさまさま　</s><s p="4">ぴっちぴちさまー​ ​</s><s p="2">​</s></p>
+<p t="24341" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​さーまさま さまさま ぴっ</s><s p="4">ちぴち さまー​ ​</s><s p="2">​</s></p>
+<p t="24341" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​さーまさまさまさま　ぴっ</s><s p="4">ちぴちさまー​ ​</s><s p="2">​</s></p>
+<p t="24508" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​さーまさま さまさま ぴっち</s><s p="4">ぴち さまー​ ​</s><s p="2">​</s></p>
+<p t="24508" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​さーまさまさまさま　ぴっち</s><s p="4">ぴちさまー​ ​</s><s p="2">​</s></p>
+<p t="24675" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​さーまさま さまさま ぴっちぴ</s><s p="4">ち さまー​ ​</s><s p="2">​</s></p>
+<p t="24675" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​さーまさまさまさま　ぴっちぴ</s><s p="4">ちさまー​ ​</s><s p="2">​</s></p>
+<p t="24842" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​さーまさま さまさま ぴっちぴち </s><s p="4">さまー​ ​</s><s p="2">​</s></p>
+<p t="24842" d="200" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​さーまさまさまさま　ぴっちぴち</s><s p="4">さまー​ ​</s><s p="2">​</s></p>
+<p t="25042" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​さーまさま さまさま ぴっちぴち さ</s><s p="4">まー​ ​</s><s p="2">​</s></p>
+<p t="25042" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​さーまさまさまさま　ぴっちぴちさ</s><s p="4">まー​ ​</s><s p="2">​</s></p>
+<p t="25209" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​さーまさま さまさま ぴっちぴち さまー​ ​</s><s p="2">​</s></p>
+<p t="25209" d="333" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​さーまさまさまさま　ぴっちぴちさまー​ ​</s><s p="2">​</s></p>
+<p t="25542" d="301" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​いー</s><s p="4">けいけ さまー いーちゃいちゃ さまー​ ​</s><s p="2">​</s></p>
+<p t="25542" d="301" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​いー</s><s p="4">けいけさまー　いーちゃいちゃさまー​ ​</s><s p="2">​</s></p>
+<p t="25843" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​いーけ</s><s p="4">いけ さまー いーちゃいちゃ さまー​ ​</s><s p="2">​</s></p>
+<p t="25843" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​いーけ</s><s p="4">いけさまー　いーちゃいちゃさまー​ ​</s><s p="2">​</s></p>
+<p t="26010" d="166" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​いーけい</s><s p="4">け さまー いーちゃいちゃ さまー​ ​</s><s p="2">​</s></p>
+<p t="26010" d="166" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​いーけい</s><s p="4">けさまー　いーちゃいちゃさまー​ ​</s><s p="2">​</s></p>
+<p t="26176" d="201" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​いーけいけ </s><s p="4">さまー いーちゃいちゃ さまー​ ​</s><s p="2">​</s></p>
+<p t="26176" d="201" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​いーけいけ</s><s p="4">さまー　いーちゃいちゃさまー​ ​</s><s p="2">​</s></p>
+<p t="26377" d="133" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​いーけいけ さ</s><s p="4">まー いーちゃいちゃ さまー​ ​</s><s p="2">​</s></p>
+<p t="26377" d="133" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​いーけいけさ</s><s p="4">まー　いーちゃいちゃさまー​ ​</s><s p="2">​</s></p>
+<p t="26510" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​いーけいけ さまー </s><s p="4">いーちゃいちゃ さまー​ ​</s><s p="2">​</s></p>
+<p t="26510" d="334" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​いーけいけさまー　</s><s p="4">いーちゃいちゃさまー​ ​</s><s p="2">​</s></p>
+<p t="26844" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​いーけいけ さまー いー</s><s p="4">ちゃいちゃ さまー​ ​</s><s p="2">​</s></p>
+<p t="26844" d="333" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​いーけいけさまー　いー</s><s p="4">ちゃいちゃさまー​ ​</s><s p="2">​</s></p>
+<p t="27177" d="134" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​いーけいけ さまー いーちゃ</s><s p="4">いちゃ さまー​ ​</s><s p="2">​</s></p>
+<p t="27177" d="134" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​いーけいけさまー　いーちゃ</s><s p="4">いちゃさまー​ ​</s><s p="2">​</s></p>
+<p t="27311" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​いーけいけ さまー いーちゃい</s><s p="4">ちゃ さまー​ ​</s><s p="2">​</s></p>
+<p t="27311" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​いーけいけさまー　いーちゃい</s><s p="4">ちゃさまー​ ​</s><s p="2">​</s></p>
+<p t="27478" d="233" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​いーけいけ さまー いーちゃいちゃ </s><s p="4">さまー​ ​</s><s p="2">​</s></p>
+<p t="27478" d="233" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​いーけいけさまー　いーちゃいちゃ</s><s p="4">さまー​ ​</s><s p="2">​</s></p>
+<p t="27711" d="134" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​いーけいけ さまー いーちゃいちゃ さ</s><s p="4">まー​ ​</s><s p="2">​</s></p>
+<p t="27711" d="134" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​いーけいけさまー　いーちゃいちゃさ</s><s p="4">まー​ ​</s><s p="2">​</s></p>
+<p t="27845" d="500" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​いーけいけ さまー いーちゃいちゃ さまー​ ​</s><s p="2">​</s></p>
+<p t="27845" d="500" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​いーけいけさまー　いーちゃいちゃさまー​ ​</s><s p="2">​</s></p>
+<p t="28345" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​め</s><s p="4">がみ さま​ ​</s><s p="2">​</s></p>
+<p t="28345" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​女</s><s p="4">神さま​ ​</s><s p="2">​</s></p>
+<p t="28512" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​めが</s><s p="4">み さま​ ​</s><s p="2">​</s></p>
+<p t="28512" d="334" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​女神</s><s p="4">さま​ ​</s><s p="2">​</s></p>
+<p t="28846" d="300" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​めがみ </s><s p="4">さま​ ​</s><s p="2">​</s></p>
+<p t="28846" d="300" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​女神</s><s p="4">さま​ ​</s><s p="2">​</s></p>
+<p t="29146" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​めがみ さ</s><s p="4">ま​ ​</s><s p="2">​</s></p>
+<p t="29146" d="334" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​女神さ</s><s p="4">ま​ ​</s><s p="2">​</s></p>
+<p t="29480" d="467" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​めがみ さま​ ​</s><s p="2">​</s></p>
+<p t="29480" d="467" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​女神さま​ ​</s><s p="2">​</s></p>
+<p t="29947" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​F</s><s p="4">ooo</s><s p="3">〜〜〜〜〜〜〜！！​ ​</s><s p="2">​</s></p>
+<p t="29947" d="200" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​F</s><s p="4">ooo</s><s p="3">〜〜〜〜〜〜〜！！​ ​</s><s p="2">​</s></p>
+<p t="30147" d="234" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Fo</s><s p="4">oo</s><s p="3">〜〜〜〜〜〜〜！！​ ​</s><s p="2">​</s></p>
+<p t="30147" d="234" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Fo</s><s p="4">oo</s><s p="3">〜〜〜〜〜〜〜！！​ ​</s><s p="2">​</s></p>
+<p t="30381" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Foo</s><s p="4">o</s><s p="3">〜〜〜〜〜〜〜！！​ ​</s><s p="2">​</s></p>
+<p t="30381" d="200" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Foo</s><s p="4">o</s><s p="3">〜〜〜〜〜〜〜！！​ ​</s><s p="2">​</s></p>
+<p t="30581" d="233" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Fooo〜〜〜〜〜〜〜！！​ ​</s><s p="2">​</s></p>
+<p t="30581" d="233" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Fooo〜〜〜〜〜〜〜！！​ ​</s><s p="2">​</s></p>
+<p t="30814" d="334" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（A！）​ ​</s><s p="2">​</s></p>
+<p t="30814" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​え</s><s p="7">え </s><s p="4">あんばい の そら に しろい くも そして​ ​</s><s p="2">​</s></p>
+<p t="30814" d="334" wp="10" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（A！）​ ​</s><s p="2">​</s></p>
+<p t="30814" d="334" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​え</s><s p="8">え</s><s p="4">塩梅の空に白い雲　そして​ ​</s><s p="2">​</s></p>
+<p t="31148" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​え</s><s p="7">え </s><s p="9">あ</s><s p="10">ん</s><s p="4">ばい の そら に しろい くも そして​ ​</s><s p="2">​</s></p>
+<p t="31148" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​え</s><s p="8">え</s><s p="11">塩</s><s p="4">梅の空に白い雲　そして​ ​</s><s p="2">​</s></p>
+<p t="31315" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​え</s><s p="7">え </s><s p="9">あ</s><s p="10">ん</s><s p="12">ば</s><s p="13">い </s><s p="4">の そら に しろい くも そして​ ​</s><s p="2">​</s></p>
+<p t="31315" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​え</s><s p="8">え</s><s p="11">塩</s><s p="14">梅</s><s p="4">の空に白い雲　そして​ ​</s><s p="2">​</s></p>
+<p t="31482" d="166" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​え</s><s p="7">え </s><s p="9">あ</s><s p="10">ん</s><s p="12">ば</s><s p="13">い </s><s p="15">の </s><s p="4">そら に しろい くも そして​ ​</s><s p="2">​</s></p>
+<p t="31482" d="166" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​え</s><s p="8">え</s><s p="11">塩</s><s p="14">梅</s><s p="16">の</s><s p="4">空に白い雲　そして​ ​</s><s p="2">​</s></p>
+<p t="31648" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​え</s><s p="7">え </s><s p="9">あ</s><s p="10">ん</s><s p="12">ば</s><s p="13">い </s><s p="15">の </s><s p="17">そ</s><s p="4">ら に しろい くも そして​ ​</s><s p="2">​</s></p>
+<p t="31648" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​え</s><s p="8">え</s><s p="11">塩</s><s p="14">梅</s><s p="16">の</s><s p="18">空</s><s p="4">に白い雲　そして​ ​</s><s p="2">​</s></p>
+<p t="31815" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​え</s><s p="7">え </s><s p="9">あ</s><s p="10">ん</s><s p="12">ば</s><s p="13">い </s><s p="15">の </s><s p="17">そ</s><s p="19">ら </s><s p="4">に しろい くも そして​ ​</s><s p="2">​</s></p>
+<p t="31815" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​え</s><s p="8">え</s><s p="11">塩</s><s p="14">梅</s><s p="16">の</s><s p="18">空</s><s p="4">に白い雲　そして​ ​</s><s p="2">​</s></p>
+<p t="31982" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​え</s><s p="7">え </s><s p="9">あ</s><s p="10">ん</s><s p="12">ば</s><s p="13">い </s><s p="15">の </s><s p="17">そ</s><s p="19">ら </s><s p="20">に </s><s p="4">しろい くも そして​ ​</s><s p="2">​</s></p>
+<p t="31982" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​え</s><s p="8">え</s><s p="11">塩</s><s p="14">梅</s><s p="16">の</s><s p="18">空</s><s p="21">に</s><s p="4">白い雲　そして​ ​</s><s p="2">​</s></p>
+<p t="32149" d="133" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​え</s><s p="7">え </s><s p="9">あ</s><s p="10">ん</s><s p="12">ば</s><s p="13">い </s><s p="15">の </s><s p="17">そ</s><s p="19">ら </s><s p="20">に </s><s p="22">し</s><s p="4">ろい くも そして​ ​</s><s p="2">​</s></p>
+<p t="32149" d="133" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​え</s><s p="8">え</s><s p="11">塩</s><s p="14">梅</s><s p="16">の</s><s p="18">空</s><s p="21">に</s><s p="20">白</s><s p="4">い雲　そして​ ​</s><s p="2">​</s></p>
+<p t="32282" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​え</s><s p="7">え </s><s p="9">あ</s><s p="10">ん</s><s p="12">ば</s><s p="13">い </s><s p="15">の </s><s p="17">そ</s><s p="19">ら </s><s p="20">に </s><s p="22">し</s><s p="23">ろ</s><s p="4">い くも そして​ ​</s><s p="2">​</s></p>
+<p t="32282" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​え</s><s p="8">え</s><s p="11">塩</s><s p="14">梅</s><s p="16">の</s><s p="18">空</s><s p="21">に</s><s p="20">白</s><s p="4">い雲　そして​ ​</s><s p="2">​</s></p>
+<p t="32449" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​え</s><s p="7">え </s><s p="9">あ</s><s p="10">ん</s><s p="12">ば</s><s p="13">い </s><s p="15">の </s><s p="17">そ</s><s p="19">ら </s><s p="20">に </s><s p="22">し</s><s p="23">ろ</s><s p="24">い </s><s p="4">くも そして​ ​</s><s p="2">​</s></p>
+<p t="32449" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​え</s><s p="8">え</s><s p="11">塩</s><s p="14">梅</s><s p="16">の</s><s p="18">空</s><s p="21">に</s><s p="20">白</s><s p="25">い</s><s p="4">雲　そして​ ​</s><s p="2">​</s></p>
+<p t="32616" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​え</s><s p="7">え </s><s p="9">あ</s><s p="10">ん</s><s p="12">ば</s><s p="13">い </s><s p="15">の </s><s p="17">そ</s><s p="19">ら </s><s p="20">に </s><s p="22">し</s><s p="23">ろ</s><s p="24">い </s><s p="26">く</s><s p="4">も そして​ ​</s><s p="2">​</s></p>
+<p t="32616" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​え</s><s p="8">え</s><s p="11">塩</s><s p="14">梅</s><s p="16">の</s><s p="18">空</s><s p="21">に</s><s p="20">白</s><s p="25">い</s><s p="27">雲</s><s p="4">　そして​ ​</s><s p="2">​</s></p>
+<p t="32783" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​え</s><s p="7">え </s><s p="9">あ</s><s p="10">ん</s><s p="12">ば</s><s p="13">い </s><s p="15">の </s><s p="17">そ</s><s p="19">ら </s><s p="20">に </s><s p="22">し</s><s p="23">ろ</s><s p="24">い </s><s p="26">く</s><s p="28">も </s><s p="4">そして​ ​</s><s p="2">​</s></p>
+<p t="32783" d="367" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​え</s><s p="8">え</s><s p="11">塩</s><s p="14">梅</s><s p="16">の</s><s p="18">空</s><s p="21">に</s><s p="20">白</s><s p="25">い</s><s p="27">雲</s><s p="29">　</s><s p="4">そして​ ​</s><s p="2">​</s></p>
+<p t="33150" d="67" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​え</s><s p="7">え </s><s p="9">あ</s><s p="10">ん</s><s p="12">ば</s><s p="13">い </s><s p="15">の </s><s p="17">そ</s><s p="19">ら </s><s p="20">に </s><s p="22">し</s><s p="23">ろ</s><s p="24">い </s><s p="26">く</s><s p="28">も </s><s p="30">そ</s><s p="4">して​ ​</s><s p="2">​</s></p>
+<p t="33150" d="67" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​え</s><s p="8">え</s><s p="11">塩</s><s p="14">梅</s><s p="16">の</s><s p="18">空</s><s p="21">に</s><s p="20">白</s><s p="25">い</s><s p="27">雲</s><s p="29">　</s><s p="31">そ</s><s p="4">して​ ​</s><s p="2">​</s></p>
+<p t="33217" d="66" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​え</s><s p="7">え </s><s p="9">あ</s><s p="10">ん</s><s p="12">ば</s><s p="13">い </s><s p="15">の </s><s p="17">そ</s><s p="19">ら </s><s p="20">に </s><s p="22">し</s><s p="23">ろ</s><s p="24">い </s><s p="26">く</s><s p="28">も </s><s p="30">そ</s><s p="32">し</s><s p="4">て​ ​</s><s p="2">​</s></p>
+<p t="33217" d="66" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​え</s><s p="8">え</s><s p="11">塩</s><s p="14">梅</s><s p="16">の</s><s p="18">空</s><s p="21">に</s><s p="20">白</s><s p="25">い</s><s p="27">雲</s><s p="29">　</s><s p="31">そ</s><s p="33">し</s><s p="4">て​ ​</s><s p="2">​</s></p>
+<p t="33283" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​え</s><s p="7">え </s><s p="9">あ</s><s p="10">ん</s><s p="12">ば</s><s p="13">い </s><s p="15">の </s><s p="17">そ</s><s p="19">ら </s><s p="20">に </s><s p="22">し</s><s p="23">ろ</s><s p="24">い </s><s p="26">く</s><s p="28">も </s><s p="30">そ</s><s p="32">し</s><s p="34">て​ ​</s><s p="2">​</s></p>
+<p t="33283" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​え</s><s p="8">え</s><s p="11">塩</s><s p="14">梅</s><s p="16">の</s><s p="18">空</s><s p="21">に</s><s p="20">白</s><s p="25">い</s><s p="27">雲</s><s p="29">　</s><s p="31">そ</s><s p="33">し</s><s p="34">て​ ​</s><s p="2">​</s></p>
+<p t="33450" d="334" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（B！）​ ​</s><s p="2">​</s></p>
+<p t="33450" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="35">​ ​び</s><s p="36">ー</s><s p="4">ち すなはま これ この むーど​ ​</s><s p="2">​</s></p>
+<p t="33450" d="334" wp="10" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（B！）​ ​</s><s p="2">​</s></p>
+<p t="33450" d="334" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="35">​ ​ビ</s><s p="36">ー</s><s p="4">チ砂浜これこのムード​ ​</s><s p="2">​</s></p>
+<p t="33784" d="133" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="35">​ ​び</s><s p="36">ー</s><s p="37">ち </s><s p="4">すなはま これ この むーど​ ​</s><s p="2">​</s></p>
+<p t="33784" d="133" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="35">​ ​ビ</s><s p="36">ー</s><s p="37">チ</s><s p="4">砂浜これこのムード​ ​</s><s p="2">​</s></p>
+<p t="33917" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="35">​ ​び</s><s p="36">ー</s><s p="37">ち </s><s p="38">す</s><s p="4">なはま これ この むーど​ ​</s><s p="2">​</s></p>
+<p t="33917" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="35">​ ​ビ</s><s p="36">ー</s><s p="37">チ</s><s p="38">砂</s><s p="4">浜これこのムード​ ​</s><s p="2">​</s></p>
+<p t="34084" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="35">​ ​び</s><s p="36">ー</s><s p="37">ち </s><s p="38">す</s><s p="39">な</s><s p="4">はま これ この むーど​ ​</s><s p="2">​</s></p>
+<p t="34084" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="35">​ ​ビ</s><s p="36">ー</s><s p="37">チ</s><s p="38">砂</s><s p="4">浜これこのムード​ ​</s><s p="2">​</s></p>
+<p t="34251" d="134" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="35">​ ​び</s><s p="36">ー</s><s p="37">ち </s><s p="38">す</s><s p="39">な</s><s p="40">は</s><s p="4">ま これ この むーど​ ​</s><s p="2">​</s></p>
+<p t="34251" d="134" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="35">​ ​ビ</s><s p="36">ー</s><s p="37">チ</s><s p="38">砂</s><s p="40">浜</s><s p="4">これこのムード​ ​</s><s p="2">​</s></p>
+<p t="34385" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="35">​ ​び</s><s p="36">ー</s><s p="37">ち </s><s p="38">す</s><s p="39">な</s><s p="40">は</s><s p="41">ま </s><s p="4">これ この むーど​ ​</s><s p="2">​</s></p>
+<p t="34385" d="200" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="35">​ ​ビ</s><s p="36">ー</s><s p="37">チ</s><s p="38">砂</s><s p="40">浜</s><s p="4">これこのムード​ ​</s><s p="2">​</s></p>
+<p t="34585" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="35">​ ​び</s><s p="36">ー</s><s p="37">ち </s><s p="38">す</s><s p="39">な</s><s p="40">は</s><s p="41">ま </s><s p="42">こ</s><s p="4">れ この むーど​ ​</s><s p="2">​</s></p>
+<p t="34585" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="35">​ ​ビ</s><s p="36">ー</s><s p="37">チ</s><s p="38">砂</s><s p="40">浜</s><s p="42">こ</s><s p="4">れこのムード​ ​</s><s p="2">​</s></p>
+<p t="34752" d="166" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="35">​ ​び</s><s p="36">ー</s><s p="37">ち </s><s p="38">す</s><s p="39">な</s><s p="40">は</s><s p="41">ま </s><s p="42">こ</s><s p="43">れ </s><s p="4">この むーど​ ​</s><s p="2">​</s></p>
+<p t="34752" d="166" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="35">​ ​ビ</s><s p="36">ー</s><s p="37">チ</s><s p="38">砂</s><s p="40">浜</s><s p="42">こ</s><s p="43">れ</s><s p="4">このムード​ ​</s><s p="2">​</s></p>
+<p t="34918" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="35">​ ​び</s><s p="36">ー</s><s p="37">ち </s><s p="38">す</s><s p="39">な</s><s p="40">は</s><s p="41">ま </s><s p="42">こ</s><s p="43">れ </s><s p="44">こ</s><s p="4">の むーど​ ​</s><s p="2">​</s></p>
+<p t="34918" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="35">​ ​ビ</s><s p="36">ー</s><s p="37">チ</s><s p="38">砂</s><s p="40">浜</s><s p="42">こ</s><s p="43">れ</s><s p="44">こ</s><s p="4">のムード​ ​</s><s p="2">​</s></p>
+<p t="35085" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="35">​ ​び</s><s p="36">ー</s><s p="37">ち </s><s p="38">す</s><s p="39">な</s><s p="40">は</s><s p="41">ま </s><s p="42">こ</s><s p="43">れ </s><s p="44">こ</s><s p="45">の </s><s p="4">むーど​ ​</s><s p="2">​</s></p>
+<p t="35085" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="35">​ ​ビ</s><s p="36">ー</s><s p="37">チ</s><s p="38">砂</s><s p="40">浜</s><s p="42">こ</s><s p="43">れ</s><s p="44">こ</s><s p="45">の</s><s p="4">ムード​ ​</s><s p="2">​</s></p>
+<p t="35252" d="100" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="35">​ ​び</s><s p="36">ー</s><s p="37">ち </s><s p="38">す</s><s p="39">な</s><s p="40">は</s><s p="41">ま </s><s p="42">こ</s><s p="43">れ </s><s p="44">こ</s><s p="45">の </s><s p="46">む</s><s p="4">ーど​ ​</s><s p="2">​</s></p>
+<p t="35252" d="100" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="35">​ ​ビ</s><s p="36">ー</s><s p="37">チ</s><s p="38">砂</s><s p="40">浜</s><s p="42">こ</s><s p="43">れ</s><s p="44">こ</s><s p="45">の</s><s p="46">ム</s><s p="4">ード​ ​</s><s p="2">​</s></p>
+<p t="35352" d="67" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="35">​ ​び</s><s p="36">ー</s><s p="37">ち </s><s p="38">す</s><s p="39">な</s><s p="40">は</s><s p="41">ま </s><s p="42">こ</s><s p="43">れ </s><s p="44">こ</s><s p="45">の </s><s p="46">む</s><s p="47">ー</s><s p="4">ど​ ​</s><s p="2">​</s></p>
+<p t="35352" d="67" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="35">​ ​ビ</s><s p="36">ー</s><s p="37">チ</s><s p="38">砂</s><s p="40">浜</s><s p="42">こ</s><s p="43">れ</s><s p="44">こ</s><s p="45">の</s><s p="46">ム</s><s p="47">ー</s><s p="4">ド​ ​</s><s p="2">​</s></p>
+<p t="35419" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="35">​ ​び</s><s p="36">ー</s><s p="37">ち </s><s p="38">す</s><s p="39">な</s><s p="40">は</s><s p="41">ま </s><s p="42">こ</s><s p="43">れ </s><s p="44">こ</s><s p="45">の </s><s p="46">む</s><s p="47">ー</s><s p="48">ど​ ​</s><s p="2">​</s></p>
+<p t="35419" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="35">​ ​ビ</s><s p="36">ー</s><s p="37">チ</s><s p="38">砂</s><s p="40">浜</s><s p="42">こ</s><s p="43">れ</s><s p="44">こ</s><s p="45">の</s><s p="46">ム</s><s p="47">ー</s><s p="48">ド​ ​</s><s p="2">​</s></p>
+<p t="35586" d="167" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（す</s><s p="4">ばら C</s><s p="3">！）​ ​</s><s p="2">​</s></p>
+<p t="35586" d="167" wp="10" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（素</s><s p="4">晴らC</s><s p="3">！）​ ​</s><s p="2">​</s></p>
+<p t="35753" d="166" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（すば</s><s p="4">ら C</s><s p="3">！）​ ​</s><s p="2">​</s></p>
+<p t="35753" d="166" wp="10" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（素晴</s><s p="4">らC</s><s p="3">！）​ ​</s><s p="2">​</s></p>
+<p t="35919" d="167" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（すばら </s><s p="4">C</s><s p="3">！）​ ​</s><s p="2">​</s></p>
+<p t="35919" d="167" wp="10" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（素晴ら</s><s p="4">C</s><s p="3">！）​ ​</s><s p="2">​</s></p>
+<p t="36086" d="334" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（すばら C！）​ ​</s><s p="2">​</s></p>
+<p t="36086" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="49">​ ​し</s><s p="4">じょう さいきょう の わたし が ヴぃーなす​ ​</s><s p="2">​</s></p>
+<p t="36086" d="334" wp="10" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（素晴らC！）​ ​</s><s p="2">​</s></p>
+<p t="36086" d="334" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="49">​ ​史</s><s p="4">上最強の私がヴィーナス​ ​</s><s p="2">​</s></p>
+<p t="36420" d="133" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="49">​ ​し</s><s p="50">じ</s><s p="51">ょ</s><s p="4">う さいきょう の わたし が ヴぃーなす​ ​</s><s p="2">​</s></p>
+<p t="36420" d="133" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="49">​ ​史</s><s p="52">上</s><s p="4">最強の私がヴィーナス​ ​</s><s p="2">​</s></p>
+<p t="36553" d="201" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="49">​ ​し</s><s p="50">じ</s><s p="51">ょ</s><s p="53">う </s><s p="4">さいきょう の わたし が ヴぃーなす​ ​</s><s p="2">​</s></p>
+<p t="36553" d="201" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="49">​ ​史</s><s p="52">上</s><s p="4">最強の私がヴィーナス​ ​</s><s p="2">​</s></p>
+<p t="36754" d="166" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="49">​ ​し</s><s p="50">じ</s><s p="51">ょ</s><s p="53">う </s><s p="54">さ</s><s p="4">いきょう の わたし が ヴぃーなす​ ​</s><s p="2">​</s></p>
+<p t="36754" d="166" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="49">​ ​史</s><s p="52">上</s><s p="55">最</s><s p="4">強の私がヴィーナス​ ​</s><s p="2">​</s></p>
+<p t="36920" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="49">​ ​し</s><s p="50">じ</s><s p="51">ょ</s><s p="53">う </s><s p="54">さ</s><s p="56">い</s><s p="4">きょう の わたし が ヴぃーなす​ ​</s><s p="2">​</s></p>
+<p t="36920" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="49">​ ​史</s><s p="52">上</s><s p="55">最</s><s p="4">強の私がヴィーナス​ ​</s><s p="2">​</s></p>
+<p t="37087" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="49">​ ​し</s><s p="50">じ</s><s p="51">ょ</s><s p="53">う </s><s p="54">さ</s><s p="56">い</s><s p="57">き</s><s p="58">ょ</s><s p="4">う の わたし が ヴぃーなす​ ​</s><s p="2">​</s></p>
+<p t="37087" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="49">​ ​史</s><s p="52">上</s><s p="55">最</s><s p="59">強</s><s p="4">の私がヴィーナス​ ​</s><s p="2">​</s></p>
+<p t="37254" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="49">​ ​し</s><s p="50">じ</s><s p="51">ょ</s><s p="53">う </s><s p="54">さ</s><s p="56">い</s><s p="57">き</s><s p="58">ょ</s><s p="60">う </s><s p="4">の わたし が ヴぃーなす​ ​</s><s p="2">​</s></p>
+<p t="37254" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="49">​ ​史</s><s p="52">上</s><s p="55">最</s><s p="59">強</s><s p="4">の私がヴィーナス​ ​</s><s p="2">​</s></p>
+<p t="37421" d="133" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="49">​ ​し</s><s p="50">じ</s><s p="51">ょ</s><s p="53">う </s><s p="54">さ</s><s p="56">い</s><s p="57">き</s><s p="58">ょ</s><s p="60">う </s><s p="61">の </s><s p="4">わたし が ヴぃーなす​ ​</s><s p="2">​</s></p>
+<p t="37421" d="133" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="49">​ ​史</s><s p="52">上</s><s p="55">最</s><s p="59">強</s><s p="62">の</s><s p="4">私がヴィーナス​ ​</s><s p="2">​</s></p>
+<p t="37554" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="49">​ ​し</s><s p="50">じ</s><s p="51">ょ</s><s p="53">う </s><s p="54">さ</s><s p="56">い</s><s p="57">き</s><s p="58">ょ</s><s p="60">う </s><s p="61">の </s><s p="63">わ</s><s p="4">たし が ヴぃーなす​ ​</s><s p="2">​</s></p>
+<p t="37554" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="49">​ ​史</s><s p="52">上</s><s p="55">最</s><s p="59">強</s><s p="62">の</s><s p="61">私</s><s p="4">がヴィーナス​ ​</s><s p="2">​</s></p>
+<p t="37721" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="49">​ ​し</s><s p="50">じ</s><s p="51">ょ</s><s p="53">う </s><s p="54">さ</s><s p="56">い</s><s p="57">き</s><s p="58">ょ</s><s p="60">う </s><s p="61">の </s><s p="63">わ</s><s p="64">た</s><s p="4">し が ヴぃーなす​ ​</s><s p="2">​</s></p>
+<p t="37721" d="200" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="49">​ ​史</s><s p="52">上</s><s p="55">最</s><s p="59">強</s><s p="62">の</s><s p="61">私</s><s p="4">がヴィーナス​ ​</s><s p="2">​</s></p>
+<p t="37921" d="134" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="49">​ ​し</s><s p="50">じ</s><s p="51">ょ</s><s p="53">う </s><s p="54">さ</s><s p="56">い</s><s p="57">き</s><s p="58">ょ</s><s p="60">う </s><s p="61">の </s><s p="63">わ</s><s p="64">た</s><s p="65">し </s><s p="4">が ヴぃーなす​ ​</s><s p="2">​</s></p>
+<p t="37921" d="134" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="49">​ ​史</s><s p="52">上</s><s p="55">最</s><s p="59">強</s><s p="62">の</s><s p="61">私</s><s p="4">がヴィーナス​ ​</s><s p="2">​</s></p>
+<p t="38055" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="49">​ ​し</s><s p="50">じ</s><s p="51">ょ</s><s p="53">う </s><s p="54">さ</s><s p="56">い</s><s p="57">き</s><s p="58">ょ</s><s p="60">う </s><s p="61">の </s><s p="63">わ</s><s p="64">た</s><s p="65">し </s><s p="66">が </s><s p="4">ヴぃーなす​ ​</s><s p="2">​</s></p>
+<p t="38055" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="49">​ ​史</s><s p="52">上</s><s p="55">最</s><s p="59">強</s><s p="62">の</s><s p="61">私</s><s p="67">が</s><s p="4">ヴィーナス​ ​</s><s p="2">​</s></p>
+<p t="38222" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="49">​ ​し</s><s p="50">じ</s><s p="51">ょ</s><s p="53">う </s><s p="54">さ</s><s p="56">い</s><s p="57">き</s><s p="58">ょ</s><s p="60">う </s><s p="61">の </s><s p="63">わ</s><s p="64">た</s><s p="65">し </s><s p="66">が </s><s p="68">ヴ</s><s p="69">ぃ</s><s p="70">ー</s><s p="4">なす​ ​</s><s p="2">​</s></p>
+<p t="38222" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="49">​ ​史</s><s p="52">上</s><s p="55">最</s><s p="59">強</s><s p="62">の</s><s p="61">私</s><s p="67">が</s><s p="71">ヴ</s><s p="72">ィ</s><s p="73">ー</s><s p="4">ナス​ ​</s><s p="2">​</s></p>
+<p t="38389" d="166" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="49">​ ​し</s><s p="50">じ</s><s p="51">ょ</s><s p="53">う </s><s p="54">さ</s><s p="56">い</s><s p="57">き</s><s p="58">ょ</s><s p="60">う </s><s p="61">の </s><s p="63">わ</s><s p="64">た</s><s p="65">し </s><s p="66">が </s><s p="68">ヴ</s><s p="69">ぃ</s><s p="70">ー</s><s p="74">な</s><s p="4">す​ ​</s><s p="2">​</s></p>
+<p t="38389" d="166" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="49">​ ​史</s><s p="52">上</s><s p="55">最</s><s p="59">強</s><s p="62">の</s><s p="61">私</s><s p="67">が</s><s p="71">ヴ</s><s p="72">ィ</s><s p="73">ー</s><s p="75">ナ</s><s p="4">ス​ ​</s><s p="2">​</s></p>
+<p t="38555" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="49">​ ​し</s><s p="50">じ</s><s p="51">ょ</s><s p="53">う </s><s p="54">さ</s><s p="56">い</s><s p="57">き</s><s p="58">ょ</s><s p="60">う </s><s p="61">の </s><s p="63">わ</s><s p="64">た</s><s p="65">し </s><s p="66">が </s><s p="68">ヴ</s><s p="69">ぃ</s><s p="70">ー</s><s p="74">な</s><s p="76">す​ ​</s><s p="2">​</s></p>
+<p t="38555" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="49">​ ​史</s><s p="52">上</s><s p="55">最</s><s p="59">強</s><s p="62">の</s><s p="61">私</s><s p="67">が</s><s p="71">ヴ</s><s p="72">ィ</s><s p="73">ー</s><s p="75">ナ</s><s p="76">ス​ ​</s><s p="2">​</s></p>
+<p t="38722" d="301" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​い</s><s p="4">ちばん なんて きめらんない​ ​</s><s p="2">​</s></p>
+<p t="38722" d="301" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​一</s><s p="4">番なんて決めらんない​ ​</s><s p="2">​</s></p>
+<p t="39023" d="166" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​いち</s><s p="4">ばん なんて きめらんない​ ​</s><s p="2">​</s></p>
+<p t="39023" d="166" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​一</s><s p="4">番なんて決めらんない​ ​</s><s p="2">​</s></p>
+<p t="39189" d="201" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​いちば</s><s p="4">ん なんて きめらんない​ ​</s><s p="2">​</s></p>
+<p t="39189" d="201" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​一番</s><s p="4">なんて決めらんない​ ​</s><s p="2">​</s></p>
+<p t="39390" d="133" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​いちばん </s><s p="4">なんて きめらんない​ ​</s><s p="2">​</s></p>
+<p t="39390" d="133" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​一番</s><s p="4">なんて決めらんない​ ​</s><s p="2">​</s></p>
+<p t="39523" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​いちばん な</s><s p="4">んて きめらんない​ ​</s><s p="2">​</s></p>
+<p t="39523" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​一番な</s><s p="4">んて決めらんない​ ​</s><s p="2">​</s></p>
+<p t="39690" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​いちばん なん</s><s p="4">て きめらんない​ ​</s><s p="2">​</s></p>
+<p t="39690" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​一番なん</s><s p="4">て決めらんない​ ​</s><s p="2">​</s></p>
+<p t="39857" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​いちばん なんて </s><s p="4">きめらんない​ ​</s><s p="2">​</s></p>
+<p t="39857" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​一番なんて</s><s p="4">決めらんない​ ​</s><s p="2">​</s></p>
+<p t="40024" d="133" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​いちばん なんて き</s><s p="4">めらんない​ ​</s><s p="2">​</s></p>
+<p t="40024" d="133" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​一番なんて決</s><s p="4">めらんない​ ​</s><s p="2">​</s></p>
+<p t="40157" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​いちばん なんて きめ</s><s p="4">らんない​ ​</s><s p="2">​</s></p>
+<p t="40157" d="200" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​一番なんて決め</s><s p="4">らんない​ ​</s><s p="2">​</s></p>
+<p t="40357" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​いちばん なんて きめら</s><s p="4">んない​ ​</s><s p="2">​</s></p>
+<p t="40357" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​一番なんて決めら</s><s p="4">んない​ ​</s><s p="2">​</s></p>
+<p t="40524" d="133" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​いちばん なんて きめらん</s><s p="4">ない​ ​</s><s p="2">​</s></p>
+<p t="40524" d="133" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​一番なんて決めらん</s><s p="4">ない​ ​</s><s p="2">​</s></p>
+<p t="40657" d="201" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​いちばん なんて きめらんな</s><s p="4">い​ ​</s><s p="2">​</s></p>
+<p t="40657" d="201" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​一番なんて決めらんな</s><s p="4">い​ ​</s><s p="2">​</s></p>
+<p t="40858" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​いちばん なんて きめらんない​ ​</s><s p="2">​</s></p>
+<p t="40858" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​一番なんて決めらんない​ ​</s><s p="2">​</s></p>
+<p t="41025" d="166" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="77">​ ​（</s><s p="78">そ</s><s p="4">れ な</s><s p="79">？</s><s p="80">）​ ​</s><s p="2">​</s></p>
+<p t="41025" d="166" wp="10" ws="1"><s p="2">​</s><s>​</s><s p="77">​ ​（</s><s p="78">そ</s><s p="4">れな</s><s p="79">？</s><s p="80">）​ ​</s><s p="2">​</s></p>
+<p t="41191" d="167" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="77">​ ​（</s><s p="78">そ</s><s p="81">れ </s><s p="4">な</s><s p="79">？</s><s p="80">）​ ​</s><s p="2">​</s></p>
+<p t="41191" d="167" wp="10" ws="1"><s p="2">​</s><s>​</s><s p="77">​ ​（</s><s p="78">そ</s><s p="81">れ</s><s p="4">な</s><s p="79">？</s><s p="80">）​ ​</s><s p="2">​</s></p>
+<p t="41358" d="334" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="77">​ ​（</s><s p="78">そ</s><s p="81">れ </s><s p="82">な？）​ ​</s><s p="2">​</s></p>
+<p t="41358" d="334" wp="10" ws="1"><s p="2">​</s><s>​</s><s p="77">​ ​（</s><s p="78">そ</s><s p="81">れ</s><s p="82">な？）​ ​</s><s p="2">​</s></p>
+<p t="41692" d="334" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（D！）​ ​</s><s p="2">​</s></p>
+<p t="41692" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="83">​ ​ど</s><s p="4">こ で かった の その みずぎ</s><s p="84">？ </s><s p="4">めっちゃ E</s><s p="85">！​ ​</s><s p="2">​</s></p>
+<p t="41692" d="334" wp="10" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（D！）​ ​</s><s p="2">​</s></p>
+<p t="41692" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="83">​ ​ど</s><s p="4">こで買ったのその水着</s><s p="86">？</s><s p="4">　めっちゃE</s><s p="85">！​ ​</s><s p="2">​</s></p>
+<p t="41859" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="83">​ ​ど</s><s p="87">こ </s><s p="4">で かった の その みずぎ</s><s p="84">？ </s><s p="4">めっちゃ E</s><s p="85">！​ ​</s><s p="2">​</s></p>
+<p t="41859" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="83">​ ​ど</s><s p="87">こ</s><s p="4">で買ったのその水着</s><s p="86">？</s><s p="4">　めっちゃE</s><s p="85">！​ ​</s><s p="2">​</s></p>
+<p t="42026" d="166" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="83">​ ​ど</s><s p="87">こ </s><s p="88">で </s><s p="4">かった の その みずぎ</s><s p="84">？ </s><s p="4">めっちゃ E</s><s p="85">！​ ​</s><s p="2">​</s></p>
+<p t="42026" d="166" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="83">​ ​ど</s><s p="87">こ</s><s p="89">で</s><s p="4">買ったのその水着</s><s p="86">？</s><s p="4">　めっちゃE</s><s p="85">！​ ​</s><s p="2">​</s></p>
+<p t="42192" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="83">​ ​ど</s><s p="87">こ </s><s p="88">で </s><s p="90">か</s><s p="91">っ</s><s p="4">た の その みずぎ</s><s p="84">？ </s><s p="4">めっちゃ E</s><s p="85">！​ ​</s><s p="2">​</s></p>
+<p t="42192" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="83">​ ​ど</s><s p="87">こ</s><s p="89">で</s><s p="92">買</s><s p="93">っ</s><s p="4">たのその水着</s><s p="86">？</s><s p="4">　めっちゃE</s><s p="85">！​ ​</s><s p="2">​</s></p>
+<p t="42359" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="83">​ ​ど</s><s p="87">こ </s><s p="88">で </s><s p="90">か</s><s p="91">っ</s><s p="94">た </s><s p="4">の その みずぎ</s><s p="84">？ </s><s p="4">めっちゃ E</s><s p="85">！​ ​</s><s p="2">​</s></p>
+<p t="42359" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="83">​ ​ど</s><s p="87">こ</s><s p="89">で</s><s p="92">買</s><s p="93">っ</s><s p="95">た</s><s p="4">のその水着</s><s p="86">？</s><s p="4">　めっちゃE</s><s p="85">！​ ​</s><s p="2">​</s></p>
+<p t="42526" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="83">​ ​ど</s><s p="87">こ </s><s p="88">で </s><s p="90">か</s><s p="91">っ</s><s p="94">た </s><s p="96">の </s><s p="4">その みずぎ</s><s p="84">？ </s><s p="4">めっちゃ E</s><s p="85">！​ ​</s><s p="2">​</s></p>
+<p t="42526" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="83">​ ​ど</s><s p="87">こ</s><s p="89">で</s><s p="92">買</s><s p="93">っ</s><s p="95">た</s><s p="97">の</s><s p="4">その水着</s><s p="86">？</s><s p="4">　めっちゃE</s><s p="85">！​ ​</s><s p="2">​</s></p>
+<p t="42693" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="83">​ ​ど</s><s p="87">こ </s><s p="88">で </s><s p="90">か</s><s p="91">っ</s><s p="94">た </s><s p="96">の </s><s p="98">そ</s><s p="4">の みずぎ</s><s p="84">？ </s><s p="4">めっちゃ E</s><s p="85">！​ ​</s><s p="2">​</s></p>
+<p t="42693" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="83">​ ​ど</s><s p="87">こ</s><s p="89">で</s><s p="92">買</s><s p="93">っ</s><s p="95">た</s><s p="97">の</s><s p="99">そ</s><s p="4">の水着</s><s p="86">？</s><s p="4">　めっちゃE</s><s p="85">！​ ​</s><s p="2">​</s></p>
+<p t="42860" d="133" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="83">​ ​ど</s><s p="87">こ </s><s p="88">で </s><s p="90">か</s><s p="91">っ</s><s p="94">た </s><s p="96">の </s><s p="98">そ</s><s p="100">の </s><s p="4">みずぎ</s><s p="84">？ </s><s p="4">めっちゃ E</s><s p="85">！​ ​</s><s p="2">​</s></p>
+<p t="42860" d="133" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="83">​ ​ど</s><s p="87">こ</s><s p="89">で</s><s p="92">買</s><s p="93">っ</s><s p="95">た</s><s p="97">の</s><s p="99">そ</s><s p="101">の</s><s p="4">水着</s><s p="86">？</s><s p="4">　めっちゃE</s><s p="85">！​ ​</s><s p="2">​</s></p>
+<p t="42993" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="83">​ ​ど</s><s p="87">こ </s><s p="88">で </s><s p="90">か</s><s p="91">っ</s><s p="94">た </s><s p="96">の </s><s p="98">そ</s><s p="100">の </s><s p="102">み</s><s p="4">ずぎ</s><s p="84">？ </s><s p="4">めっちゃ E</s><s p="85">！​ ​</s><s p="2">​</s></p>
+<p t="42993" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="83">​ ​ど</s><s p="87">こ</s><s p="89">で</s><s p="92">買</s><s p="93">っ</s><s p="95">た</s><s p="97">の</s><s p="99">そ</s><s p="101">の</s><s p="103">水</s><s p="4">着</s><s p="86">？</s><s p="4">　めっちゃE</s><s p="85">！​ ​</s><s p="2">​</s></p>
+<p t="43160" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="83">​ ​ど</s><s p="87">こ </s><s p="88">で </s><s p="90">か</s><s p="91">っ</s><s p="94">た </s><s p="96">の </s><s p="98">そ</s><s p="100">の </s><s p="102">み</s><s p="104">ず</s><s p="4">ぎ</s><s p="84">？ </s><s p="4">めっちゃ E</s><s p="85">！​ ​</s><s p="2">​</s></p>
+<p t="43160" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="83">​ ​ど</s><s p="87">こ</s><s p="89">で</s><s p="92">買</s><s p="93">っ</s><s p="95">た</s><s p="97">の</s><s p="99">そ</s><s p="101">の</s><s p="103">水</s><s p="105">着？</s><s p="4">　めっちゃE</s><s p="85">！​ ​</s><s p="2">​</s></p>
+<p t="43327" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="83">​ ​ど</s><s p="87">こ </s><s p="88">で </s><s p="90">か</s><s p="91">っ</s><s p="94">た </s><s p="96">の </s><s p="98">そ</s><s p="100">の </s><s p="102">み</s><s p="104">ず</s><s p="106">ぎ？ </s><s p="4">めっちゃ E</s><s p="85">！​ ​</s><s p="2">​</s></p>
+<p t="43327" d="200" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="83">​ ​ど</s><s p="87">こ</s><s p="89">で</s><s p="92">買</s><s p="93">っ</s><s p="95">た</s><s p="97">の</s><s p="99">そ</s><s p="101">の</s><s p="103">水</s><s p="105">着？</s><s p="107">　</s><s p="4">めっちゃE</s><s p="85">！​ ​</s><s p="2">​</s></p>
+<p t="43527" d="133" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="83">​ ​ど</s><s p="87">こ </s><s p="88">で </s><s p="90">か</s><s p="91">っ</s><s p="94">た </s><s p="96">の </s><s p="98">そ</s><s p="100">の </s><s p="102">み</s><s p="104">ず</s><s p="106">ぎ？ </s><s p="108">め</s><s p="4">っちゃ E</s><s p="85">！​ ​</s><s p="2">​</s></p>
+<p t="43527" d="133" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="83">​ ​ど</s><s p="87">こ</s><s p="89">で</s><s p="92">買</s><s p="93">っ</s><s p="95">た</s><s p="97">の</s><s p="99">そ</s><s p="101">の</s><s p="103">水</s><s p="105">着？</s><s p="107">　</s><s p="109">め</s><s p="4">っちゃE</s><s p="85">！​ ​</s><s p="2">​</s></p>
+<p t="43660" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="83">​ ​ど</s><s p="87">こ </s><s p="88">で </s><s p="90">か</s><s p="91">っ</s><s p="94">た </s><s p="96">の </s><s p="98">そ</s><s p="100">の </s><s p="102">み</s><s p="104">ず</s><s p="106">ぎ？ </s><s p="108">め</s><s p="110">っ</s><s p="4">ちゃ E</s><s p="85">！​ ​</s><s p="2">​</s></p>
+<p t="43660" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="83">​ ​ど</s><s p="87">こ</s><s p="89">で</s><s p="92">買</s><s p="93">っ</s><s p="95">た</s><s p="97">の</s><s p="99">そ</s><s p="101">の</s><s p="103">水</s><s p="105">着？</s><s p="107">　</s><s p="109">め</s><s p="111">っ</s><s p="4">ちゃE</s><s p="85">！​ ​</s><s p="2">​</s></p>
+<p t="43827" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="83">​ ​ど</s><s p="87">こ </s><s p="88">で </s><s p="90">か</s><s p="91">っ</s><s p="94">た </s><s p="96">の </s><s p="98">そ</s><s p="100">の </s><s p="102">み</s><s p="104">ず</s><s p="106">ぎ？ </s><s p="108">め</s><s p="110">っ</s><s p="112">ち</s><s p="113">ゃ </s><s p="4">E</s><s p="85">！​ ​</s><s p="2">​</s></p>
+<p t="43827" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="83">​ ​ど</s><s p="87">こ</s><s p="89">で</s><s p="92">買</s><s p="93">っ</s><s p="95">た</s><s p="97">の</s><s p="99">そ</s><s p="101">の</s><s p="103">水</s><s p="105">着？</s><s p="107">　</s><s p="109">め</s><s p="111">っ</s><s p="114">ちゃ</s><s p="4">E</s><s p="85">！​ ​</s><s p="2">​</s></p>
+<p t="43994" d="300" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="83">​ ​ど</s><s p="87">こ </s><s p="88">で </s><s p="90">か</s><s p="91">っ</s><s p="94">た </s><s p="96">の </s><s p="98">そ</s><s p="100">の </s><s p="102">み</s><s p="104">ず</s><s p="106">ぎ？ </s><s p="108">め</s><s p="110">っ</s><s p="112">ち</s><s p="113">ゃ </s><s p="115">E！​ ​</s><s p="2">​</s></p>
+<p t="43994" d="300" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="116">​ ​「いい </s><s p="4">です ね</s><s p="116">〜」​ ​</s><s p="2">​</s></p>
+<p t="43994" d="300" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="83">​ ​ど</s><s p="87">こ</s><s p="89">で</s><s p="92">買</s><s p="93">っ</s><s p="95">た</s><s p="97">の</s><s p="99">そ</s><s p="101">の</s><s p="103">水</s><s p="105">着？</s><s p="107">　</s><s p="109">め</s><s p="111">っ</s><s p="114">ちゃ</s><s p="117">E！​ ​</s><s p="2">​</s></p>
+<p t="43994" d="300" wp="10" ws="1"><s p="2">​</s><s>​</s><s p="116">​ ​「いい</s><s p="4">ですね</s><s p="116">〜」​ ​</s><s p="2">​</s></p>
+<p t="44294" d="101" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="116">​ ​「いい で</s><s p="4">す ね</s><s p="116">〜」​ ​</s><s p="2">​</s></p>
+<p t="44294" d="101" wp="10" ws="1"><s p="2">​</s><s>​</s><s p="116">​ ​「いいで</s><s p="4">すね</s><s p="116">〜」​ ​</s><s p="2">​</s></p>
+<p t="44395" d="100" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="116">​ ​「いい です </s><s p="4">ね</s><s p="116">〜」​ ​</s><s p="2">​</s></p>
+<p t="44395" d="100" wp="10" ws="1"><s p="2">​</s><s>​</s><s p="116">​ ​「いいです</s><s p="4">ね</s><s p="116">〜」​ ​</s><s p="2">​</s></p>
+<p t="44495" d="333" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="116">​ ​「いい です ね〜」​ ​</s><s p="2">​</s></p>
+<p t="44495" d="333" wp="10" ws="1"><s p="2">​</s><s>​</s><s p="116">​ ​「いいですね〜」​ ​</s><s p="2">​</s></p>
+<p t="44828" d="134" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="118">​ ​「いい </s><s p="4">です ね</s><s p="118">〜」​ ​</s><s p="2">​</s></p>
+<p t="44828" d="134" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="118">​ ​「いい</s><s p="4">ですね</s><s p="118">〜」​ ​</s><s p="2">​</s></p>
+<p t="44962" d="100" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="118">​ ​「いい で</s><s p="4">す ね</s><s p="118">〜」​ ​</s><s p="2">​</s></p>
+<p t="44962" d="100" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="118">​ ​「いいで</s><s p="4">すね</s><s p="118">〜」​ ​</s><s p="2">​</s></p>
+<p t="45062" d="67" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="118">​ ​「いい です </s><s p="4">ね</s><s p="118">〜」​ ​</s><s p="2">​</s></p>
+<p t="45062" d="67" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="118">​ ​「いいです</s><s p="4">ね</s><s p="118">〜」​ ​</s><s p="2">​</s></p>
+<p t="45129" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="118">​ ​「いい です ね〜」​ ​</s><s p="2">​</s></p>
+<p t="45129" d="333" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="118">​ ​「いいですね〜」​ ​</s><s p="2">​</s></p>
+<p t="45462" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="119">​ ​ぼ</s><s p="120">ん</s><s p="4">のう おそら へ とんでっ K</s><s p="121">！​ ​</s><s p="2">​</s></p>
+<p t="45462" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="119">​ ​煩</s><s p="4">悩　お空へ飛んでっK</s><s p="121">！​ ​</s><s p="2">​</s></p>
+<p t="45629" d="100" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="119">​ ​ぼ</s><s p="120">ん</s><s p="122">の</s><s p="123">う </s><s p="4">おそら へ とんでっ K</s><s p="121">！​ ​</s><s p="2">​</s></p>
+<p t="45629" d="100" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="119">​ ​煩</s><s p="124">悩　</s><s p="4">お空へ飛んでっK</s><s p="121">！​ ​</s><s p="2">​</s></p>
+<p t="45729" d="134" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="119">​ ​ぼ</s><s p="120">ん</s><s p="122">の</s><s p="123">う </s><s p="125">お</s><s p="4">そら へ とんでっ K</s><s p="121">！​ ​</s><s p="2">​</s></p>
+<p t="45729" d="134" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="119">​ ​煩</s><s p="124">悩　</s><s p="126">お</s><s p="4">空へ飛んでっK</s><s p="121">！​ ​</s><s p="2">​</s></p>
+<p t="45863" d="100" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="119">​ ​ぼ</s><s p="120">ん</s><s p="122">の</s><s p="123">う </s><s p="125">お</s><s p="127">そ</s><s p="4">ら へ とんでっ K</s><s p="121">！​ ​</s><s p="2">​</s></p>
+<p t="45863" d="100" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="119">​ ​煩</s><s p="124">悩　</s><s p="126">お</s><s p="128">空</s><s p="4">へ飛んでっK</s><s p="121">！​ ​</s><s p="2">​</s></p>
+<p t="45963" d="67" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="119">​ ​ぼ</s><s p="120">ん</s><s p="122">の</s><s p="123">う </s><s p="125">お</s><s p="127">そ</s><s p="129">ら </s><s p="4">へ とんでっ K</s><s p="121">！​ ​</s><s p="2">​</s></p>
+<p t="45963" d="67" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="119">​ ​煩</s><s p="124">悩　</s><s p="126">お</s><s p="128">空</s><s p="4">へ飛んでっK</s><s p="121">！​ ​</s><s p="2">​</s></p>
+<p t="46030" d="66" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="119">​ ​ぼ</s><s p="120">ん</s><s p="122">の</s><s p="123">う </s><s p="125">お</s><s p="127">そ</s><s p="129">ら </s><s p="130">へ </s><s p="4">とんでっ K</s><s p="121">！​ ​</s><s p="2">​</s></p>
+<p t="46030" d="66" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="119">​ ​煩</s><s p="124">悩　</s><s p="126">お</s><s p="128">空</s><s p="131">へ</s><s p="4">飛んでっK</s><s p="121">！​ ​</s><s p="2">​</s></p>
+<p t="46096" d="100" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="119">​ ​ぼ</s><s p="120">ん</s><s p="122">の</s><s p="123">う </s><s p="125">お</s><s p="127">そ</s><s p="129">ら </s><s p="130">へ </s><s p="132">と</s><s p="4">んでっ K</s><s p="121">！​ ​</s><s p="2">​</s></p>
+<p t="46096" d="67" wp="11" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（と</s><s p="4">んでっ K</s><s p="3">！）​ ​</s><s p="2">​</s></p>
+<p t="46096" d="100" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="119">​ ​煩</s><s p="124">悩　</s><s p="126">お</s><s p="128">空</s><s p="131">へ</s><s p="133">飛</s><s p="4">んでっK</s><s p="121">！​ ​</s><s p="2">​</s></p>
+<p t="46096" d="67" wp="12" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（飛</s><s p="4">んでっK</s><s p="3">！）​ ​</s><s p="2">​</s></p>
+<p t="46163" d="100" wp="11" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（とん</s><s p="4">でっ K</s><s p="3">！）​ ​</s><s p="2">​</s></p>
+<p t="46163" d="100" wp="12" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（飛ん</s><s p="4">でっK</s><s p="3">！）​ ​</s><s p="2">​</s></p>
+<p t="46196" d="67" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="119">​ ​ぼ</s><s p="120">ん</s><s p="122">の</s><s p="123">う </s><s p="125">お</s><s p="127">そ</s><s p="129">ら </s><s p="130">へ </s><s p="132">と</s><s p="134">ん</s><s p="4">でっ K</s><s p="121">！​ ​</s><s p="2">​</s></p>
+<p t="46196" d="67" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="119">​ ​煩</s><s p="124">悩　</s><s p="126">お</s><s p="128">空</s><s p="131">へ</s><s p="133">飛</s><s p="135">ん</s><s p="4">でっK</s><s p="121">！​ ​</s><s p="2">​</s></p>
+<p t="46263" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="119">​ ​ぼ</s><s p="120">ん</s><s p="122">の</s><s p="123">う </s><s p="125">お</s><s p="127">そ</s><s p="129">ら </s><s p="130">へ </s><s p="132">と</s><s p="134">ん</s><s p="136">で</s><s p="137">っ </s><s p="4">K</s><s p="121">！​ ​</s><s p="2">​</s></p>
+<p t="46263" d="167" wp="11" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（とんでっ </s><s p="4">K</s><s p="3">！）​ ​</s><s p="2">​</s></p>
+<p t="46263" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="119">​ ​煩</s><s p="124">悩　</s><s p="126">お</s><s p="128">空</s><s p="131">へ</s><s p="133">飛</s><s p="135">ん</s><s p="138">で</s><s p="139">っ</s><s p="4">K</s><s p="121">！​ ​</s><s p="2">​</s></p>
+<p t="46263" d="167" wp="12" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（飛んでっ</s><s p="4">K</s><s p="3">！）​ ​</s><s p="2">​</s></p>
+<p t="46430" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="119">​ ​ぼ</s><s p="120">ん</s><s p="122">の</s><s p="123">う </s><s p="125">お</s><s p="127">そ</s><s p="129">ら </s><s p="130">へ </s><s p="132">と</s><s p="134">ん</s><s p="136">で</s><s p="137">っ </s><s p="140">K！​ ​</s><s p="2">​</s></p>
+<p t="46430" d="367" wp="11" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（とんでっ K！）​ ​</s><s p="2">​</s></p>
+<p t="46430" d="367" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="119">​ ​煩</s><s p="124">悩　</s><s p="126">お</s><s p="128">空</s><s p="131">へ</s><s p="133">飛</s><s p="135">ん</s><s p="138">で</s><s p="139">っ</s><s p="141">K！​ ​</s><s p="2">​</s></p>
+<p t="46430" d="367" wp="12" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（飛んでっK！）​ ​</s><s p="2">​</s></p>
+<p t="46463" d="334" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="142">​ ​け</s><s p="143">い</s><s p="4">けん ほうふな わたしたち で も​ ​</s><s p="2">​</s></p>
+<p t="46463" d="334" wp="10" ws="1"><s p="2">​</s><s>​</s><s p="142">​ ​経</s><s p="4">験豊富な私たちでも​ ​</s><s p="2">​</s></p>
+<p t="46797" d="334" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="142">​ ​け</s><s p="143">い</s><s p="144">け</s><s p="145">ん </s><s p="4">ほうふな わたしたち で も​ ​</s><s p="2">​</s></p>
+<p t="46797" d="334" wp="10" ws="1"><s p="2">​</s><s>​</s><s p="142">​ ​経</s><s p="146">験</s><s p="4">豊富な私たちでも​ ​</s><s p="2">​</s></p>
+<p t="47131" d="333" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="142">​ ​け</s><s p="143">い</s><s p="144">け</s><s p="145">ん </s><s p="147">ほ</s><s p="148">う</s><s p="4">ふな わたしたち で も​ ​</s><s p="2">​</s></p>
+<p t="47131" d="333" wp="10" ws="1"><s p="2">​</s><s>​</s><s p="142">​ ​経</s><s p="146">験</s><s p="149">豊</s><s p="4">富な私たちでも​ ​</s><s p="2">​</s></p>
+<p t="47464" d="134" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="142">​ ​け</s><s p="143">い</s><s p="144">け</s><s p="145">ん </s><s p="147">ほ</s><s p="148">う</s><s p="150">ふ</s><s p="4">な わたしたち で も​ ​</s><s p="2">​</s></p>
+<p t="47464" d="134" wp="10" ws="1"><s p="2">​</s><s>​</s><s p="142">​ ​経</s><s p="146">験</s><s p="149">豊</s><s p="151">富</s><s p="4">な私たちでも​ ​</s><s p="2">​</s></p>
+<p t="47598" d="167" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="142">​ ​け</s><s p="143">い</s><s p="144">け</s><s p="145">ん </s><s p="147">ほ</s><s p="148">う</s><s p="150">ふ</s><s p="152">な </s><s p="4">わたしたち で も​ ​</s><s p="2">​</s></p>
+<p t="47598" d="167" wp="10" ws="1"><s p="2">​</s><s>​</s><s p="142">​ ​経</s><s p="146">験</s><s p="149">豊</s><s p="151">富</s><s p="153">な</s><s p="4">私たちでも​ ​</s><s p="2">​</s></p>
+<p t="47765" d="166" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="142">​ ​け</s><s p="143">い</s><s p="144">け</s><s p="145">ん </s><s p="147">ほ</s><s p="148">う</s><s p="150">ふ</s><s p="152">な </s><s p="154">わ</s><s p="4">たしたち で も​ ​</s><s p="2">​</s></p>
+<p t="47765" d="166" wp="10" ws="1"><s p="2">​</s><s>​</s><s p="142">​ ​経</s><s p="146">験</s><s p="149">豊</s><s p="151">富</s><s p="153">な</s><s p="155">私</s><s p="4">たちでも​ ​</s><s p="2">​</s></p>
+<p t="47931" d="201" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="142">​ ​け</s><s p="143">い</s><s p="144">け</s><s p="145">ん </s><s p="147">ほ</s><s p="148">う</s><s p="150">ふ</s><s p="152">な </s><s p="154">わ</s><s p="156">た</s><s p="4">したち で も​ ​</s><s p="2">​</s></p>
+<p t="47931" d="201" wp="10" ws="1"><s p="2">​</s><s>​</s><s p="142">​ ​経</s><s p="146">験</s><s p="149">豊</s><s p="151">富</s><s p="153">な</s><s p="155">私</s><s p="4">たちでも​ ​</s><s p="2">​</s></p>
+<p t="48132" d="300" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="142">​ ​け</s><s p="143">い</s><s p="144">け</s><s p="145">ん </s><s p="147">ほ</s><s p="148">う</s><s p="150">ふ</s><s p="152">な </s><s p="154">わ</s><s p="156">た</s><s p="157">し</s><s p="4">たち で も​ ​</s><s p="2">​</s></p>
+<p t="48132" d="300" wp="10" ws="1"><s p="2">​</s><s>​</s><s p="142">​ ​経</s><s p="146">験</s><s p="149">豊</s><s p="151">富</s><s p="153">な</s><s p="155">私</s><s p="4">たちでも​ ​</s><s p="2">​</s></p>
+<p t="48432" d="167" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="142">​ ​け</s><s p="143">い</s><s p="144">け</s><s p="145">ん </s><s p="147">ほ</s><s p="148">う</s><s p="150">ふ</s><s p="152">な </s><s p="154">わ</s><s p="156">た</s><s p="157">し</s><s p="158">た</s><s p="4">ち で も​ ​</s><s p="2">​</s></p>
+<p t="48432" d="167" wp="10" ws="1"><s p="2">​</s><s>​</s><s p="142">​ ​経</s><s p="146">験</s><s p="149">豊</s><s p="151">富</s><s p="153">な</s><s p="155">私</s><s p="159">た</s><s p="4">ちでも​ ​</s><s p="2">​</s></p>
+<p t="48599" d="133" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="142">​ ​け</s><s p="143">い</s><s p="144">け</s><s p="145">ん </s><s p="147">ほ</s><s p="148">う</s><s p="150">ふ</s><s p="152">な </s><s p="154">わ</s><s p="156">た</s><s p="157">し</s><s p="158">た</s><s p="160">ち </s><s p="4">で も​ ​</s><s p="2">​</s></p>
+<p t="48599" d="133" wp="10" ws="1"><s p="2">​</s><s>​</s><s p="142">​ ​経</s><s p="146">験</s><s p="149">豊</s><s p="151">富</s><s p="153">な</s><s p="155">私</s><s p="159">た</s><s p="161">ち</s><s p="4">でも​ ​</s><s p="2">​</s></p>
+<p t="48732" d="167" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="142">​ ​け</s><s p="143">い</s><s p="144">け</s><s p="145">ん </s><s p="147">ほ</s><s p="148">う</s><s p="150">ふ</s><s p="152">な </s><s p="154">わ</s><s p="156">た</s><s p="157">し</s><s p="158">た</s><s p="160">ち </s><s p="162">で </s><s p="4">も​ ​</s><s p="2">​</s></p>
+<p t="48732" d="167" wp="10" ws="1"><s p="2">​</s><s>​</s><s p="142">​ ​経</s><s p="146">験</s><s p="149">豊</s><s p="151">富</s><s p="153">な</s><s p="155">私</s><s p="159">た</s><s p="161">ち</s><s p="163">で</s><s p="4">も​ ​</s><s p="2">​</s></p>
+<p t="48899" d="167" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="142">​ ​け</s><s p="143">い</s><s p="144">け</s><s p="145">ん </s><s p="147">ほ</s><s p="148">う</s><s p="150">ふ</s><s p="152">な </s><s p="154">わ</s><s p="156">た</s><s p="157">し</s><s p="158">た</s><s p="160">ち </s><s p="162">で </s><s p="164">も​ ​</s><s p="2">​</s></p>
+<p t="48899" d="167" wp="10" ws="1"><s p="2">​</s><s>​</s><s p="142">​ ​経</s><s p="146">験</s><s p="149">豊</s><s p="151">富</s><s p="153">な</s><s p="155">私</s><s p="159">た</s><s p="161">ち</s><s p="163">で</s><s p="164">も​ ​</s><s p="2">​</s></p>
+<p t="49066" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="165">​ ​い</s><s p="4">たらない きょうち それ が​ ​</s><s p="2">​</s></p>
+<p t="49066" d="334" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="165">​ ​至</s><s p="4">らない境地それが​ ​</s><s p="2">​</s></p>
+<p t="49400" d="133" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="165">​ ​い</s><s p="166">た</s><s p="4">らない きょうち それ が​ ​</s><s p="2">​</s></p>
+<p t="49400" d="133" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="165">​ ​至</s><s p="4">らない境地それが​ ​</s><s p="2">​</s></p>
+<p t="49533" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="165">​ ​い</s><s p="166">た</s><s p="167">ら</s><s p="4">ない きょうち それ が​ ​</s><s p="2">​</s></p>
+<p t="49533" d="200" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="165">​ ​至</s><s p="168">ら</s><s p="4">ない境地それが​ ​</s><s p="2">​</s></p>
+<p t="49733" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="165">​ ​い</s><s p="166">た</s><s p="167">ら</s><s p="169">な</s><s p="4">い きょうち それ が​ ​</s><s p="2">​</s></p>
+<p t="49733" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="165">​ ​至</s><s p="168">ら</s><s p="170">な</s><s p="4">い境地それが​ ​</s><s p="2">​</s></p>
+<p t="49900" d="134" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="165">​ ​い</s><s p="166">た</s><s p="167">ら</s><s p="169">な</s><s p="171">い </s><s p="4">きょうち それ が​ ​</s><s p="2">​</s></p>
+<p t="49900" d="134" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="165">​ ​至</s><s p="168">ら</s><s p="170">な</s><s p="172">い</s><s p="4">境地それが​ ​</s><s p="2">​</s></p>
+<p t="50034" d="100" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="165">​ ​い</s><s p="166">た</s><s p="167">ら</s><s p="169">な</s><s p="171">い </s><s p="173">き</s><s p="174">ょ</s><s p="4">うち それ が​ ​</s><s p="2">​</s></p>
+<p t="50034" d="100" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="165">​ ​至</s><s p="168">ら</s><s p="170">な</s><s p="172">い</s><s p="175">境</s><s p="4">地それが​ ​</s><s p="2">​</s></p>
+<p t="50134" d="100" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="165">​ ​い</s><s p="166">た</s><s p="167">ら</s><s p="169">な</s><s p="171">い </s><s p="173">き</s><s p="174">ょ</s><s p="176">う</s><s p="4">ち それ が​ ​</s><s p="2">​</s></p>
+<p t="50134" d="100" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="165">​ ​至</s><s p="168">ら</s><s p="170">な</s><s p="172">い</s><s p="175">境</s><s p="4">地それが​ ​</s><s p="2">​</s></p>
+<p t="50234" d="100" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="165">​ ​い</s><s p="166">た</s><s p="167">ら</s><s p="169">な</s><s p="171">い </s><s p="173">き</s><s p="174">ょ</s><s p="176">う</s><s p="177">ち </s><s p="4">それ が​ ​</s><s p="2">​</s></p>
+<p t="50234" d="100" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="165">​ ​至</s><s p="168">ら</s><s p="170">な</s><s p="172">い</s><s p="175">境</s><s p="178">地</s><s p="4">それが​ ​</s><s p="2">​</s></p>
+<p t="50334" d="100" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="165">​ ​い</s><s p="166">た</s><s p="167">ら</s><s p="169">な</s><s p="171">い </s><s p="173">き</s><s p="174">ょ</s><s p="176">う</s><s p="177">ち </s><s p="179">そ</s><s p="4">れ が​ ​</s><s p="2">​</s></p>
+<p t="50334" d="100" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="165">​ ​至</s><s p="168">ら</s><s p="170">な</s><s p="172">い</s><s p="175">境</s><s p="178">地</s><s p="180">そ</s><s p="4">れが​ ​</s><s p="2">​</s></p>
+<p t="50434" d="133" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="165">​ ​い</s><s p="166">た</s><s p="167">ら</s><s p="169">な</s><s p="171">い </s><s p="173">き</s><s p="174">ょ</s><s p="176">う</s><s p="177">ち </s><s p="179">そ</s><s p="181">れ </s><s p="4">が​ ​</s><s p="2">​</s></p>
+<p t="50434" d="133" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="165">​ ​至</s><s p="168">ら</s><s p="170">な</s><s p="172">い</s><s p="175">境</s><s p="178">地</s><s p="180">そ</s><s p="182">れ</s><s p="4">が​ ​</s><s p="2">​</s></p>
+<p t="50567" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="165">​ ​い</s><s p="166">た</s><s p="167">ら</s><s p="169">な</s><s p="171">い </s><s p="173">き</s><s p="174">ょ</s><s p="176">う</s><s p="177">ち </s><s p="179">そ</s><s p="181">れ </s><s p="183">が​ ​</s><s p="2">​</s></p>
+<p t="50567" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="165">​ ​至</s><s p="168">ら</s><s p="170">な</s><s p="172">い</s><s p="175">境</s><s p="178">地</s><s p="180">そ</s><s p="182">れ</s><s p="183">が​ ​</s><s p="2">​</s></p>
+<p t="50734" d="134" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（ホ</s><s p="4">ロライブ さまー</s><s p="3">！）​ ​</s><s p="2">​</s></p>
+<p t="50734" d="134" wp="10" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（ホ</s><s p="4">ロライブサマー</s><s p="3">！）​ ​</s><s p="2">​</s></p>
+<p t="50868" d="133" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（ホロ</s><s p="4">ライブ さまー</s><s p="3">！）​ ​</s><s p="2">​</s></p>
+<p t="50868" d="133" wp="10" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（ホロ</s><s p="4">ライブサマー</s><s p="3">！）​ ​</s><s p="2">​</s></p>
+<p t="51001" d="100" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（ホロラ</s><s p="4">イブ さまー</s><s p="3">！）​ ​</s><s p="2">​</s></p>
+<p t="51001" d="100" wp="10" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（ホロラ</s><s p="4">イブサマー</s><s p="3">！）​ ​</s><s p="2">​</s></p>
+<p t="51101" d="134" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（ホロライ</s><s p="4">ブ さまー</s><s p="3">！）​ ​</s><s p="2">​</s></p>
+<p t="51101" d="134" wp="10" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（ホロライ</s><s p="4">ブサマー</s><s p="3">！）​ ​</s><s p="2">​</s></p>
+<p t="51235" d="167" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（ホロライブ </s><s p="4">さまー</s><s p="3">！）​ ​</s><s p="2">​</s></p>
+<p t="51235" d="167" wp="10" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（ホロライブ</s><s p="4">サマー</s><s p="3">！）​ ​</s><s p="2">​</s></p>
+<p t="51402" d="200" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（ホロライブ さ</s><s p="4">まー</s><s p="3">！）​ ​</s><s p="2">​</s></p>
+<p t="51402" d="200" wp="10" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（ホロライブサ</s><s p="4">マー</s><s p="3">！）​ ​</s><s p="2">​</s></p>
+<p t="51602" d="434" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（ホロライブ さまー！）​ ​</s><s p="2">​</s></p>
+<p t="51602" d="434" wp="10" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（ホロライブサマー！）​ ​</s><s p="2">​</s></p>
+<p t="52036" d="166" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="184">​ ​ぱ</s><s p="4">らそる に ちぇあ この じかん ふぉーえばー​ ​</s><s p="2">​</s></p>
+<p t="52036" d="166" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="184">​ ​パ</s><s p="4">ラソルにチェア　この時間フォーエバー​ ​</s><s p="2">​</s></p>
+<p t="52202" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="184">​ ​ぱ</s><s p="185">ら</s><s p="4">そる に ちぇあ この じかん ふぉーえばー​ ​</s><s p="2">​</s></p>
+<p t="52202" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="184">​ ​パ</s><s p="186">ラ</s><s p="4">ソルにチェア　この時間フォーエバー​ ​</s><s p="2">​</s></p>
+<p t="52369" d="100" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="184">​ ​ぱ</s><s p="185">ら</s><s p="187">そ</s><s p="4">る に ちぇあ この じかん ふぉーえばー​ ​</s><s p="2">​</s></p>
+<p t="52369" d="100" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="184">​ ​パ</s><s p="186">ラ</s><s p="188">ソ</s><s p="4">ルにチェア　この時間フォーエバー​ ​</s><s p="2">​</s></p>
+<p t="52469" d="67" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="184">​ ​ぱ</s><s p="185">ら</s><s p="187">そ</s><s p="189">る </s><s p="4">に ちぇあ この じかん ふぉーえばー​ ​</s><s p="2">​</s></p>
+<p t="52469" d="67" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="184">​ ​パ</s><s p="186">ラ</s><s p="188">ソ</s><s p="190">ル</s><s p="4">にチェア　この時間フォーエバー​ ​</s><s p="2">​</s></p>
+<p t="52536" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="184">​ ​ぱ</s><s p="185">ら</s><s p="187">そ</s><s p="189">る </s><s p="191">に </s><s p="4">ちぇあ この じかん ふぉーえばー​ ​</s><s p="2">​</s></p>
+<p t="52536" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="184">​ ​パ</s><s p="186">ラ</s><s p="188">ソ</s><s p="190">ル</s><s p="192">に</s><s p="4">チェア　この時間フォーエバー​ ​</s><s p="2">​</s></p>
+<p t="52703" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="184">​ ​ぱ</s><s p="185">ら</s><s p="187">そ</s><s p="189">る </s><s p="191">に </s><s p="193">ち</s><s p="194">ぇ</s><s p="4">あ この じかん ふぉーえばー​ ​</s><s p="2">​</s></p>
+<p t="52703" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="184">​ ​パ</s><s p="186">ラ</s><s p="188">ソ</s><s p="190">ル</s><s p="192">に</s><s p="195">チ</s><s p="196">ェ</s><s p="4">ア　この時間フォーエバー​ ​</s><s p="2">​</s></p>
+<p t="52870" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="184">​ ​ぱ</s><s p="185">ら</s><s p="187">そ</s><s p="189">る </s><s p="191">に </s><s p="193">ち</s><s p="194">ぇ</s><s p="197">あ </s><s p="4">この じかん ふぉーえばー​ ​</s><s p="2">​</s></p>
+<p t="52870" d="333" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="184">​ ​パ</s><s p="186">ラ</s><s p="188">ソ</s><s p="190">ル</s><s p="192">に</s><s p="195">チ</s><s p="196">ェ</s><s p="198">ア　</s><s p="4">この時間フォーエバー​ ​</s><s p="2">​</s></p>
+<p t="53203" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="184">​ ​ぱ</s><s p="185">ら</s><s p="187">そ</s><s p="189">る </s><s p="191">に </s><s p="193">ち</s><s p="194">ぇ</s><s p="197">あ </s><s p="199">こ</s><s p="4">の じかん ふぉーえばー​ ​</s><s p="2">​</s></p>
+<p t="53203" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="184">​ ​パ</s><s p="186">ラ</s><s p="188">ソ</s><s p="190">ル</s><s p="192">に</s><s p="195">チ</s><s p="196">ェ</s><s p="198">ア　</s><s p="200">こ</s><s p="4">の時間フォーエバー​ ​</s><s p="2">​</s></p>
+<p t="53370" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="184">​ ​ぱ</s><s p="185">ら</s><s p="187">そ</s><s p="189">る </s><s p="191">に </s><s p="193">ち</s><s p="194">ぇ</s><s p="197">あ </s><s p="199">こ</s><s p="201">の </s><s p="4">じかん ふぉーえばー​ ​</s><s p="2">​</s></p>
+<p t="53370" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="184">​ ​パ</s><s p="186">ラ</s><s p="188">ソ</s><s p="190">ル</s><s p="192">に</s><s p="195">チ</s><s p="196">ェ</s><s p="198">ア　</s><s p="200">こ</s><s p="202">の</s><s p="4">時間フォーエバー​ ​</s><s p="2">​</s></p>
+<p t="53537" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="184">​ ​ぱ</s><s p="185">ら</s><s p="187">そ</s><s p="189">る </s><s p="191">に </s><s p="193">ち</s><s p="194">ぇ</s><s p="197">あ </s><s p="199">こ</s><s p="201">の </s><s p="203">じ</s><s p="4">かん ふぉーえばー​ ​</s><s p="2">​</s></p>
+<p t="53537" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="184">​ ​パ</s><s p="186">ラ</s><s p="188">ソ</s><s p="190">ル</s><s p="192">に</s><s p="195">チ</s><s p="196">ェ</s><s p="198">ア　</s><s p="200">こ</s><s p="202">の</s><s p="204">時</s><s p="4">間フォーエバー​ ​</s><s p="2">​</s></p>
+<p t="53704" d="133" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="184">​ ​ぱ</s><s p="185">ら</s><s p="187">そ</s><s p="189">る </s><s p="191">に </s><s p="193">ち</s><s p="194">ぇ</s><s p="197">あ </s><s p="199">こ</s><s p="201">の </s><s p="203">じ</s><s p="205">か</s><s p="206">ん </s><s p="4">ふぉーえばー​ ​</s><s p="2">​</s></p>
+<p t="53704" d="133" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="184">​ ​パ</s><s p="186">ラ</s><s p="188">ソ</s><s p="190">ル</s><s p="192">に</s><s p="195">チ</s><s p="196">ェ</s><s p="198">ア　</s><s p="200">こ</s><s p="202">の</s><s p="204">時</s><s p="207">間</s><s p="4">フォーエバー​ ​</s><s p="2">​</s></p>
+<p t="53837" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="184">​ ​ぱ</s><s p="185">ら</s><s p="187">そ</s><s p="189">る </s><s p="191">に </s><s p="193">ち</s><s p="194">ぇ</s><s p="197">あ </s><s p="199">こ</s><s p="201">の </s><s p="203">じ</s><s p="205">か</s><s p="206">ん </s><s p="208">ふ</s><s p="209">ぉ</s><s p="210">ー</s><s p="4">えばー​ ​</s><s p="2">​</s></p>
+<p t="53837" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="184">​ ​パ</s><s p="186">ラ</s><s p="188">ソ</s><s p="190">ル</s><s p="192">に</s><s p="195">チ</s><s p="196">ェ</s><s p="198">ア　</s><s p="200">こ</s><s p="202">の</s><s p="204">時</s><s p="207">間</s><s p="211">フ</s><s p="212">ォ</s><s p="213">ー</s><s p="4">エバー​ ​</s><s p="2">​</s></p>
+<p t="53837" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="214">​ ​パ</s><s p="215">ラ</s><s p="216">ソ</s><s p="217">ル</s><s p="218">に</s><s p="219">チ</s><s p="220">ェ</s><s p="221">ア　</s><s p="222">こ</s><s p="223">の</s><s p="224">時</s><s p="225">間</s><s p="226">フ</s><s p="227">ォ</s><s p="228">ー</s><s p="229">エバー​ ​</s><s p="2">​</s></p>
+<p t="54004" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="184">​ ​ぱ</s><s p="185">ら</s><s p="187">そ</s><s p="189">る </s><s p="191">に </s><s p="193">ち</s><s p="194">ぇ</s><s p="197">あ </s><s p="199">こ</s><s p="201">の </s><s p="203">じ</s><s p="205">か</s><s p="206">ん </s><s p="208">ふ</s><s p="209">ぉ</s><s p="210">ー</s><s p="230">え</s><s p="4">ばー​ ​</s><s p="2">​</s></p>
+<p t="54004" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="184">​ ​パ</s><s p="186">ラ</s><s p="188">ソ</s><s p="190">ル</s><s p="192">に</s><s p="195">チ</s><s p="196">ェ</s><s p="198">ア　</s><s p="200">こ</s><s p="202">の</s><s p="204">時</s><s p="207">間</s><s p="211">フ</s><s p="212">ォ</s><s p="213">ー</s><s p="231">エ</s><s p="4">バー​ ​</s><s p="2">​</s></p>
+<p t="54004" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="214">​ ​パ</s><s p="215">ラ</s><s p="216">ソ</s><s p="217">ル</s><s p="218">に</s><s p="219">チ</s><s p="220">ェ</s><s p="221">ア　</s><s p="222">こ</s><s p="223">の</s><s p="224">時</s><s p="225">間</s><s p="226">フ</s><s p="227">ォ</s><s p="228">ー</s><s p="232">エ</s><s p="229">バー​ ​</s><s p="2">​</s></p>
+<p t="54171" d="534" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="184">​ ​ぱ</s><s p="185">ら</s><s p="187">そ</s><s p="189">る </s><s p="191">に </s><s p="193">ち</s><s p="194">ぇ</s><s p="197">あ </s><s p="199">こ</s><s p="201">の </s><s p="203">じ</s><s p="205">か</s><s p="206">ん </s><s p="208">ふ</s><s p="209">ぉ</s><s p="210">ー</s><s p="230">え</s><s p="233">ば</s><s p="234">ー​ ​</s><s p="2">​</s></p>
+<p t="54171" d="534" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="184">​ ​パ</s><s p="186">ラ</s><s p="188">ソ</s><s p="190">ル</s><s p="192">に</s><s p="195">チ</s><s p="196">ェ</s><s p="198">ア　</s><s p="200">こ</s><s p="202">の</s><s p="204">時</s><s p="207">間</s><s p="211">フ</s><s p="212">ォ</s><s p="213">ー</s><s p="231">エ</s><s p="235">バ</s><s p="234">ー​ ​</s><s p="2">​</s></p>
+<p t="54171" d="534" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="214">​ ​パ</s><s p="215">ラ</s><s p="216">ソ</s><s p="217">ル</s><s p="218">に</s><s p="219">チ</s><s p="220">ェ</s><s p="221">ア　</s><s p="222">こ</s><s p="223">の</s><s p="224">時</s><s p="225">間</s><s p="226">フ</s><s p="227">ォ</s><s p="228">ー</s><s p="232">エ</s><s p="236">バ</s><s p="237">ー​ ​</s><s p="2">​</s></p>
+<p t="54705" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="238">​ ​き</s><s p="4">み も となり くる</s><s p="239">？​ ​</s><s p="2">​</s></p>
+<p t="54705" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="238">​ ​キ</s><s p="4">ミも隣くる</s><s p="239">？​ ​</s><s p="2">​</s></p>
+<p t="54872" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="238">​ ​き</s><s p="240">み </s><s p="4">も となり くる</s><s p="239">？​ ​</s><s p="2">​</s></p>
+<p t="54872" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="238">​ ​キ</s><s p="240">ミ</s><s p="4">も隣くる</s><s p="239">？​ ​</s><s p="2">​</s></p>
+<p t="55039" d="166" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="238">​ ​き</s><s p="240">み </s><s p="241">も </s><s p="4">となり くる</s><s p="239">？​ ​</s><s p="2">​</s></p>
+<p t="55039" d="166" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="238">​ ​キ</s><s p="240">ミ</s><s p="241">も</s><s p="4">隣くる</s><s p="239">？​ ​</s><s p="2">​</s></p>
+<p t="55205" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="238">​ ​き</s><s p="240">み </s><s p="241">も </s><s p="242">と</s><s p="4">なり くる</s><s p="239">？​ ​</s><s p="2">​</s></p>
+<p t="55205" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="238">​ ​キ</s><s p="240">ミ</s><s p="241">も</s><s p="242">隣</s><s p="4">くる</s><s p="239">？​ ​</s><s p="2">​</s></p>
+<p t="55372" d="134" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="238">​ ​き</s><s p="240">み </s><s p="241">も </s><s p="242">と</s><s p="243">な</s><s p="4">り くる</s><s p="239">？​ ​</s><s p="2">​</s></p>
+<p t="55372" d="134" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="238">​ ​キ</s><s p="240">ミ</s><s p="241">も</s><s p="242">隣</s><s p="4">くる</s><s p="239">？​ ​</s><s p="2">​</s></p>
+<p t="55506" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="238">​ ​き</s><s p="240">み </s><s p="241">も </s><s p="242">と</s><s p="243">な</s><s p="244">り </s><s p="4">くる</s><s p="239">？​ ​</s><s p="2">​</s></p>
+<p t="55506" d="200" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="238">​ ​キ</s><s p="240">ミ</s><s p="241">も</s><s p="242">隣</s><s p="4">くる</s><s p="239">？​ ​</s><s p="2">​</s></p>
+<p t="55706" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="238">​ ​き</s><s p="240">み </s><s p="241">も </s><s p="242">と</s><s p="243">な</s><s p="244">り </s><s p="245">く</s><s p="4">る</s><s p="239">？​ ​</s><s p="2">​</s></p>
+<p t="55706" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="238">​ ​キ</s><s p="240">ミ</s><s p="241">も</s><s p="242">隣</s><s p="245">く</s><s p="4">る</s><s p="239">？​ ​</s><s p="2">​</s></p>
+<p t="55873" d="133" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="238">​ ​き</s><s p="240">み </s><s p="241">も </s><s p="242">と</s><s p="243">な</s><s p="244">り </s><s p="245">く</s><s p="246">る？​ ​</s><s p="2">​</s></p>
+<p t="55873" d="133" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="238">​ ​キ</s><s p="240">ミ</s><s p="241">も</s><s p="242">隣</s><s p="245">く</s><s p="246">る？​ ​</s><s p="2">​</s></p>
+<p t="56006" d="134" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（き</s><s p="4">た きた きた きた</s><s p="3">）​ ​</s><s p="2">​</s></p>
+<p t="56006" d="134" wp="10" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（キ</s><s p="4">タキタキタキタ</s><s p="3">）​ ​</s><s p="2">​</s></p>
+<p t="56140" d="166" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（きた </s><s p="4">きた きた きた</s><s p="3">）​ ​</s><s p="2">​</s></p>
+<p t="56140" d="166" wp="10" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（キタ</s><s p="4">キタキタキタ</s><s p="3">）​ ​</s><s p="2">​</s></p>
+<p t="56306" d="167" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（きた き</s><s p="4">た きた きた</s><s p="3">）​ ​</s><s p="2">​</s></p>
+<p t="56306" d="167" wp="10" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（キタキ</s><s p="4">タキタキタ</s><s p="3">）​ ​</s><s p="2">​</s></p>
+<p t="56473" d="167" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（きた きた </s><s p="4">きた きた</s><s p="3">）​ ​</s><s p="2">​</s></p>
+<p t="56473" d="167" wp="10" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（キタキタ</s><s p="4">キタキタ</s><s p="3">）​ ​</s><s p="2">​</s></p>
+<p t="56640" d="200" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（きた きた き</s><s p="4">た きた</s><s p="3">）​ ​</s><s p="2">​</s></p>
+<p t="56640" d="200" wp="10" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（キタキタキ</s><s p="4">タキタ</s><s p="3">）​ ​</s><s p="2">​</s></p>
+<p t="56840" d="134" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（きた きた きた </s><s p="4">きた</s><s p="3">）​ ​</s><s p="2">​</s></p>
+<p t="56840" d="134" wp="10" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（キタキタキタ</s><s p="4">キタ</s><s p="3">）​ ​</s><s p="2">​</s></p>
+<p t="56974" d="167" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（きた きた きた き</s><s p="4">た</s><s p="3">）​ ​</s><s p="2">​</s></p>
+<p t="56974" d="167" wp="10" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（キタキタキタキ</s><s p="4">タ</s><s p="3">）​ ​</s><s p="2">​</s></p>
+<p t="57141" d="166" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（きた きた きた きた）​ ​</s><s p="2">​</s></p>
+<p t="57141" d="166" wp="10" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（キタキタキタキタ）​ ​</s><s p="2">​</s></p>
+<p t="57307" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​び</s><s p="247">ー</s><s p="4">ち の いっきゅう けんちくし​ ​</s><s p="2">​</s></p>
+<p t="57307" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​ビ</s><s p="248">ー</s><s p="4">チの1級建築士​ ​</s><s p="2">​</s></p>
+<p t="57474" d="100" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​び</s><s p="247">ー</s><s p="249">ち </s><s p="4">の いっきゅう けんちくし​ ​</s><s p="2">​</s></p>
+<p t="57474" d="100" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​ビ</s><s p="248">ー</s><s p="250">チ</s><s p="4">の1級建築士​ ​</s><s p="2">​</s></p>
+<p t="57574" d="100" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​び</s><s p="247">ー</s><s p="249">ち </s><s p="251">の </s><s p="4">いっきゅう けんちくし​ ​</s><s p="2">​</s></p>
+<p t="57574" d="100" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​ビ</s><s p="248">ー</s><s p="250">チ</s><s p="252">の</s><s p="4">1級建築士​ ​</s><s p="2">​</s></p>
+<p t="57674" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​び</s><s p="247">ー</s><s p="249">ち </s><s p="251">の </s><s p="253">い</s><s p="254">っ</s><s p="4">きゅう けんちくし​ ​</s><s p="2">​</s></p>
+<p t="57674" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​ビ</s><s p="248">ー</s><s p="250">チ</s><s p="252">の</s><s p="255">1</s><s p="4">級建築士​ ​</s><s p="2">​</s></p>
+<p t="57841" d="134" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​び</s><s p="247">ー</s><s p="249">ち </s><s p="251">の </s><s p="253">い</s><s p="254">っ</s><s p="256">き</s><s p="257">ゅ</s><s p="258">う </s><s p="4">けんちくし​ ​</s><s p="2">​</s></p>
+<p t="57841" d="134" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​ビ</s><s p="248">ー</s><s p="250">チ</s><s p="252">の</s><s p="255">1</s><s p="259">級</s><s p="4">建築士​ ​</s><s p="2">​</s></p>
+<p t="57975" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​び</s><s p="247">ー</s><s p="249">ち </s><s p="251">の </s><s p="253">い</s><s p="254">っ</s><s p="256">き</s><s p="257">ゅ</s><s p="258">う </s><s p="260">け</s><s p="261">ん</s><s p="4">ちくし​ ​</s><s p="2">​</s></p>
+<p t="57975" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​ビ</s><s p="248">ー</s><s p="250">チ</s><s p="252">の</s><s p="255">1</s><s p="259">級</s><s p="262">建</s><s p="4">築士​ ​</s><s p="2">​</s></p>
+<p t="58142" d="100" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​び</s><s p="247">ー</s><s p="249">ち </s><s p="251">の </s><s p="253">い</s><s p="254">っ</s><s p="256">き</s><s p="257">ゅ</s><s p="258">う </s><s p="260">け</s><s p="261">ん</s><s p="263">ち</s><s p="4">くし​ ​</s><s p="2">​</s></p>
+<p t="58142" d="100" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​ビ</s><s p="248">ー</s><s p="250">チ</s><s p="252">の</s><s p="255">1</s><s p="259">級</s><s p="262">建</s><s p="264">築</s><s p="4">士​ ​</s><s p="2">​</s></p>
+<p t="58242" d="100" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​び</s><s p="247">ー</s><s p="249">ち </s><s p="251">の </s><s p="253">い</s><s p="254">っ</s><s p="256">き</s><s p="257">ゅ</s><s p="258">う </s><s p="260">け</s><s p="261">ん</s><s p="263">ち</s><s p="265">く</s><s p="4">し​ ​</s><s p="2">​</s></p>
+<p t="58242" d="100" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​ビ</s><s p="248">ー</s><s p="250">チ</s><s p="252">の</s><s p="255">1</s><s p="259">級</s><s p="262">建</s><s p="264">築</s><s p="4">士​ ​</s><s p="2">​</s></p>
+<p t="58342" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​び</s><s p="247">ー</s><s p="249">ち </s><s p="251">の </s><s p="253">い</s><s p="254">っ</s><s p="256">き</s><s p="257">ゅ</s><s p="258">う </s><s p="260">け</s><s p="261">ん</s><s p="263">ち</s><s p="265">く</s><s p="266">し​ ​</s><s p="2">​</s></p>
+<p t="58342" d="333" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​ビ</s><s p="248">ー</s><s p="250">チ</s><s p="252">の</s><s p="255">1</s><s p="259">級</s><s p="262">建</s><s p="264">築</s><s p="266">士​ ​</s><s p="2">​</s></p>
+<p t="58475" d="534" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（Uh！）​ ​</s><s p="2">​</s></p>
+<p t="58475" d="534" wp="10" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（Uh！）​ ​</s><s p="2">​</s></p>
+<p t="58675" d="101" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​な</s><s p="4">みうちぎわ に きゃっする しんちく​ ​</s><s p="2">​</s></p>
+<p t="58675" d="101" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​波</s><s p="4">打ち際にキャッスル新築​ ​</s><s p="2">​</s></p>
+<p t="58776" d="66" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​な</s><s p="267">み</s><s p="4">うちぎわ に きゃっする しんちく​ ​</s><s p="2">​</s></p>
+<p t="58776" d="66" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​波</s><s p="4">打ち際にキャッスル新築​ ​</s><s p="2">​</s></p>
+<p t="58842" d="100" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​な</s><s p="267">み</s><s p="268">う</s><s p="4">ちぎわ に きゃっする しんちく​ ​</s><s p="2">​</s></p>
+<p t="58842" d="100" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​波</s><s p="268">打</s><s p="4">ち際にキャッスル新築​ ​</s><s p="2">​</s></p>
+<p t="58942" d="67" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​な</s><s p="267">み</s><s p="268">う</s><s p="269">ち</s><s p="4">ぎわ に きゃっする しんちく​ ​</s><s p="2">​</s></p>
+<p t="58942" d="67" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​波</s><s p="268">打</s><s p="269">ち</s><s p="4">際にキャッスル新築​ ​</s><s p="2">​</s></p>
+<p t="59009" d="67" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​な</s><s p="267">み</s><s p="268">う</s><s p="269">ち</s><s p="270">ぎ</s><s p="4">わ に きゃっする しんちく​ ​</s><s p="2">​</s></p>
+<p t="59009" d="67" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​波</s><s p="268">打</s><s p="269">ち</s><s p="270">際</s><s p="4">にキャッスル新築​ ​</s><s p="2">​</s></p>
+<p t="59076" d="67" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​な</s><s p="267">み</s><s p="268">う</s><s p="269">ち</s><s p="270">ぎ</s><s p="252">わ </s><s p="4">に きゃっする しんちく​ ​</s><s p="2">​</s></p>
+<p t="59076" d="67" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​波</s><s p="268">打</s><s p="269">ち</s><s p="270">際</s><s p="4">にキャッスル新築​ ​</s><s p="2">​</s></p>
+<p t="59143" d="166" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​な</s><s p="267">み</s><s p="268">う</s><s p="269">ち</s><s p="270">ぎ</s><s p="252">わ </s><s p="271">に </s><s p="4">きゃっする しんちく​ ​</s><s p="2">​</s></p>
+<p t="59143" d="166" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​波</s><s p="268">打</s><s p="269">ち</s><s p="270">際</s><s p="271">に</s><s p="4">キャッスル新築​ ​</s><s p="2">​</s></p>
+<p t="59309" d="201" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​な</s><s p="267">み</s><s p="268">う</s><s p="269">ち</s><s p="270">ぎ</s><s p="252">わ </s><s p="271">に </s><s p="272">き</s><s p="273">ゃ</s><s p="274">っ</s><s p="4">する しんちく​ ​</s><s p="2">​</s></p>
+<p t="59309" d="201" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​波</s><s p="268">打</s><s p="269">ち</s><s p="270">際</s><s p="271">に</s><s p="272">キ</s><s p="273">ャ</s><s p="274">ッ</s><s p="4">スル新築​ ​</s><s p="2">​</s></p>
+<p t="59510" d="66" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​な</s><s p="267">み</s><s p="268">う</s><s p="269">ち</s><s p="270">ぎ</s><s p="252">わ </s><s p="271">に </s><s p="272">き</s><s p="273">ゃ</s><s p="274">っ</s><s p="262">す</s><s p="4">る しんちく​ ​</s><s p="2">​</s></p>
+<p t="59510" d="66" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​波</s><s p="268">打</s><s p="269">ち</s><s p="270">際</s><s p="271">に</s><s p="272">キ</s><s p="273">ャ</s><s p="274">ッ</s><s p="262">ス</s><s p="4">ル新築​ ​</s><s p="2">​</s></p>
+<p t="59576" d="67" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​な</s><s p="267">み</s><s p="268">う</s><s p="269">ち</s><s p="270">ぎ</s><s p="252">わ </s><s p="271">に </s><s p="272">き</s><s p="273">ゃ</s><s p="274">っ</s><s p="262">す</s><s p="275">る </s><s p="4">しんちく​ ​</s><s p="2">​</s></p>
+<p t="59576" d="67" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​波</s><s p="268">打</s><s p="269">ち</s><s p="270">際</s><s p="271">に</s><s p="272">キ</s><s p="273">ャ</s><s p="274">ッ</s><s p="262">ス</s><s p="275">ル</s><s p="4">新築​ ​</s><s p="2">​</s></p>
+<p t="59643" d="100" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​な</s><s p="267">み</s><s p="268">う</s><s p="269">ち</s><s p="270">ぎ</s><s p="252">わ </s><s p="271">に </s><s p="272">き</s><s p="273">ゃ</s><s p="274">っ</s><s p="262">す</s><s p="275">る </s><s p="276">し</s><s p="4">んちく​ ​</s><s p="2">​</s></p>
+<p t="59643" d="100" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​波</s><s p="268">打</s><s p="269">ち</s><s p="270">際</s><s p="271">に</s><s p="272">キ</s><s p="273">ャ</s><s p="274">ッ</s><s p="262">ス</s><s p="275">ル</s><s p="276">新</s><s p="4">築​ ​</s><s p="2">​</s></p>
+<p t="59743" d="67" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​な</s><s p="267">み</s><s p="268">う</s><s p="269">ち</s><s p="270">ぎ</s><s p="252">わ </s><s p="271">に </s><s p="272">き</s><s p="273">ゃ</s><s p="274">っ</s><s p="262">す</s><s p="275">る </s><s p="276">し</s><s p="277">ん</s><s p="4">ちく​ ​</s><s p="2">​</s></p>
+<p t="59743" d="67" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​波</s><s p="268">打</s><s p="269">ち</s><s p="270">際</s><s p="271">に</s><s p="272">キ</s><s p="273">ャ</s><s p="274">ッ</s><s p="262">ス</s><s p="275">ル</s><s p="276">新</s><s p="4">築​ ​</s><s p="2">​</s></p>
+<p t="59810" d="100" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​な</s><s p="267">み</s><s p="268">う</s><s p="269">ち</s><s p="270">ぎ</s><s p="252">わ </s><s p="271">に </s><s p="272">き</s><s p="273">ゃ</s><s p="274">っ</s><s p="262">す</s><s p="275">る </s><s p="276">し</s><s p="277">ん</s><s p="278">ち</s><s p="4">く​ ​</s><s p="2">​</s></p>
+<p t="59810" d="467" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（Ha！）​ ​</s><s p="2">​</s></p>
+<p t="59810" d="467" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​波</s><s p="268">打</s><s p="269">ち</s><s p="270">際</s><s p="271">に</s><s p="272">キ</s><s p="273">ャ</s><s p="274">ッ</s><s p="262">ス</s><s p="275">ル</s><s p="276">新</s><s p="278">築​ ​</s><s p="2">​</s></p>
+<p t="59810" d="467" wp="10" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（Ha！）​ ​</s><s p="2">​</s></p>
+<p t="59910" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​な</s><s p="267">み</s><s p="268">う</s><s p="269">ち</s><s p="270">ぎ</s><s p="252">わ </s><s p="271">に </s><s p="272">き</s><s p="273">ゃ</s><s p="274">っ</s><s p="262">す</s><s p="275">る </s><s p="276">し</s><s p="277">ん</s><s p="278">ち</s><s p="266">く​ ​</s><s p="2">​</s></p>
+<p t="60277" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​も</s><s p="4">っと はしゃぎすぎたくって​ ​</s><s p="2">​</s></p>
+<p t="60277" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​も</s><s p="4">っと　はしゃぎ過ぎたくって​ ​</s><s p="2">​</s></p>
+<p t="60444" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​もっ</s><s p="4">と はしゃぎすぎたくって​ ​</s><s p="2">​</s></p>
+<p t="60444" d="200" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​もっ</s><s p="4">と　はしゃぎ過ぎたくって​ ​</s><s p="2">​</s></p>
+<p t="60644" d="467" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​もっと </s><s p="4">はしゃぎすぎたくって​ ​</s><s p="2">​</s></p>
+<p t="60644" d="467" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​もっと　</s><s p="4">はしゃぎ過ぎたくって​ ​</s><s p="2">​</s></p>
+<p t="61111" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​もっと は</s><s p="4">しゃぎすぎたくって​ ​</s><s p="2">​</s></p>
+<p t="61111" d="334" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​もっと　は</s><s p="4">しゃぎ過ぎたくって​ ​</s><s p="2">​</s></p>
+<p t="61445" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​もっと はしゃ</s><s p="4">ぎすぎたくって​ ​</s><s p="2">​</s></p>
+<p t="61445" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​もっと　はしゃ</s><s p="4">ぎ過ぎたくって​ ​</s><s p="2">​</s></p>
+<p t="61612" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​もっと はしゃぎ</s><s p="4">すぎたくって​ ​</s><s p="2">​</s></p>
+<p t="61612" d="200" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​もっと　はしゃぎ</s><s p="4">過ぎたくって​ ​</s><s p="2">​</s></p>
+<p t="61812" d="133" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​もっと はしゃぎす</s><s p="4">ぎたくって​ ​</s><s p="2">​</s></p>
+<p t="61812" d="133" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​もっと　はしゃぎ過</s><s p="4">ぎたくって​ ​</s><s p="2">​</s></p>
+<p t="61945" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​もっと はしゃぎすぎ</s><s p="4">たくって​ ​</s><s p="2">​</s></p>
+<p t="61945" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​もっと　はしゃぎ過ぎ</s><s p="4">たくって​ ​</s><s p="2">​</s></p>
+<p t="62112" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​もっと はしゃぎすぎた</s><s p="4">くって​ ​</s><s p="2">​</s></p>
+<p t="62112" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​もっと　はしゃぎ過ぎた</s><s p="4">くって​ ​</s><s p="2">​</s></p>
+<p t="62279" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​もっと はしゃぎすぎたく</s><s p="4">って​ ​</s><s p="2">​</s></p>
+<p t="62279" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​もっと　はしゃぎ過ぎたく</s><s p="4">って​ ​</s><s p="2">​</s></p>
+<p t="62446" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​もっと はしゃぎすぎたくっ</s><s p="4">て​ ​</s><s p="2">​</s></p>
+<p t="62446" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​もっと　はしゃぎ過ぎたくっ</s><s p="4">て​ ​</s><s p="2">​</s></p>
+<p t="62613" d="2235" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​もっと はしゃぎすぎたくって​ ​</s><s p="2">​</s></p>
+<p t="62613" d="2235" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​もっと　はしゃぎ過ぎたくって​ ​</s><s p="2">​</s></p>
+<p t="63280" d="167" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="49">​ ​「そ</s><s p="4">の め に やきつけろぉぉぉい</s><s p="49">！！！！」​ ​</s><s p="2">​</s></p>
+<p t="63280" d="167" wp="10" ws="1"><s p="2">​</s><s>​</s><s p="49">​ ​「そ</s><s p="4">の目に焼き付けろぉぉぉい</s><s p="49">！！！！」​ ​</s><s p="2">​</s></p>
+<p t="63447" d="100" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="49">​ ​「その </s><s p="4">め に やきつけろぉぉぉい</s><s p="49">！！！！」​ ​</s><s p="2">​</s></p>
+<p t="63447" d="100" wp="10" ws="1"><s p="2">​</s><s>​</s><s p="49">​ ​「その</s><s p="4">目に焼き付けろぉぉぉい</s><s p="49">！！！！」​ ​</s><s p="2">​</s></p>
+<p t="63547" d="133" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="49">​ ​「その め </s><s p="4">に やきつけろぉぉぉい</s><s p="49">！！！！」​ ​</s><s p="2">​</s></p>
+<p t="63547" d="133" wp="10" ws="1"><s p="2">​</s><s>​</s><s p="49">​ ​「その目</s><s p="4">に焼き付けろぉぉぉい</s><s p="49">！！！！」​ ​</s><s p="2">​</s></p>
+<p t="63680" d="401" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="49">​ ​「その め に </s><s p="4">やきつけろぉぉぉい</s><s p="49">！！！！」​ ​</s><s p="2">​</s></p>
+<p t="63680" d="401" wp="10" ws="1"><s p="2">​</s><s>​</s><s p="49">​ ​「その目に</s><s p="4">焼き付けろぉぉぉい</s><s p="49">！！！！」​ ​</s><s p="2">​</s></p>
+<p t="64081" d="133" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="49">​ ​「その め に や</s><s p="4">きつけろぉぉぉい</s><s p="49">！！！！」​ ​</s><s p="2">​</s></p>
+<p t="64081" d="133" wp="10" ws="1"><s p="2">​</s><s>​</s><s p="49">​ ​「その目に焼</s><s p="4">き付けろぉぉぉい</s><s p="49">！！！！」​ ​</s><s p="2">​</s></p>
+<p t="64214" d="134" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="49">​ ​「その め に やき</s><s p="4">つけろぉぉぉい</s><s p="49">！！！！」​ ​</s><s p="2">​</s></p>
+<p t="64214" d="134" wp="10" ws="1"><s p="2">​</s><s>​</s><s p="49">​ ​「その目に焼き</s><s p="4">付けろぉぉぉい</s><s p="49">！！！！」​ ​</s><s p="2">​</s></p>
+<p t="64348" d="100" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="49">​ ​「その め に やきつ</s><s p="4">けろぉぉぉい</s><s p="49">！！！！」​ ​</s><s p="2">​</s></p>
+<p t="64348" d="100" wp="10" ws="1"><s p="2">​</s><s>​</s><s p="49">​ ​「その目に焼き付</s><s p="4">けろぉぉぉい</s><s p="49">！！！！」​ ​</s><s p="2">​</s></p>
+<p t="64448" d="133" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="49">​ ​「その め に やきつけ</s><s p="4">ろぉぉぉい</s><s p="49">！！！！」​ ​</s><s p="2">​</s></p>
+<p t="64448" d="133" wp="10" ws="1"><s p="2">​</s><s>​</s><s p="49">​ ​「その目に焼き付け</s><s p="4">ろぉぉぉい</s><s p="49">！！！！」​ ​</s><s p="2">​</s></p>
+<p t="64581" d="267" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="49">​ ​「その め に やきつけろ</s><s p="4">ぉぉぉい</s><s p="49">！！！！」​ ​</s><s p="2">​</s></p>
+<p t="64581" d="267" wp="10" ws="1"><s p="2">​</s><s>​</s><s p="49">​ ​「その目に焼き付けろ</s><s p="4">ぉぉぉい</s><s p="49">！！！！」​ ​</s><s p="2">​</s></p>
+<p t="64848" d="267" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="49">​ ​「その め に やきつけろぉ</s><s p="4">ぉぉい</s><s p="49">！！！！」​ ​</s><s p="2">​</s></p>
+<p t="64848" d="267" wp="10" ws="1"><s p="2">​</s><s>​</s><s p="49">​ ​「その目に焼き付けろぉ</s><s p="4">ぉぉい</s><s p="49">！！！！」​ ​</s><s p="2">​</s></p>
+<p t="65115" d="267" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="49">​ ​「その め に やきつけろぉぉ</s><s p="4">ぉい</s><s p="49">！！！！」​ ​</s><s p="2">​</s></p>
+<p t="65115" d="267" wp="10" ws="1"><s p="2">​</s><s>​</s><s p="49">​ ​「その目に焼き付けろぉぉ</s><s p="4">ぉい</s><s p="49">！！！！」​ ​</s><s p="2">​</s></p>
+<p t="65382" d="267" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="49">​ ​「その め に やきつけろぉぉぉ</s><s p="4">い</s><s p="49">！！！！」​ ​</s><s p="2">​</s></p>
+<p t="65382" d="267" wp="10" ws="1"><s p="2">​</s><s>​</s><s p="49">​ ​「その目に焼き付けろぉぉぉ</s><s p="4">い</s><s p="49">！！！！」​ ​</s><s p="2">​</s></p>
+<p t="65649" d="300" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="49">​ ​「その め に やきつけろぉぉぉい！！！！」​ ​</s><s p="2">​</s></p>
+<p t="65649" d="300" wp="10" ws="1"><s p="2">​</s><s>​</s><s p="49">​ ​「その目に焼き付けろぉぉぉい！！！！」​ ​</s><s p="2">​</s></p>
+<p t="66917" d="134" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（いぇ</s><s p="4">〜〜〜〜〜い</s><s p="3">）​ ​</s><s p="2">​</s></p>
+<p t="66917" d="134" wp="10" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（イェ</s><s p="4">〜〜〜〜〜イ</s><s p="3">）​ ​</s><s p="2">​</s></p>
+<p t="67051" d="133" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（いぇ〜</s><s p="4">〜〜〜〜い</s><s p="3">）​ ​</s><s p="2">​</s></p>
+<p t="67051" d="133" wp="10" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（イェ〜</s><s p="4">〜〜〜〜イ</s><s p="3">）​ ​</s><s p="2">​</s></p>
+<p t="67184" d="167" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（いぇ〜〜</s><s p="4">〜〜〜い</s><s p="3">）​ ​</s><s p="2">​</s></p>
+<p t="67184" d="167" wp="10" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（イェ〜〜</s><s p="4">〜〜〜イ</s><s p="3">）​ ​</s><s p="2">​</s></p>
+<p t="67217" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​こ</s><s p="4">の なつ は なんど も​ ​</s><s p="2">​</s></p>
+<p t="67217" d="334" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​こ</s><s p="4">の夏は 何度も​ ​</s><s p="2">​</s></p>
+<p t="67351" d="133" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（いぇ〜〜〜</s><s p="4">〜〜い</s><s p="3">）​ ​</s><s p="2">​</s></p>
+<p t="67351" d="133" wp="10" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（イェ〜〜〜</s><s p="4">〜〜イ</s><s p="3">）​ ​</s><s p="2">​</s></p>
+<p t="67484" d="134" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（いぇ〜〜〜〜</s><s p="4">〜い</s><s p="3">）​ ​</s><s p="2">​</s></p>
+<p t="67484" d="134" wp="10" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（イェ〜〜〜〜</s><s p="4">〜イ</s><s p="3">）​ ​</s><s p="2">​</s></p>
+<p t="67551" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​この </s><s p="4">なつ は なんど も​ ​</s><s p="2">​</s></p>
+<p t="67551" d="334" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​この</s><s p="4">夏は 何度も​ ​</s><s p="2">​</s></p>
+<p t="67618" d="133" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（いぇ〜〜〜〜〜</s><s p="4">い</s><s p="3">）​ ​</s><s p="2">​</s></p>
+<p t="67618" d="133" wp="10" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（イェ〜〜〜〜〜</s><s p="4">イ</s><s p="3">）​ ​</s><s p="2">​</s></p>
+<p t="67751" d="134" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（いぇ〜〜〜〜〜い）​ ​</s><s p="2">​</s></p>
+<p t="67751" d="134" wp="10" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（イェ〜〜〜〜〜イ）​ ​</s><s p="2">​</s></p>
+<p t="67885" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​この な</s><s p="4">つ は なんど も​ ​</s><s p="2">​</s></p>
+<p t="67885" d="333" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​この夏</s><s p="4">は 何度も​ ​</s><s p="2">​</s></p>
+<p t="68218" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​この なつ </s><s p="4">は なんど も​ ​</s><s p="2">​</s></p>
+<p t="68218" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​この夏</s><s p="4">は 何度も​ ​</s><s p="2">​</s></p>
+<p t="68385" d="668" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​この なつ は </s><s p="4">なんど も​ ​</s><s p="2">​</s></p>
+<p t="68385" d="668" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​この夏は </s><s p="4">何度も​ ​</s><s p="2">​</s></p>
+<p t="68752" d="301" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（はい！）​ ​</s><s p="2">​</s></p>
+<p t="68752" d="301" wp="10" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（ハイ！）​ ​</s><s p="2">​</s></p>
+<p t="69053" d="166" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​この なつ は な</s><s p="4">んど も​ ​</s><s p="2">​</s></p>
+<p t="69053" d="166" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​この夏は 何</s><s p="4">度も​ ​</s><s p="2">​</s></p>
+<p t="69219" d="301" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​この なつ は なん</s><s p="4">ど も​ ​</s><s p="2">​</s></p>
+<p t="69219" d="301" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​この夏は 何</s><s p="4">度も​ ​</s><s p="2">​</s></p>
+<p t="69520" d="166" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​この なつ は なんど </s><s p="4">も​ ​</s><s p="2">​</s></p>
+<p t="69520" d="166" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​この夏は 何度</s><s p="4">も​ ​</s><s p="2">​</s></p>
+<p t="69686" d="634" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​この なつ は なんど も​ ​</s><s p="2">​</s></p>
+<p t="69686" d="634" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​この夏は 何度も​ ​</s><s p="2">​</s></p>
+<p t="70087" d="233" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（はい！）​ ​</s><s p="2">​</s></p>
+<p t="70087" d="233" wp="10" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（ハイ！）​ ​</s><s p="2">​</s></p>
+<p t="70320" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​ゆ</s><s p="4">めみた なぎさ の たからもの Shiny Smile​ ​</s><s p="2">​</s></p>
+<p t="70320" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​夢</s><s p="4">見た渚の宝物 Shiny Smile​ ​</s><s p="2">​</s></p>
+<p t="70487" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​ゆめ</s><s p="4">みた なぎさ の たからもの Shiny Smile​ ​</s><s p="2">​</s></p>
+<p t="70487" d="334" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​夢</s><s p="4">見た渚の宝物 Shiny Smile​ ​</s><s p="2">​</s></p>
+<p t="70821" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​ゆめみ</s><s p="4">た なぎさ の たからもの Shiny Smile​ ​</s><s p="2">​</s></p>
+<p t="70821" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​夢見</s><s p="4">た渚の宝物 Shiny Smile​ ​</s><s p="2">​</s></p>
+<p t="70988" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​ゆめみた </s><s p="4">なぎさ の たからもの Shiny Smile​ ​</s><s p="2">​</s></p>
+<p t="70988" d="333" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​夢見た</s><s p="4">渚の宝物 Shiny Smile​ ​</s><s p="2">​</s></p>
+<p t="71321" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​ゆめみた な</s><s p="4">ぎさ の たからもの Shiny Smile​ ​</s><s p="2">​</s></p>
+<p t="71321" d="334" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​夢見た渚</s><s p="4">の宝物 Shiny Smile​ ​</s><s p="2">​</s></p>
+<p t="71655" d="300" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​ゆめみた なぎ</s><s p="4">さ の たからもの Shiny Smile​ ​</s><s p="2">​</s></p>
+<p t="71655" d="300" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​夢見た渚</s><s p="4">の宝物 Shiny Smile​ ​</s><s p="2">​</s></p>
+<p t="71955" d="201" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​ゆめみた なぎさ </s><s p="4">の たからもの Shiny Smile​ ​</s><s p="2">​</s></p>
+<p t="71955" d="201" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​夢見た渚</s><s p="4">の宝物 Shiny Smile​ ​</s><s p="2">​</s></p>
+<p t="72156" d="300" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​ゆめみた なぎさ の </s><s p="4">たからもの Shiny Smile​ ​</s><s p="2">​</s></p>
+<p t="72156" d="300" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​夢見た渚の</s><s p="4">宝物 Shiny Smile​ ​</s><s p="2">​</s></p>
+<p t="72456" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​ゆめみた なぎさ の た</s><s p="4">からもの Shiny Smile​ ​</s><s p="2">​</s></p>
+<p t="72456" d="367" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​夢見た渚の宝</s><s p="4">物 Shiny Smile​ ​</s><s p="2">​</s></p>
+<p t="72823" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​ゆめみた なぎさ の たか</s><s p="4">らもの Shiny Smile​ ​</s><s p="2">​</s></p>
+<p t="72823" d="334" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​夢見た渚の宝</s><s p="4">物 Shiny Smile​ ​</s><s p="2">​</s></p>
+<p t="73157" d="300" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​ゆめみた なぎさ の たから</s><s p="4">もの Shiny Smile​ ​</s><s p="2">​</s></p>
+<p t="73157" d="300" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​夢見た渚の宝</s><s p="4">物 Shiny Smile​ ​</s><s p="2">​</s></p>
+<p t="73457" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​ゆめみた なぎさ の たからも</s><s p="4">の Shiny Smile​ ​</s><s p="2">​</s></p>
+<p t="73457" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​夢見た渚の宝物 </s><s p="4">Shiny Smile​ ​</s><s p="2">​</s></p>
+<p t="73624" d="834" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​ゆめみた なぎさ の たからもの </s><s p="4">Shiny Smile​ ​</s><s p="2">​</s></p>
+<p t="73624" d="834" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​夢見た渚の宝物 </s><s p="4">Shiny Smile​ ​</s><s p="2">​</s></p>
+<p t="73791" d="667" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（う〜 </s><s p="4">Shiny Smile</s><s p="3">）​ ​</s><s p="2">​</s></p>
+<p t="73791" d="667" wp="10" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（う〜</s><s p="4">Shiny Smile</s><s p="3">）​ ​</s><s p="2">​</s></p>
+<p t="74458" d="667" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​ゆめみた なぎさ の たからもの Shin</s><s p="4">y Smile​ ​</s><s p="2">​</s></p>
+<p t="74458" d="667" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（う〜 Shin</s><s p="4">y Smile</s><s p="3">）​ ​</s><s p="2">​</s></p>
+<p t="74458" d="667" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​夢見た渚の宝物 Shin</s><s p="4">y Smile​ ​</s><s p="2">​</s></p>
+<p t="74458" d="667" wp="10" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（う〜Shin</s><s p="4">y Smile</s><s p="3">）​ ​</s><s p="2">​</s></p>
+<p t="75125" d="634" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​ゆめみた なぎさ の たからもの Shiny </s><s p="4">Smile​ ​</s><s p="2">​</s></p>
+<p t="75125" d="634" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（う〜 Shiny </s><s p="4">Smile</s><s p="3">）​ ​</s><s p="2">​</s></p>
+<p t="75125" d="634" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​夢見た渚の宝物 Shiny </s><s p="4">Smile​ ​</s><s p="2">​</s></p>
+<p t="75125" d="634" wp="10" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（う〜Shiny </s><s p="4">Smile</s><s p="3">）​ ​</s><s p="2">​</s></p>
+<p t="75759" d="1535" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​ゆめみた なぎさ の たからもの Shiny Smile​ ​</s><s p="2">​</s></p>
+<p t="75759" d="1535" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（う〜 Shiny Smile）​ ​</s><s p="2">​</s></p>
+<p t="75759" d="1535" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​夢見た渚の宝物 Shiny Smile​ ​</s><s p="2">​</s></p>
+<p t="75759" d="1535" wp="10" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（う〜Shiny Smile）​ ​</s><s p="2">​</s></p>
+<p t="77928" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​し</s><s p="4">ぶき あげて はじけて また わらって​ ​</s><s p="2">​</s></p>
+<p t="77928" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​飛</s><s p="4">沫あげて 弾けて また笑って​ ​</s><s p="2">​</s></p>
+<p t="78095" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​しぶ</s><s p="4">き あげて はじけて また わらって​ ​</s><s p="2">​</s></p>
+<p t="78095" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​飛沫</s><s p="4">あげて 弾けて また笑って​ ​</s><s p="2">​</s></p>
+<p t="78262" d="133" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​しぶき </s><s p="4">あげて はじけて また わらって​ ​</s><s p="2">​</s></p>
+<p t="78262" d="133" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​飛沫</s><s p="4">あげて 弾けて また笑って​ ​</s><s p="2">​</s></p>
+<p t="78395" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​しぶき あ</s><s p="4">げて はじけて また わらって​ ​</s><s p="2">​</s></p>
+<p t="78395" d="334" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​飛沫あ</s><s p="4">げて 弾けて また笑って​ ​</s><s p="2">​</s></p>
+<p t="78729" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​しぶき あげ</s><s p="4">て はじけて また わらって​ ​</s><s p="2">​</s></p>
+<p t="78729" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​飛沫あげ</s><s p="4">て 弾けて また笑って​ ​</s><s p="2">​</s></p>
+<p t="78896" d="667" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​しぶき あげて </s><s p="4">はじけて また わらって​ ​</s><s p="2">​</s></p>
+<p t="78896" d="667" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​飛沫あげて </s><s p="4">弾けて また笑って​ ​</s><s p="2">​</s></p>
+<p t="79229" d="334" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（はい！）​ ​</s><s p="2">​</s></p>
+<p t="79229" d="334" wp="10" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（ハイ！）​ ​</s><s p="2">​</s></p>
+<p t="79563" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​しぶき あげて は</s><s p="4">じけて また わらって​ ​</s><s p="2">​</s></p>
+<p t="79563" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​飛沫あげて 弾</s><s p="4">けて また笑って​ ​</s><s p="2">​</s></p>
+<p t="79730" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​しぶき あげて はじ</s><s p="4">けて また わらって​ ​</s><s p="2">​</s></p>
+<p t="79730" d="334" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​飛沫あげて 弾</s><s p="4">けて また笑って​ ​</s><s p="2">​</s></p>
+<p t="80064" d="166" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​しぶき あげて はじけ</s><s p="4">て また わらって​ ​</s><s p="2">​</s></p>
+<p t="80064" d="166" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​飛沫あげて 弾け</s><s p="4">て また笑って​ ​</s><s p="2">​</s></p>
+<p t="80230" d="634" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​しぶき あげて はじけて </s><s p="4">また わらって​ ​</s><s p="2">​</s></p>
+<p t="80230" d="634" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​飛沫あげて 弾けて </s><s p="4">また笑って​ ​</s><s p="2">​</s></p>
+<p t="80597" d="267" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（はい！）​ ​</s><s p="2">​</s></p>
+<p t="80597" d="267" wp="10" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（ハイ！）​ ​</s><s p="2">​</s></p>
+<p t="80864" d="201" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​しぶき あげて はじけて ま</s><s p="4">た わらって​ ​</s><s p="2">​</s></p>
+<p t="80864" d="201" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​飛沫あげて 弾けて ま</s><s p="4">た笑って​ ​</s><s p="2">​</s></p>
+<p t="81065" d="600" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​しぶき あげて はじけて また </s><s p="4">わらって​ ​</s><s p="2">​</s></p>
+<p t="81065" d="600" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​飛沫あげて 弾けて また</s><s p="4">笑って​ ​</s><s p="2">​</s></p>
+<p t="81665" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​しぶき あげて はじけて また わ</s><s p="4">らって​ ​</s><s p="2">​</s></p>
+<p t="81665" d="200" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​飛沫あげて 弾けて また笑</s><s p="4">って​ ​</s><s p="2">​</s></p>
+<p t="81865" d="134" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​しぶき あげて はじけて また わら</s><s p="4">って​ ​</s><s p="2">​</s></p>
+<p t="81865" d="134" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​飛沫あげて 弾けて また笑</s><s p="4">って​ ​</s><s p="2">​</s></p>
+<p t="81999" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​しぶき あげて はじけて また わらっ</s><s p="4">て​ ​</s><s p="2">​</s></p>
+<p t="81999" d="200" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​飛沫あげて 弾けて また笑っ</s><s p="4">て​ ​</s><s p="2">​</s></p>
+<p t="82199" d="834" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​しぶき あげて はじけて また わらって​ ​</s><s p="2">​</s></p>
+<p t="82199" d="834" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​飛沫あげて 弾けて また笑って​ ​</s><s p="2">​</s></p>
+<p t="82733" d="967" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（やー！）​ ​</s><s p="2">​</s></p>
+<p t="82733" d="967" wp="10" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（ヤー！）​ ​</s><s p="2">​</s></p>
+<p t="83033" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="279">​ ​は</s><s p="4">だし で えがいてる Story​ ​</s><s p="2">​</s></p>
+<p t="83033" d="334" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="279">​ ​裸足</s><s p="4">で描いてる　Story​ ​</s><s p="2">​</s></p>
+<p t="83367" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="279">​ ​は</s><s p="280">だ</s><s p="4">し で えがいてる Story​ ​</s><s p="2">​</s></p>
+<p t="83367" d="333" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="279">​ ​裸足</s><s p="4">で描いてる　Story​ ​</s><s p="2">​</s></p>
+<p t="83700" d="668" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="279">​ ​は</s><s p="280">だ</s><s p="281">し </s><s p="4">で えがいてる Story​ ​</s><s p="2">​</s></p>
+<p t="83700" d="668" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="279">​ ​裸足</s><s p="4">で描いてる　Story​ ​</s><s p="2">​</s></p>
+<p t="84368" d="300" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="279">​ ​は</s><s p="280">だ</s><s p="281">し </s><s p="282">で </s><s p="4">えがいてる Story​ ​</s><s p="2">​</s></p>
+<p t="84368" d="300" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="279">​ ​裸足</s><s p="282">で</s><s p="4">描いてる　Story​ ​</s><s p="2">​</s></p>
+<p t="84668" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="279">​ ​は</s><s p="280">だ</s><s p="281">し </s><s p="282">で </s><s p="283">え</s><s p="4">がいてる Story​ ​</s><s p="2">​</s></p>
+<p t="84668" d="334" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="279">​ ​裸足</s><s p="282">で</s><s p="283">描</s><s p="4">いてる　Story​ ​</s><s p="2">​</s></p>
+<p t="85002" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="279">​ ​は</s><s p="280">だ</s><s p="281">し </s><s p="282">で </s><s p="283">え</s><s p="284">が</s><s p="4">いてる Story​ ​</s><s p="2">​</s></p>
+<p t="85002" d="333" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="279">​ ​裸足</s><s p="282">で</s><s p="283">描</s><s p="4">いてる　Story​ ​</s><s p="2">​</s></p>
+<p t="85335" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="279">​ ​は</s><s p="280">だ</s><s p="281">し </s><s p="282">で </s><s p="283">え</s><s p="284">が</s><s p="285">い</s><s p="4">てる Story​ ​</s><s p="2">​</s></p>
+<p t="85335" d="334" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="279">​ ​裸足</s><s p="282">で</s><s p="283">描</s><s p="285">い</s><s p="4">てる　Story​ ​</s><s p="2">​</s></p>
+<p t="85669" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="279">​ ​は</s><s p="280">だ</s><s p="281">し </s><s p="282">で </s><s p="283">え</s><s p="284">が</s><s p="285">い</s><s p="286">て</s><s p="4">る Story​ ​</s><s p="2">​</s></p>
+<p t="85669" d="334" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="279">​ ​裸足</s><s p="282">で</s><s p="283">描</s><s p="285">い</s><s p="286">て</s><s p="4">る　Story​ ​</s><s p="2">​</s></p>
+<p t="86003" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="279">​ ​は</s><s p="280">だ</s><s p="281">し </s><s p="282">で </s><s p="283">え</s><s p="284">が</s><s p="285">い</s><s p="286">て</s><s p="287">る </s><s p="4">Story​ ​</s><s p="2">​</s></p>
+<p t="86003" d="333" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="279">​ ​裸足</s><s p="282">で</s><s p="283">描</s><s p="285">い</s><s p="286">て</s><s p="287">る　</s><s p="4">Story​ ​</s><s p="2">​</s></p>
+<p t="86336" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="279">​ ​は</s><s p="280">だ</s><s p="281">し </s><s p="282">で </s><s p="283">え</s><s p="284">が</s><s p="285">い</s><s p="286">て</s><s p="287">る </s><s p="288">S</s><s p="4">tory​ ​</s><s p="2">​</s></p>
+<p t="86336" d="334" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="279">​ ​裸足</s><s p="282">で</s><s p="283">描</s><s p="285">い</s><s p="286">て</s><s p="287">る　</s><s p="288">S</s><s p="4">tory​ ​</s><s p="2">​</s></p>
+<p t="86670" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="279">​ ​は</s><s p="280">だ</s><s p="281">し </s><s p="282">で </s><s p="283">え</s><s p="284">が</s><s p="285">い</s><s p="286">て</s><s p="287">る </s><s p="288">S</s><s p="289">t</s><s p="4">ory​ ​</s><s p="2">​</s></p>
+<p t="86670" d="200" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="279">​ ​裸足</s><s p="282">で</s><s p="283">描</s><s p="285">い</s><s p="286">て</s><s p="287">る　</s><s p="288">S</s><s p="289">t</s><s p="4">ory​ ​</s><s p="2">​</s></p>
+<p t="86870" d="501" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="279">​ ​は</s><s p="280">だ</s><s p="281">し </s><s p="282">で </s><s p="283">え</s><s p="284">が</s><s p="285">い</s><s p="286">て</s><s p="287">る </s><s p="288">S</s><s p="289">t</s><s p="290">o</s><s p="4">ry​ ​</s><s p="2">​</s></p>
+<p t="86870" d="501" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="279">​ ​裸足</s><s p="282">で</s><s p="283">描</s><s p="285">い</s><s p="286">て</s><s p="287">る　</s><s p="288">S</s><s p="289">t</s><s p="290">o</s><s p="4">ry​ ​</s><s p="2">​</s></p>
+<p t="87371" d="267" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="279">​ ​は</s><s p="280">だ</s><s p="281">し </s><s p="282">で </s><s p="283">え</s><s p="284">が</s><s p="285">い</s><s p="286">て</s><s p="287">る </s><s p="288">S</s><s p="289">t</s><s p="290">o</s><s p="291">r</s><s p="4">y​ ​</s><s p="2">​</s></p>
+<p t="87371" d="267" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="279">​ ​裸足</s><s p="282">で</s><s p="283">描</s><s p="285">い</s><s p="286">て</s><s p="287">る　</s><s p="288">S</s><s p="289">t</s><s p="290">o</s><s p="291">r</s><s p="4">y​ ​</s><s p="2">​</s></p>
+<p t="87638" d="667" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="279">​ ​は</s><s p="280">だ</s><s p="281">し </s><s p="282">で </s><s p="283">え</s><s p="284">が</s><s p="285">い</s><s p="286">て</s><s p="287">る </s><s p="288">S</s><s p="289">t</s><s p="290">o</s><s p="291">r</s><s p="76">y​ ​</s><s p="2">​</s></p>
+<p t="87638" d="667" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="279">​ ​裸足</s><s p="282">で</s><s p="283">描</s><s p="285">い</s><s p="286">て</s><s p="287">る　</s><s p="288">S</s><s p="289">t</s><s p="290">o</s><s p="291">r</s><s p="76">y​ ​</s><s p="2">​</s></p>
+<p t="88305" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="119">​ ​お</s><s p="4">よいで​ ​</s><s p="2">​</s></p>
+<p t="88305" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="119">​ ​泳</s><s p="4">いで​ ​</s><s p="2">​</s></p>
+<p t="88472" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="119">​ ​お</s><s p="292">よ</s><s p="4">いで​ ​</s><s p="2">​</s></p>
+<p t="88472" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="119">​ ​泳</s><s p="4">いで​ ​</s><s p="2">​</s></p>
+<p t="88639" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="119">​ ​お</s><s p="292">よ</s><s p="293">い</s><s p="4">で​ ​</s><s p="2">​</s></p>
+<p t="88639" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="119">​ ​泳</s><s p="293">い</s><s p="4">で​ ​</s><s p="2">​</s></p>
+<p t="88806" d="834" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="119">​ ​お</s><s p="292">よ</s><s p="293">い</s><s p="121">で​ ​</s><s p="2">​</s></p>
+<p t="88806" d="834" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="119">​ ​泳</s><s p="293">い</s><s p="121">で​ ​</s><s p="2">​</s></p>
+<p t="89139" d="167" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（Fu</s><s p="4">Fu</s><s p="3">）​ ​</s><s p="2">​</s></p>
+<p t="89139" d="167" wp="10" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（Fu</s><s p="4">Fu</s><s p="3">）​ ​</s><s p="2">​</s></p>
+<p t="89306" d="334" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（FuFu）​ ​</s><s p="2">​</s></p>
+<p t="89306" d="334" wp="10" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（FuFu）​ ​</s><s p="2">​</s></p>
+<p t="89640" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="206">​ ​お</s><s p="4">よいで​ ​</s><s p="2">​</s></p>
+<p t="89640" d="200" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="206">​ ​泳</s><s p="4">いで​ ​</s><s p="2">​</s></p>
+<p t="89840" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="206">​ ​お</s><s p="209">よ</s><s p="4">いで​ ​</s><s p="2">​</s></p>
+<p t="89840" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="206">​ ​泳</s><s p="4">いで​ ​</s><s p="2">​</s></p>
+<p t="90007" d="133" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="206">​ ​お</s><s p="209">よ</s><s p="230">い</s><s p="4">で​ ​</s><s p="2">​</s></p>
+<p t="90007" d="133" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="206">​ ​泳</s><s p="230">い</s><s p="4">で​ ​</s><s p="2">​</s></p>
+<p t="90140" d="634" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="206">​ ​お</s><s p="209">よ</s><s p="230">い</s><s p="234">で​ ​</s><s p="2">​</s></p>
+<p t="90140" d="634" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="206">​ ​泳</s><s p="230">い</s><s p="234">で​ ​</s><s p="2">​</s></p>
+<p t="90441" d="166" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（Fu</s><s p="4">Fu</s><s p="3">）​ ​</s><s p="2">​</s></p>
+<p t="90441" d="166" wp="10" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（Fu</s><s p="4">Fu</s><s p="3">）​ ​</s><s p="2">​</s></p>
+<p t="90607" d="167" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（FuFu）​ ​</s><s p="2">​</s></p>
+<p t="90607" d="167" wp="10" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（FuFu）​ ​</s><s p="2">​</s></p>
+<p t="90774" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​そ</s><s p="4">の さき へ​ ​</s><s p="2">​</s></p>
+<p t="90774" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​そ</s><s p="4">の先へ​ ​</s><s p="2">​</s></p>
+<p t="90941" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​その </s><s p="4">さき へ​ ​</s><s p="2">​</s></p>
+<p t="90941" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​その</s><s p="4">先へ​ ​</s><s p="2">​</s></p>
+<p t="91108" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​その さ</s><s p="4">き へ​ ​</s><s p="2">​</s></p>
+<p t="91108" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​その先</s><s p="4">へ​ ​</s><s p="2">​</s></p>
+<p t="91275" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​その さき </s><s p="4">へ​ ​</s><s p="2">​</s></p>
+<p t="91275" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​その先</s><s p="4">へ​ ​</s><s p="2">​</s></p>
+<p t="91442" d="2168" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​その さき へ​ ​</s><s p="2">​</s></p>
+<p t="91442" d="2168" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​その先へ​ ​</s><s p="2">​</s></p>
+<p t="93610" d="301" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（せー</s><s p="4">のっ</s><s p="3">）​ ​</s><s p="2">​</s></p>
+<p t="93610" d="301" wp="10" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（せー</s><s p="4">のっ</s><s p="3">）​ ​</s><s p="2">​</s></p>
+<p t="93911" d="333" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（せーのっ）​ ​</s><s p="2">​</s></p>
+<p t="93911" d="333" wp="10" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​（せーのっ）​ ​</s><s p="2">​</s></p>
+<p t="94244" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​ぴ</s><s p="4">えん ぱおん はにゃん​ ​</s><s p="2">​</s></p>
+<p t="94244" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​ぴ</s><s p="4">えん　ぱおん　はにゃん​ ​</s><s p="2">​</s></p>
+<p t="94411" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​ぴえん </s><s p="4">ぱおん はにゃん​ ​</s><s p="2">​</s></p>
+<p t="94411" d="334" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​ぴえん　</s><s p="4">ぱおん　はにゃん​ ​</s><s p="2">​</s></p>
+<p t="94745" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​ぴえん ぱ</s><s p="4">おん はにゃん​ ​</s><s p="2">​</s></p>
+<p t="94745" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​ぴえん　ぱ</s><s p="4">おん　はにゃん​ ​</s><s p="2">​</s></p>
+<p t="94912" d="300" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​ぴえん ぱおん </s><s p="4">はにゃん​ ​</s><s p="2">​</s></p>
+<p t="94912" d="300" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​ぴえん　ぱおん　</s><s p="4">はにゃん​ ​</s><s p="2">​</s></p>
+<p t="95212" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​ぴえん ぱおん は</s><s p="4">にゃん​ ​</s><s p="2">​</s></p>
+<p t="95212" d="200" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​ぴえん　ぱおん　は</s><s p="4">にゃん​ ​</s><s p="2">​</s></p>
+<p t="95412" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​ぴえん ぱおん はにゃん​ ​</s><s p="2">​</s></p>
+<p t="95412" d="334" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​ぴえん　ぱおん　はにゃん​ ​</s><s p="2">​</s></p>
+<p t="95746" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="49">​ ​さ</s><s p="4">まさまっ</s><s p="49">♡​ ​</s><s p="2">​</s></p>
+<p t="95746" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="49">​ ​さ</s><s p="4">まさまっ</s><s p="49">♡​ ​</s><s p="2">​</s></p>
+<p t="95913" d="133" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="49">​ ​さま</s><s p="4">さまっ</s><s p="49">♡​ ​</s><s p="2">​</s></p>
+<p t="95913" d="133" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="49">​ ​さま</s><s p="4">さまっ</s><s p="49">♡​ ​</s><s p="2">​</s></p>
+<p t="96046" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="49">​ ​さまさ</s><s p="4">まっ</s><s p="49">♡​ ​</s><s p="2">​</s></p>
+<p t="96046" d="200" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="49">​ ​さまさ</s><s p="4">まっ</s><s p="49">♡​ ​</s><s p="2">​</s></p>
+<p t="96246" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="49">​ ​さまさまっ♡​ ​</s><s p="2">​</s></p>
+<p t="96246" d="334" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="49">​ ​さまさまっ♡​ ​</s><s p="2">​</s></p>
+<p t="100150" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​「さ</s><s p="4">いこう の なつ に しよう ねっ</s><s p="5">♪」​ ​</s><s p="2">​</s></p>
+<p t="100150" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​「最</s><s p="4">高の夏にしようねっ</s><s p="5">♪」​ ​</s><s p="2">​</s></p>
+<p t="100317" d="134" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​「さい</s><s p="4">こう の なつ に しよう ねっ</s><s p="5">♪」​ ​</s><s p="2">​</s></p>
+<p t="100317" d="134" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​「最</s><s p="4">高の夏にしようねっ</s><s p="5">♪」​ ​</s><s p="2">​</s></p>
+<p t="100451" d="100" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​「さいこ</s><s p="4">う の なつ に しよう ねっ</s><s p="5">♪」​ ​</s><s p="2">​</s></p>
+<p t="100451" d="100" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​「最高</s><s p="4">の夏にしようねっ</s><s p="5">♪」​ ​</s><s p="2">​</s></p>
+<p t="100551" d="100" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​「さいこう </s><s p="4">の なつ に しよう ねっ</s><s p="5">♪」​ ​</s><s p="2">​</s></p>
+<p t="100551" d="100" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​「最高</s><s p="4">の夏にしようねっ</s><s p="5">♪」​ ​</s><s p="2">​</s></p>
+<p t="100651" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​「さいこう の </s><s p="4">なつ に しよう ねっ</s><s p="5">♪」​ ​</s><s p="2">​</s></p>
+<p t="100651" d="200" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​「最高の</s><s p="4">夏にしようねっ</s><s p="5">♪」​ ​</s><s p="2">​</s></p>
+<p t="100851" d="133" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​「さいこう の な</s><s p="4">つ に しよう ねっ</s><s p="5">♪」​ ​</s><s p="2">​</s></p>
+<p t="100851" d="133" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​「最高の夏</s><s p="4">にしようねっ</s><s p="5">♪」​ ​</s><s p="2">​</s></p>
+<p t="100984" d="134" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​「さいこう の なつ </s><s p="4">に しよう ねっ</s><s p="5">♪」​ ​</s><s p="2">​</s></p>
+<p t="100984" d="134" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​「最高の夏</s><s p="4">にしようねっ</s><s p="5">♪」​ ​</s><s p="2">​</s></p>
+<p t="101118" d="100" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​「さいこう の なつ に </s><s p="4">しよう ねっ</s><s p="5">♪」​ ​</s><s p="2">​</s></p>
+<p t="101118" d="100" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​「最高の夏に</s><s p="4">しようねっ</s><s p="5">♪」​ ​</s><s p="2">​</s></p>
+<p t="101218" d="133" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​「さいこう の なつ に し</s><s p="4">よう ねっ</s><s p="5">♪」​ ​</s><s p="2">​</s></p>
+<p t="101218" d="133" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​「最高の夏にし</s><s p="4">ようねっ</s><s p="5">♪」​ ​</s><s p="2">​</s></p>
+<p t="101351" d="134" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​「さいこう の なつ に しよ</s><s p="4">う ねっ</s><s p="5">♪」​ ​</s><s p="2">​</s></p>
+<p t="101351" d="134" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​「最高の夏にしよ</s><s p="4">うねっ</s><s p="5">♪」​ ​</s><s p="2">​</s></p>
+<p t="101485" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​「さいこう の なつ に しよう </s><s p="4">ねっ</s><s p="5">♪」​ ​</s><s p="2">​</s></p>
+<p t="101485" d="200" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​「最高の夏にしよう</s><s p="4">ねっ</s><s p="5">♪」​ ​</s><s p="2">​</s></p>
+<p t="101685" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​「さいこう の なつ に しよう ねっ♪」​ ​</s><s p="2">​</s></p>
+<p t="101685" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​「最高の夏にしようねっ♪」​ ​</s><s p="2">​</s></p>
+<p t="103821" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​こ</s><s p="4">の うみ で​ ​</s><s p="2">​</s></p>
+<p t="103821" d="333" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​こ</s><s p="4">の海で​ ​</s><s p="2">​</s></p>
+<p t="104154" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​この </s><s p="4">うみ で​ ​</s><s p="2">​</s></p>
+<p t="104154" d="167" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​この</s><s p="4">海で​ ​</s><s p="2">​</s></p>
+<p t="104321" d="134" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​この う</s><s p="4">み で​ ​</s><s p="2">​</s></p>
+<p t="104321" d="134" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​この海</s><s p="4">で​ ​</s><s p="2">​</s></p>
+<p t="104455" d="166" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​この うみ </s><s p="4">で​ ​</s><s p="2">​</s></p>
+<p t="104455" d="166" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​この海</s><s p="4">で​ ​</s><s p="2">​</s></p>
+<p t="104621" d="2169" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​この うみ で​ ​</s><s p="2">​</s></p>
+<p t="104621" d="2169" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​この海で​ ​</s><s p="2">​</s></p>
+</body>
+</timedtext>

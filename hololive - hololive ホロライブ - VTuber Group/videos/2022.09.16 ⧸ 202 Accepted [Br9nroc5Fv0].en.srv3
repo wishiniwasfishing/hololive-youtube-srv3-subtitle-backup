@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="utf-8" ?><timedtext format="3">
+<head>
+<pen id="1" fc="#000000" fo="0" bo="0" sz="100"/>
+<pen id="2" fc="#A0AAB4" fo="0" bo="0" sz="100"/>
+<pen id="3" fc="#FFBE00" fo="254" bo="0" ec="#000000" sz="100" et="4"/>
+<pen id="4" fc="#FFBE00" fo="254" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="5" fc="#C07876" fo="254" bo="0" ec="#000000" sz="100" et="4"/>
+<pen id="6" fc="#C07876" fo="254" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="7" fc="#B51D30" fo="254" bc="#000000" bo="230" ec="#000000" sz="100" et="4"/>
+<pen id="8" fc="#B51D30" fo="254" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="9" fc="#B51D30" fo="254" bc="#000000" bo="229" ec="#000000" sz="100" et="4"/>
+<pen id="10" fc="#B51D30" fo="249" bc="#000000" bo="224" ec="#000000" sz="100" et="4"/>
+<pen id="11" fc="#B51D30" fo="249" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="12" fc="#B51D30" fo="244" bc="#000000" bo="220" ec="#000000" sz="100" et="4"/>
+<pen id="13" fc="#B51D30" fo="244" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="14" fc="#B51D30" fo="239" bc="#000000" bo="215" ec="#000000" sz="100" et="4"/>
+<pen id="15" fc="#B51D30" fo="239" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="16" fc="#B51D30" fo="234" bc="#000000" bo="211" ec="#000000" sz="100" et="4"/>
+<pen id="17" fc="#B51D30" fo="234" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="18" fc="#B51D30" fo="229" bc="#000000" bo="206" ec="#000000" sz="100" et="4"/>
+<pen id="19" fc="#B51D30" fo="229" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="20" fc="#B51D30" fo="224" bc="#000000" bo="202" ec="#000000" sz="100" et="4"/>
+<pen id="21" fc="#B51D30" fo="224" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="22" fc="#B51D30" fo="219" bc="#000000" bo="197" ec="#000000" sz="100" et="4"/>
+<pen id="23" fc="#B51D30" fo="219" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="24" fc="#B51D30" fo="214" bc="#000000" bo="193" ec="#000000" sz="100" et="4"/>
+<pen id="25" fc="#B51D30" fo="214" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="26" fc="#B51D30" fo="209" bc="#000000" bo="188" ec="#000000" sz="100" et="4"/>
+<pen id="27" fc="#B51D30" fo="209" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="28" fc="#B51D30" fo="204" bc="#000000" bo="184" ec="#000000" sz="100" et="4"/>
+<pen id="29" fc="#B51D30" fo="204" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="30" fc="#B51D30" fo="199" bc="#000000" bo="179" ec="#000000" sz="100" et="4"/>
+<pen id="31" fc="#B51D30" fo="199" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="32" fc="#B51D30" fo="194" bc="#000000" bo="174" ec="#000000" sz="100" et="4"/>
+<pen id="33" fc="#B51D30" fo="194" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="34" fc="#B51D30" fo="189" bc="#000000" bo="170" ec="#000000" sz="100" et="4"/>
+<pen id="35" fc="#B51D30" fo="189" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="36" fc="#B51D30" fo="184" bc="#000000" bo="165" ec="#000000" sz="100" et="4"/>
+<pen id="37" fc="#B51D30" fo="184" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="38" fc="#B51D30" fo="178" bc="#000000" bo="160" ec="#000000" sz="100" et="4"/>
+<pen id="39" fc="#B51D30" fo="178" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="40" fc="#B51D30" fo="173" bc="#000000" bo="156" ec="#000000" sz="100" et="4"/>
+<pen id="41" fc="#B51D30" fo="173" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="42" fc="#B51D30" fo="168" bc="#000000" bo="151" ec="#000000" sz="100" et="4"/>
+<pen id="43" fc="#B51D30" fo="168" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="44" fc="#B51D30" fo="163" bc="#000000" bo="147" ec="#000000" sz="100" et="4"/>
+<pen id="45" fc="#B51D30" fo="163" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="46" fc="#B51D30" fo="158" bc="#000000" bo="142" ec="#000000" sz="100" et="4"/>
+<pen id="47" fc="#B51D30" fo="158" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="48" fc="#B51D30" fo="153" bc="#000000" bo="138" ec="#000000" sz="100" et="4"/>
+<pen id="49" fc="#B51D30" fo="153" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="50" fc="#B51D30" fo="148" bc="#000000" bo="133" ec="#000000" sz="100" et="4"/>
+<pen id="51" fc="#B51D30" fo="148" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="52" fc="#B51D30" fo="143" bc="#000000" bo="128" ec="#000000" sz="100" et="4"/>
+<pen id="53" fc="#B51D30" fo="143" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="54" fc="#B51D30" fo="138" bc="#000000" bo="124" ec="#000000" sz="100" et="4"/>
+<pen id="55" fc="#B51D30" fo="138" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="56" fc="#B51D30" fo="133" bc="#000000" bo="119" ec="#000000" sz="100" et="4"/>
+<pen id="57" fc="#B51D30" fo="133" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="58" fc="#B51D30" fo="128" bc="#000000" bo="115" ec="#000000" sz="100" et="4"/>
+<pen id="59" fc="#B51D30" fo="128" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="60" fc="#B51D30" fo="123" bc="#000000" bo="110" ec="#000000" sz="100" et="4"/>
+<pen id="61" fc="#B51D30" fo="123" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="62" fc="#B51D30" fo="118" bc="#000000" bo="106" ec="#000000" sz="100" et="4"/>
+<pen id="63" fc="#B51D30" fo="118" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="64" fc="#B51D30" fo="113" bc="#000000" bo="101" ec="#000000" sz="100" et="4"/>
+<pen id="65" fc="#B51D30" fo="113" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="66" fc="#B51D30" fo="108" bc="#000000" bo="97" ec="#000000" sz="100" et="4"/>
+<pen id="67" fc="#B51D30" fo="108" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="68" fc="#B51D30" fo="103" bc="#000000" bo="92" ec="#000000" sz="100" et="4"/>
+<pen id="69" fc="#B51D30" fo="103" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="70" fc="#B51D30" fo="98" bc="#000000" bo="88" ec="#000000" sz="100" et="4"/>
+<pen id="71" fc="#B51D30" fo="98" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="72" fc="#B51D30" fo="93" bc="#000000" bo="83" ec="#000000" sz="100" et="4"/>
+<pen id="73" fc="#B51D30" fo="93" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="74" fc="#B51D30" fo="88" bc="#000000" bo="79" ec="#000000" sz="100" et="4"/>
+<pen id="75" fc="#B51D30" fo="88" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="76" fc="#B51D30" fo="83" bc="#000000" bo="74" ec="#000000" sz="100" et="4"/>
+<pen id="77" fc="#B51D30" fo="83" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="78" fc="#B51D30" fo="78" bc="#000000" bo="70" ec="#000000" sz="100" et="4"/>
+<pen id="79" fc="#B51D30" fo="78" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="80" fc="#B51D30" fo="72" bc="#000000" bo="64" ec="#000000" sz="100" et="4"/>
+<pen id="81" fc="#B51D30" fo="72" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="82" fc="#B51D30" fo="67" bc="#000000" bo="60" ec="#000000" sz="100" et="4"/>
+<pen id="83" fc="#B51D30" fo="67" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="84" fc="#B51D30" fo="62" bc="#000000" bo="55" ec="#000000" sz="100" et="4"/>
+<pen id="85" fc="#B51D30" fo="62" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="86" fc="#B51D30" fo="57" bc="#000000" bo="51" ec="#000000" sz="100" et="4"/>
+<pen id="87" fc="#B51D30" fo="57" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="88" fc="#B51D30" fo="52" bc="#000000" bo="46" ec="#000000" sz="100" et="4"/>
+<pen id="89" fc="#B51D30" fo="52" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="90" fc="#B51D30" fo="47" bc="#000000" bo="42" ec="#000000" sz="100" et="4"/>
+<pen id="91" fc="#B51D30" fo="47" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="92" fc="#B51D30" fo="42" bc="#000000" bo="37" ec="#000000" sz="100" et="4"/>
+<pen id="93" fc="#B51D30" fo="42" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="94" fc="#B51D30" fo="37" bc="#000000" bo="33" ec="#000000" sz="100" et="4"/>
+<pen id="95" fc="#B51D30" fo="37" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="96" fc="#B51D30" fo="32" bc="#000000" bo="28" ec="#000000" sz="100" et="4"/>
+<pen id="97" fc="#B51D30" fo="32" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="98" fc="#B51D30" fo="27" bc="#000000" bo="24" ec="#000000" sz="100" et="4"/>
+<pen id="99" fc="#B51D30" fo="27" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="100" fc="#B51D30" fo="22" bc="#000000" bo="19" ec="#000000" sz="100" et="4"/>
+<pen id="101" fc="#B51D30" fo="22" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="102" fc="#B51D30" fo="17" bc="#000000" bo="15" ec="#000000" sz="100" et="4"/>
+<pen id="103" fc="#B51D30" fo="17" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="104" fc="#B51D30" fo="12" bc="#000000" bo="10" ec="#000000" sz="100" et="4"/>
+<pen id="105" fc="#B51D30" fo="12" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="106" fc="#B51D30" fo="7" bc="#000000" bo="6" ec="#000000" sz="100" et="4"/>
+<pen id="107" fc="#B51D30" fo="7" bo="0" ec="#000000" sz="100" et="3"/>
+<pen id="108" fc="#B51D30" fo="2" bc="#000000" bo="1" sz="100"/>
+<ws id="0"/>
+<ws id="1" ju="2" pd="0" sd="0"/>
+<wp id="0"/>
+<wp id="3" ap="4" ah="52" av="65"/>
+<wp id="1" ap="7" ah="0" av="0"/>
+<wp id="2" ap="7" ah="50" av="100"/>
+</head>
+<body>
+<p t="31782" d="1935" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Give me back Yuka!​ ​</s><s p="2">​</s></p>
+<p t="31782" d="1935" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Give me back Yuka!​ ​</s><s p="2">​</s></p>
+<p t="42726" d="2069" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​I won&#39;t let you get away...​ ​</s><s p="2">​</s></p>
+<p t="42726" d="2069" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​I won&#39;t let you get away...​ ​</s><s p="2">​</s></p>
+<p t="59476" d="3837" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​You still... haven&#39;t realized?​ ​</s><s p="2">​</s></p>
+<p t="59476" d="3837" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​You still... haven&#39;t realized?​ ​</s><s p="2">​</s></p>
+<p t="61512" d="15048" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="7">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="7">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="7">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="61512" d="15048" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="8">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="8">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="8">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="76560" d="67" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="9">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="9">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="9">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="76560" d="67" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="8">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="8">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="8">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="76627" d="66" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="10">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="10">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="10">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="76627" d="66" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="11">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="11">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="11">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="11">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="76693" d="67" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="12">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="12">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="12">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="12">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="76693" d="67" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="13">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="13">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="13">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="13">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="76760" d="67" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="14">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="14">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="14">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="14">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="76760" d="67" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="15">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="15">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="15">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="15">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="76827" d="67" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="16">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="16">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="16">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="16">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="76827" d="67" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="17">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="17">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="17">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="17">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="76894" d="66" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="18">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="18">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="18">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="18">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="76894" d="66" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="19">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="19">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="19">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="19">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="76960" d="67" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="20">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="20">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="20">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="20">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="76960" d="67" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="21">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="21">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="21">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="21">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="77027" d="67" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="22">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="22">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="22">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="22">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="77027" d="67" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="23">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="23">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="23">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="23">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="77094" d="67" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="24">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="24">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="24">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="24">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="77094" d="67" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="25">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="25">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="25">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="25">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="77161" d="66" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="26">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="26">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="26">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="26">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="77161" d="66" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="27">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="27">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="27">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="27">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="77227" d="67" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="28">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="28">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="28">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="28">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="77227" d="67" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="29">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="29">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="29">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="29">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="77294" d="67" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="30">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="30">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="30">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="30">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="77294" d="67" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="31">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="31">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="31">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="31">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="77361" d="67" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="32">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="32">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="32">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="32">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="77361" d="67" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="33">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="33">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="33">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="33">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="77428" d="66" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="34">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="34">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="34">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="34">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="77428" d="66" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="35">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="35">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="35">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="35">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="77494" d="67" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="36">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="36">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="36">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="36">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="77494" d="67" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="37">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="37">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="37">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="37">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="77561" d="67" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="38">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="38">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="38">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="38">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="77561" d="67" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="39">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="39">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="39">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="39">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="77628" d="66" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="40">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="40">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="40">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="40">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="77628" d="66" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="41">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="41">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="41">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="41">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="77694" d="67" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="42">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="42">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="42">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="42">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="77694" d="67" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="43">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="43">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="43">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="43">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="77761" d="67" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="44">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="44">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="44">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="44">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="77761" d="67" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="45">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="45">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="45">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="45">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="77828" d="67" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="46">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="46">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="46">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="46">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="77828" d="67" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="47">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="47">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="47">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="47">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="77895" d="66" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="48">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="48">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="48">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="48">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="77895" d="66" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="49">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="49">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="49">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="49">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="77961" d="67" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="50">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="50">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="50">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="50">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="77961" d="67" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="51">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="51">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="51">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="51">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="78028" d="67" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="52">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="52">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="52">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="52">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="78028" d="67" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="53">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="53">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="53">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="53">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="78095" d="67" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="54">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="54">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="54">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="54">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="78095" d="67" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="55">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="55">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="55">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="55">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="78162" d="66" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="56">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="56">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="56">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="56">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="78162" d="66" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="57">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="57">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="57">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="57">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="78228" d="67" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="58">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="58">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="58">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="58">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="78228" d="67" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="59">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="59">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="59">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="59">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="78295" d="67" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="60">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="60">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="60">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="60">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="78295" d="67" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="61">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="61">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="61">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="61">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="78362" d="67" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="62">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="62">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="62">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="62">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="78362" d="67" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="63">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="63">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="63">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="63">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="78429" d="66" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="64">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="64">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="64">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="64">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="78429" d="66" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="65">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="65">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="65">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="65">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="78495" d="67" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="66">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="66">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="66">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="66">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="78495" d="67" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="67">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="67">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="67">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="67">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="78562" d="67" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="68">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="68">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="68">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="68">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="78562" d="67" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="69">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="69">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="69">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="69">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="78629" d="66" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="70">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="70">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="70">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="70">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="78629" d="66" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="71">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="71">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="71">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="71">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="78695" d="67" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="72">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="72">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="72">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="72">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="78695" d="67" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="73">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="73">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="73">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="73">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="78762" d="67" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="74">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="74">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="74">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="74">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="78762" d="67" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="75">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="75">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="75">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="75">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="78829" d="67" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="76">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="76">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="76">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="76">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="78829" d="67" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="77">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="77">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="77">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="77">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="78896" d="66" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="78">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="78">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="78">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="78">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="78896" d="66" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="79">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="79">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="79">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="79">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="78962" d="67" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="80">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="80">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="80">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="80">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="78962" d="67" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="81">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="81">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="81">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="81">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="79029" d="67" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="82">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="82">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="82">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="82">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="79029" d="67" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="83">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="83">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="83">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="83">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="79096" d="67" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="84">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="84">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="84">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="84">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="79096" d="67" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="85">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="85">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="85">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="85">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="79163" d="66" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="86">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="86">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="86">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="86">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="79163" d="66" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="87">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="87">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="87">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="87">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="79229" d="67" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="88">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="88">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="88">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="88">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="79229" d="67" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="89">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="89">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="89">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="89">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="79296" d="67" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="90">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="90">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="90">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="90">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="79296" d="67" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="91">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="91">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="91">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="91">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="79363" d="67" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="92">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="92">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="92">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="92">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="79363" d="67" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="93">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="93">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="93">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="93">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="79430" d="66" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="94">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="94">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="94">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="94">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="79430" d="66" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="95">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="95">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="95">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="95">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="79496" d="67" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="96">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="96">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="96">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="96">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="79496" d="67" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="97">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="97">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="97">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="97">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="79563" d="67" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="98">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="98">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="98">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="98">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="79563" d="67" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="99">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="99">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="99">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="99">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="79630" d="66" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="100">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="100">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="100">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="100">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="79630" d="66" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="101">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="101">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="101">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="101">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="79696" d="67" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="102">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="102">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="102">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="102">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="79696" d="67" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="103">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="103">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="103">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="103">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="79763" d="67" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="104">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="104">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="104">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="104">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="79763" d="67" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="105">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="105">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="105">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="105">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="79830" d="67" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="106">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="106">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="106">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="106">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="79830" d="67" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="107">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="107">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="107">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="107">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+<p t="79897" d="66" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="108">​ ​Friday, September 16th​ ​</s><s p="2">​
+​</s><s p="108">​ ​Free Content Update​ ​</s><s p="2">​
+​</s><s p="108">​ ​&amp;​ ​</s><s p="2">​
+​</s><s p="108">​ ​available on Steam​ ​</s><s p="2">​</s></p>
+</body>
+</timedtext>

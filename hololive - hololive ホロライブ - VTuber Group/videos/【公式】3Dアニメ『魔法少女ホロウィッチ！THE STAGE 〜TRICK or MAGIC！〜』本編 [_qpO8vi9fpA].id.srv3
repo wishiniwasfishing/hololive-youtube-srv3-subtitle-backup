@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="utf-8" ?><timedtext format="3">
+<head>
+<pen id="1" fc="#000000" fo="0" bo="0" sz="100"/>
+<pen id="2" fc="#A0AAB4" fo="0" bo="0" sz="100"/>
+<pen id="3" fc="#9FDCFB" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="4" i="1" fc="#9FDCFB" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="5" fc="#ED3934" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="6" fc="#74D5F6" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="7" fc="#F890B5" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="8" fc="#80E7FD" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="9" fc="#F373C0" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="10" fc="#5EDDEE" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="11" fc="#EC1A4A" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="12" fc="#84D1F2" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="13" i="1" fc="#74D5F6" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="14" fc="#FFD648" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="15" fc="#FEFEFE" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="16" fc="#E765AC" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="17" fc="#DC71B3" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="18" fc="#D17DBB" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="19" fc="#C689C3" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="20" fc="#BB95CB" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="21" fc="#B0A1D2" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="22" fc="#A5ADDA" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="23" fc="#9AB9E2" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="24" fc="#8FC5EA" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="25" fc="#A6D5F5" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="26" fc="#ADCFEF" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="27" fc="#B5C9E9" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="28" fc="#BCC2E3" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="29" fc="#C4BCDD" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="30" fc="#CBB6D8" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="31" fc="#D2AFD2" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="32" fc="#DAA9CC" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="33" fc="#E1A3C6" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="34" fc="#E99CC0" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="35" fc="#F096BA" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="36" fc="#80C5E2" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="37" fc="#8CB5CF" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="38" fc="#98A6BB" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="39" fc="#A496A8" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="40" fc="#B08795" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="41" fc="#BC7781" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="42" fc="#C8676E" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="43" fc="#D4585A" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="44" fc="#E04847" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="45" i="1" fc="#80E7FD" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="46" fc="#FCA667" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="47" fc="#76D8F7" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="48" fc="#78DBF8" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="49" fc="#7ADEF9" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="50" fc="#7CE1FA" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="51" fc="#7EE4FB" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="52" fc="#75D7F6" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="53" fc="#77D9F7" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="54" fc="#7BE0FA" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="55" fc="#7DE2FB" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="56" fc="#7EE4FC" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="57" fc="#F78BB6" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="58" fc="#F686B8" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="59" fc="#F581BA" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="60" fc="#F47CBC" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="61" fc="#F377BE" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="62" fc="#F688B7" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="63" fc="#F47ABD" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="64" fc="#8BC9ED" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="65" fc="#92C1E8" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="66" fc="#99B9E3" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="67" fc="#A0B2DE" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="68" fc="#A7AAD9" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="69" fc="#AEA2D4" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="70" fc="#B59BCF" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="71" fc="#BC93CA" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="72" fc="#C38BC5" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="73" fc="#CA83C0" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="74" fc="#D17CBB" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="75" fc="#D874B6" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="76" fc="#DF6CB1" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="77" fc="#D251B1" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="78" fc="#DF648E" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="79" fc="#ED776C" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="80" fc="#FA8A4A" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="81" fc="#FEA641" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="82" fc="#FCC646" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="83" fc="#FBE64A" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="84" fc="#E9FC4B" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="85" fc="#B7FD45" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="86" fc="#85FE40" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="87" fc="#53FF3B" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="88" fc="#5FE974" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="89" fc="#6CD3AE" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="90" fc="#78BEE7" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="91" fc="#8EA4FB" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="92" fc="#A888FD" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="93" fc="#C16BFE" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="94" fc="#CC53FF" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="95" fc="#B842FF" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="96" fc="#A431FF" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="97" fc="#9020FF" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="98" i="1" fc="#FEFEFE" fo="1" bo="0" sz="100"/>
+<ws id="0"/>
+<ws id="2" ju="0" pd="0" sd="0"/>
+<ws id="3" ju="1" pd="0" sd="0"/>
+<ws id="1" ju="2" pd="0" sd="0"/>
+<wp id="0"/>
+<wp id="3" ap="1" ah="50" av="0"/>
+<wp id="5" ap="6" ah="0" av="100"/>
+<wp id="1" ap="7" ah="0" av="0"/>
+<wp id="2" ap="7" ah="50" av="100"/>
+<wp id="4" ap="7" ah="50" av="91"/>
+<wp id="7" ap="8" ah="0" av="0"/>
+<wp id="6" ap="8" ah="100" av="100"/>
+</head>
+<body>
+<p t="884" d="4138" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Kami cuma streamer biasa yang sering streaming lewat aplikasi </s><s p="4">holocast</s><s p="3">!​ ​</s><s p="2">​</s></p>
+<p t="5022" d="2002" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Tapi suatu hari,​ ​</s><s p="2">​</s></p>
+<p t="7024" d="3337" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​tiba-tiba saja kami tersedot ke dalam layar dan tiba di dunia misterius &quot;holocast World&quot;!​ ​</s><s p="2">​</s></p>
+<p t="10794" d="801" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Di dunia ini,​ ​</s><s p="2">​</s></p>
+<p t="11595" d="3437" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​terjadi fenomena &quot;DreamEnder&quot;​ ​</s><s p="2">​
+​</s><s p="6">​ ​yang mengubah orang-orang​ ​</s><s p="2">​</s></p>
+<p t="15032" d="1535" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​yang menderita di dunia​ ​</s><s p="2">​
+​</s><s p="6">​ ​nyata menjadi monster!​ ​</s><s p="2">​</s></p>
+<p t="17301" d="1935" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​Kami harus mengalahkan​ ​</s><s p="2">​
+​</s><s p="7">​ ​monster-monster itu,​ ​</s><s p="2">​</s></p>
+<p t="19236" d="2436" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​&quot;Collapser&quot;, untuk​ ​</s><s p="2">​
+​</s><s p="7">​ ​mengembalikan jiwa mereka!​ ​</s><s p="2">​</s></p>
+<p t="22439" d="5105" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​Karena itu, kami pun berubah​ ​</s><s p="2">​
+​</s><s p="8">​ ​menjadi Magical Girl!​ ​</s><s p="2">​</s></p>
+<p t="28445" d="3571" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Kami akan menolong hati orang-orang​ ​</s><s p="2">​
+​</s><s p="9">​ ​dan mendukung impian mereka!​ ​</s><s p="2">​</s></p>
+<p t="32716" d="1068" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Kami adalah...​ ​</s><s p="2">​</s></p>
+<p t="34651" d="2370" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​Magical Girl holoWitches!​ ​</s><s p="2">​</s></p>
+<p t="45729" d="2303" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​Hari ini, kita akan streaming​ ​</s><s p="2">​
+​</s><s p="8">​ ​di panggung spesial Halloween!​ ​</s><s p="2">​</s></p>
+<p t="49033" d="2802" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Banyak streamer holocast​ ​</s><s p="2">​
+​</s><s p="6">​ ​populer yang ikut tampil, loh!​ ​</s><s p="2">​</s></p>
+<p t="51835" d="1368" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Enggak cuma itu...​ ​</s><s p="2">​</s></p>
+<p t="53203" d="3637" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Kanon-san yang lagi naik daun​ ​</s><s p="2">​
+​</s><s p="6">​ ​belakangan ini juga bakal tampil!​ ​</s><s p="2">​</s></p>
+<p t="56840" d="2203" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Bisa dibilang, acara kali​ ​</s><s p="2">​
+​</s><s p="6">​ ​ini penuh bintang tamu!​ ​</s><s p="2">​</s></p>
+<p t="59843" d="2803" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Lalu, bagian pembuka​ ​</s><s p="2">​
+​</s><s p="5">​ ​acara besar ini​ ​</s><s p="2">​</s></p>
+<p t="62646" d="2369" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​diserahkan ke kita berenam.​ ​</s><s p="2">​</s></p>
+<p t="65516" d="1501" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​Jadi,​ ​</s><s p="2">​</s></p>
+<p t="67017" d="1802" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​gimana kalau kita semua​ ​</s><s p="2">​
+​</s><s p="7">​ ​tampil pakai kostum​ ​</s><s p="2">​</s></p>
+<p t="68819" d="3670" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​holoWitches dan buka​ ​</s><s p="2">​
+​</s><s p="7">​ ​acaranya dengan meriah?​ ​</s><s p="2">​</s></p>
+<p t="72489" d="1735" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Emang enggak apa-apa, ya?​ ​</s><s p="2">​</s></p>
+<p t="74224" d="2436" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Bukannya kita harus ngerahasiain​ ​</s><s p="2">​</s></p>
+<p t="76660" d="2703" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​soal sihir dan peri ini?​ ​</s><s p="2">​</s></p>
+<p t="79363" d="2335" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Hawi ini kan Halloween.​ ​</s><s p="2">​</s></p>
+<p t="81698" d="4338" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Penonton bakal ngira itu​ ​</s><s p="2">​
+​</s><s p="9">​ ​cuma bagian dawi pertunjukan.​ ​</s><s p="2">​</s></p>
+<p t="86036" d="1001" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Betul!​ ​</s><s p="2">​</s></p>
+<p t="87037" d="2136" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Ngomong-ngomong... sudah​ ​</s><s p="2">​
+​</s><s p="5">​ ​waktunya kita siap-siap, kan?​ ​</s><s p="2">​</s></p>
+<p t="90641" d="1401" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​Iya.​ ​</s><s p="2">​</s></p>
+<p t="92042" d="3003" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​Baiklah, ayo semangat semuanya!​ ​</s><s p="2">​</s></p>
+<p t="97181" d="2102" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​Trick or...​ ​</s><s p="2">​</s></p>
+<p t="99950" d="2603" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​Treat!​ ​</s><s p="2">​</s></p>
+<p t="308759" d="2302" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="11">​ ​Trick or Treat!​ ​</s><s p="2">​</s></p>
+<p t="311061" d="3136" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Semuanya! Seru enggak acaranya?​ ​</s><s p="2">​</s></p>
+<p t="314197" d="3971" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​Gimana performance​ ​</s><s p="2">​
+​</s><s p="7">​ ​holoWitches kami barusan?​ ​</s><s p="2">​</s></p>
+<p t="320804" d="4872" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Ini bawu pembukaan, kawena habis​ ​</s><s p="2">​
+​</s><s p="9">​ ​ini acaranya bakal makin ceru, loh!​ ​</s><s p="2">​</s></p>
+<p t="325676" d="2702" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​Ayo kita bikin malam ini jadi​ ​</s><s p="2">​
+​</s><s p="8">​ ​momen yang enggak terlupakan!​ ​</s><s p="2">​</s></p>
+<p t="328378" d="1035" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="12">​ ​Hehehe...​ ​</s><s p="2">​</s></p>
+<p t="328378" d="1035" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="12">​ ​Hehehe...​ ​</s><s p="2">​</s></p>
+<p t="330380" d="4805" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Hari ini bukan cuma kita,​ ​</s><s p="2">​
+​</s><s p="6">​ ​streamer </s><s p="13">holocast </s><s p="6">saja, loh!​ ​</s><s p="2">​</s></p>
+<p t="335185" d="4838" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Tapi ada juga tamu spesial,​ ​</s><s p="2">​
+​</s><s p="6">​ ​Kanon-san, yang hadir bareng kita!​ ​</s><s p="2">​</s></p>
+<p t="340824" d="2503" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​Kanon-san, silakan!​ ​</s><s p="2">​</s></p>
+<p t="344928" d="1935" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="14">​ ​Trick or Treat!​ ​</s><s p="2">​</s></p>
+<p t="348965" d="3003" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="14">​ ​Semuanya, mari kita​ ​</s><s p="2">​
+​</s><s p="14">​ ​ramaikan panggung ini!​ ​</s><s p="2">​</s></p>
+<p t="353704" d="1067" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="14">​ ​Siap?​ ​</s><s p="2">​</s></p>
+<p t="357474" d="1835" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Wah, enggak nyangka​ ​</s><s p="2">​</s></p>
+<p t="359309" d="3537" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​loh bisa satu panggung​ ​</s><s p="2">​
+​</s><s p="3">​ ​sama Kanon-san.​ ​</s><s p="2">​</s></p>
+<p t="362846" d="3170" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​Iya! Aku selalu ngefans sama dia.​ ​</s><s p="2">​</s></p>
+<p t="366016" d="5272" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Dengewin lagu Kanon-san​ ​</s><s p="2">​
+​</s><s p="9">​ ​tuh kayak ngacih aku kekuatan.​ ​</s><s p="2">​</s></p>
+<p t="371555" d="1034" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Setuju!​ ​</s><s p="2">​</s></p>
+<p t="372589" d="3103" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Saking bagusnya, sampai mikir​ ​</s><s p="2">​
+​</s><s p="5">​ ​kayaknya kita enggak layak dengerin.​ ​</s><s p="2">​</s></p>
+<p t="375692" d="3203" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​Pas denger, rasanya​ ​</s><s p="2">​
+​</s><s p="7">​ ​semangatku langsung muncul.​ ​</s><s p="2">​</s></p>
+<p t="381231" d="3103" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="11">​ ​Tenang.​ ​</s><s p="2">​
+​</s><s p="11">​ ​Aku enggak apa-apa, kok...​ ​</s><s p="2">​</s></p>
+<p t="386203" d="1067" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="14">​ ​...​ ​</s><s p="2">​</s></p>
+<p t="387270" d="4305" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Buat lagu bewikutnya,​ ​</s><s p="2">​
+​</s><s p="9">​ ​cemuanya nyanyi bareng, yuk!​ ​</s><s p="2">​</s></p>
+<p t="392709" d="4038" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Jangan malu-malu!​ ​</s><s p="2">​
+​</s><s p="5">​ ​Ayo nyanyi yang kencang!​ ​</s><s p="2">​</s></p>
+<p t="399916" d="1769" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="14">​ ​...​ ​</s><s p="2">​</s></p>
+<p t="599282" d="1769" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="15">​ ​Wooo!​ ​</s><s p="2">​</s></p>
+<p t="603753" d="5005" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Makacih sudah nyanyi bareng kami!​ ​</s><s p="2">​</s></p>
+<p t="608758" d="2002" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Performance kita tadi keren, ya?​ ​</s><s p="2">​</s></p>
+<p t="610760" d="3537" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Kita semua nyanyi kompak banget!​ ​</s><s p="2">​</s></p>
+<p t="614297" d="2736" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​Iya! Bagus banget, beneran!​ ​</s><s p="2">​</s></p>
+<p t="617033" d="2303" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​Sekarang aku jadi makin semangat!​ ​</s><s p="2">​</s></p>
+<p t="623106" d="1702" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Se, selanjutnya!​ ​</s><s p="2">​</s></p>
+<p t="624808" d="3770" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Ini dia saat yang kalian tunggu-tunggu!​ ​</s><s p="2">​
+​</s><s p="6">​ ​Performance spesial dari Kanon-san!​ ​</s><s p="2">​</s></p>
+<p t="638655" d="2936" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="14">​ ​Kamu tidak apa-apa?​ ​</s><s p="2">​</s></p>
+<p t="653837" d="267" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="11">​ ​Hii!​ ​</s><s p="2">​</s></p>
+<p t="659109" d="1935" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​Eh? Eh?!​ ​</s><s p="2">​</s></p>
+<p t="662112" d="3470" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Buih? Buih ini...​ ​</s><s p="2">​</s></p>
+<p t="666016" d="900" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Jangan-jangan...!​ ​</s><s p="2">​</s></p>
+<p t="667717" d="701" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="14">​ ​Ah!​ ​</s><s p="2">​</s></p>
+<p t="677427" d="2002" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Tu, tu, tunggu dulu!​ ​</s><s p="2">​</s></p>
+<p t="679429" d="2002" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Apa-apaan ini?!​ ​</s><s p="2">​</s></p>
+<p t="681431" d="1501" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="16">​ ​C</s><s p="17">o</s><s p="18">l</s><s p="19">l</s><s p="20">a</s><s p="21">p</s><s p="22">s</s><s p="23">e</s><s p="24">r</s><s p="12">!​ ​</s><s p="2">​</s></p>
+<p t="682932" d="2169" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Apa lagi kalau bukan itu?!​ ​</s><s p="2">​</s></p>
+<p t="685101" d="1235" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="14">​ ​Collapser...​ ​</s><s p="2">​</s></p>
+<p t="687237" d="867" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="14">​ ​sudah kuduga...​ ​</s><s p="2">​</s></p>
+<p t="691808" d="2636" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Grrr...​ ​</s><s p="2">​</s></p>
+<p t="694444" d="4471" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Le-pa-sin-di-a!​ ​</s><s p="2">​</s></p>
+<p t="701017" d="1068" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Kalau dipecahin?​ ​</s><s p="2">​</s></p>
+<p t="703920" d="2703" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Uhm, di saat begini...​ ​</s><s p="2">​
+​</s><s p="6">​ ​kita harus...​ ​</s><s p="2">​</s></p>
+<p t="708191" d="2169" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Tri, Trick or Treat!​ ​</s><s p="2">​</s></p>
+<p t="710360" d="1234" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Jangan ngaco kamu.​ ​</s><s p="2">​</s></p>
+<p t="721237" d="1802" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​Ah, kepalanya...​ ​</s><s p="2">​</s></p>
+<p t="723039" d="1735" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​jadi kebalik begini.​ ​</s><s p="2">​</s></p>
+<p t="725275" d="767" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​Fubu-san!​ ​</s><s p="2">​</s></p>
+<p t="726776" d="1268" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​Ugh!​ ​</s><s p="2">​</s></p>
+<p t="728912" d="2002" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​Fubu-san! Itu!​ ​</s><s p="2">​</s></p>
+<p t="730914" d="1868" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​Roh kamu keluar​ ​</s><s p="2">​
+​</s><s p="7">​ ​dari badan kamu!​ ​</s><s p="2">​</s></p>
+<p t="732782" d="1001" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​T</s><s p="25">u</s><s p="26">, </s><s p="27"></s><s p="28">w</s><s p="29">a</s><s p="30">, </s><s p="31"></s><s p="32">t</s><s p="33">i</s><s p="34">g</s><s p="35">a</s><s p="7">!​ ​</s><s p="2">​</s></p>
+<p t="739422" d="968" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​Uwooogh!​ ​</s><s p="2">​</s></p>
+<p t="740390" d="3637" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​Lagu, kalau ada Collapser​ ​</s><s p="2">​
+​</s><s p="8">​ ​yang muncul, berarti...​ ​</s><s p="2">​</s></p>
+<p t="744427" d="3137" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="16">​ ​Mungkin ada yang mengalami​ ​</s><s p="2">​
+​</s><s p="16">​ ​DreamEnder di sini.​ ​</s><s p="2">​</s></p>
+<p t="752035" d="1001" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​M</s><s p="36">i</s><s p="37">o</s><s p="38">-</s><s p="39">s</s><s p="40">e</s><s p="41">n</s><s p="42">p</s><s p="43">a</s><s p="44">i</s><s p="5">!​ ​</s><s p="2">​</s></p>
+<p t="753436" d="1235" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Mio-chan!​ ​</s><s p="2">​</s></p>
+<p t="756940" d="2135" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="11">​ ​Ma, maaf, semuanya...​ ​</s><s p="2">​</s></p>
+<p t="759075" d="3537" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="11">​ ​Sebenarnya aku...​ ​</s><s p="2">​</s></p>
+<p t="763513" d="2769" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="11">​ ​Aku takut banget sama Jack O&#39; Lantern!​ ​</s><s p="2">​</s></p>
+<p t="768551" d="634" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​Hah?​ ​</s><s p="2">​</s></p>
+<p t="770286" d="1535" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="11">​ ​Waktu kecil,​ ​</s><s p="2">​</s></p>
+<p t="771821" d="4204" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="11">​ ​papaku pernah pulang pakai labu​ ​</s><s p="2">​
+​</s><s p="11">​ ​di kepalanya pas Halloween...​ ​</s><s p="2">​</s></p>
+<p t="777327" d="4704" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="11">​ ​Aku kira dia beneran​ ​</s><s p="2">​
+​</s><s p="11">​ ​dimakan sama labu itu!​ ​</s><s p="2">​</s></p>
+<p t="783299" d="1302" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="11">​ ​Sejak saat itu...​ ​</s><s p="2">​</s></p>
+<p t="786770" d="1267" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="11">​ ​Aku...​ ​</s><s p="2">​</s></p>
+<p t="790273" d="4771" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="11">​ ​Aku enggak tahan sama​ ​</s><s p="2">​
+​</s><s p="11">​ ​Jack-O&#39;-Lantern!​ ​</s><s p="2">​</s></p>
+<p t="795044" d="2570" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="11">​ ​Huwaaaaaah!​ ​</s><s p="2">​</s></p>
+<p t="817801" d="1801" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="11">​ ​Aaah!​ ​</s><s p="2">​</s></p>
+<p t="822472" d="1034" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​Berubah!​ ​</s><s p="2">​</s></p>
+<p t="824040" d="1735" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Guardian Arm!​ ​</s><s p="2">​</s></p>
+<p t="825775" d="2336" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​Mikobell Rod!​ ​</s><s p="2">​</s></p>
+<p t="828111" d="2335" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Candy Parasol!​ ​</s><s p="2">​</s></p>
+<p t="830446" d="1569" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Gunmariner!​ ​</s><s p="2">​</s></p>
+<p t="832782" d="1635" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Snowflake Saber!​ ​</s><s p="2">​</s></p>
+<p t="834784" d="1235" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​Fubukirimaru!​ ​</s><s p="2">​</s></p>
+<p t="836419" d="2136" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​Biar kami yang urus mereka, Mio.​ ​</s><s p="2">​</s></p>
+<p t="839622" d="1068" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="11">​ ​Semuanya...​ ​</s><s p="2">​</s></p>
+<p t="844561" d="3703" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Enggak apa-apa kan kalau​ ​</s><s p="2">​
+​</s><s p="3">​ ​kita tunjukin kekuatan sihir kita?!​ ​</s><s p="2">​</s></p>
+<p t="848898" d="2569" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​Iya! Sekarang bukan​ ​</s><s p="2">​
+​</s><s p="7">​ ​waktunya mikirin itu!​ ​</s><s p="2">​</s></p>
+<p t="852602" d="1034" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Benar!​ ​</s><s p="2">​</s></p>
+<p t="853636" d="1735" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Kita harus menyelamatkan​ ​</s><s p="2">​
+​</s><s p="6">​ ​siapa pun dari DreamEnder!​ ​</s><s p="2">​</s></p>
+<p t="855371" d="1101" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Karena kita adalah...​ ​</s><s p="2">​</s></p>
+<p t="856472" d="2570" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​Magical Girl holoWitches!​ ​</s><s p="2">​</s></p>
+<p t="861511" d="3970" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Ulurkan tanganmu​ ​</s><s p="2">​
+​</s><s p="3">​ ​dan gengam tanganku!​ ​</s><s p="2">​</s></p>
+<p t="865481" d="2536" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Malaikat holo, Magical Girl Kanata!​ ​</s><s p="2">​</s></p>
+<p t="870453" d="2569" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​Doaku akan membuat​ ​</s><s p="2">​
+​</s><s p="7">​ ​semua harapan mekar!​ ​</s><s p="2">​</s></p>
+<p t="873022" d="2837" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​Gadis kuil holo, Magical Girl Miko!​ ​</s><s p="2">​</s></p>
+<p t="878328" d="3103" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Pembawa kebahagiaan​ ​</s><s p="2">​
+​</s><s p="9">​ ​yang manis!​ ​</s><s p="2">​</s></p>
+<p t="881431" d="3103" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Putri holo, Magical Girl Luna!​ ​</s><s p="2">​</s></p>
+<p t="887036" d="2369" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Siap memburu harta karun berkilau!​ ​</s><s p="2">​</s></p>
+<p t="889405" d="2403" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Bajak laut holo, Magical Girl Marine!​ ​</s><s p="2">​</s></p>
+<p t="895612" d="2435" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​Pengelabu yang​ ​</s><s p="2">​
+​</s><s p="8">​ ​menggetarkan hati!​ ​</s><s p="2">​</s></p>
+<p t="898047" d="2770" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​Rubah holo, Magical Girl Fubuki!​ ​</s><s p="2">​</s></p>
+<p t="902285" d="2669" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Cinta selembut salju​ ​</s><s p="2">​
+​</s><s p="6">​ ​putih yang menumpuk!​ ​</s><s p="2">​</s></p>
+<p t="904954" d="2603" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Salju holo, Magical Girl Lamy!​ ​</s><s p="2">​</s></p>
+<p t="909259" d="1501" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​holoWitches...​ ​</s><s p="2">​</s></p>
+<p t="910760" d="1635" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​Full Cast!​ ​</s><s p="2">​</s></p>
+<p t="914731" d="1768" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​Ayo!​ ​</s><s p="2">​</s></p>
+<p t="917333" d="1302" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​Hup! Hup!​ ​</s><s p="2">​</s></p>
+<p t="923072" d="3404" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="45">​ ​&quot;Aku bukan musuh. Aku temanmu.&quot;​ ​</s><s p="2">​</s></p>
+<p t="928044" d="1001" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​Kon!​ ​</s><s p="2">​</s></p>
+<p t="935051" d="1134" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Hentikan.​ ​</s><s p="2">​</s></p>
+<p t="937287" d="734" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Hiat!​ ​</s><s p="2">​</s></p>
+<p t="950566" d="634" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Hmph!​ ​</s><s p="2">​</s></p>
+<p t="957607" d="2436" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="11">​ ​Ah... aaah...!!​ ​</s><s p="2">​</s></p>
+<p t="962812" d="1935" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Waduh...​ ​</s><s p="2">​</s></p>
+<p t="973022" d="1669" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="46">​ ​Gwoooaaar!​ ​</s><s p="2">​</s></p>
+<p t="980029" d="1001" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Cih!​ ​</s><s p="2">​</s></p>
+<p t="982799" d="2502" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Ka, kayaknya​ ​</s><s p="2">​
+​</s><s p="6">​ ​keadaannya makin gawat!​ ​</s><s p="2">​</s></p>
+<p t="985301" d="1669" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Mereka jadi makin kuat!​ ​</s><s p="2">​</s></p>
+<p t="986970" d="2068" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="12">​ ​Rasa takut dan cemas tumbuh​ ​</s><s p="2">​</s></p>
+<p t="989038" d="3370" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="12">​ ​lebih cepat daripada​ ​</s><s p="2">​
+​</s><s p="12">​ ​serangan kalian!​ ​</s><s p="2">​</s></p>
+<p t="992408" d="1168" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Apa?!​ ​</s><s p="2">​</s></p>
+<p t="993943" d="1568" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="11">​ ​Apa ini gara-gara aku...?​ ​</s><s p="2">​</s></p>
+<p t="999916" d="1468" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="11">​ ​Gara-gara...​ ​</s><s p="2">​</s></p>
+<p t="1001384" d="2703" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="11">​ ​aku takut sama Jack O&#39;Lantern...​ ​</s><s p="2">​</s></p>
+<p t="1004087" d="934" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Bukan begitu!​ ​</s><s p="2">​</s></p>
+<p t="1005021" d="1435" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="11">​ ​Aku tahu, kok!​ ​</s><s p="2">​</s></p>
+<p t="1007056" d="3170" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="11">​ ​Konyol banget, kan?​ ​</s><s p="2">​</s></p>
+<p t="1010226" d="2836" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="11">​ ​Masa takut cuma gara-gara labu?​ ​</s><s p="2">​</s></p>
+<p t="1013930" d="6106" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="11">​ ​Makanya hari ini aku coba tahan​ ​</s><s p="2">​
+​</s><s p="11">​ ​rasa takutku... Aku sudah usaha...​ ​</s><s p="2">​</s></p>
+<p t="1020737" d="1034" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="11">​ ​Tapi,​ ​</s><s p="2">​</s></p>
+<p t="1022905" d="835" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="11">​ ​ternyata aku masih...​ ​</s><s p="2">​</s></p>
+<p t="1024273" d="1769" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="14">​ ​Itu bukan hal yang aneh.​ ​</s><s p="2">​</s></p>
+<p t="1027810" d="1235" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="11">​ ​Kanon-san...?​ ​</s><s p="2">​</s></p>
+<p t="1029746" d="1301" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="14">​ ​Setiap orang...​ ​</s><s p="2">​</s></p>
+<p t="1031581" d="1435" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="14">​ ​pasti punya sesuatu​ ​</s><s p="2">​
+​</s><s p="14">​ ​yang sulit dihadapi.​ ​</s><s p="2">​</s></p>
+<p t="1034217" d="2803" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="14">​ ​Yang ditakuti, atau yang dibenci.​ ​</s><s p="2">​</s></p>
+<p t="1038021" d="3003" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="14">​ ​Meski orang lain bilang,​ ​</s><s p="2">​
+​</s><s p="14">​ ​“Kenapa takut sama itu?”​ ​</s><s p="2">​</s></p>
+<p t="1041524" d="1702" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="14">​ ​Kadang hal itu terjadi...​ ​</s><s p="2">​</s></p>
+<p t="1043960" d="1268" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="14">​ ​di luar kendali kita.​ ​</s><s p="2">​</s></p>
+<p t="1049032" d="1001" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Iya!​ ​</s><s p="2">​</s></p>
+<p t="1051034" d="3703" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Apa yang kamu takuti​ ​</s><s p="2">​
+​</s><s p="3">​ ​enggak ada hubungannya!​ ​</s><s p="2">​</s></p>
+<p t="1055038" d="1301" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​Yang lebih penting...​ ​</s><s p="2">​</s></p>
+<p t="1056339" d="3704" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​Apa yang kamu rasain, Mio-chan!​ ​</s><s p="2">​</s></p>
+<p t="1060676" d="1869" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Jangan ditahan!​ ​</s><s p="2">​</s></p>
+<p t="1064313" d="2203" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Kan ada kami!​ ​</s><s p="2">​</s></p>
+<p t="1067016" d="2002" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Betul!​ ​</s><s p="2">​</s></p>
+<p t="1071020" d="2002" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Kita bisa bantu satu sama lain!​ ​</s><s p="2">​</s></p>
+<p t="1074223" d="2736" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Kalau ada yang​ ​</s><s p="2">​
+​</s><s p="6">​ ​kesulitan atau takut,​ ​</s><s p="2">​</s></p>
+<p t="1076959" d="1902" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​yang lain siap bantu!​ ​</s><s p="2">​</s></p>
+<p t="1078861" d="1669" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Kita selalu begitu, kan?​ ​</s><s p="2">​</s></p>
+<p t="1081531" d="2502" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​Karena itulah, sampai sekarang...​ ​</s><s p="2">​</s></p>
+<p t="1087470" d="1735" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​Kita bisa terus berjuang sama-sama!​ ​</s><s p="2">​</s></p>
+<p t="1089205" d="667" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="11">​ ​Hiks...​ ​</s><s p="2">​</s></p>
+<p t="1092875" d="1168" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="14">​ ​holoWitches.​ ​</s><s p="2">​</s></p>
+<p t="1094577" d="1068" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="14">​ ​Collapser...​ ​</s><s p="2">​</s></p>
+<p t="1096245" d="2770" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="14">​ ​lahir dari rasa takut dan cemas​ ​</s><s p="2">​
+​</s><s p="14">​ ​orang yang mengalami DreamEnder,​ ​</s><s p="2">​</s></p>
+<p t="1099949" d="2503" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="14">​ ​lalu menyeret hati​ ​</s><s p="2">​
+​</s><s p="14">​ ​mereka ke dalam kegelapan.​ ​</s><s p="2">​</s></p>
+<p t="1103719" d="1302" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​Tunggu, &quot;DreamEnder&quot;?​ ​</s><s p="2">​</s></p>
+<p t="1105555" d="1301" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Kenapa kamu tahu...​ ​</s><s p="2">​</s></p>
+<p t="1106856" d="1168" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="14">​ ​Tapi...​ ​</s><s p="2">​</s></p>
+<p t="1108024" d="1368" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="14">​ ​Aku tahu.​ ​</s><s p="2">​</s></p>
+<p t="1111360" d="3671" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="14">​ ​Selama kalian ada, holoWitches...​ ​</s><s p="2">​</s></p>
+<p t="1115731" d="4105" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="14">​ ​Meski seseorang terluka,​ ​</s><s p="2">​
+​</s><s p="14">​ ​menderita, sedih, atau putus asa...​ ​</s><s p="2">​</s></p>
+<p t="1120636" d="5039" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="14">​ ​Di tengah kegelapan yang​ ​</s><s p="2">​
+​</s><s p="14">​ ​tidak terhindarkan ini,​ ​</s><s p="2">​</s></p>
+<p t="1127043" d="3003" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="14">​ ​kalian pasti bisa mengembalikan​ ​</s><s p="2">​
+​</s><s p="14">​ ​cahaya pada impian mereka!​ ​</s><s p="2">​</s></p>
+<p t="1132048" d="967" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​Serahkan pada kami!​ ​</s><s p="2">​</s></p>
+<p t="1139388" d="1635" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="14">​ ​Semuanya!​ ​</s><s p="2">​</s></p>
+<p t="1142058" d="1968" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="14">​ ​holoWitches sedang​ ​</s><s p="2">​
+​</s><s p="14">​ ​berjuang untuk kita.​ ​</s><s p="2">​</s></p>
+<p t="1144627" d="3437" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="14">​ ​Lalu, apa yang bisa kita lakukan?​ ​</s><s p="2">​</s></p>
+<p t="1148064" d="1368" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="14">​ ​Benar.​ ​</s><s p="2">​</s></p>
+<p t="1149432" d="1601" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="14">​ ​Dengan suara kita!​ ​</s><s p="2">​</s></p>
+<p t="1151634" d="934" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="14">​ ​Dengan impian kita!​ ​</s><s p="2">​</s></p>
+<p t="1153469" d="2569" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="14">​ ​Mari kita dukung mereka!​ ​</s><s p="2">​</s></p>
+<p t="1157073" d="967" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="14">​ ​Bersiaplah!​ ​</s><s p="2">​</s></p>
+<p t="1159475" d="2002" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="14">​ ​Trick or Treat!​ ​</s><s p="2">​</s></p>
+<p t="1354503" d="1535" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="15">​ ​Wooo!​ ​</s><s p="2">​</s></p>
+<p t="1357039" d="2436" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="46">​ ​Gwoooar...​ ​</s><s p="2">​</s></p>
+<p t="1357039" d="2436" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="12">​ ​Collapser itu mulai melemah!​ ​</s><s p="2">​</s></p>
+<p t="1359475" d="2736" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="16">​ ​Berkat kekuatan musik​ ​</s><s p="2">​
+​</s><s p="16">​ ​dan dukungan semuanya,​ ​</s><s p="2">​</s></p>
+<p t="1362211" d="3804" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="16">​ ​rasa takutnya memudar!​ ​</s><s p="2">​</s></p>
+<p t="1363412" d="1035" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="14">​ ​Hehe...​ ​</s><s p="2">​</s></p>
+<p t="1368017" d="1768" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​Semuanya kelihatan semangat, ya!​ ​</s><s p="2">​</s></p>
+<p t="1371020" d="3470" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Berkat itu, kita juga jadi bewapi-api!​ ​</s><s p="2">​</s></p>
+<p t="1376826" d="2836" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="14">​ ​Maju, holoWitches.​ ​</s><s p="2">​</s></p>
+<p t="1379662" d="2369" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="14">​ ​Balas semua trick​ ​</s><s p="2">​
+​</s><s p="14">​ ​yang menyakiti hati...​ ​</s><s p="2">​</s></p>
+<p t="1382531" d="2636" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​Dengan treat terbaik!​ ​</s><s p="2">​</s></p>
+<p t="1386268" d="1402" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="46">​ ​Gwoooar!​ ​</s><s p="2">​</s></p>
+<p t="1388037" d="734" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​Nngh!​ ​</s><s p="2">​</s></p>
+<p t="1391207" d="834" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​Ah!​ ​</s><s p="2">​</s></p>
+<p t="1392641" d="2203" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​Semuanya, makasih!​ ​</s><s p="2">​</s></p>
+<p t="1394844" d="2836" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​Nikmatin sepuasnya, ya!​ ​</s><s p="2">​</s></p>
+<p t="1397680" d="2002" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​Tricky...​ ​</s><s p="2">​</s></p>
+<p t="1399682" d="1068" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​Vixen!​ ​</s><s p="2">​</s></p>
+<p t="1401417" d="600" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="46">​ ​Grr...?!​ ​</s><s p="2">​</s></p>
+<p t="1404019" d="1402" wp="5" ws="2"><s p="2">​</s><s>​</s><s p="8">​ ​&quot;Aduh!&quot;​ ​</s><s p="2">​</s></p>
+<p t="1405421" d="1868" wp="6" ws="3"><s p="2">​</s><s>​</s><s p="8">​ ​&quot;Kena aku!&quot;​ ​</s><s p="2">​</s></p>
+<p t="1407289" d="1569" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="46">​ ​Gwoooar!​ ​</s><s p="2">​</s></p>
+<p t="1413863" d="2002" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​Hyaaah!​ ​</s><s p="2">​</s></p>
+<p t="1417066" d="967" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​Terima ini!​ ​</s><s p="2">​</s></p>
+<p t="1422538" d="400" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Haah!​ ​</s><s p="2">​</s></p>
+<p t="1422938" d="1602" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="46">​ ​Gwoooar...​ ​</s><s p="2">​</s></p>
+<p t="1427476" d="1568" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Innocence Reviver!​ ​</s><s p="2">​</s></p>
+<p t="1440022" d="501" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Fiuh...​ ​</s><s p="2">​</s></p>
+<p t="1441757" d="801" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Hm?​ ​</s><s p="2">​</s></p>
+<p t="1448497" d="1702" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="46">​ ​Grrr...​ ​</s><s p="2">​</s></p>
+<p t="1450199" d="3303" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Aku percaya kalian.​ ​</s><s p="2">​
+​</s><s p="6">​ ​Cinta kalian inilah...​ ​</s><s p="2">​</s></p>
+<p t="1453502" d="1702" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​yang memberiku kekuatan!​ ​</s><s p="2">​</s></p>
+<p t="1456038" d="667" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Hiat!​ ​</s><s p="2">​</s></p>
+<p t="1457206" d="1301" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Hyaah!​ ​</s><s p="2">​</s></p>
+<p t="1460042" d="1001" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Fubu-nyan!​ ​</s><s p="2">​</s></p>
+<p t="1462378" d="1868" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​Makasih, Lamy-chan!​ ​</s><s p="2">​</s></p>
+<p t="1464246" d="2770" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​Ayo, kita akhiri ini sekarang!​ ​</s><s p="2">​</s></p>
+<p t="1468284" d="2035" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Haaaaa!​ ​</s><s p="2">​</s></p>
+<p t="1473823" d="1034" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​Kon!​ ​</s><s p="2">​</s></p>
+<p t="1477026" d="1535" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="46">​ ​Gwoooar!​ ​</s><s p="2">​</s></p>
+<p t="1485034" d="2002" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Yunilea Lamination!​ ​</s><s p="2">​</s></p>
+<p t="1487036" d="2436" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​Brush Storm Conquest!​ ​</s><s p="2">​</s></p>
+<p t="1489472" d="967" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​Hup!​ ​</s><s p="2">​</s></p>
+<p t="1491040" d="1334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​Terima ini!​ ​</s><s p="2">​</s></p>
+<p t="1505588" d="901" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​H</s><s p="47">e</s><s p="48">h</s><s p="49">e</s><s p="50">h</s><s p="51">e</s><s p="8">!​ ​</s><s p="2">​</s></p>
+<p t="1507156" d="1601" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​B</s><s p="52">e</s><s p="53">r</s><s p="48">h</s><s p="49">a</s><s p="54">s</s><s p="55">i</s><s p="56">l</s><s p="8">!​ ​</s><s p="2">​</s></p>
+<p t="1511026" d="1202" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="46">​ ​Gwoooar!​ ​</s><s p="2">​</s></p>
+<p t="1512528" d="801" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​N</s><s p="57">n</s><s p="58">g</s><s p="59">h</s><s p="60">.</s><s p="61">.</s><s p="9">.​ ​</s><s p="2">​</s></p>
+<p t="1515498" d="1868" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​MikoMiko-senpai!​ ​</s><s p="2">​</s></p>
+<p t="1517366" d="1668" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​Tengkyu, Luna-tan!​ ​</s><s p="2">​</s></p>
+<p t="1521370" d="2136" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​Uwooogh!​ ​</s><s p="2">​</s></p>
+<p t="1523506" d="1067" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​Hiaaat!​ ​</s><s p="2">​</s></p>
+<p t="1525908" d="3136" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Nnnngh!​ ​</s><s p="2">​</s></p>
+<p t="1529044" d="1569" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Nnnnaaah!​ ​</s><s p="2">​</s></p>
+<p t="1533282" d="734" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​A</s><s p="59">h</s><s p="9">!​ ​</s><s p="2">​</s></p>
+<p t="1537019" d="1101" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​Mundur!​ ​</s><s p="2">​</s></p>
+<p t="1538120" d="1902" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​Sacred Sphere!​ ​</s><s p="2">​</s></p>
+<p t="1542291" d="734" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="46">​ ​Grr...?!​ ​</s><s p="2">​</s></p>
+<p t="1553335" d="1001" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​H</s><s p="59">m</s><s p="9">?​ ​</s><s p="2">​</s></p>
+<p t="1558941" d="2102" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​Kalian pengen banget ya​ ​</s><s p="2">​</s></p>
+<p t="1561043" d="2469" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​lihat sisi elite Miko?​ ​</s><s p="2">​</s></p>
+<p t="1563512" d="1535" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​Nih, biar kutunjukin!​ ​</s><s p="2">​</s></p>
+<p t="1572087" d="1268" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​Hehe!​ ​</s><s p="2">​</s></p>
+<p t="1575024" d="1635" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Kalau cemuanya ikut...​ ​</s><s p="2">​</s></p>
+<p t="1578160" d="1869" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Aku juga ikutan!​ ​</s><s p="2">​</s></p>
+<p t="1580596" d="1368" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Hehehe!​ ​</s><s p="2">​</s></p>
+<p t="1584833" d="2603" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​Cyber Sakurarium Savior!​ ​</s><s p="2">​</s></p>
+<p t="1587436" d="2603" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Princess Fever!​ ​</s><s p="2">​</s></p>
+<p t="1590706" d="868" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​H</s><s p="62">y</s><s p="59">a</s><s p="63">h</s><s p="9">!​ ​</s><s p="2">​</s></p>
+<p t="1597046" d="667" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​H</s><s p="62">m</s><s p="59">p</s><s p="63">h</s><s p="9">!​ ​</s><s p="2">​</s></p>
+<p t="1597713" d="3036" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="46">​ ​Gwoooar!​ ​</s><s p="2">​</s></p>
+<p t="1607022" d="501" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Nngh!​ ​</s><s p="2">​</s></p>
+<p t="1609024" d="668" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Haah!​ ​</s><s p="2">​</s></p>
+<p t="1610659" d="1468" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Slashing Halo!​ ​</s><s p="2">​</s></p>
+<p t="1612661" d="1368" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Haaah!​ ​</s><s p="2">​</s></p>
+<p t="1618367" d="667" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Tembak!​ ​</s><s p="2">​</s></p>
+<p t="1620302" d="1368" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="46">​ ​Grr...​ ​</s><s p="2">​</s></p>
+<p t="1628444" d="901" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Ugh...​ ​</s><s p="2">​</s></p>
+<p t="1629678" d="1068" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Marine!​ ​</s><s p="2">​</s></p>
+<p t="1636018" d="1401" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Makasih, Kanata!​ ​</s><s p="2">​</s></p>
+<p t="1642324" d="1235" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Makan ini!​ ​</s><s p="2">​</s></p>
+<p t="1654503" d="534" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Ugh!​ ​</s><s p="2">​</s></p>
+<p t="1659775" d="1268" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Mereka semua​ ​</s><s p="2">​</s></p>
+<p t="1661043" d="1702" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​naruh harapan pada kita!​ ​</s><s p="2">​</s></p>
+<p t="1662745" d="2002" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Mana boleh aku ngecewain mereka?!​ ​</s><s p="2">​</s></p>
+<p t="1671020" d="1001" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Hehe!​ ​</s><s p="2">​</s></p>
+<p t="1672454" d="568" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Oh.​ ​</s><s p="2">​</s></p>
+<p t="1675024" d="3169" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Kalian datang di saat​ ​</s><s p="2">​
+​</s><s p="5">​ ​yang pas begini!​ ​</s><s p="2">​</s></p>
+<p t="1678193" d="3337" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Semua yang berkumpul di sini​ ​</s><s p="2">​
+​</s><s p="5">​ ​adalah harta karun berharga!​ ​</s><s p="2">​</s></p>
+<p t="1682031" d="1501" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Ayo!​ ​</s><s p="2">​</s></p>
+<p t="1685801" d="1768" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Hyaaah!​ ​</s><s p="2">​</s></p>
+<p t="1689605" d="1001" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="46">​ ​Grr?!​ ​</s><s p="2">​</s></p>
+<p t="1691440" d="1602" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Celestial Linking!​ ​</s><s p="2">​</s></p>
+<p t="1693042" d="1201" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Over Splashnel!​ ​</s><s p="2">​</s></p>
+<p t="1705821" d="1201" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Hehe!​ ​</s><s p="2">​</s></p>
+<p t="1707022" d="1001" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Hehe!​ ​</s><s p="2">​</s></p>
+<p t="1714496" d="1535" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="16">​ ​Itu yang terakhir!​ ​</s><s p="2">​</s></p>
+<p t="1718033" d="2002" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="12">​ ​Sekarang saatnya!​ ​</s><s p="2">​</s></p>
+<p t="1724039" d="1001" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​Berubah!​ ​</s><s p="2">​</s></p>
+<p t="1725040" d="1835" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​holoWitch Wand!​ ​</s><s p="2">​</s></p>
+<p t="1727676" d="1368" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​Witchgram...​ ​</s><s p="2">​</s></p>
+<p t="1734650" d="1368" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​Full Cast!​ ​</s><s p="2">​</s></p>
+<p t="1741023" d="1435" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="11">​ ​Wow...​ ​</s><s p="2">​</s></p>
+<p t="1743826" d="1201" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="14">​ ​Hehe...​ ​</s><s p="2">​</s></p>
+<p t="1761176" d="2536" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Mio-senpai, gimana?​ ​</s><s p="2">​
+​</s><s p="3">​ ​Udah merasa lebih baik?​ ​</s><s p="2">​</s></p>
+<p t="1764379" d="1569" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="11">​ ​I, iya.​ ​</s><s p="2">​</s></p>
+<p t="1765948" d="3570" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="11">​ ​Asal enggak lihat langsung,​ ​</s><s p="2">​
+​</s><s p="11">​ ​kayaknya masih bisa tahan.​ ​</s><s p="2">​</s></p>
+<p t="1771653" d="1268" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​Paham banget.​ ​</s><s p="2">​</s></p>
+<p t="1772921" d="4104" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​Aku enggak bakal berani lihat ke​ ​</s><s p="2">​
+​</s><s p="8">​ ​bawah kalau sudah di tempat tinggi.​ ​</s><s p="2">​</s></p>
+<p t="1778327" d="5138" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Cama. Aku juga selalu nengok ke​ ​</s><s p="2">​
+​</s><s p="9">​ ​awah lain kalau lihat serangga.​ ​</s><s p="2">​</s></p>
+<p t="1785367" d="2336" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="11">​ ​Makasih, semuanya.​ ​</s><s p="2">​</s></p>
+<p t="1788137" d="2235" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="11">​ ​Berkat bantuan kalian...​ ​</s><s p="2">​</s></p>
+<p t="1791607" d="4204" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="11">​ ​Kalau nanti ada yang​ ​</s><s p="2">​
+​</s><s p="11">​ ​lagi sedih atau kesulitan,​ ​</s><s p="2">​</s></p>
+<p t="1796712" d="2869" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="11">​ ​aku pasti akan bantu semampuku!​ ​</s><s p="2">​</s></p>
+<p t="1810192" d="3403" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="14">​ ​Syukurlah semua berakhir dengan baik.​ ​</s><s p="2">​</s></p>
+<p t="1813595" d="1902" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="14">​ ​Tapi...​ ​</s><s p="2">​</s></p>
+<p t="1815497" d="1335" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="14">​ ​Semuanya!​ ​</s><s p="2">​</s></p>
+<p t="1817399" d="3737" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="14">​ ​Kalian masih ingin lihat​ ​</s><s p="2">​
+​</s><s p="14">​ ​performance dari holoWitches, kan?​ ​</s><s p="2">​</s></p>
+<p t="1825140" d="1368" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="14">​ ​Lihat reaksi mereka.​ ​</s><s p="2">​</s></p>
+<p t="1827810" d="3470" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Yah...​ ​</s><s p="2">​</s></p>
+<p t="1831280" d="934" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Mau lanjut?​ ​</s><s p="2">​</s></p>
+<p t="1832848" d="2602" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Eh? Kok malah nanya aku?!​ ​</s><s p="2">​</s></p>
+<p t="1836585" d="3203" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Um, anu... Iya, lanjut saja!​ ​</s><s p="2">​</s></p>
+<p t="1843959" d="3003" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​Mantap! Ayo kita lanjutin!​ ​</s><s p="2">​</s></p>
+<p t="1847362" d="1802" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​Oke!​ ​</s><s p="2">​</s></p>
+<p t="2144259" d="2870" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​Semuanya, makasih sudah nonton!​ ​</s><s p="2">​</s></p>
+<p t="2148330" d="3503" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Gimana? Halloween kali ini​ ​</s><s p="2">​
+​</s><s p="6">​ ​luar biasa, kan?​ ​</s><s p="2">​</s></p>
+<p t="2153768" d="2103" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Tadi sempat ada masalah, sih...​ ​</s><s p="2">​</s></p>
+<p t="2155871" d="1701" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​tapi berkat itu,​ ​</s><s p="2">​</s></p>
+<p t="2157873" d="1968" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​kita dapat harta karun terindah, kan?​ ​</s><s p="2">​</s></p>
+<p t="2161276" d="1969" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​I</s><s p="9">y</s><s p="8">a</s><s p="6">!​ ​</s><s p="2">​</s></p>
+<p t="2176291" d="701" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Oi!​ ​</s><s p="2">​</s></p>
+<p t="2178627" d="867" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​Baiklah.​ ​</s><s p="2">​</s></p>
+<p t="2179494" d="3003" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​Sepertinya acara kita​ ​</s><s p="2">​
+​</s><s p="8">​ ​sudah mau selesai.​ ​</s><s p="2">​</s></p>
+<p t="2182497" d="6306" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="15">​ ​Encore!​ ​</s><s p="2">​</s></p>
+<p t="2188803" d="3971" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="12">​ ​E</s><s p="64">n</s><s p="65">c</s><s p="66">o</s><s p="67">r</s><s p="68">e</s><s p="69">! </s><s p="70"></s><s p="71">E</s><s p="72">n</s><s p="73">c</s><s p="74">o</s><s p="75">r</s><s p="76">e</s><s p="16">!​ ​</s><s p="2">​</s></p>
+<p t="2202517" d="2970" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​Kalau semuanya pada mau encore...​ ​</s><s p="2">​</s></p>
+<p t="2205487" d="3336" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Ayo kita kacih mereka lagu ini!​ ​</s><s p="2">​</s></p>
+<p t="2209324" d="2469" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​HajimarinoMahou-charm-​ ​</s><s p="2">​</s></p>
+<p t="2433681" d="3370" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="14">​ ​Sungguh performance yang luar biasa,​ ​</s><s p="2">​
+​</s><s p="14">​ ​holoWitches.​ ​</s><s p="2">​</s></p>
+<p t="2437585" d="1602" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="12">​ ​Iya!​ ​</s><s p="2">​</s></p>
+<p t="2439187" d="2102" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="16">​ ​Kalian semua hebat!​ ​</s><s p="2">​</s></p>
+<p t="2441890" d="1001" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Kanon-san...​ ​</s><s p="2">​</s></p>
+<p t="2443458" d="767" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Um...​ ​</s><s p="2">​</s></p>
+<p t="2444692" d="2570" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Terima kasih banyak untuk hari ini.​ ​</s><s p="2">​</s></p>
+<p t="2449030" d="901" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Tapi...​ ​</s><s p="2">​</s></p>
+<p t="2450365" d="4071" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Kenapa kamu tahu soal​ ​</s><s p="2">​
+​</s><s p="3">​ ​DreamEnder dan tentang kami?​ ​</s><s p="2">​</s></p>
+<p t="2455170" d="3270" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="14">​ ​Dulu, aku juga pernah​ ​</s><s p="2">​
+​</s><s p="14">​ ​mengalami DreamEnder.​ ​</s><s p="2">​</s></p>
+<p t="2459374" d="2903" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="14">​ ​Kalianlah yang menolongku...​ ​</s><s p="2">​</s></p>
+<p t="2462510" d="1268" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​Eeeh?!​ ​</s><s p="2">​</s></p>
+<p t="2464279" d="3637" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="14">​ ​Karena pengalaman itu,​ ​</s><s p="2">​</s></p>
+<p t="2468383" d="2702" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="14">​ ​setiap kali aku melihat seseorang​ ​</s><s p="2">​
+​</s><s p="14">​ ​yang menderita karena DreamEnder,​ ​</s><s p="2">​</s></p>
+<p t="2471085" d="1469" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="14">​ ​aku tidak bisa tinggal diam.​ ​</s><s p="2">​</s></p>
+<p t="2474456" d="1668" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="14">​ ​Dan... sebenarnya,​ ​</s><s p="2">​</s></p>
+<p t="2477292" d="3136" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="14">​ ​alasan aku mau​ ​</s><s p="2">​
+​</s><s p="14">​ ​tampil di acara ini juga,​ ​</s><s p="2">​</s></p>
+<p t="2481729" d="2603" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="14">​ ​karena aku dengar​ ​</s><s p="2">​
+​</s><s p="14">​ ​kalian akan tampil.​ ​</s><s p="2">​</s></p>
+<p t="2484833" d="2302" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="14">​ ​Aku ingin sekali​ ​</s><s p="2">​
+​</s><s p="14">​ ​bisa bertemu kalian lagi...​ ​</s><s p="2">​</s></p>
+<p t="2487936" d="1768" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="14">​ ​Makanya hari ini...​ ​</s><s p="2">​</s></p>
+<p t="2490572" d="1268" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="14">​ ​Anu...​ ​</s><s p="2">​</s></p>
+<p t="2491840" d="1835" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="14">​ ​Aku senang​ ​</s><s p="2">​
+​</s><s p="14">​ ​kita bisa tampil bersama!​ ​</s><s p="2">​</s></p>
+<p t="2494509" d="2769" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="14">​ ​Teruslah berjuang, holoWitches!​ ​</s><s p="2">​</s></p>
+<p t="2497645" d="1769" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="14">​ ​Sampai jumpa!​ ​</s><s p="2">​</s></p>
+<p t="2503251" d="3237" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="14">​ ​Semoga kita bisa bertemu lagi!​ ​</s><s p="2">​</s></p>
+<p t="2513061" d="2636" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="12">​ ​Jadi dia pernah​ ​</s><s p="2">​
+​</s><s p="12">​ ​mengalami DreamEnder​ ​</s><s p="2">​</s></p>
+<p t="2515697" d="2402" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="12">​ ​dan diselamatkan​ ​</s><s p="2">​
+​</s><s p="12">​ ​oleh holoWitches...​ ​</s><s p="2">​</s></p>
+<p t="2518099" d="1635" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="16">​ ​Makanya dia tahu.​ ​</s><s p="2">​</s></p>
+<p t="2520168" d="2402" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="16">​ ​Kepedihan yang​ ​</s><s p="2">​
+​</s><s p="16">​ ​ditimbulkan DreamEnder,​ ​</s><s p="2">​</s></p>
+<p t="2522570" d="4872" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="16">​ ​dan kebahagiaan saat​ ​</s><s p="2">​
+​</s><s p="16">​ ​seseorang mengulurkan tangan.​ ​</s><s p="2">​</s></p>
+<p t="2528510" d="1301" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​Begitu, ya.​ ​</s><s p="2">​</s></p>
+<p t="2529811" d="3970" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​Kalau kita bisa menolong seseorang,​ ​</s><s p="2">​
+​</s><s p="7">​ ​sekecil apa pun itu...​ ​</s><s p="2">​</s></p>
+<p t="2534148" d="1569" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Orang itu​ ​</s><s p="2">​</s></p>
+<p t="2535717" d="3370" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​juga akan menolong​ ​</s><s p="2">​
+​</s><s p="3">​ ​orang lain nantinya.​ ​</s><s p="2">​</s></p>
+<p t="2539454" d="1101" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Benar juga.​ ​</s><s p="2">​</s></p>
+<p t="2540955" d="2303" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Tapi bukan cuma itu,​ ​</s><s p="2">​</s></p>
+<p t="2543258" d="2636" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​mereka juga bisa jadi kekuatan buat kita.​ ​</s><s p="2">​</s></p>
+<p t="2546227" d="3704" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Seperti Kanon-san, dan semua orang​ ​</s><s p="2">​
+​</s><s p="5">​ ​yang dukung kita hari ini.​ ​</s><s p="2">​</s></p>
+<p t="2550298" d="1268" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​Artinya...​ ​</s><s p="2">​</s></p>
+<p t="2552534" d="1134" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Artinya ini...​ ​</s><s p="2">​</s></p>
+<p t="2554469" d="2135" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Awtinya kita dapat...​ ​</s><s p="2">​</s></p>
+<p t="2556871" d="2302" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="77">​ ​T</s><s p="78">r</s><s p="79">e</s><s p="80">a</s><s p="81">t </s><s p="82"></s><s p="83">p</s><s p="84">a</s><s p="85">l</s><s p="86">i</s><s p="87">n</s><s p="88">g </s><s p="89"></s><s p="90">s</s><s p="91">p</s><s p="92">e</s><s p="93">s</s><s p="94">i</s><s p="95">a</s><s p="96">l</s><s p="97">!​ ​</s><s p="2">​</s></p>
+<p t="4989" d="100" wp="7" ws="3"><s p="2">​</s><s>​</s><s p="98">​ ​​​ ​</s><s p="2">​</s></p>
+</body>
+</timedtext>

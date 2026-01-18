@@ -1,0 +1,844 @@
+<?xml version="1.0" encoding="utf-8" ?><timedtext format="3">
+<head>
+<pen id="1" fc="#000000" fo="0" bo="0" sz="100"/>
+<pen id="2" fc="#A0AAB4" fo="0" bo="0" sz="100"/>
+<pen id="3" fc="#96FF37" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="4" fc="#A17AFF" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="5" fc="#B69BF2" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="6" fc="#EC57CD" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="7" fc="#F25B60" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="8" fc="#F5F508" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="9" fc="#FF64AA" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="10" fc="#FEFEFE" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="11" fc="#EA0002" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="12" fc="#EA006B" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="13" fc="#F47202" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="14" fc="#E90002" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="15" fc="#FEFFA6" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="16" fc="#FE854E" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="17" fc="#EB61AC" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="18" fc="#E00DBF" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="19" fc="#28A209" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="20" fc="#E7660F" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="21" fc="#EA263D" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="22" fc="#F4950A" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="23" fc="#F38108" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="24" fc="#EB0257" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="25" fc="#4DAF0A" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="26" fc="#FBFF0D" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="27" fc="#F2283E" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="28" fc="#FDFE9C" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="29" fc="#F8FD0C" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="30" fc="#DC3834" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="31" fc="#EBFE34" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="32" fc="#EB61AB" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="33" fc="#DB263A" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="34" fc="#F8F51D" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="35" fc="#614BE0" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="36" fc="#D20118" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="37" fc="#F237DF" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="38" fc="#F01306" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="39" fc="#ECFF35" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="40" fc="#37F1F8" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="41" fc="#F4F734" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="42" fc="#F0FF38" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="43" fc="#EDFF36" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="44" fc="#EA0064" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="45" fc="#665EE7" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="46" fc="#D80002" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="47" fc="#EFB35F" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="48" fc="#F46DD1" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="49" fc="#E9675C" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="50" fc="#EB1604" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="51" fc="#EA2D40" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="52" fc="#87532E" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="53" fc="#EF6979" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="54" fc="#FDFF0C" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="55" fc="#E20002" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="56" fc="#D85D1B" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="57" fc="#24D1E2" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="58" fc="#F9FE39" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="59" fc="#F6FF38" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="60" fc="#EF1408" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="61" fc="#B6AF65" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="62" fc="#FBD663" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="63" fc="#53DFDB" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="64" fc="#C12D91" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="65" fc="#F9DE38" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="66" fc="#4CF9FC" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="67" fc="#16B3FA" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="68" fc="#F5950D" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="69" fc="#EFFF36" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="70" fc="#86DAFB" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="71" fc="#F27708" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="72" fc="#ED4C79" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="73" fc="#676CEC" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="74" fc="#EB627F" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="75" fc="#F5EA67" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="76" fc="#EF3893" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="77" fc="#36D1F8" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="78" fc="#F3A20E" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="79" fc="#F24CB4" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<ws id="0"/>
+<ws id="2" ju="0" pd="0" sd="0"/>
+<ws id="3" ju="1" pd="0" sd="0"/>
+<ws id="1" ju="2" pd="0" sd="0"/>
+<wp id="0"/>
+<wp id="5" ap="0" ah="0" av="0"/>
+<wp id="58" ap="0" ah="1" av="28"/>
+<wp id="3" ap="1" ah="50" av="0"/>
+<wp id="6" ap="2" ah="100" av="0"/>
+<wp id="8" ap="4" ah="21" av="10"/>
+<wp id="30" ap="4" ah="23" av="32"/>
+<wp id="57" ap="4" ah="29" av="47"/>
+<wp id="51" ap="4" ah="47" av="65"/>
+<wp id="23" ap="4" ah="50" av="10"/>
+<wp id="9" ap="4" ah="50" av="25"/>
+<wp id="4" ap="4" ah="50" av="50"/>
+<wp id="52" ap="4" ah="50" av="63"/>
+<wp id="16" ap="4" ah="51" av="71"/>
+<wp id="22" ap="4" ah="60" av="51"/>
+<wp id="17" ap="4" ah="64" av="71"/>
+<wp id="59" ap="4" ah="68" av="35"/>
+<wp id="31" ap="4" ah="77" av="32"/>
+<wp id="10" ap="4" ah="80" av="36"/>
+<wp id="1" ap="7" ah="0" av="0"/>
+<wp id="18" ap="7" ah="13" av="49"/>
+<wp id="44" ap="7" ah="15" av="47"/>
+<wp id="21" ap="7" ah="17" av="24"/>
+<wp id="48" ap="7" ah="21" av="19"/>
+<wp id="47" ap="7" ah="26" av="30"/>
+<wp id="43" ap="7" ah="26" av="35"/>
+<wp id="45" ap="7" ah="26" av="69"/>
+<wp id="53" ap="7" ah="29" av="56"/>
+<wp id="26" ap="7" ah="40" av="13"/>
+<wp id="37" ap="7" ah="42" av="12"/>
+<wp id="39" ap="7" ah="42" av="67"/>
+<wp id="28" ap="7" ah="42" av="68"/>
+<wp id="14" ap="7" ah="46" av="42"/>
+<wp id="33" ap="7" ah="48" av="18"/>
+<wp id="35" ap="7" ah="48" av="68"/>
+<wp id="56" ap="7" ah="49" av="60"/>
+<wp id="2" ap="7" ah="50" av="100"/>
+<wp id="41" ap="7" ah="50" av="69"/>
+<wp id="7" ap="7" ah="50" av="80"/>
+<wp id="15" ap="7" ah="50" av="91"/>
+<wp id="46" ap="7" ah="57" av="72"/>
+<wp id="20" ap="7" ah="60" av="70"/>
+<wp id="55" ap="7" ah="62" av="70"/>
+<wp id="25" ap="7" ah="62" av="73"/>
+<wp id="24" ap="7" ah="63" av="65"/>
+<wp id="36" ap="7" ah="63" av="69"/>
+<wp id="54" ap="7" ah="63" av="72"/>
+<wp id="50" ap="7" ah="64" av="72"/>
+<wp id="11" ap="7" ah="68" av="17"/>
+<wp id="12" ap="7" ah="68" av="42"/>
+<wp id="13" ap="7" ah="68" av="66"/>
+<wp id="19" ap="7" ah="72" av="59"/>
+<wp id="49" ap="7" ah="75" av="18"/>
+<wp id="42" ap="7" ah="75" av="78"/>
+<wp id="27" ap="7" ah="81" av="13"/>
+<wp id="38" ap="7" ah="82" av="12"/>
+<wp id="40" ap="7" ah="82" av="67"/>
+<wp id="29" ap="7" ah="82" av="68"/>
+<wp id="32" ap="7" ah="9" av="49"/>
+<wp id="34" ap="7" ah="91" av="49"/>
+</head>
+<body>
+<p t="1" d="2852" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Una idol no puede​ ​</s><s p="2">​
+​</s><s p="3">​ ​con tantas calorías, ¿verdad?​ ​</s><s p="2">​</s></p>
+<p t="3120" d="4338" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​¡Hoy desvelaremos los hábitos alimenticios​ ​</s><s p="2">​
+​</s><s p="4">​ ​cuestionables de nuestras invitadas!​ ​</s><s p="2">​</s></p>
+<p t="3120" d="4338" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​¡¿Descubriremos​ ​</s><s p="2">​
+​</s><s p="6">​ ​sus hábitos alimenticios secretos?!​ ​</s><s p="2">​</s></p>
+<p t="7458" d="2335" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​¡695! ¡No está nada mal!​ ​</s><s p="2">​</s></p>
+<p t="9793" d="2236" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​¿En serio tiene tantas calorías?​ ​</s><s p="2">​</s></p>
+<p t="12463" d="5605" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​Predicciones​ ​</s><s p="2">​
+​</s><s p="8">​ ​de calorías de comidas pasadas​ ​</s><s p="2">​</s></p>
+<p t="12997" d="5071" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​¡No digas que no lo sabías!​ ​</s><s p="2">​
+​</s><s p="4">​ ​¡Predicciones de calorías de comidas pasadas!​ ​</s><s p="2">​</s></p>
+<p t="18068" d="467" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​¡Espera!​ ​</s><s p="2">​</s></p>
+<p t="18535" d="2670" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​¡Seguro que tiene más calorías​ ​</s><s p="2">​
+​</s><s p="9">​ ​de las que pensaba!​ ​</s><s p="2">​</s></p>
+<p t="21205" d="2469" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Con mucho aceite, poco hervidos​ ​</s><s p="2">​
+​</s><s p="3">​ ​y con salsa espesa.​ ​</s><s p="2">​</s></p>
+<p t="23974" d="3203" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​¡Bebida y comida en exceso!​ ​</s><s p="2">​
+​</s><s p="4">​ ​¡Aquí llega el menú secreto!​ ​</s><s p="2">​</s></p>
+<p t="24308" d="5472" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​Hábitos alimentarios reales </s><s p="11">al descubierto​ ​</s><s p="2">​</s></p>
+<p t="27177" d="2603" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​¿Están bien comiendo así?​ ​</s><s p="2">​</s></p>
+<p t="29780" d="1001" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Tengo mucha hambre, así que...​ ​</s><s p="2">​</s></p>
+<p t="30781" d="2302" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​¡me lo quiero comer todo!​ ​</s><s p="2">​</s></p>
+<p t="33650" d="5473" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​¡Acierten las calorías que hay en la foto!​ ​</s><s p="2">​
+​</s><s p="4">​ ​¡Comienza &quot;Acierten las calorías exactas&quot;!​ ​</s><s p="2">​</s></p>
+<p t="33650" d="5473" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="12">​ ​¡Acierten </s><s p="13">las calorías </s><s p="14">exactas!​ ​</s><s p="2">​</s></p>
+<p t="39323" d="3837" wp="5" ws="2"><s p="2">​</s><s>​</s><s p="10">​ ​hololive English -Myth-​ ​</s><s p="2">​
+​</s><s p="15">​ ​Takanashi </s><s p="10">Kiara​ ​</s><s p="2">​</s></p>
+<p t="40991" d="2169" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="16">​ ​¡Qué hambre!​ ​</s><s p="2">​</s></p>
+<p t="43260" d="2603" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​¡Quiero comer ramen!​ ​</s><s p="2">​</s></p>
+<p t="43360" d="2503" wp="6" ws="3"><s p="2">​</s><s>​</s><s p="10">​ ​2.ª generación​ ​</s><s p="2">​
+​</s><s p="15">​ ​Yuzuki </s><s p="10">Choco​ ​</s><s p="2">​</s></p>
+<p t="45863" d="2869" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​¡Y que lo digas!​ ​</s><s p="2">​
+​</s><s p="3">​ ​¡Yo también quiero ramen!​ ​</s><s p="2">​</s></p>
+<p t="46030" d="4404" wp="5" ws="2"><s p="2">​</s><s>​</s><s p="10">​ ​1.ª generación​ ​</s><s p="2">​
+​</s><s p="15">​ ​Aki Rosenthal​ ​</s><s p="2">​</s></p>
+<p t="48732" d="1835" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​¡Qué antojo de ramen!​ ​</s><s p="2">​</s></p>
+<p t="50567" d="1902" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Bueno, bueno, bueno.​ ​</s><s p="2">​</s></p>
+<p t="52469" d="1902" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Las tres de ahí.​ ​</s><s p="2">​</s></p>
+<p t="54371" d="2536" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Si no hacen más que pensar en comida​ ​</s><s p="2">​</s></p>
+<p t="54371" d="2536" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="17">​ ​Quiero comer ramen​ ​</s><s p="2">​</s></p>
+<p t="56907" d="3337" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​¡no podrán convertirse en talentos​ ​</s><s p="2">​
+​</s><s p="4">​ ​con un alto nivel de consciencia!​ ​</s><s p="2">​</s></p>
+<p t="60244" d="734" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="16">​ ​¿Por qué?​ ​</s><s p="2">​</s></p>
+<p t="60978" d="867" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​¿Por qué?​ ​</s><s p="2">​</s></p>
+<p t="61845" d="3571" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Tampoco es que esté intentando​ ​</s><s p="2">​
+​</s><s p="3">​ ​tener un alto nivel de consciencia.​ ​</s><s p="2">​</s></p>
+<p t="64314" d="1102" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Esto...​ ​</s><s p="2">​</s></p>
+<p t="65582" d="1936" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​¡Bueno! ¡En cualquier caso!​ ​</s><s p="2">​</s></p>
+<p t="67518" d="2269" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Si quieren ser conscientes,​ ​</s><s p="2">​</s></p>
+<p t="69787" d="3003" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​tienen que pensar en​ ​</s><s p="2">​
+​</s><s p="4">​ ​la cantidad de calorías que toman.​ ​</s><s p="2">​</s></p>
+<p t="73157" d="2202" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="16">​ ​Hasta el día de hoy​ ​</s><s p="2">​</s></p>
+<p t="75359" d="3770" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="16">​ ​no he pensado en las calorías​ ​</s><s p="2">​
+​</s><s p="16">​ ​ni una sola vez en la vida.​ ​</s><s p="2">​</s></p>
+<p t="75826" d="1101" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​¿Hasta el día de hoy?​ ​</s><s p="2">​</s></p>
+<p t="77728" d="1401" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​¡¿De verdad?!​ ​</s><s p="2">​</s></p>
+<p t="79763" d="3971" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Ahora vamos a predecir las calorías de los alimentos​ ​</s><s p="2">​
+​</s><s p="4">​ ​que las tres han comido últimamente.​ ​</s><s p="2">​</s></p>
+<p t="83734" d="4971" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​El objetivo es hacer un pedido​ ​</s><s p="2">​
+​</s><s p="4">​ ​de exactamente 2023 calorías.​ ​</s><s p="2">​</s></p>
+<p t="83734" d="4971" wp="8" ws="1"><s p="2">​</s><s>​</s><s p="18">​ ​¡Parece tener​ ​</s><s p="2">​
+​</s><s p="18">​ ​muchas calorías!​ ​</s><s p="2">​</s></p>
+<p t="85102" d="3603" wp="9" ws="1"><s p="2">​</s><s>​</s><s p="19">​ ​¡Qué sano y equilibrado!​ ​</s><s p="2">​</s></p>
+<p t="86437" d="2268" wp="10" ws="1"><s p="2">​</s><s>​</s><s p="20">​ ​¡Lo quiero todo!​ ​</s><s p="2">​</s></p>
+<p t="88705" d="4638" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="21">​ ​¡Pueden elegir </s><s p="22">varios platos!​ ​</s><s p="2">​</s></p>
+<p t="88872" d="3971" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Pueden elegir varios platos,​ ​</s><s p="2">​
+​</s><s p="4">​ ​incluyendo los que han comido sus compañeras.​ ​</s><s p="2">​</s></p>
+<p t="89706" d="3637" wp="11" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​El </s><s p="23">onigiri </s><s p="10">de Kiara​ ​</s><s p="2">​</s></p>
+<p t="89706" d="3637" wp="12" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​Mi </s><s p="24">pasta​ ​</s><s p="2">​</s></p>
+<p t="90707" d="2636" wp="13" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​La </s><s p="25">ensalada </s><s p="10">de AkiRose​ ​</s><s p="2">​</s></p>
+<p t="93610" d="2937" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​¡Pero si se pasan,​ ​</s><s p="2">​
+​</s><s p="4">​ ​será una descalificación inmediata!​ ​</s><s p="2">​</s></p>
+<p t="96547" d="3236" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​¡Cuidado con no pasarse!​ ​</s><s p="2">​</s></p>
+<p t="97981" d="2970" wp="14" ws="1"><s p="2">​</s><s>​</s><s p="26">​ ​¡Alto!​ ​</s><s p="2">​</s></p>
+<p t="102286" d="3670" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​¡Primero veamos sus platos!​ ​</s><s p="2">​
+​</s><s p="4">​ ​¡Aquí están!​ ​</s><s p="2">​</s></p>
+<p t="108725" d="1302" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Choco-sensei,​ ​</s><s p="2">​</s></p>
+<p t="110027" d="2135" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​tus comidas son casi todas​ ​</s><s p="2">​
+​</s><s p="3">​ ​del extranjero.​ ​</s><s p="2">​</s></p>
+<p t="111261" d="2136" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​¡Cierto! ¡Qué lujoso!​ ​</s><s p="2">​</s></p>
+<p t="113397" d="1068" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Kiara-chan,​ ​</s><s p="2">​</s></p>
+<p t="114465" d="4070" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​hay bastante pescado en tu lista.​ ​</s><s p="2">​
+​</s><s p="3">​ ​¡Pensaba que solo comías pollo!​ ​</s><s p="2">​</s></p>
+<p t="115232" d="1668" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​¡Oh, es cierto!​ ​</s><s p="2">​</s></p>
+<p t="118535" d="1268" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="16">​ ​¡Mira el número cuatro!​ ​</s><s p="2">​</s></p>
+<p t="119803" d="2202" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="16">​ ​¡Hay pasta con pollo frito!​ ​</s><s p="2">​</s></p>
+<p t="120170" d="1835" wp="15" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​No podía faltar.​ ​</s><s p="2">​</s></p>
+<p t="122005" d="1635" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="16">​ ​Tampoco es eso.​ ​</s><s p="2">​</s></p>
+<p t="123640" d="2436" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Bien, comencemos por Aki-san.​ ​</s><s p="2">​</s></p>
+<p t="124174" d="1902" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="27">​ ​1.ª ronda​ ​</s><s p="2">​
+​</s><s p="28">​ ​Elección de calorías​ ​</s><s p="2">​
+​</s><s p="23">​ ​de Aki Rosenthal​ ​</s><s p="2">​</s></p>
+<p t="126076" d="2236" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Voy a empezar por las que me sé.​ ​</s><s p="2">​</s></p>
+<p t="126243" d="2069" wp="16" ws="1"><s p="2">​</s><s>​</s><s p="29">​ ​A por muchas calorías​ ​</s><s p="2">​</s></p>
+<p t="128312" d="2836" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​¡Elijo el tonkotsu ramen!​ ​</s><s p="2">​</s></p>
+<p t="129513" d="3770" wp="17" ws="1"><s p="2">​</s><s>​</s><s p="30">​ ​Tonkotsu ramen </s><s p="10">que comí​ ​</s><s p="2">​
+​</s><s p="10">​ ​con miembros de hololive English​ ​</s><s p="2">​</s></p>
+<p t="131148" d="2803" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Muy bien, te llevas​ ​</s><s p="2">​
+​</s><s p="4">​ ​el tonkotsu ramen de Kiara-san.​ ​</s><s p="2">​</s></p>
+<p t="135853" d="5939" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="16">​ ​Por cierto, esta foto es de cuando fui a comer​ ​</s><s p="2">​
+​</s><s p="16">​ ​ramen en Japón con miembros de English -Myth-​ ​</s><s p="2">​</s></p>
+<p t="136053" d="5739" wp="6" ws="3"><s p="2">​</s><s>​</s><s p="10">​ ​Comió ramen​ ​</s><s p="2">​
+​</s><s p="31">​ ​con las miembros de English -Myth-​ ​</s><s p="2">​</s></p>
+<p t="138489" d="967" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Ya veo.​ ​</s><s p="2">​</s></p>
+<p t="141792" d="3670" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="16">​ ​a uno de los restaurantes Ichir*n.​ ​</s><s p="2">​</s></p>
+<p t="145462" d="4171" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="16">​ ​Gura-chan aún no había ido​ ​</s><s p="2">​
+​</s><s p="16">​ ​a comer ramen ni una sola vez.​ ​</s><s p="2">​</s></p>
+<p t="145462" d="4772" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="32">​ ​Su primer​ ​</s><s p="2">​
+​</s><s p="32">​ ​ramen​ ​</s><s p="2">​</s></p>
+<p t="149032" d="1202" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​¿En serio?​ ​</s><s p="2">​</s></p>
+<p t="150234" d="3737" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="16">​ ​Estaba nerviosa por ir a comer​ ​</s><s p="2">​
+​</s><s p="16">​ ​ramen por primera vez.​ ​</s><s p="2">​</s></p>
+<p t="150701" d="3270" wp="18" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​¡Ramen,​ ​</s><s p="2">​
+​</s><s p="10">​ ​qué nervios!​ ​</s><s p="2">​</s></p>
+<p t="152069" d="1902" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Ah, lo puedo entender.​ ​</s><s p="2">​</s></p>
+<p t="152469" d="1502" wp="19" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​¡No hay por qué​ ​</s><s p="2">​
+​</s><s p="10">​ ​ponerse nerviosa!​ ​</s><s p="2">​</s></p>
+<p t="154404" d="2103" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Incluso en la tienda de conveniencia​ ​</s><s p="2">​
+​</s><s p="4">​ ​estaba algo nerviosa.​ ​</s><s p="2">​</s></p>
+<p t="156507" d="1301" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="16">​ ​Sí, es cierto.​ ​</s><s p="2">​</s></p>
+<p t="157808" d="1301" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​¡Qué tierna!​ ​</s><s p="2">​</s></p>
+<p t="159109" d="4004" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​A mí me encanta el tonkotsu ramen,​ ​</s><s p="2">​</s></p>
+<p t="159109" d="4004" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="33">​ ​AMOR​ ​</s><s p="2">​
+​</s><s p="34">​ ​por el tonkotsu ramen​ ​</s><s p="2">​</s></p>
+<p t="161411" d="1702" wp="15" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Sí, cuéntame.​ ​</s><s p="2">​</s></p>
+<p t="163113" d="734" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​pero...​ ​</s><s p="2">​</s></p>
+<p t="163847" d="3170" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​el mejor tipo de ramen es el iekei ramen.​ ​</s><s p="2">​</s></p>
+<p t="167017" d="2836" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Con mucho aceite, poco hervidos​ ​</s><s p="2">​
+​</s><s p="3">​ ​y con salsa espesa.​ ​</s><s p="2">​</s></p>
+<p t="168552" d="1301" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​¡Ah sí, qué ricos!​ ​</s><s p="2">​</s></p>
+<p t="169853" d="3137" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Para mí, el tonkotsu ramen​ ​</s><s p="2">​
+​</s><s p="3">​ ​es como una bebida elegante.​ ​</s><s p="2">​</s></p>
+<p t="172990" d="5138" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Yo diría que tiene​ ​</s><s p="2">​
+​</s><s p="3">​ ​555 calorías, más o menos.​ ​</s><s p="2">​</s></p>
+<p t="177161" d="2435" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Así que cinco, cinco, cinco.​ ​</s><s p="2">​</s></p>
+<p t="178662" d="1235" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="16">​ ​¡¿En serio?!​ ​</s><s p="2">​</s></p>
+<p t="178729" d="1168" wp="15" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Sí.​ ​</s><s p="2">​</s></p>
+<p t="179897" d="3036" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Las calorías​ ​</s><s p="2">​
+​</s><s p="4">​ ​del tonkotsu ramen son...​ ​</s><s p="2">​</s></p>
+<p t="183333" d="4805" wp="6" ws="3"><s p="2">​</s><s>​</s><s p="10">​ ​* Calorías calculadas por los realizadores​ ​</s><s p="2">​
+​</s><s p="10">​ ​del programa basándose en tablas de calorías​ ​</s><s p="2">​</s></p>
+<p t="183400" d="1769" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​¡630 kilocalorías!​ ​</s><s p="2">​</s></p>
+<p t="185169" d="2102" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Bueno, no te has ido muy lejos.​ ​</s><s p="2">​</s></p>
+<p t="186270" d="1868" wp="15" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Bueno, no está mal.​ ​</s><s p="2">​</s></p>
+<p t="186670" d="1468" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​No está mal.​ ​</s><s p="2">​</s></p>
+<p t="188105" d="33" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="35">​ ​Predicción: </s><s p="10">555 kcal​ ​</s><s p="2">​
+​</s><s p="36">​ ​Realidad: </s><s p="10">630 kcal aprox.​ ​</s><s p="2">​</s></p>
+<p t="188138" d="2302" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="16">​ ​Pensaba que tendría unas 900.​ ​</s><s p="2">​</s></p>
+<p t="188705" d="1502" wp="15" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​¿900? ¡¿Qué dices?!​ ​</s><s p="2">​</s></p>
+<p t="190874" d="2002" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Ahora vamos con Choco-sensei.​ ​</s><s p="2">​</s></p>
+<p t="191408" d="1468" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="27">​ ​1.ª ronda​ ​</s><s p="2">​
+​</s><s p="28">​ ​Elección de calorías​ ​</s><s p="2">​
+​</s><s p="37">​ ​de Yuzuki Choco​ ​</s><s p="2">​</s></p>
+<p t="192876" d="3570" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Elijo la pizza de atún​ ​</s><s p="2">​
+​</s><s p="9">​ ​y margarita al estilo de Kiara.​ ​</s><s p="2">​</s></p>
+<p t="194811" d="1469" wp="20" ws="1"><s p="2">​</s><s>​</s><s p="30">​ ​Pizza </s><s p="10">de atún y margarita​ ​</s><s p="2">​
+​</s><s p="10">​ ​al estilo de Kiara​ ​</s><s p="2">​</s></p>
+<p t="196914" d="934" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​¡Muy bien!​ ​</s><s p="2">​</s></p>
+<p t="197581" d="1034" wp="15" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​¡¿Pero esto qué es?!​ ​</s><s p="2">​</s></p>
+<p t="199183" d="967" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​¡Vaya pizza!​ ​</s><s p="2">​</s></p>
+<p t="200150" d="1835" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​¡Nunca había visto a nadie usar así el maíz!​ ​</s><s p="2">​</s></p>
+<p t="200484" d="934" wp="15" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​¡Buaaa!​ ​</s><s p="2">​</s></p>
+<p t="201985" d="1068" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Pienso que​ ​</s><s p="2">​</s></p>
+<p t="202085" d="3971" wp="21" ws="1"><s p="2">​</s><s>​</s><s p="38">​ ​Apuntando a​ ​</s><s p="2">​
+​</s><s p="38">​ ​muchas calorías​ ​</s><s p="2">​</s></p>
+<p t="203053" d="3003" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​la pizza tiene muchas calorías.​ ​</s><s p="2">​</s></p>
+<p t="206056" d="3504" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="16">​ ​¡Es casera!​ ​</s><s p="2">​</s></p>
+<p t="207891" d="1669" wp="15" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​¿En serio es casera?​ ​</s><s p="2">​</s></p>
+<p t="208192" d="1368" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​¡Increíble!​ ​</s><s p="2">​</s></p>
+<p t="209560" d="3970" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="16">​ ​La hice en un directo.​ ​</s><s p="2">​</s></p>
+<p t="212029" d="1501" wp="15" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​¡Qué buena pinta!​ ​</s><s p="2">​</s></p>
+<p t="213530" d="4471" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="16">​ ​Pensé que tal vez estaría rica​ ​</s><s p="2">​
+​</s><s p="16">​ ​con maíz en los bordes.​ ​</s><s p="2">​</s></p>
+<p t="213564" d="6039" wp="6" ws="3"><s p="2">​</s><s>​</s><s p="10">​ ​Pizza nacida del pensamiento:​ ​</s><s p="2">​
+​</s><s p="39">​ ​¿Si pongo maíz en los bordes, estará rica?​ ​</s><s p="2">​</s></p>
+<p t="218001" d="1602" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Ya veo.​ ​</s><s p="2">​</s></p>
+<p t="218302" d="1301" wp="15" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​¡Increíble!​ ​</s><s p="2">​</s></p>
+<p t="219603" d="5305" wp="6" ws="3"><s p="2">​</s><s>​</s><s p="10">​ ​* Representación visual​ ​</s><s p="2">​</s></p>
+<p t="220037" d="2536" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="16">​ ​Compré un horno para pizzas,​ ​</s><s p="2">​</s></p>
+<p t="221104" d="835" wp="15" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Entiendo.​ ​</s><s p="2">​</s></p>
+<p t="222573" d="1835" wp="15" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​¿Qué? ¡Qué fuerte!​ ​</s><s p="2">​</s></p>
+<p t="222573" d="2335" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="16">​ ​¡y salió riquísima!​ ​</s><s p="2">​</s></p>
+<p t="224908" d="3003" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Voy a decir... 680.​ ​</s><s p="2">​</s></p>
+<p t="227911" d="968" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​¡Oh! Ya veo.​ ​</s><s p="2">​</s></p>
+<p t="228078" d="3337" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="35">​ ​Predicción: </s><s p="10">680 kcal​ ​</s><s p="2">​</s></p>
+<p t="228879" d="2536" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Las calorías correctas son...​ ​</s><s p="2">​</s></p>
+<p t="231415" d="2402" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="35">​ ​Predicción: </s><s p="10">680 kcal​ ​</s><s p="2">​
+​</s><s p="36">​ ​Realidad: </s><s p="10">669 kcal​ ​</s><s p="2">​</s></p>
+<p t="231415" d="2402" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​¡669! ¡Muy bien!​ ​</s><s p="2">​</s></p>
+<p t="234851" d="2002" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Ha sido una predicción muy buena.​ ​</s><s p="2">​</s></p>
+<p t="236853" d="1936" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Bien, vamos con Kiara-san.​ ​</s><s p="2">​</s></p>
+<p t="237387" d="1402" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="27">​ ​1.ª ronda​ ​</s><s p="2">​
+​</s><s p="28">​ ​Elección de calorías​ ​</s><s p="2">​
+​</s><s p="40">​ ​de Takanashi Kiara​ ​</s><s p="2">​</s></p>
+<p t="238789" d="4171" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="16">​ ​Pues creo que elegiré el...​ ​</s><s p="2">​
+​</s><s p="16">​ ​¿strogonoff de ternera?​ ​</s><s p="2">​</s></p>
+<p t="240624" d="1735" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​El strogonoff de ternera.​ ​</s><s p="2">​</s></p>
+<p t="240724" d="1468" wp="22" ws="1"><s p="2">​</s><s>​</s><s p="30">​ ​Strogonoff de ternera​ ​</s><s p="2">​
+​</s><s p="10">​ ​de la felicidad​ ​</s><s p="2">​</s></p>
+<p t="242960" d="1434" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​¡Tiene buena pinta!​ ​</s><s p="2">​</s></p>
+<p t="244394" d="2269" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Es el que preparé con Lui-sama.​ ​</s><s p="2">​</s></p>
+<p t="244428" d="2235" wp="6" ws="3"><s p="2">​</s><s>​</s><s p="41">​ ​Plato preparado en el directo​ ​</s><s p="2">​
+​</s><s p="10">​ ​de Rich Chocolat​ ​</s><s p="2">​</s></p>
+<p t="246663" d="2870" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​¡Tiene un montón de mantequilla!​ ​</s><s p="2">​</s></p>
+<p t="250634" d="2169" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Creo que también​ ​</s><s p="2">​
+​</s><s p="9">​ ​le pusimos muchas especias.​ ​</s><s p="2">​</s></p>
+<p t="251835" d="1602" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Oh, ya veo.​ ​</s><s p="2">​</s></p>
+<p t="253437" d="1134" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Pero no usamos roux.​ ​</s><s p="2">​</s></p>
+<p t="254571" d="2469" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​¡Oh! ¿En serio? Lo hicieron desde cero.​ ​</s><s p="2">​</s></p>
+<p t="255939" d="1702" wp="15" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Lo hicimos solo con especias.​ ​</s><s p="2">​</s></p>
+<p t="256206" d="3470" wp="6" ws="3"><s p="2">​</s><s>​</s><s p="42">​ ​Plato auténtico </s><s p="10">hecho con​ ​</s><s p="2">​
+​</s><s p="10">​ ​especias y condimentos​ ​</s><s p="2">​</s></p>
+<p t="257641" d="1635" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​¡Increíble!​ ​</s><s p="2">​</s></p>
+<p t="258442" d="1234" wp="15" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​¡Qué rico se ve!​ ​</s><s p="2">​</s></p>
+<p t="259676" d="2703" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​¿Has preparado un strogonoff​ ​</s><s p="2">​
+​</s><s p="4">​ ​de ternera alguna vez?​ ​</s><s p="2">​</s></p>
+<p t="262379" d="5305" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Alguna vez he intentado hacer un strogonoff​ ​</s><s p="2">​
+​</s><s p="3">​ ​de ternera, pero al final me sale arroz hayashi.​ ​</s><s p="2">​</s></p>
+<p t="266950" d="1902" wp="23" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​¡Te entiendo perfectamente!​ ​</s><s p="2">​</s></p>
+<p t="268852" d="3237" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="16">​ ​Bueno, la verdad es que​ ​</s><s p="2">​
+​</s><s p="16">​ ​no tengo ni idea, pero...​ ​</s><s p="2">​</s></p>
+<p t="272089" d="1535" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="16">​ ​digamos que 650.​ ​</s><s p="2">​</s></p>
+<p t="272856" d="1235" wp="15" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​¿650? Muy bien.​ ​</s><s p="2">​</s></p>
+<p t="273390" d="4104" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="35">​ ​Predicción: </s><s p="10">650 kcal​ ​</s><s p="2">​</s></p>
+<p t="274091" d="3403" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Las calorías del strogonoff​ ​</s><s p="2">​
+​</s><s p="4">​ ​de ternera son...​ ​</s><s p="2">​</s></p>
+<p t="277494" d="4571" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="35">​ ​Predicción: </s><s p="10">650 kcal​ ​</s><s p="2">​
+​</s><s p="36">​ ​Realidad: </s><s p="10">699 kcal​ ​</s><s p="2">​</s></p>
+<p t="277494" d="2369" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​¡699! ¡No está nada mal!​ ​</s><s p="2">​</s></p>
+<p t="280264" d="1801" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="16">​ ​¡He estado bastante cerca!​ ​</s><s p="2">​</s></p>
+<p t="280497" d="1135" wp="15" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​¡Muy bien!​ ​</s><s p="2">​</s></p>
+<p t="282065" d="2336" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="16">​ ​¡Muchas gracias!​ ​</s><s p="2">​
+​</s><s p="16">​ ​¡Buen provecho!​ ​</s><s p="2">​</s></p>
+<p t="285068" d="2069" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​En la primera ronda han buscado​ ​</s><s p="2">​
+​</s><s p="4">​ ​alimentos con muchas calorías,​ ​</s><s p="2">​</s></p>
+<p t="287137" d="2269" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​y todas han pasado​ ​</s><s p="2">​
+​</s><s p="4">​ ​de las 600 kilocalorías.​ ​</s><s p="2">​</s></p>
+<p t="289406" d="5105" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​En la segunda ronda, cada una elegirá dos platos​ ​</s><s p="2">​
+​</s><s p="4">​ ​con el objetivo es llegar a las 2023 calorías.​ ​</s><s p="2">​</s></p>
+<p t="294945" d="2502" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Aki-san, elige dos platos, por favor.​ ​</s><s p="2">​</s></p>
+<p t="295479" d="1968" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="27">​ ​2.ª ronda​ ​</s><s p="2">​
+​</s><s p="28">​ ​Elección de calorías​ ​</s><s p="2">​
+​</s><s p="23">​ ​de Aki Rosenthal​ ​</s><s p="2">​</s></p>
+<p t="297447" d="4471" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Al tener que elegir dos,​ ​</s><s p="2">​
+​</s><s p="3">​ ​creo que es más fácil pasarse.​ ​</s><s p="2">​</s></p>
+<p t="301918" d="2770" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Voy a elegir...​ ​</s><s p="2">​</s></p>
+<p t="304688" d="3837" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​el filete de hamburguesa​ ​</s><s p="2">​
+​</s><s p="3">​ ​de Choco-sensei, y...​ ​</s><s p="2">​</s></p>
+<p t="308525" d="901" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Sí.​ ​</s><s p="2">​</s></p>
+<p t="311028" d="3203" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​mi ensalada de pimientos​ ​</s><s p="2">​
+​</s><s p="3">​ ​verdes y zanahorias.​ ​</s><s p="2">​</s></p>
+<p t="312496" d="2836" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​¡Ah! ¡Ya veo!​ ​</s><s p="2">​</s></p>
+<p t="315332" d="5005" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Es una combinación de un plato​ ​</s><s p="2">​
+​</s><s p="4">​ ​saludable y un plato principal.​ ​</s><s p="2">​</s></p>
+<p t="317367" d="2970" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Así es, creo que es una buena combinación.​ ​</s><s p="2">​</s></p>
+<p t="320337" d="1935" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Muy bien, entendido.​ ​</s><s p="2">​</s></p>
+<p t="322272" d="3704" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Vamos a ver la foto del filete​ ​</s><s p="2">​
+​</s><s p="4">​ ​de hamburguesa, ¡aquí está!​ ​</s><s p="2">​</s></p>
+<p t="322372" d="3470" wp="24" ws="1"><s p="2">​</s><s>​</s><s p="30">​ ​Filete de hamburguesa​ ​</s><s p="2">​
+​</s><s p="10">​ ​especial​ ​</s><s p="2">​</s></p>
+<p t="326576" d="2503" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​¡Oh, qué buena pinta!​ ​</s><s p="2">​
+​</s><s p="4">​ ​¡Y tiene verduras!​ ​</s><s p="2">​</s></p>
+<p t="329079" d="2436" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​¿Es un plato casero, Choco-san?​ ​</s><s p="2">​</s></p>
+<p t="331515" d="1401" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Sí, lo hice yo.​ ​</s><s p="2">​</s></p>
+<p t="332916" d="3537" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​¡Oooh, qué rico se ve! ¡Qué bien!​ ​</s><s p="2">​</s></p>
+<p t="333884" d="2569" wp="15" ws="1"><s p="2">​</s><s>​</s><s p="16">​ ​¡Qué bien! ¡Qué bien!​ ​</s><s p="2">​</s></p>
+<p t="333884" d="2569" wp="6" ws="3"><s p="2">​</s><s>​</s><s p="43">​ ​Filete de hamburguesa casero​ ​</s><s p="2">​
+​</s><s p="10">​ ​de Yuzuki Choco​ ​</s><s p="2">​</s></p>
+<p t="336453" d="1501" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​¿Eso es salsa de kétchup?​ ​</s><s p="2">​</s></p>
+<p t="337954" d="1936" wp="15" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Es salsa demi-glace.​ ​</s><s p="2">​</s></p>
+<p t="337954" d="2336" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​¡Es demi-glace!​ ​</s><s p="2">​</s></p>
+<p t="340290" d="2269" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Aquí tenemos la ensalada​ ​</s><s p="2">​
+​</s><s p="4">​ ​de pimientos verdes y zanahorias.​ ​</s><s p="2">​</s></p>
+<p t="340457" d="1468" wp="25" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​Especialidad de AkiRose:​ ​</s><s p="2">​
+​</s><s p="30">​ ​ensalada de pimientos verdes y zanahorias​ ​</s><s p="2">​</s></p>
+<p t="342559" d="3904" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Este es uno de los platos​ ​</s><s p="2">​
+​</s><s p="3">​ ​que se me dan mejor.​ ​</s><s p="2">​</s></p>
+<p t="345295" d="2036" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​¡Oh, qué bien!​ ​</s><s p="2">​</s></p>
+<p t="347331" d="5205" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​ Esa vez hice demasiada ensalada.​ ​</s><s p="2">​
+​</s><s p="3">​ ​¡Llené un bol entero! Pero me daba vergüenza​ ​</s><s p="2">​</s></p>
+<p t="352536" d="3904" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​que el bol saliera en la foto,​ ​</s><s p="2">​
+​</s><s p="3">​ ​así que hice la foto de cerca.​ ​</s><s p="2">​</s></p>
+<p t="354738" d="1702" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​¡Sí que está cerca!​ ​</s><s p="2">​</s></p>
+<p t="356440" d="2435" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Ahora vamos a predecir las calorías.​ ​</s><s p="2">​</s></p>
+<p t="356606" d="5172" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="44">​ ​Predicción de calorías de los dos platos​ ​</s><s p="2">​</s></p>
+<p t="358241" d="2603" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​El filete...​ ​</s><s p="2">​</s></p>
+<p t="358875" d="2903" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​¿Cuántas calorías crees que tiene​ ​</s><s p="2">​
+​</s><s p="4">​ ​el filete de hamburguesa?​ ​</s><s p="2">​</s></p>
+<p t="361778" d="5339" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Voy a decir que son unas 450 calorías.​ ​</s><s p="2">​</s></p>
+<p t="365849" d="3537" wp="15" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Muy bien, ¿y la ensalada?​ ​</s><s p="2">​</s></p>
+<p t="366650" d="20387" wp="26" ws="1"><s p="2">​</s><s>​</s><s p="35">​ ​Predicción: </s><s p="10">450 kcal​ ​</s><s p="2">​</s></p>
+<p t="367117" d="4638" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​La ensalada... Unas 180.​ ​</s><s p="2">​</s></p>
+<p t="371355" d="15682" wp="27" ws="1"><s p="2">​</s><s>​</s><s p="35">​ ​Predicción: </s><s p="10">180 kcal​ ​</s><s p="2">​</s></p>
+<p t="371755" d="4605" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Muy bien, vamos a ver las calorías​ ​</s><s p="2">​
+​</s><s p="4">​ ​del filete de hamburguesa. ¡Aquí están!​ ​</s><s p="2">​</s></p>
+<p t="376360" d="2736" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​¡Tachán! ¡350!​ ​</s><s p="2">​</s></p>
+<p t="376360" d="10677" wp="28" ws="1"><s p="2">​</s><s>​</s><s p="36">​ ​Realidad: </s><s p="10">350 kcal​ ​</s><s p="2">​</s></p>
+<p t="379730" d="1935" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Es más saludable de lo que pensaba.​ ​</s><s p="2">​</s></p>
+<p t="381665" d="2536" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Y ahora vamos con la ensalada.​ ​</s><s p="2">​
+​</s><s p="4">​ ​¡Aquí está!​ ​</s><s p="2">​</s></p>
+<p t="384167" d="2870" wp="29" ws="1"><s p="2">​</s><s>​</s><s p="36">​ ​Realidad: </s><s p="10">99 kcal​ ​</s><s p="2">​</s></p>
+<p t="384201" d="2836" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​¡99! ¡Son pocas calorías!​ ​</s><s p="2">​</s></p>
+<p t="385802" d="1235" wp="15" ws="1"><s p="2">​</s><s>​</s><s p="16">​ ​¡Qué pocas!​ ​</s><s p="2">​</s></p>
+<p t="387037" d="2836" wp="30" ws="1"><s p="2">​</s><s>​</s><s p="45">​ ​Predicción de AkiRose​ ​</s><s p="2">​
+​</s><s p="45">​ ​630 kcal​ ​</s><s p="2">​</s></p>
+<p t="387037" d="2836" wp="31" ws="1"><s p="2">​</s><s>​</s><s p="46">​ ​Realidad​ ​</s><s p="2">​
+​</s><s p="46">​ ​449 kcal​ ​</s><s p="2">​</s></p>
+<p t="387037" d="2836" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Creo que me he quedado bastante corta...​ ​</s><s p="2">​</s></p>
+<p t="388505" d="1368" wp="15" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Así es...​ ​</s><s p="2">​</s></p>
+<p t="389873" d="3136" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​El total de calorías de Aki-san​ ​</s><s p="2">​
+​</s><s p="4">​ ​es de 1079 calorías.​ ​</s><s p="2">​</s></p>
+<p t="393009" d="1068" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​¿Quiere esto decir​ ​</s><s p="2">​</s></p>
+<p t="394077" d="1802" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​que podemos ser​ ​</s><s p="2">​
+​</s><s p="9">​ ​más glotonas de lo que pensamos?​ ​</s><s p="2">​</s></p>
+<p t="395879" d="3737" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Elijo el arroz con salsa​ ​</s><s p="2">​
+​</s><s p="9">​ ​y ternera de Aki-sama,​ ​</s><s p="2">​</s></p>
+<p t="399616" d="2569" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​y mi pasta a la boloñesa​ ​</s><s p="2">​
+​</s><s p="9">​ ​de berenjenas.​ ​</s><s p="2">​</s></p>
+<p t="402185" d="1368" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​¡Buena elección!​ ​</s><s p="2">​</s></p>
+<p t="403553" d="3037" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​¡Increíble! ¡Es como un paraíso​ ​</s><s p="2">​
+​</s><s p="4">​ ​de grasas y carbohidratos!​ ​</s><s p="2">​</s></p>
+<p t="403553" d="3037" wp="32" ws="1"><s p="2">​</s><s>​</s><s p="47">​ ​Arroz​ ​</s><s p="2">​</s></p>
+<p t="403553" d="3037" wp="33" ws="1"><s p="2">​</s><s>​</s><s p="48">​ ​Carne​ ​</s><s p="2">​</s></p>
+<p t="403553" d="3037" wp="34" ws="1"><s p="2">​</s><s>​</s><s p="49">​ ​Pasta​ ​</s><s p="2">​</s></p>
+<p t="406590" d="2269" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​¡Aquí está el arroz con salsa y ternera!​ ​</s><s p="2">​</s></p>
+<p t="406757" d="1568" wp="35" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​¡Delicioso!​ ​</s><s p="2">​
+​</s><s p="30">​ ​Arroz con salsa </s><s p="10">y ternera​ ​</s><s p="2">​</s></p>
+<p t="409359" d="2803" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​¡Esto tiene pinta de tener​ ​</s><s p="2">​
+​</s><s p="4">​ ​muchas calorías!​ ​</s><s p="2">​</s></p>
+<p t="410827" d="1335" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Uy, ¡qué fuerte! ¡Espera!​ ​</s><s p="2">​</s></p>
+<p t="412162" d="2803" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​¡Seguro que tiene más​ ​</s><s p="2">​
+​</s><s p="9">​ ​calorías de las que pensaba!​ ​</s><s p="2">​</s></p>
+<p t="413397" d="2369" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Tiene pinta de tener​ ​</s><s p="2">​
+​</s><s p="4">​ ​más calorías de lo esperado.​ ​</s><s p="2">​</s></p>
+<p t="415766" d="900" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​¡¿Va en serio?!​ ​</s><s p="2">​</s></p>
+<p t="416666" d="2503" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="16">​ ​¿Este también es un plato casero?​ ​</s><s p="2">​</s></p>
+<p t="419169" d="1235" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​¿Aki-san, es casero?​ ​</s><s p="2">​</s></p>
+<p t="419536" d="1368" wp="15" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Esto...​ ​</s><s p="2">​</s></p>
+<p t="421104" d="4338" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Es un plato que comí para almorzar​ ​</s><s p="2">​
+​</s><s p="3">​ ​en un restaurante de comida china.​ ​</s><s p="2">​</s></p>
+<p t="424040" d="2837" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​¡Oh, ya veo!​ ​</s><s p="2">​</s></p>
+<p t="425442" d="1435" wp="15" ws="1"><s p="2">​</s><s>​</s><s p="16">​ ​Entiendo.​ ​</s><s p="2">​</s></p>
+<p t="426076" d="801" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Así es.​ ​</s><s p="2">​</s></p>
+<p t="426877" d="3603" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Creo que debe tener entre​ ​</s><s p="2">​
+​</s><s p="9">​ ​580 y 600 calorías.​ ​</s><s p="2">​</s></p>
+<p t="426877" d="3603" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="35">​ ​Predicción: </s><s p="10">580 - 600 kcal​ ​</s><s p="2">​</s></p>
+<p t="429379" d="1101" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Muy bien.​ ​</s><s p="2">​</s></p>
+<p t="430480" d="2670" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Vamos con el siguiente.​ ​</s><s p="2">​</s></p>
+<p t="430647" d="2002" wp="36" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​Pasta a la </s><s p="30">boloñesa </s><s p="10">de berenjenas​ ​</s><s p="2">​
+​</s><s p="10">​ ​de un restaurante​ ​</s><s p="2">​</s></p>
+<p t="433150" d="1368" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​¡Qué buena pinta!​ ​</s><s p="2">​</s></p>
+<p t="433150" d="1368" wp="15" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Sí.​ ​</s><s p="2">​</s></p>
+<p t="435385" d="2136" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​¿Esto lo comiste en un restaurante?​ ​</s><s p="2">​</s></p>
+<p t="436820" d="1134" wp="15" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Este plato​ ​</s><s p="2">​</s></p>
+<p t="437954" d="2136" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​lo comí en un restaurante.​ ​</s><s p="2">​</s></p>
+<p t="438455" d="1635" wp="15" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Oh, un restaurante.​ ​</s><s p="2">​</s></p>
+<p t="440090" d="3036" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Creo que había bastante cantidad,​ ​</s><s p="2">​
+​</s><s p="9">​ ​pero voy a decir que unas 470 calorías.​ ​</s><s p="2">​</s></p>
+<p t="441725" d="2602" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="35">​ ​Predicción: </s><s p="10">470 kcal​ ​</s><s p="2">​</s></p>
+<p t="443126" d="1201" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Ah, entiendo.​ ​</s><s p="2">​</s></p>
+<p t="444327" d="4872" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Muy bien, vamos a ver las calorías reales​ ​</s><s p="2">​
+​</s><s p="4">​ ​del arroz con salsa y ternera.​ ​</s><s p="2">​</s></p>
+<p t="444327" d="7942" wp="37" ws="1"><s p="2">​</s><s>​</s><s p="35">​ ​Predicción: </s><s p="10">580 - 600 kcal​ ​</s><s p="2">​</s></p>
+<p t="444327" d="7942" wp="38" ws="1"><s p="2">​</s><s>​</s><s p="35">​ ​Predicción: </s><s p="10">470 kcal​ ​</s><s p="2">​</s></p>
+<p t="449199" d="3070" wp="39" ws="1"><s p="2">​</s><s>​</s><s p="36">​ ​Realidad: </s><s p="10">695 kcal​ ​</s><s p="2">​</s></p>
+<p t="449199" d="3070" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​¡695! ¡No está nada mal!​ ​</s><s p="2">​</s></p>
+<p t="452269" d="1868" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​¿En serio tiene tantas calorías?​ ​</s><s p="2">​</s></p>
+<p t="454838" d="5606" wp="37" ws="1"><s p="2">​</s><s>​</s><s p="35">​ ​Predicción: </s><s p="10">580 - 600 kcal​ ​</s><s p="2">​</s></p>
+<p t="454838" d="5606" wp="38" ws="1"><s p="2">​</s><s>​</s><s p="35">​ ​Predicción: </s><s p="10">470 kcal​ ​</s><s p="2">​</s></p>
+<p t="454838" d="9242" wp="39" ws="1"><s p="2">​</s><s>​</s><s p="36">​ ​Realidad: </s><s p="10">695 kcal​ ​</s><s p="2">​</s></p>
+<p t="454838" d="3637" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Ahora vamos con la pasta​ ​</s><s p="2">​
+​</s><s p="4">​ ​a la boloñesa de berenjenas.​ ​</s><s p="2">​</s></p>
+<p t="458475" d="5605" wp="40" ws="1"><s p="2">​</s><s>​</s><s p="36">​ ​Realidad: </s><s p="10">642 kcal​ ​</s><s p="2">​</s></p>
+<p t="458475" d="2703" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​¡642! ¡Tiene bastantes calorías!​ ​</s><s p="2">​</s></p>
+<p t="460177" d="2936" wp="15" ws="1"><s p="2">​</s><s>​</s><s p="16">​ ​¡Qué fuerte! ¿No son demasiadas?​ ​</s><s p="2">​</s></p>
+<p t="460610" d="3470" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​Plato 1: </s><s p="14">669 kcal </s><s p="10">Plato 2: </s><s p="14">695 kcal </s><s p="10">Plato 3: </s><s p="14">642 kcal​ ​</s><s p="2">​</s></p>
+<p t="461178" d="1935" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​¿No serán demasiadas?​ ​</s><s p="2">​</s></p>
+<p t="462012" d="1101" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​¡Espera! ¡¿Qué?!​ ​</s><s p="2">​</s></p>
+<p t="463113" d="967" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Así que​ ​</s><s p="2">​</s></p>
+<p t="464080" d="835" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​en total son​ ​</s><s p="2">​</s></p>
+<p t="465549" d="2269" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​¡2006! ¡Estás muy cerca!​ ​</s><s p="2">​</s></p>
+<p t="467284" d="1168" wp="15" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​¡Qué peligro!​ ​</s><s p="2">​</s></p>
+<p t="468452" d="1568" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="16">​ ​¡Qué fuerte! ¡Espera!​ ​</s><s p="2">​</s></p>
+<p t="468452" d="2335" wp="15" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​¡Muy cerca de las 2023!​ ​</s><s p="2">​</s></p>
+<p t="470020" d="2469" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​¡Yo me planto aquí!​ ​</s><s p="2">​</s></p>
+<p t="472489" d="2069" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​¡Entendido! ¡Te plantas!​ ​</s><s p="2">​</s></p>
+<p t="474558" d="3370" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Vamos con Kiara-san.​ ​</s><s p="2">​
+​</s><s p="4">​ ​Elige dos platos, por favor.​ ​</s><s p="2">​</s></p>
+<p t="475091" d="2837" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="27">​ ​2.ª ronda​ ​</s><s p="2">​
+​</s><s p="28">​ ​Elección de calorías​ ​</s><s p="2">​
+​</s><s p="40">​ ​de Takanashi Kiara​ ​</s><s p="2">​</s></p>
+<p t="477928" d="2369" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="16">​ ​Quiero algo con​ ​</s><s p="2">​
+​</s><s p="16">​ ​muchas calorías, así que​ ​</s><s p="2">​</s></p>
+<p t="480297" d="4171" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="16">​ ​elijo el pollo asado en aceite​ ​</s><s p="2">​
+​</s><s p="16">​ ​de oliva de Aki-senpai​ ​</s><s p="2">​</s></p>
+<p t="482499" d="2169" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​¡Oh, el pollo asado!​ ​</s><s p="2">​</s></p>
+<p t="484468" d="3069" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="16">​ ​y mi galette. Confío en mi instinto.​ ​</s><s p="2">​</s></p>
+<p t="485602" d="1935" wp="15" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​¡Ah, la galette!​ ​</s><s p="2">​</s></p>
+<p t="487537" d="3437" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Bien, primero vamos con el pollo asado en aceite de oliva de Aki-san. Aquí está.​ ​</s><s p="2">​</s></p>
+<p t="487704" d="2870" wp="41" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​¡Adictivo! Pollo asado </s><s p="30">en aceite de oliva​ ​</s><s p="2">​</s></p>
+<p t="490974" d="3237" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Así que esto era. Parece saludable.​ ​</s><s p="2">​</s></p>
+<p t="493143" d="1468" wp="15" ws="1"><s p="2">​</s><s>​</s><s p="16">​ ​¡Qué sano!​ ​</s><s p="2">​</s></p>
+<p t="493343" d="1268" wp="42" ws="1"><s p="2">​</s><s>​</s><s p="50">​ ​Más saludable de lo que pensaba​ ​</s><s p="2">​</s></p>
+<p t="494611" d="3170" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Primero se saltea la carne​ ​</s><s p="2">​
+​</s><s p="3">​ ​de pollo en aceite de oliva​ ​</s><s p="2">​</s></p>
+<p t="494611" d="12546" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="51">​ ​¡Adictivo! Pollo asado en aceite de oliva (para una persona)​ ​</s><s p="2">​</s></p>
+<p t="495745" d="1435" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Ya veo.​ ​</s><s p="2">​</s></p>
+<p t="496012" d="11145" wp="43" ws="1"><s p="2">​</s><s>​</s><s p="52">​ ​1. Saltear carne de muslo de pollo​ ​</s><s p="2">​
+​</s><s p="52">​ ​con piel en aceite de oliva​ ​</s><s p="2">​</s></p>
+<p t="497781" d="3236" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​con la piel y todo, así tal cual.​ ​</s><s p="2">​</s></p>
+<p t="498915" d="2102" wp="15" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Ah, sí, sin quitarle la piel.​ ​</s><s p="2">​</s></p>
+<p t="501017" d="3637" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Y luego simplemente es echarle sal.​ ​</s><s p="2">​
+​</s><s p="3">​ ​Es realmente simple.​ ​</s><s p="2">​</s></p>
+<p t="501017" d="6140" wp="44" ws="1"><s p="2">​</s><s>​</s><s p="52">​ ​2. Sazonar con sal​ ​</s><s p="2">​</s></p>
+<p t="502519" d="4638" wp="45" ws="1"><s p="2">​</s><s>​</s><s p="53">​ ​Hecho​ ​</s><s p="2">​</s></p>
+<p t="503386" d="2736" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Ah, pero está muy rico así, te entiendo.​ ​</s><s p="2">​</s></p>
+<p t="504654" d="1202" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Está muy rico.​ ​</s><s p="2">​</s></p>
+<p t="505856" d="1301" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Ya veo.​ ​</s><s p="2">​</s></p>
+<p t="507157" d="3970" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="16">​ ​No lo tengo claro, pero​ ​</s><s p="2">​
+​</s><s p="16">​ ​voy a decir 250. Dejémoslo en eso.​ ​</s><s p="2">​</s></p>
+<p t="509326" d="1268" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Ah, muy bien.​ ​</s><s p="2">​</s></p>
+<p t="509759" d="1368" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="35">​ ​Predicción: </s><s p="10">250 kcal​ ​</s><s p="2">​</s></p>
+<p t="511127" d="1435" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Aquí tenemos la galette.​ ​</s><s p="2">​</s></p>
+<p t="511294" d="901" wp="46" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​¡Qué rica! </s><s p="30">Galette </s><s p="10">deliciosa​ ​</s><s p="2">​</s></p>
+<p t="512562" d="1568" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​¡Oh, qué buena pinta!​ ​</s><s p="2">​</s></p>
+<p t="514130" d="2937" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Parece un desayuno, ¿pero es un almuerzo?​ ​</s><s p="2">​</s></p>
+<p t="517067" d="2202" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="16">​ ​Sí, es como un desayuno. Umm...​ ​</s><s p="2">​</s></p>
+<p t="519269" d="3537" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="16">​ ​Ya eran más de las 12, pero fue mi desayuno.​ ​</s><s p="2">​</s></p>
+<p t="521238" d="2969" wp="15" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Ya veo, así que es como un brunch.​ ​</s><s p="2">​</s></p>
+<p t="524207" d="1235" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​¿Lo hiciste tú misma?​ ​</s><s p="2">​</s></p>
+<p t="525442" d="2135" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="16">​ ​Lo comí en un restaurante de Shinjuku.​ ​</s><s p="2">​</s></p>
+<p t="526610" d="1468" wp="15" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​¡Ah, ya veo!​ ​</s><s p="2">​</s></p>
+<p t="528745" d="3570" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="16">​ ​Me llené bastante.​ ​</s><s p="2">​
+​</s><s p="16">​ ​Era más gruesa de lo que esperaba.​ ​</s><s p="2">​</s></p>
+<p t="532816" d="2769" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="16">​ ​Así que... Voy a decir 400.​ ​</s><s p="2">​</s></p>
+<p t="534184" d="2135" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="35">​ ​Predicción: </s><s p="10">400 kcal​ ​</s><s p="2">​</s></p>
+<p t="534951" d="1368" wp="15" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​400, muy bien.​ ​</s><s p="2">​</s></p>
+<p t="536319" d="18419" wp="37" ws="1"><s p="2">​</s><s>​</s><s p="35">​ ​Predicción: </s><s p="10">250 kcal​ ​</s><s p="2">​</s></p>
+<p t="536319" d="18419" wp="38" ws="1"><s p="2">​</s><s>​</s><s p="35">​ ​Predicción: </s><s p="10">400 kcal​ ​</s><s p="2">​</s></p>
+<p t="536319" d="2136" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Veamos las calorías reales.​ ​</s><s p="2">​</s></p>
+<p t="538455" d="3070" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​El pollo asado​ ​</s><s p="2">​
+​</s><s p="4">​ ​en aceite de oliva (con sal) son...​ ​</s><s p="2">​</s></p>
+<p t="541525" d="13213" wp="39" ws="1"><s p="2">​</s><s>​</s><s p="36">​ ​Realidad: </s><s p="10">287 kcal​ ​</s><s p="2">​</s></p>
+<p t="541525" d="2569" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​287 calorías. ¡Muy bien!​ ​</s><s p="2">​</s></p>
+<p t="543159" d="2336" wp="15" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​¡Oooh! ¡Vas por el buen camino!​ ​</s><s p="2">​</s></p>
+<p t="544461" d="2436" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Sí, no está nada mal.​ ​</s><s p="2">​</s></p>
+<p t="545495" d="834" wp="15" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​¡Sí!​ ​</s><s p="2">​</s></p>
+<p t="545695" d="1836" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="16">​ ​Ya veo, ya veo.​ ​</s><s p="2">​</s></p>
+<p t="547531" d="4004" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Veamos la galette.​ ​</s><s p="2">​
+​</s><s p="4">​ ​¿Cuántas calorías son? ¡Aquí lo tenemos!​ ​</s><s p="2">​</s></p>
+<p t="548431" d="2369" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="16">​ ​¡Vamos! ¡Vamos!​ ​</s><s p="2">​</s></p>
+<p t="552402" d="2336" wp="40" ws="1"><s p="2">​</s><s>​</s><s p="36">​ ​Realidad: </s><s p="10">437 kcal​ ​</s><s p="2">​</s></p>
+<p t="552402" d="2336" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Oh, 437.​ ​</s><s p="2">​</s></p>
+<p t="554738" d="4104" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Lo que suma un total de 1423 calorías.​ ​</s><s p="2">​
+​</s><s p="4">​ ​No está mal, no está nada mal.​ ​</s><s p="2">​</s></p>
+<p t="554738" d="6640" wp="47" ws="1"><s p="2">​</s><s>​</s><s p="54">​ ​Calorías totales actuales​ ​</s><s p="2">​
+​</s><s p="55">​ ​1423​ ​</s><s p="2">​</s></p>
+<p t="558842" d="1768" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="16">​ ​Aún me queda mucho.​ ​</s><s p="2">​</s></p>
+<p t="559876" d="901" wp="15" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Sí.​ ​</s><s p="2">​</s></p>
+<p t="559876" d="1468" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Vas bien, vas bien.​ ​</s><s p="2">​</s></p>
+<p t="563013" d="3303" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Ahora, ¿qué tal si ustedes dos​ ​</s><s p="2">​
+​</s><s p="4">​ ​eligen un plato al mismo tiempo?​ ​</s><s p="2">​</s></p>
+<p t="565982" d="834" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="16">​ ​Perfecto.​ ​</s><s p="2">​</s></p>
+<p t="566316" d="1868" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Bien, ¿listas?​ ​</s><s p="2">​</s></p>
+<p t="567317" d="867" wp="15" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Sí.​ ​</s><s p="2">​</s></p>
+<p t="568184" d="901" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Uno, dos y...​ ​</s><s p="2">​</s></p>
+<p t="569085" d="2903" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Pasta con pollo frito.​ ​</s><s p="2">​</s></p>
+<p t="569085" d="1502" wp="15" ws="1"><s p="2">​</s><s>​</s><s p="16">​ ​Algodón de azúcar.​ ​</s><s p="2">​</s></p>
+<p t="572789" d="2102" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Aki-san, has elegido pasta con pollo frito.​ ​</s><s p="2">​</s></p>
+<p t="574891" d="4104" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​¿Y Kiara-san?​ ​</s><s p="2">​
+​</s><s p="4">​ ​Ah, el algodón de azúcar, ¿verdad?​ ​</s><s p="2">​</s></p>
+<p t="579829" d="2536" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Oh, realmente es pasta con pollo frito.​ ​</s><s p="2">​</s></p>
+<p t="580530" d="734" wp="15" ws="1"><s p="2">​</s><s>​</s><s p="16">​ ​Sí.​ ​</s><s p="2">​</s></p>
+<p t="583733" d="2269" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="16">​ ​Es comida casera.​ ​</s><s p="2">​</s></p>
+<p t="585068" d="2669" wp="15" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​¡Oh, increíble!​ ​</s><s p="2">​</s></p>
+<p t="586002" d="3704" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="16">​ ​Es pollo frito un poco más saludable​ ​</s><s p="2">​</s></p>
+<p t="586169" d="6240" wp="48" ws="1"><s p="2">​</s><s>​</s><s p="56">​ ​Pollo frito estándar​ ​</s><s p="2">​</s></p>
+<p t="587404" d="5005" wp="49" ws="1"><s p="2">​</s><s>​</s><s p="57">​ ​Pollo frito de Kiara​ ​</s><s p="2">​</s></p>
+<p t="588772" d="2536" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Sí, parece bastante sano.​ ​</s><s p="2">​</s></p>
+<p t="589706" d="2703" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="16">​ ​de lo que todo el mundo piensa.​ ​</s><s p="2">​
+​</s><s p="16">​ ​Eso creo al menos.​ ​</s><s p="2">​</s></p>
+<p t="591308" d="1101" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Ya veo, sí.​ ​</s><s p="2">​</s></p>
+<p t="592409" d="4037" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​¿Esta carne de pollo es... pechuga?​ ​</s><s p="2">​</s></p>
+<p t="596446" d="1835" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="16">​ ​Sí, es pechuga.​ ​</s><s p="2">​</s></p>
+<p t="597314" d="967" wp="15" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Oh, es pechuga.​ ​</s><s p="2">​</s></p>
+<p t="598281" d="2736" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​¡Ah, ya veo!​ ​</s><s p="2">​</s></p>
+<p t="598748" d="3504" wp="6" ws="3"><s p="2">​</s><s>​</s><s p="58">​ ​Saludable </s><s p="10">pechuga de pollo sin piel​ ​</s><s p="2">​</s></p>
+<p t="599382" d="2069" wp="15" ws="1"><s p="2">​</s><s>​</s><s p="16">​ ​No tiene piel.​ ​</s><s p="2">​</s></p>
+<p t="601017" d="1235" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​¡Qué sano!​ ​</s><s p="2">​</s></p>
+<p t="602252" d="3470" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Como es pasta... voy a decir 650.​ ​</s><s p="2">​</s></p>
+<p t="604220" d="3270" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="35">​ ​Predicción: </s><s p="10">650 kcal​ ​</s><s p="2">​</s></p>
+<p t="605722" d="1768" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​650, muy bien.​ ​</s><s p="2">​</s></p>
+<p t="606189" d="1301" wp="15" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​¿Tantas?​ ​</s><s p="2">​</s></p>
+<p t="607490" d="2570" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Ahora vamos a ver el algodón de azúcar.​ ​</s><s p="2">​</s></p>
+<p t="608358" d="1501" wp="50" ws="1"><s p="2">​</s><s>​</s><s p="30">​ ​Algodón de azúcar​ ​</s><s p="2">​</s></p>
+<p t="610427" d="1268" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​¡Oh, esto es...!​ ​</s><s p="2">​</s></p>
+<p t="610827" d="2302" wp="15" ws="1"><s p="2">​</s><s>​</s><s p="16">​ ​¡WataMerino!​ ​</s><s p="2">​</s></p>
+<p t="610927" d="2202" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​¿Algodón de azúcar de Watame?​ ​</s><s p="2">​</s></p>
+<p t="613129" d="2236" wp="15" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​¿Es algodón...? ¿Pero debajo...?​ ​</s><s p="2">​</s></p>
+<p t="614431" d="934" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Esto, un momento...​ ​</s><s p="2">​</s></p>
+<p t="615365" d="1768" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​¿Eso de ahí es carne?​ ​</s><s p="2">​</s></p>
+<p t="616866" d="835" wp="15" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​¿Y eso?​ ​</s><s p="2">​</s></p>
+<p t="617133" d="1135" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="16">​ ​¡Así es!​ ​</s><s p="2">​</s></p>
+<p t="618268" d="2402" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="16">​ ​¡Es shabu-shabu de cordero!​ ​</s><s p="2">​
+​</s><s p="16">​ ​¡De WataMerino!​ ​</s><s p="2">​</s></p>
+<p t="618435" d="6006" wp="6" ws="3"><s p="2">​</s><s>​</s><s p="59">​ ​Menú de colaboración </s><s p="10">de Tsunomaki Watame​ ​</s><s p="2">​
+​</s><s p="10">​ ​con buffet libre de cordero y lengua de vaca​ ​</s><s p="2">​</s></p>
+<p t="619536" d="1134" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Shabu-shabu... ¡de cordero!​ ​</s><s p="2">​</s></p>
+<p t="620670" d="634" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Ya veo, es una colaboración con Watame-san.​ ​</s><s p="2">​
+​</s><s p="16">​ ​¡Es shabu-shabu de cordero!​ ​</s><s p="2">​
+​</s><s p="16">​ ​¡De WataMerino!​ ​</s><s p="2">​</s></p>
+<p t="621304" d="3137" wp="15" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Ya veo, hizo una colaboración.​ ​</s><s p="2">​</s></p>
+<p t="621304" d="2536" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Ya veo, es una colaboración con Watame-san.​ ​</s><s p="2">​</s></p>
+<p t="624441" d="2836" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="16">​ ​¿Unas 300 calorías?​ ​</s><s p="2">​</s></p>
+<p t="624441" d="4704" wp="51" ws="1"><s p="2">​</s><s>​</s><s p="60">​ ​Carne y algodón de azúcar​ ​</s><s p="2">​</s></p>
+<p t="624441" d="4704" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="35">​ ​Predicción: </s><s p="10">300 kcal​ ​</s><s p="2">​</s></p>
+<p t="625775" d="3370" wp="15" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Así que 300 contando​ ​</s><s p="2">​
+​</s><s p="4">​ ​la carne y el algodón de azúcar.​ ​</s><s p="2">​</s></p>
+<p t="629145" d="4872" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Las calorías de la pasta con pollo frito​ ​</s><s p="2">​
+​</s><s p="4">​ ​y salsa de albahaca y cebolleta de Aki-san son...​ ​</s><s p="2">​</s></p>
+<p t="629145" d="5473" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="35">​ ​Predicción: </s><s p="10">650 kcal​ ​</s><s p="2">​</s></p>
+<p t="634618" d="4537" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="35">​ ​Predicción: </s><s p="10">650 kcal​ ​</s><s p="2">​
+​</s><s p="36">​ ​Realidad: </s><s p="10">647 kcal​ ​</s><s p="2">​</s></p>
+<p t="634618" d="3370" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​¡647! ¡Son bastantes! Ya veo.​ ​</s><s p="2">​</s></p>
+<p t="635518" d="3637" wp="15" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​¡Oooh! ¡Muy bien, muy bien!​ ​</s><s p="2">​</s></p>
+<p t="639155" d="4104" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="35">​ ​Predicción: </s><s p="10">300 kcal​ ​</s><s p="2">​</s></p>
+<p t="639155" d="3904" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​¿Qué tal se le habrá dado a Kiara-san?​ ​</s><s p="2">​
+​</s><s p="4">​ ​¡Aquí están las calorías!​ ​</s><s p="2">​</s></p>
+<p t="643259" d="4138" wp="52" ws="1"><s p="2">​</s><s>​</s><s p="35">​ ​Predicción: </s><s p="10">300 kcal​ ​</s><s p="2">​
+​</s><s p="36">​ ​Realidad: </s><s p="10">277 kcal aprox.​ ​</s><s p="2">​</s></p>
+<p t="643259" d="4138" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​¡Son 277!​ ​</s><s p="2">​
+​</s><s p="4">​ ​Has estado muy cerca, ¡muy bien!​ ​</s><s p="2">​</s></p>
+<p t="643326" d="4071" wp="6" ws="3"><s p="2">​</s><s>​</s><s p="10">​ ​* Calorías calculadas por los realizadores​ ​</s><s p="2">​
+​</s><s p="10">​ ​del programa basándose en tablas de calorías​ ​</s><s p="2">​</s></p>
+<p t="647397" d="2569" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Ahora veamos el total de cada una.​ ​</s><s p="2">​</s></p>
+<p t="649966" d="3704" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​1726 y 1700,​ ​</s><s p="2">​
+​</s><s p="4">​ ​¡la batalla está muy igualada!​ ​</s><s p="2">​</s></p>
+<p t="651201" d="2068" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​¡Uoooh!​ ​</s><s p="2">​</s></p>
+<p t="653670" d="867" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="16">​ ​¡Qué fuerte!​ ​</s><s p="2">​</s></p>
+<p t="654537" d="1936" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="16">​ ​¡Estamos muy cerca!​ ​</s><s p="2">​</s></p>
+<p t="655038" d="1435" wp="15" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​¡Qué bien!​ ​</s><s p="2">​</s></p>
+<p t="656473" d="3570" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Aki-san, si te pasas de las 300 calorías...​ ​</s><s p="2">​</s></p>
+<p t="656473" d="7073" wp="53" ws="1"><s p="2">​</s><s>​</s><s p="61">​ ​¡Apuntando a 2023 calorías!​ ​</s><s p="2">​
+​</s><s p="62">​ ​Calorías actuales: 1726 kcal​ ​</s><s p="2">​
+​</s><s p="63">​ ​Si se pasa de 300 calorías,​ ​</s><s p="2">​
+​</s><s p="64">​ ​estará fuera​ ​</s><s p="2">​</s></p>
+<p t="659242" d="2636" wp="15" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Ah... Si me paso, pierdo...​ ​</s><s p="2">​</s></p>
+<p t="660710" d="2269" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​estarás fuera.​ ​</s><s p="2">​</s></p>
+<p t="663546" d="1435" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Kiara-sama,​ ​</s><s p="2">​</s></p>
+<p t="663747" d="6706" wp="6" ws="3"><s p="2">​</s><s>​</s><s p="10">​ ​Calorías actuales​ ​</s><s p="2">​
+​</s><s p="65">​ ​1700</s><s p="10">/2023 kcal​ ​</s><s p="2">​</s></p>
+<p t="664981" d="934" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="16">​ ​Sí.​ ​</s><s p="2">​</s></p>
+<p t="664981" d="2836" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​creo que deberías elegir algo​ ​</s><s p="2">​
+​</s><s p="9">​ ​que parezca tener pocas calorías.​ ​</s><s p="2">​</s></p>
+<p t="667817" d="1502" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Cierto.​ ​</s><s p="2">​</s></p>
+<p t="668284" d="1035" wp="15" ws="1"><s p="2">​</s><s>​</s><s p="16">​ ​Ya.​ ​</s><s p="2">​</s></p>
+<p t="669319" d="1134" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​¡Paren ya!​ ​</s><s p="2">​</s></p>
+<p t="670453" d="2369" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Aki-chan, tú mejor si elijes dos.​ ​</s><s p="2">​</s></p>
+<p t="670654" d="7140" wp="5" ws="2"><s p="2">​</s><s>​</s><s p="10">​ ​Calorías actuales:​ ​</s><s p="2">​
+​</s><s p="66">​ ​1726</s><s p="10">/2023 kcal​ ​</s><s p="2">​</s></p>
+<p t="671788" d="3871" wp="15" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Cierto, Aki-san siempre se queda corta.​ ​</s><s p="2">​</s></p>
+<p t="675659" d="2135" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​¡Pues voy a elegir lo que quiero comer!​ ​</s><s p="2">​</s></p>
+<p t="677794" d="4137" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="16">​ ​Elijo el batido de fresa de Choco-senpai​ ​</s><s p="2">​
+​</s><s p="16">​ ​y el mapo doufu casero de Aki-senpai.​ ​</s><s p="2">​</s></p>
+<p t="679262" d="801" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Sí.​ ​</s><s p="2">​</s></p>
+<p t="681931" d="3370" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Ah, el mapo doufu y el batido de fresa.​ ​</s><s p="2">​</s></p>
+<p t="685802" d="901" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="16">​ ​Sí.​ ​</s><s p="2">​</s></p>
+<p t="685802" d="1034" wp="15" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​¿Estás segura?​ ​</s><s p="2">​</s></p>
+<p t="685835" d="2002" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​¿Segura?​ ​</s><s p="2">​</s></p>
+<p t="686836" d="1001" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​¡Menuda combinación!​ ​</s><s p="2">​</s></p>
+<p t="688505" d="1434" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Esto... Eh... Ah...​ ​</s><s p="2">​</s></p>
+<p t="689939" d="2603" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​¿Kiara-sama? ¿Kiara-sama?​ ​</s><s p="2">​</s></p>
+<p t="692542" d="2803" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="16">​ ​¿Me he pasado de 300?​ ​</s><s p="2">​</s></p>
+<p t="693910" d="1435" wp="15" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​¿Te habrás pasado?​ ​</s><s p="2">​</s></p>
+<p t="695345" d="3637" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Pues yo elijo la tarta de manzana​ ​</s><s p="2">​
+​</s><s p="3">​ ​y el pescado blanco al horno.​ ​</s><s p="2">​</s></p>
+<p t="698982" d="1001" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​¡Qué bueno!​ ​</s><s p="2">​</s></p>
+<p t="699983" d="1334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​¡Esto parece un restaurante!​ ​</s><s p="2">​</s></p>
+<p t="701317" d="1969" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Kiara-sama,​ ​</s><s p="2">​
+​</s><s p="9">​ ​¿no te lo quieres replantear?​ ​</s><s p="2">​</s></p>
+<p t="703286" d="2369" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="16">​ ​¿Puedo? Quiero quitar​ ​</s><s p="2">​
+​</s><s p="16">​ ​el batido de fresa.​ ​</s><s p="2">​</s></p>
+<p t="705655" d="1568" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​¿El batido de fresa?​ ​</s><s p="2">​</s></p>
+<p t="706589" d="3704" wp="15" ws="1"><s p="2">​</s><s>​</s><s p="16">​ ​Me quedo solo con​ ​</s><s p="2">​
+​</s><s p="16">​ ​el mapo doufu de Aki-senpai.​ ​</s><s p="2">​</s></p>
+<p t="707223" d="1469" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​¿Y eso?​ ​</s><s p="2">​</s></p>
+<p t="710293" d="1735" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Entonces quitamos el batido de fresa.​ ​</s><s p="2">​</s></p>
+<p t="712028" d="1835" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="16">​ ​Ya no sé qué pensar.​ ​</s><s p="2">​</s></p>
+<p t="712696" d="2569" wp="15" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Has decidido escuchar​ ​</s><s p="2">​
+​</s><s p="4">​ ​el consejo de tu senpai.​ ​</s><s p="2">​</s></p>
+<p t="715265" d="2969" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​¿Quiere esto decir que​ ​</s><s p="2">​
+​</s><s p="3">​ ​puedo elegir el batido de fresa?​ ​</s><s p="2">​</s></p>
+<p t="718234" d="1235" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​¡Lo añadimos a tu menú!​ ​</s><s p="2">​</s></p>
+<p t="719469" d="2502" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Sí, por favor.​ ​</s><s p="2">​</s></p>
+<p t="719869" d="1202" wp="15" ws="1"><s p="2">​</s><s>​</s><s p="16">​ ​Vaya, vaya...​ ​</s><s p="2">​</s></p>
+<p t="721071" d="900" wp="15" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Esto...​ ​</s><s p="2">​</s></p>
+<p t="721971" d="2970" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​¿Tienes algún otro pedido?​ ​</s><s p="2">​</s></p>
+<p t="724941" d="1001" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Tengo mucha hambre, así que...​ ​</s><s p="2">​</s></p>
+<p t="725942" d="1835" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​¡me lo quiero comer todo!​ ​</s><s p="2">​</s></p>
+<p t="726276" d="3036" wp="15" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Entendido. El programa​ ​</s><s p="2">​
+​</s><s p="4">​ ​no funciona así, pero bueno.​ ​</s><s p="2">​</s></p>
+<p t="726943" d="2369" wp="41" ws="1"><s p="2">​</s><s>​</s><s p="16">​ ​¡No puede ser!​ ​</s><s p="2">​</s></p>
+<p t="729312" d="2436" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Bien, comencemos por Aki-san.​ ​</s><s p="2">​</s></p>
+<p t="729512" d="2236" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="67">​ ​Predicción de calorías​ ​</s><s p="2">​
+​</s><s p="68">​ ​de Aki Rosenthal​ ​</s><s p="2">​</s></p>
+<p t="731748" d="2536" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Aquí está la tarta de manzana.​ ​</s><s p="2">​</s></p>
+<p t="731915" d="1735" wp="54" ws="1"><s p="2">​</s><s>​</s><s p="30">​ ​Tarta de manzana​ ​</s><s p="2">​</s></p>
+<p t="734484" d="2302" wp="15" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Uff...​ ​</s><s p="2">​</s></p>
+<p t="735418" d="1368" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Oh...​ ​</s><s p="2">​</s></p>
+<p t="737520" d="2603" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Son dos tartas de manzana,​ ​</s><s p="2">​
+​</s><s p="9">​ ​una encima de la otra.​ ​</s><s p="2">​</s></p>
+<p t="738788" d="2169" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​¡Oh, son dos! ¡Ya veo!​ ​</s><s p="2">​</s></p>
+<p t="740123" d="3637" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Y encima tiene helado de vainilla y nata.​ ​</s><s p="2">​</s></p>
+<p t="742525" d="2169" wp="15" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Ya veo, ¡qué elegante!​ ​</s><s p="2">​</s></p>
+<p t="743760" d="3603" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Y al final tiene sirope de miel por encima.​ ​</s><s p="2">​</s></p>
+<p t="746629" d="734" wp="15" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​¡Entiendo!​ ​</s><s p="2">​</s></p>
+<p t="747363" d="2203" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​¡Haber escrito que tiene helado!​ ​</s><s p="2">​</s></p>
+<p t="750834" d="1668" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Vamos a ver el batido de fresa.​ ​</s><s p="2">​</s></p>
+<p t="751000" d="1502" wp="55" ws="1"><s p="2">​</s><s>​</s><s p="30">​ ​Batido de fresa​ ​</s><s p="2">​
+​</s><s p="10">​ ​al que estoy adicta​ ​</s><s p="2">​</s></p>
+<p t="752502" d="1535" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Aquí está el batido de fresa.​ ​</s><s p="2">​</s></p>
+<p t="752502" d="1268" wp="15" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Sí.​ ​</s><s p="2">​</s></p>
+<p t="754037" d="2769" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Tiene más calorías de lo que parece.​ ​</s><s p="2">​</s></p>
+<p t="755839" d="967" wp="15" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​¿En serio?​ ​</s><s p="2">​</s></p>
+<p t="756806" d="4471" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​Es el tipo de batido que suelen vender en botella​ ​</s><s p="2">​
+​</s><s p="9">​ ​en las tiendas de conveniencia.​ ​</s><s p="2">​</s></p>
+<p t="757841" d="3436" wp="6" ws="3"><s p="2">​</s><s>​</s><s p="69">​ ​Batido con mucha cantidad​ ​</s><s p="2">​
+​</s><s p="10">​ ​vendido en tiendas de conveniencia​ ​</s><s p="2">​</s></p>
+<p t="760110" d="1167" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Ya veo...​ ​</s><s p="2">​</s></p>
+<p t="761277" d="2002" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Vamos con el siguiente pedido.​ ​</s><s p="2">​</s></p>
+<p t="761578" d="1368" wp="56" ws="1"><s p="2">​</s><s>​</s><s p="10">​ ​¡Adictivo! Pollo asado​ ​</s><s p="2">​
+​</s><s p="30">​ ​en aceite de oliva​ ​</s><s p="2">​</s></p>
+<p t="763046" d="1702" wp="15" ws="1"><s p="2">​</s><s>​</s><s p="16">​ ​¡Te arrepentirás!​ ​</s><s p="2">​</s></p>
+<p t="763279" d="4071" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​¡Oh, es mucha cantidad!​ ​</s><s p="2">​</s></p>
+<p t="764748" d="1468" wp="15" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​¡Oh, increíble!​ ​</s><s p="2">​</s></p>
+<p t="766216" d="1601" wp="15" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​¡Qué buena pinta!​ ​</s><s p="2">​</s></p>
+<p t="767817" d="734" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="16">​ ​Esto también​ ​</s><s p="2">​</s></p>
+<p t="768551" d="2770" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="16">​ ​está hecho por mí.​ ​</s><s p="2">​</s></p>
+<p t="771321" d="5172" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="16">​ ​El pescado está encima​ ​</s><s p="2">​
+​</s><s p="16">​ ​de un puré de patatas.​ ​</s><s p="2">​</s></p>
+<p t="771855" d="934" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Ya veo.​ ​</s><s p="2">​</s></p>
+<p t="775125" d="2168" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Aaah... Puré...​ ​</s><s p="2">​</s></p>
+<p t="776493" d="3970" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="16">​ ​Y no es solo eso.​ ​</s><s p="2">​
+​</s><s p="16">​ ​También tiene calabacín alrededor.​ ​</s><s p="2">​</s></p>
+<p t="779129" d="1334" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​¡Ah, calabacín!​ ​</s><s p="2">​</s></p>
+<p t="780463" d="1368" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="16">​ ​Así que si lo juntas todo...​ ​</s><s p="2">​</s></p>
+<p t="781331" d="2502" wp="15" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Sí. Es verdad...​ ​</s><s p="2">​</s></p>
+<p t="781831" d="2002" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="16">​ ​¿cuántas calorías serán?​ ​</s><s p="2">​</s></p>
+<p t="784200" d="5372" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​El limón y el calabacín son redondos,​ ​</s><s p="2">​
+​</s><s p="3">​ ​así que parecen ceros.​ ​</s><s p="2">​</s></p>
+<p t="789572" d="2937" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Por eso creo que son​ ​</s><s p="2">​
+​</s><s p="3">​ ​prácticamente cero calorías.​ ​</s><s p="2">​</s></p>
+<p t="790173" d="3170" wp="57" ws="1"><s p="2">​</s><s>​</s><s p="70">​ ​Prácticamente​ ​</s><s p="2">​
+​</s><s p="71">​ ​0 calorías​ ​</s><s p="2">​</s></p>
+<p t="790874" d="1635" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​¿Prácticamente cero calorías?​ ​</s><s p="2">​</s></p>
+<p t="792509" d="834" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="16">​ ​¿En serio?​ ​</s><s p="2">​</s></p>
+<p t="793343" d="2469" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Bien, vamos a ver el total de calorías.​ ​</s><s p="2">​</s></p>
+<p t="793510" d="8074" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="72">​ ​Anuncio final de calorías totales​ ​</s><s p="2">​</s></p>
+<p t="795812" d="3337" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​¿Se habrá quedado​ ​</s><s p="2">​
+​</s><s p="4">​ ​dentro de las 2023 calorías?​ ​</s><s p="2">​</s></p>
+<p t="799149" d="1835" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​No sé yo...​ ​</s><s p="2">​</s></p>
+<p t="799549" d="2035" wp="15" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​¿Qué tal se te habrá dado?​ ​</s><s p="2">​
+​</s><s p="4">​ ​¡Aquí lo tenemos!​ ​</s><s p="2">​</s></p>
+<p t="802552" d="1768" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Son 3058 kcal.​ ​</s><s p="2">​</s></p>
+<p t="804420" d="3104" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="73">​ ​Se ha pasado​ ​</s><s p="2">​
+​</s><s p="74">​ ​de calorías​ ​</s><s p="2">​</s></p>
+<p t="805555" d="1501" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​¡Nooo!​ ​</s><s p="2">​</s></p>
+<p t="806156" d="1368" wp="15" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​¡Qué fuerte!​ ​</s><s p="2">​</s></p>
+<p t="807524" d="1001" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Esto...​ ​</s><s p="2">​</s></p>
+<p t="807524" d="5839" wp="58" ws="2"><s p="2">​</s><s>​</s><s p="75">​ ​Total​ ​</s><s p="2">​
+​</s><s p="75">​ ​3058 kcal​ ​</s><s p="2">​</s></p>
+<p t="808525" d="2869" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Una idol no puede​ ​</s><s p="2">​
+​</s><s p="3">​ ​con tantas calorías, ¿verdad?​ ​</s><s p="2">​</s></p>
+<p t="810426" d="968" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​¡Esto es demasiado!​ ​</s><s p="2">​</s></p>
+<p t="811394" d="1969" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​¡Hoy AkiRose va a ganar músculo​ ​</s><s p="2">​
+​</s><s p="4">​ ​con tanta caloría!​ ​</s><s p="2">​</s></p>
+<p t="813363" d="5372" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​El mapo doufu que ha elegido​ ​</s><s p="2">​
+​</s><s p="4">​ ​Kiara-san son 451 calorías.​ ​</s><s p="2">​</s></p>
+<p t="818735" d="4438" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Eso hace un total de 2151 calorías,​ ​</s><s p="2">​
+​</s><s p="4">​ ​por lo que se pasa, así que...​ ​</s><s p="2">​</s></p>
+<p t="819702" d="4038" wp="59" ws="1"><s p="2">​</s><s>​</s><s p="73">​ ​Se ha pasado​ ​</s><s p="2">​
+​</s><s p="74">​ ​de calorías​ ​</s><s p="2">​</s></p>
+<p t="823740" d="2669" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​¡la ganadora es Choco-sensei! ¡Bieeen!​ ​</s><s p="2">​</s></p>
+<p t="824941" d="3537" wp="15" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​¡Bieeen!​ ​</s><s p="2">​</s></p>
+<p t="828478" d="3070" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​¡Soy la número uno! ¡Muchas gracias!​ ​</s><s p="2">​</s></p>
+<p t="828478" d="801" wp="15" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​¡Era de esperar!​ ​</s><s p="2">​</s></p>
+<p t="828478" d="9876" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="76">​ ​¡No olvides suscribirte al canal </s><s p="77">oficial de hololive​ ​</s><s p="2">​
+​</s><s p="10">​ ​y </s><s p="78">a los de las invitadas </s><s p="79">de hoy!​ ​</s><s p="2">​</s></p>
+<p t="831548" d="1268" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​¡Ya siento mis nuevos músculos!​ ​</s><s p="2">​</s></p>
+<p t="832816" d="2535" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Me faltan unas 1000 calorías.​ ​</s><s p="2">​</s></p>
+<p t="833483" d="2035" wp="15" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​¿Quieres 1000 calorías más?​ ​</s><s p="2">​</s></p>
+<p t="834617" d="901" wp="7" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​¡Cómo te pasas!​ ​</s><s p="2">​</s></p>
+<p t="835518" d="1568" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​¡Demasiado!​ ​</s><s p="2">​</s></p>
+<p t="836386" d="1968" wp="15" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​¿No puedo?​ ​</s><s p="2">​</s></p>
+</body>
+</timedtext>

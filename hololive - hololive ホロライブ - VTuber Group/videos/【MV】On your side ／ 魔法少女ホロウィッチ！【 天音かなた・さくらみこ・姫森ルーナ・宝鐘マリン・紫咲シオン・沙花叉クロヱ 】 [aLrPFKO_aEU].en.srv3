@@ -1,0 +1,793 @@
+<?xml version="1.0" encoding="utf-8" ?><timedtext format="3">
+<head>
+<pen id="1" fc="#000000" fo="0" bo="0" sz="100"/>
+<pen id="2" fc="#A0AAB4" fo="0" bo="0" sz="100"/>
+<pen id="3" fc="#FEFEFE" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="4" fc="#A95EDB" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="5" fc="#C43E4B" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="6" fc="#ED3934" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="7" fc="#F890B5" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="8" fc="#9FDCFB" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="9" fc="#F373C0" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="10" fc="#F377BE" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="11" fc="#F374BF" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="12" fc="#F376BE" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="13" fc="#F478BD" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="14" fc="#F47ABD" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="15" fc="#F47CBC" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="16" fc="#F57EBB" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="17" fc="#F580BA" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="18" fc="#F582BA" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="19" fc="#F684B9" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="20" fc="#F686B8" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="21" fc="#F688B7" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="22" fc="#F78AB7" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="23" fc="#F78CB6" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="24" fc="#F78EB5" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="25" fc="#F47BBC" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="26" fc="#F57FBB" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="27" fc="#F583B9" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="28" fc="#F687B8" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="29" fc="#F78BB6" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="30" fc="#EB9ABF" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="31" fc="#EF96BB" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="32" fc="#E79DC1" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="33" fc="#DFA4C8" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="34" fc="#D7ABCE" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="35" fc="#CFB2D4" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="36" fc="#C7B9DB" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="37" fc="#BFC0E1" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="38" fc="#B7C7E7" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="39" fc="#AFCEEE" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="40" fc="#A7D5F4" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="41" fc="#DEA5C9" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="42" fc="#D1B0D3" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="43" fc="#C5BBDD" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="44" fc="#B8C6E7" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="45" fc="#ABD1F1" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="46" fc="#DF4055" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="47" fc="#E33E4B" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="48" fc="#D94363" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="49" fc="#CF487B" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="50" fc="#C64E93" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="51" fc="#BC53AB" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="52" fc="#B258C3" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="53" fc="#D14776" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="54" fc="#C44F98" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="55" fc="#B656B9" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="56" fc="#DF3A3B" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="57" fc="#E73936" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="58" fc="#E23A39" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="59" fc="#DD3A3C" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="60" fc="#D83B3F" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="61" fc="#D33C42" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="62" fc="#CE3C45" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="63" fc="#C93D48" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="64" fc="#D13C43" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="65" fc="#A95DD6" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="66" fc="#A95DD7" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="67" fc="#AA5CD3" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="68" fc="#AB5BCF" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="69" fc="#AB5ACB" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="70" fc="#AC59C8" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="71" fc="#AD58C4" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="72" fc="#AD58C0" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="73" fc="#AE57BC" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="74" fc="#AF56B8" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="75" fc="#B055B5" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="76" fc="#B054B1" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="77" fc="#B153AD" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="78" fc="#B253A9" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="79" fc="#B252A5" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="80" fc="#B351A2" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="81" fc="#B4509E" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="82" fc="#B54F9A" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="83" fc="#B54E96" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="84" fc="#B64E93" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="85" fc="#B74D8F" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="86" fc="#B74C8B" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="87" fc="#B84B87" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="88" fc="#B94A83" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="89" fc="#BA4980" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="90" fc="#BA487C" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="91" fc="#BB4878" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="92" fc="#BC4774" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="93" fc="#BC4670" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="94" fc="#BD456D" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="95" fc="#BE4469" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="96" fc="#BF4365" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="97" fc="#BF4361" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="98" fc="#C0425D" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="99" fc="#C1415A" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="100" fc="#C14056" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="101" fc="#C23F52" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="102" fc="#C33E4E" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="103" fc="#AA5CD2" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="104" fc="#AB5BCD" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="105" fc="#AC5AC9" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="106" fc="#AD59C5" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="107" fc="#B055B3" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="108" fc="#B154AF" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="109" fc="#B253AB" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="110" fc="#B252A6" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="111" fc="#B4509D" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="112" fc="#B54F99" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="113" fc="#B64E95" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="114" fc="#B64D90" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="115" fc="#B74C8C" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="116" fc="#B84B88" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="117" fc="#BA497F" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="118" fc="#BB487B" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="119" fc="#BB4776" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="120" fc="#BC4672" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="121" fc="#BF4260" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="122" fc="#C0415C" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="123" fc="#C14058" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="124" fc="#C23F53" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="125" fc="#C33E4F" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="126" fc="#5EDDEE" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="127" fc="#C4C4C4" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="128" fc="#A5CEEA" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="129" fc="#A2D4F1" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="130" fc="#A6CDE8" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="131" fc="#A9C5DF" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="132" fc="#ADBED6" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="133" fc="#B0B6CD" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="134" fc="#B4AFC4" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="135" fc="#B7A8BB" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="136" fc="#BBA0B2" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="137" fc="#BE99A9" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="138" fc="#C291A0" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="139" fc="#C68A97" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="140" fc="#C9838E" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="141" fc="#CD7B85" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="142" fc="#D0747C" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="143" fc="#D46C73" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="144" fc="#D7656A" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="145" fc="#DB5E61" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="146" fc="#DE5658" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="147" fc="#E24F4F" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="148" fc="#E54746" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="149" fc="#E9403D" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="150" fc="#ACC0D9" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="151" fc="#B2B3C9" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="152" fc="#B9A5B8" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="153" fc="#BF98A8" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="154" fc="#CC7C86" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="155" fc="#D36F76" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="156" fc="#D96165" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="157" fc="#E05455" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="158" fc="#E64644" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="159" fc="#AC59C6" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="160" fc="#AC5ACB" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="161" fc="#AF56BB" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="162" fc="#B54F9B" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="163" fc="#B84C8B" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="164" fc="#BE456B" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="165" fc="#C1415B" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="166" fc="#C0425F" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="167" fc="#C93D47" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="168" fc="#C73D49" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="169" fc="#CA3D47" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="170" fc="#CD3C45" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="171" fc="#D03C43" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="172" fc="#D63B40" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="173" fc="#DA3B3E" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="174" fc="#E03A3B" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="175" fc="#E33A39" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="176" fc="#E63937" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="177" fc="#E93935" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="178" fc="#CF3C44" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="179" fc="#D53B41" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="180" fc="#DB3B3D" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="181" fc="#E13A3A" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="182" fc="#E73937" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="183" fc="#B0CCED" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="184" fc="#AAD2F2" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="185" fc="#B5C9E9" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="186" fc="#C0BFE0" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="187" fc="#CBB6D8" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="188" fc="#D6ACCF" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="189" fc="#E1A3C6" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="190" fc="#EC99BD" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="191" fc="#C2BDDF" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="192" fc="#D4AED1" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="193" fc="#E69FC3" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="194" fc="#ADCAF1" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="195" fc="#BBB9E7" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="196" fc="#C9A7DD" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="197" fc="#D796D3" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="198" fc="#E584C9" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="199" fc="#F78DB5" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="200" fc="#F689B7" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="201" fc="#F685B9" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="202" fc="#F584B9" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="203" fc="#F47DBB" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="204" fc="#F479BD" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="205" fc="#F378BD" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="206" fc="#F375BF" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<pen id="207" fc="#F581BA" fo="254" bc="#FFFFFF" bo="230" ec="#000000" sz="100" et="3"/>
+<ws id="0"/>
+<ws id="1" ju="2" pd="0" sd="0"/>
+<wp id="0"/>
+<wp id="2" ap="4" ah="50" av="3"/>
+<wp id="5" ap="4" ah="50" av="7"/>
+<wp id="4" ap="4" ah="50" av="93"/>
+<wp id="3" ap="4" ah="50" av="97"/>
+<wp id="1" ap="7" ah="0" av="0"/>
+</head>
+<body>
+<p t="4054" d="10945" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Magical Girl holoWitches - On your side​ ​</s><s p="2">​</s></p>
+<p t="4054" d="2603" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Lyrics: Co.​ ​</s><s p="2">​</s></p>
+<p t="6657" d="2869" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Composition: Ryuji Yokoi​ ​</s><s p="2">​</s></p>
+<p t="9526" d="2736" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Arrangement: Ryuji Yokoi​ ​</s><s p="2">​</s></p>
+<p t="12262" d="1368" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Vocals: </s><s p="4">Murasaki Shion</s><s p="3">,​ ​</s><s p="2">​
+​</s><s p="5">​ ​Sakamata Chloe</s><s p="3">, </s><s p="6">Houshou Marine</s><s p="3">,​ ​</s><s p="2">​</s></p>
+<p t="13630" d="1369" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Vocals: </s><s p="7">Sakura Miko</s><s p="3">,​ ​</s><s p="2">​
+​</s><s p="8">​ ​Amane Kanata</s><s p="3">, </s><s p="9">Himemori Luna​ ​</s><s p="2">​</s></p>
+<p t="26677" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​k</s><s p="10">i</s><s p="3">rakira​ ​</s><s p="2">​</s></p>
+<p t="26677" d="1335" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​G</s><s p="11">l</s><s p="12">i</s><s p="13">t</s><s p="14">t</s><s p="15">e</s><s p="16">r</s><s p="17">, </s><s p="18"></s><s p="19">g</s><s p="20">l</s><s p="21">i</s><s p="22">t</s><s p="23">t</s><s p="24">e</s><s p="7">r​ ​</s><s p="2">​</s></p>
+<p t="26844" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​k</s><s p="10">i</s><s p="25">r</s><s p="26">a</s><s p="3">kira​ ​</s><s p="2">​</s></p>
+<p t="27044" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​k</s><s p="10">i</s><s p="25">r</s><s p="26">a</s><s p="27">k</s><s p="28">i</s><s p="3">ra​ ​</s><s p="2">​</s></p>
+<p t="27211" d="801" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​k</s><s p="10">i</s><s p="25">r</s><s p="26">a</s><s p="27">k</s><s p="28">i</s><s p="29">r</s><s p="7">a​ ​</s><s p="2">​</s></p>
+<p t="28012" d="166" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​ho</s><s p="3">useki mitai ni kagayaiteru​ ​</s><s p="2">​</s></p>
+<p t="28012" d="4104" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​A jewel shining​ ​</s><s p="2">​</s></p>
+<p t="28178" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​hou</s><s p="3">seki mitai ni kagayaiteru​ ​</s><s p="2">​</s></p>
+<p t="28345" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​house</s><s p="3">ki mitai ni kagayaiteru​ ​</s><s p="2">​</s></p>
+<p t="28512" d="534" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​houseki </s><s p="3">mitai ni kagayaiteru​ ​</s><s p="2">​</s></p>
+<p t="29046" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​houseki mi</s><s p="3">tai ni kagayaiteru​ ​</s><s p="2">​</s></p>
+<p t="29213" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​houseki mita</s><s p="3">i ni kagayaiteru​ ​</s><s p="2">​</s></p>
+<p t="29546" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​houseki mitai </s><s p="3">ni kagayaiteru​ ​</s><s p="2">​</s></p>
+<p t="29713" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​houseki mitai ni </s><s p="3">kagayaiteru​ ​</s><s p="2">​</s></p>
+<p t="29913" d="501" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​houseki mitai ni ka</s><s p="3">gayaiteru​ ​</s><s p="2">​</s></p>
+<p t="30414" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​houseki mitai ni kaga</s><s p="3">yaiteru​ ​</s><s p="2">​</s></p>
+<p t="30581" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​houseki mitai ni kagaya</s><s p="3">iteru​ ​</s><s p="2">​</s></p>
+<p t="30748" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​houseki mitai ni kagayai</s><s p="3">teru​ ​</s><s p="2">​</s></p>
+<p t="30948" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​houseki mitai ni kagayaite</s><s p="3">ru​ ​</s><s p="2">​</s></p>
+<p t="31115" d="1001" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​houseki mitai ni kagayaiteru​ ​</s><s p="2">​</s></p>
+<p t="32116" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​yu</s><s p="3">me no kesshou​ ​</s><s p="2">​</s></p>
+<p t="32116" d="1935" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​A crystallization of dreams​ ​</s><s p="2">​</s></p>
+<p t="32316" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​yume </s><s p="3">no kesshou​ ​</s><s p="2">​</s></p>
+<p t="32483" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​yume no </s><s p="3">kesshou​ ​</s><s p="2">​</s></p>
+<p t="32683" d="133" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​yume no ke</s><s p="3">sshou​ ​</s><s p="2">​</s></p>
+<p t="32816" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​yume no kes</s><s p="3">shou​ ​</s><s p="2">​</s></p>
+<p t="32983" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​yume no kessho</s><s p="3">u​ ​</s><s p="2">​</s></p>
+<p t="33150" d="901" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​yume no kesshou​ ​</s><s p="2">​</s></p>
+<p t="34051" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​mi</s><s p="3">nna no takaramono​ ​</s><s p="2">​</s></p>
+<p t="34051" d="3603" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​Our most cherished treasure​ ​</s><s p="2">​</s></p>
+<p t="34218" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​min</s><s p="3">na no takaramono​ ​</s><s p="2">​</s></p>
+<p t="34551" d="201" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​minna </s><s p="3">no takaramono​ ​</s><s p="2">​</s></p>
+<p t="34752" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​minna no </s><s p="3">takaramono​ ​</s><s p="2">​</s></p>
+<p t="35085" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​minna no ta</s><s p="3">karamono​ ​</s><s p="2">​</s></p>
+<p t="35419" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​minna no taka</s><s p="3">ramono​ ​</s><s p="2">​</s></p>
+<p t="35786" d="133" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​minna no takara</s><s p="3">mono​ ​</s><s p="2">​</s></p>
+<p t="35919" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​minna no takaramo</s><s p="3">no​ ​</s><s p="2">​</s></p>
+<p t="36086" d="1568" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​minna no takaramono​ ​</s><s p="2">​</s></p>
+<p t="37654" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​t</s><s p="30">o</s><s p="3">kidoki​ ​</s><s p="2">​</s></p>
+<p t="37654" d="1369" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​T</s><s p="31">i</s><s p="32">m</s><s p="33">e </s><s p="34"></s><s p="35">t</s><s p="36">o </s><s p="37"></s><s p="38">t</s><s p="39">i</s><s p="40">m</s><s p="8">e​ ​</s><s p="2">​</s></p>
+<p t="37821" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​t</s><s p="30">o</s><s p="41">k</s><s p="42">i</s><s p="3">doki​ ​</s><s p="2">​</s></p>
+<p t="37988" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​t</s><s p="30">o</s><s p="41">k</s><s p="42">i</s><s p="43">d</s><s p="44">o</s><s p="3">ki​ ​</s><s p="2">​</s></p>
+<p t="38155" d="868" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​t</s><s p="30">o</s><s p="41">k</s><s p="42">i</s><s p="43">d</s><s p="44">o</s><s p="45">k</s><s p="8">i​ ​</s><s p="2">​</s></p>
+<p t="39023" d="166" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​mi</s><s p="3">ushinacchau koto mo aru kedo​ ​</s><s p="2">​</s></p>
+<p t="39023" d="3770" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​We lose sight of it​ ​</s><s p="2">​</s></p>
+<p t="39189" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​miu</s><s p="3">shinacchau koto mo aru kedo​ ​</s><s p="2">​</s></p>
+<p t="39356" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​miushi</s><s p="3">nacchau koto mo aru kedo​ ​</s><s p="2">​</s></p>
+<p t="39523" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​miushina</s><s p="3">cchau koto mo aru kedo​ ​</s><s p="2">​</s></p>
+<p t="39690" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​miushinac</s><s p="3">chau koto mo aru kedo​ ​</s><s p="2">​</s></p>
+<p t="40024" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​miushinaccha</s><s p="3">u koto mo aru kedo​ ​</s><s p="2">​</s></p>
+<p t="40224" d="500" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​miushinacchau </s><s p="3">koto mo aru kedo​ ​</s><s p="2">​</s></p>
+<p t="40724" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​miushinacchau ko</s><s p="3">to mo aru kedo​ ​</s><s p="2">​</s></p>
+<p t="40891" d="534" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​miushinacchau koto </s><s p="3">mo aru kedo​ ​</s><s p="2">​</s></p>
+<p t="41425" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​miushinacchau koto mo </s><s p="3">aru kedo​ ​</s><s p="2">​</s></p>
+<p t="41592" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​miushinacchau koto mo a</s><s p="3">ru kedo​ ​</s><s p="2">​</s></p>
+<p t="41759" d="133" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​miushinacchau koto mo aru </s><s p="3">kedo​ ​</s><s p="2">​</s></p>
+<p t="41892" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​miushinacchau koto mo aru ke</s><s p="3">do​ ​</s><s p="2">​</s></p>
+<p t="42092" d="701" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​miushinacchau koto mo aru kedo​ ​</s><s p="2">​</s></p>
+<p t="42793" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​a</s><s p="3">furedashita hikari ga boku o yobu nda yo​ ​</s><s p="2">​</s></p>
+<p t="42793" d="4972" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​But its glow beckons me​ ​</s><s p="2">​</s></p>
+<p t="43160" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​afu</s><s p="3">redashita hikari ga boku o yobu nda yo​ ​</s><s p="2">​</s></p>
+<p t="43327" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​afure</s><s p="3">dashita hikari ga boku o yobu nda yo​ ​</s><s p="2">​</s></p>
+<p t="43494" d="166" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​afureda</s><s p="3">shita hikari ga boku o yobu nda yo​ ​</s><s p="2">​</s></p>
+<p t="43660" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​afuredashi</s><s p="3">ta hikari ga boku o yobu nda yo​ ​</s><s p="2">​</s></p>
+<p t="43994" d="834" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​afuredashita </s><s p="3">hikari ga boku o yobu nda yo​ ​</s><s p="2">​</s></p>
+<p t="44828" d="201" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​afuredashita hi</s><s p="3">kari ga boku o yobu nda yo​ ​</s><s p="2">​</s></p>
+<p t="45029" d="166" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​afuredashita hika</s><s p="3">ri ga boku o yobu nda yo​ ​</s><s p="2">​</s></p>
+<p t="45195" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​afuredashita hikari </s><s p="3">ga boku o yobu nda yo​ ​</s><s p="2">​</s></p>
+<p t="45529" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​afuredashita hikari ga </s><s p="3">boku o yobu nda yo​ ​</s><s p="2">​</s></p>
+<p t="45729" d="301" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​afuredashita hikari ga bo</s><s p="3">ku o yobu nda yo​ ​</s><s p="2">​</s></p>
+<p t="46030" d="100" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​afuredashita hikari ga boku </s><s p="3">o yobu nda yo​ ​</s><s p="2">​</s></p>
+<p t="46130" d="100" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​afuredashita hikari ga boku o </s><s p="3">yobu nda yo​ ​</s><s p="2">​</s></p>
+<p t="46230" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​afuredashita hikari ga boku o yo</s><s p="3">bu nda yo​ ​</s><s p="2">​</s></p>
+<p t="46397" d="166" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​afuredashita hikari ga boku o yobu </s><s p="3">nda yo​ ​</s><s p="2">​</s></p>
+<p t="46563" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​afuredashita hikari ga boku o yobu n</s><s p="3">da yo​ ​</s><s p="2">​</s></p>
+<p t="46730" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​afuredashita hikari ga boku o yobu nda </s><s p="3">yo​ ​</s><s p="2">​</s></p>
+<p t="46897" d="868" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​afuredashita hikari ga boku o yobu nda yo​ ​</s><s p="2">​</s></p>
+<p t="50000" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​z</s><s p="46">e</s><s p="3">ttai​ ​</s><s p="2">​</s></p>
+<p t="50000" d="1001" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​F</s><s p="47">o</s><s p="48">r </s><s p="49"></s><s p="50">s</s><s p="51">u</s><s p="52">r</s><s p="4">e​ ​</s><s p="2">​</s></p>
+<p t="50167" d="133" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​z</s><s p="46">e</s><s p="53">t</s><s p="3">tai​ ​</s><s p="2">​</s></p>
+<p t="50300" d="201" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​z</s><s p="46">e</s><s p="53">t</s><s p="54">t</s><s p="55">a</s><s p="3">i​ ​</s><s p="2">​</s></p>
+<p t="50501" d="500" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​z</s><s p="46">e</s><s p="53">t</s><s p="54">t</s><s p="55">a</s><s p="4">i​ ​</s><s p="2">​</s></p>
+<p t="51001" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​da</s><s p="3">ijoubu​ ​</s><s p="2">​</s></p>
+<p t="51001" d="1735" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​We&#39;ll be fine​ ​</s><s p="2">​</s></p>
+<p t="51168" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​dai</s><s p="3">joubu​ ​</s><s p="2">​</s></p>
+<p t="51368" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​daijo</s><s p="3">ubu​ ​</s><s p="2">​</s></p>
+<p t="51535" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​daijou</s><s p="3">bu​ ​</s><s p="2">​</s></p>
+<p t="51702" d="1034" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​daijoubu​ ​</s><s p="2">​</s></p>
+<p t="52736" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​t</s><s p="56">a</s><s p="3">da​ ​</s><s p="2">​</s></p>
+<p t="52736" d="1001" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​B</s><s p="57">u</s><s p="58">t </s><s p="59"></s><s p="60">s</s><s p="61">t</s><s p="62">i</s><s p="63">l</s><s p="5">l​ ​</s><s p="2">​</s></p>
+<p t="53103" d="634" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​t</s><s p="56">a</s><s p="64">d</s><s p="5">a​ ​</s><s p="2">​</s></p>
+<p t="53737" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​ma</s><s p="3">ssugu de​ ​</s><s p="2">​</s></p>
+<p t="53737" d="1035" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Marching on​ ​</s><s p="2">​</s></p>
+<p t="53937" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​mas</s><s p="3">sugu de​ ​</s><s p="2">​</s></p>
+<p t="54104" d="134" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​massu</s><s p="3">gu de​ ​</s><s p="2">​</s></p>
+<p t="54238" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​massugu </s><s p="3">de​ ​</s><s p="2">​</s></p>
+<p t="54405" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​massugu de​ ​</s><s p="2">​</s></p>
+<p t="54772" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​i</s><s p="3">ru koto mo raku ja nai hi mo aru yo ne​ ​</s><s p="2">​</s></p>
+<p t="54772" d="6206" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Can be tough at times​ ​</s><s p="2">​</s></p>
+<p t="55105" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​iru </s><s p="3">koto mo raku ja nai hi mo aru yo ne​ ​</s><s p="2">​</s></p>
+<p t="55272" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​iru ko</s><s p="3">to mo raku ja nai hi mo aru yo ne​ ​</s><s p="2">​</s></p>
+<p t="55639" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​iru koto </s><s p="3">mo raku ja nai hi mo aru yo ne​ ​</s><s p="2">​</s></p>
+<p t="55973" d="500" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​iru koto mo </s><s p="3">raku ja nai hi mo aru yo ne​ ​</s><s p="2">​</s></p>
+<p t="56473" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​iru koto mo ra</s><s p="3">ku ja nai hi mo aru yo ne​ ​</s><s p="2">​</s></p>
+<p t="56673" d="301" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​iru koto mo raku </s><s p="3">ja nai hi mo aru yo ne​ ​</s><s p="2">​</s></p>
+<p t="56974" d="534" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​iru koto mo raku ja </s><s p="3">nai hi mo aru yo ne​ ​</s><s p="2">​</s></p>
+<p t="57508" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​iru koto mo raku ja na</s><s p="3">i hi mo aru yo ne​ ​</s><s p="2">​</s></p>
+<p t="57708" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​iru koto mo raku ja nai </s><s p="3">hi mo aru yo ne​ ​</s><s p="2">​</s></p>
+<p t="57875" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​iru koto mo raku ja nai hi </s><s p="3">mo aru yo ne​ ​</s><s p="2">​</s></p>
+<p t="58042" d="300" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​iru koto mo raku ja nai hi mo </s><s p="3">aru yo ne​ ​</s><s p="2">​</s></p>
+<p t="58342" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​iru koto mo raku ja nai hi mo a</s><s p="3">ru yo ne​ ​</s><s p="2">​</s></p>
+<p t="58709" d="534" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​iru koto mo raku ja nai hi mo aru </s><s p="3">yo ne​ ​</s><s p="2">​</s></p>
+<p t="59243" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​iru koto mo raku ja nai hi mo aru yo </s><s p="3">ne​ ​</s><s p="2">​</s></p>
+<p t="59443" d="1535" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​iru koto mo raku ja nai hi mo aru yo ne​ ​</s><s p="2">​</s></p>
+<p t="60978" d="434" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​a</s><s p="3">kirame mo​ ​</s><s p="2">​</s></p>
+<p t="60978" d="2702" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Hopelessness​ ​</s><s p="2">​</s></p>
+<p t="61412" d="567" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​aki</s><s p="3">rame mo​ ​</s><s p="2">​</s></p>
+<p t="61979" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​akira</s><s p="3">me mo​ ​</s><s p="2">​</s></p>
+<p t="62346" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​akirame </s><s p="3">mo​ ​</s><s p="2">​</s></p>
+<p t="62713" d="967" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​akirame mo​ ​</s><s p="2">​</s></p>
+<p t="63680" d="368" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​ku</s><s p="3">rushimi mo​ ​</s><s p="2">​</s></p>
+<p t="63680" d="2069" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​And all the pain​ ​</s><s p="2">​</s></p>
+<p t="64048" d="667" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​kuru</s><s p="3">shimi mo​ ​</s><s p="2">​</s></p>
+<p t="64715" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​kurushi</s><s p="3">mi mo​ ​</s><s p="2">​</s></p>
+<p t="65049" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​kurushimi </s><s p="3">mo​ ​</s><s p="2">​</s></p>
+<p t="65416" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​kurushimi mo​ ​</s><s p="2">​</s></p>
+<p t="65749" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​k</s><s p="65">a</s><s p="3">kusanakute ii kokoro tokihanatou​ ​</s><s p="2">​</s></p>
+<p t="65749" d="5506" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​D</s><s p="66">o</s><s p="67">n</s><s p="68">&#39;</s><s p="69">t </s><s p="70"></s><s p="71">n</s><s p="72">e</s><s p="73">e</s><s p="74">d </s><s p="75"></s><s p="76">t</s><s p="77">o </s><s p="78"></s><s p="79">b</s><s p="80">e </s><s p="81"></s><s p="82">h</s><s p="83">i</s><s p="84">d</s><s p="85">d</s><s p="86">e</s><s p="87">n</s><s p="88">, </s><s p="89"></s><s p="90">f</s><s p="91">r</s><s p="92">e</s><s p="93">e </s><s p="94"></s><s p="95">y</s><s p="96">o</s><s p="97">u</s><s p="98">r </s><s p="99"></s><s p="100">m</s><s p="101">i</s><s p="102">n</s><s p="5">d​ ​</s><s p="2">​</s></p>
+<p t="65916" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​k</s><s p="65">a</s><s p="103">k</s><s p="104">u</s><s p="3">sanakute ii kokoro tokihanatou​ ​</s><s p="2">​</s></p>
+<p t="66116" d="134" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​k</s><s p="65">a</s><s p="103">k</s><s p="104">u</s><s p="105">s</s><s p="106">a</s><s p="3">nakute ii kokoro tokihanatou​ ​</s><s p="2">​</s></p>
+<p t="66250" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​k</s><s p="65">a</s><s p="103">k</s><s p="104">u</s><s p="105">s</s><s p="106">a</s><s p="72">n</s><s p="73">a</s><s p="3">kute ii kokoro tokihanatou​ ​</s><s p="2">​</s></p>
+<p t="66450" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​k</s><s p="65">a</s><s p="103">k</s><s p="104">u</s><s p="105">s</s><s p="106">a</s><s p="72">n</s><s p="73">a</s><s p="74">k</s><s p="107">u</s><s p="3">te ii kokoro tokihanatou​ ​</s><s p="2">​</s></p>
+<p t="66617" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​k</s><s p="65">a</s><s p="103">k</s><s p="104">u</s><s p="105">s</s><s p="106">a</s><s p="72">n</s><s p="73">a</s><s p="74">k</s><s p="107">u</s><s p="108">t</s><s p="109">e </s><s p="110"></s><s p="3">ii kokoro tokihanatou​ ​</s><s p="2">​</s></p>
+<p t="66950" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​k</s><s p="65">a</s><s p="103">k</s><s p="104">u</s><s p="105">s</s><s p="106">a</s><s p="72">n</s><s p="73">a</s><s p="74">k</s><s p="107">u</s><s p="108">t</s><s p="109">e </s><s p="110"></s><s p="80">i</s><s p="3">i kokoro tokihanatou​ ​</s><s p="2">​</s></p>
+<p t="67117" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​k</s><s p="65">a</s><s p="103">k</s><s p="104">u</s><s p="105">s</s><s p="106">a</s><s p="72">n</s><s p="73">a</s><s p="74">k</s><s p="107">u</s><s p="108">t</s><s p="109">e </s><s p="110"></s><s p="80">i</s><s p="111">i </s><s p="112"></s><s p="3">kokoro tokihanatou​ ​</s><s p="2">​</s></p>
+<p t="67451" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​k</s><s p="65">a</s><s p="103">k</s><s p="104">u</s><s p="105">s</s><s p="106">a</s><s p="72">n</s><s p="73">a</s><s p="74">k</s><s p="107">u</s><s p="108">t</s><s p="109">e </s><s p="110"></s><s p="80">i</s><s p="111">i </s><s p="112"></s><s p="113">k</s><s p="114">o</s><s p="3">koro tokihanatou​ ​</s><s p="2">​</s></p>
+<p t="67818" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​k</s><s p="65">a</s><s p="103">k</s><s p="104">u</s><s p="105">s</s><s p="106">a</s><s p="72">n</s><s p="73">a</s><s p="74">k</s><s p="107">u</s><s p="108">t</s><s p="109">e </s><s p="110"></s><s p="80">i</s><s p="111">i </s><s p="112"></s><s p="113">k</s><s p="114">o</s><s p="115">k</s><s p="116">o</s><s p="3">ro tokihanatou​ ​</s><s p="2">​</s></p>
+<p t="68152" d="166" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​k</s><s p="65">a</s><s p="103">k</s><s p="104">u</s><s p="105">s</s><s p="106">a</s><s p="72">n</s><s p="73">a</s><s p="74">k</s><s p="107">u</s><s p="108">t</s><s p="109">e </s><s p="110"></s><s p="80">i</s><s p="111">i </s><s p="112"></s><s p="113">k</s><s p="114">o</s><s p="115">k</s><s p="116">o</s><s p="88">r</s><s p="117">o </s><s p="118"></s><s p="3">tokihanatou​ ​</s><s p="2">​</s></p>
+<p t="68318" d="134" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​k</s><s p="65">a</s><s p="103">k</s><s p="104">u</s><s p="105">s</s><s p="106">a</s><s p="72">n</s><s p="73">a</s><s p="74">k</s><s p="107">u</s><s p="108">t</s><s p="109">e </s><s p="110"></s><s p="80">i</s><s p="111">i </s><s p="112"></s><s p="113">k</s><s p="114">o</s><s p="115">k</s><s p="116">o</s><s p="88">r</s><s p="117">o </s><s p="118"></s><s p="119">t</s><s p="120">o</s><s p="3">kihanatou​ ​</s><s p="2">​</s></p>
+<p t="68452" d="867" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​k</s><s p="65">a</s><s p="103">k</s><s p="104">u</s><s p="105">s</s><s p="106">a</s><s p="72">n</s><s p="73">a</s><s p="74">k</s><s p="107">u</s><s p="108">t</s><s p="109">e </s><s p="110"></s><s p="80">i</s><s p="111">i </s><s p="112"></s><s p="113">k</s><s p="114">o</s><s p="115">k</s><s p="116">o</s><s p="88">r</s><s p="117">o </s><s p="118"></s><s p="119">t</s><s p="120">o</s><s p="94">k</s><s p="95">i</s><s p="3">hanatou​ ​</s><s p="2">​</s></p>
+<p t="69319" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​k</s><s p="65">a</s><s p="103">k</s><s p="104">u</s><s p="105">s</s><s p="106">a</s><s p="72">n</s><s p="73">a</s><s p="74">k</s><s p="107">u</s><s p="108">t</s><s p="109">e </s><s p="110"></s><s p="80">i</s><s p="111">i </s><s p="112"></s><s p="113">k</s><s p="114">o</s><s p="115">k</s><s p="116">o</s><s p="88">r</s><s p="117">o </s><s p="118"></s><s p="119">t</s><s p="120">o</s><s p="94">k</s><s p="95">i</s><s p="96">h</s><s p="121">a</s><s p="3">natou​ ​</s><s p="2">​</s></p>
+<p t="69486" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​k</s><s p="65">a</s><s p="103">k</s><s p="104">u</s><s p="105">s</s><s p="106">a</s><s p="72">n</s><s p="73">a</s><s p="74">k</s><s p="107">u</s><s p="108">t</s><s p="109">e </s><s p="110"></s><s p="80">i</s><s p="111">i </s><s p="112"></s><s p="113">k</s><s p="114">o</s><s p="115">k</s><s p="116">o</s><s p="88">r</s><s p="117">o </s><s p="118"></s><s p="119">t</s><s p="120">o</s><s p="94">k</s><s p="95">i</s><s p="96">h</s><s p="121">a</s><s p="122">n</s><s p="123">a</s><s p="3">tou​ ​</s><s p="2">​</s></p>
+<p t="69686" d="201" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​k</s><s p="65">a</s><s p="103">k</s><s p="104">u</s><s p="105">s</s><s p="106">a</s><s p="72">n</s><s p="73">a</s><s p="74">k</s><s p="107">u</s><s p="108">t</s><s p="109">e </s><s p="110"></s><s p="80">i</s><s p="111">i </s><s p="112"></s><s p="113">k</s><s p="114">o</s><s p="115">k</s><s p="116">o</s><s p="88">r</s><s p="117">o </s><s p="118"></s><s p="119">t</s><s p="120">o</s><s p="94">k</s><s p="95">i</s><s p="96">h</s><s p="121">a</s><s p="122">n</s><s p="123">a</s><s p="124">t</s><s p="125">o</s><s p="3">u​ ​</s><s p="2">​</s></p>
+<p t="69887" d="1368" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​k</s><s p="65">a</s><s p="103">k</s><s p="104">u</s><s p="105">s</s><s p="106">a</s><s p="72">n</s><s p="73">a</s><s p="74">k</s><s p="107">u</s><s p="108">t</s><s p="109">e </s><s p="110"></s><s p="80">i</s><s p="111">i </s><s p="112"></s><s p="113">k</s><s p="114">o</s><s p="115">k</s><s p="116">o</s><s p="88">r</s><s p="117">o </s><s p="118"></s><s p="119">t</s><s p="120">o</s><s p="94">k</s><s p="95">i</s><s p="96">h</s><s p="121">a</s><s p="122">n</s><s p="123">a</s><s p="124">t</s><s p="125">o</s><s p="5">u​ ​</s><s p="2">​</s></p>
+<p t="71255" d="667" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="126">​ ​yu</s><s p="3">me o utaou mahou ni nosete​ ​</s><s p="2">​</s></p>
+<p t="71255" d="5472" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="126">​ ​Sing of our dreams, place a spell on them​ ​</s><s p="2">​</s></p>
+<p t="71922" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="126">​ ​yume </s><s p="3">o utaou mahou ni nosete​ ​</s><s p="2">​</s></p>
+<p t="72122" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="126">​ ​yume o </s><s p="3">utaou mahou ni nosete​ ​</s><s p="2">​</s></p>
+<p t="72456" d="834" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="126">​ ​yume o u</s><s p="3">taou mahou ni nosete​ ​</s><s p="2">​</s></p>
+<p t="73290" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="126">​ ​yume o uta</s><s p="3">ou mahou ni nosete​ ​</s><s p="2">​</s></p>
+<p t="73490" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="126">​ ​yume o utao</s><s p="3">u mahou ni nosete​ ​</s><s p="2">​</s></p>
+<p t="73824" d="834" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="126">​ ​yume o utaou </s><s p="3">mahou ni nosete​ ​</s><s p="2">​</s></p>
+<p t="74658" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="126">​ ​yume o utaou ma</s><s p="3">hou ni nosete​ ​</s><s p="2">​</s></p>
+<p t="74825" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="126">​ ​yume o utaou maho</s><s p="3">u ni nosete​ ​</s><s p="2">​</s></p>
+<p t="74992" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="126">​ ​yume o utaou mahou </s><s p="3">ni nosete​ ​</s><s p="2">​</s></p>
+<p t="75192" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="126">​ ​yume o utaou mahou ni </s><s p="3">nosete​ ​</s><s p="2">​</s></p>
+<p t="75526" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="126">​ ​yume o utaou mahou ni no</s><s p="3">sete​ ​</s><s p="2">​</s></p>
+<p t="75859" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="126">​ ​yume o utaou mahou ni nose</s><s p="3">te​ ​</s><s p="2">​</s></p>
+<p t="76226" d="501" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="126">​ ​yume o utaou mahou ni nosete​ ​</s><s p="2">​</s></p>
+<p t="76727" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​na</s><s p="127">ndo mo tachiagaru​ ​</s><s p="2">​</s></p>
+<p t="76727" d="2235" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​We will rise again and again​ ​</s><s p="2">​</s></p>
+<p t="76894" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​nan</s><s p="127">do mo tachiagaru​ ​</s><s p="2">​</s></p>
+<p t="77061" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​nando </s><s p="127">mo tachiagaru​ ​</s><s p="2">​</s></p>
+<p t="77261" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​nando mo </s><s p="127">tachiagaru​ ​</s><s p="2">​</s></p>
+<p t="77594" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​nando mo ta</s><s p="127">chiagaru​ ​</s><s p="2">​</s></p>
+<p t="77928" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​nando mo tachi</s><s p="127">agaru​ ​</s><s p="2">​</s></p>
+<p t="78262" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​nando mo tachia</s><s p="127">garu​ ​</s><s p="2">​</s></p>
+<p t="78462" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​nando mo tachiaga</s><s p="127">ru​ ​</s><s p="2">​</s></p>
+<p t="78629" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​nando mo tachiagaru​ ​</s><s p="2">​</s></p>
+<p t="78962" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="127">​ ​ki</s><s p="3">mi to issho ni susundeiku​ ​</s><s p="2">​</s></p>
+<p t="78962" d="3237" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="127">​ ​And keep marching together​ ​</s><s p="2">​</s></p>
+<p t="79129" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="127">​ ​kimi </s><s p="3">to issho ni susundeiku​ ​</s><s p="2">​</s></p>
+<p t="79296" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="127">​ ​kimi to </s><s p="3">issho ni susundeiku​ ​</s><s p="2">​</s></p>
+<p t="79463" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="127">​ ​kimi to i</s><s p="3">ssho ni susundeiku​ ​</s><s p="2">​</s></p>
+<p t="79630" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="127">​ ​kimi to is</s><s p="3">sho ni susundeiku​ ​</s><s p="2">​</s></p>
+<p t="79797" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="127">​ ​kimi to issho </s><s p="3">ni susundeiku​ ​</s><s p="2">​</s></p>
+<p t="79997" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="127">​ ​kimi to issho ni </s><s p="3">susundeiku​ ​</s><s p="2">​</s></p>
+<p t="80330" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="127">​ ​kimi to issho ni su</s><s p="3">sundeiku​ ​</s><s p="2">​</s></p>
+<p t="80664" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="127">​ ​kimi to issho ni susu</s><s p="3">ndeiku​ ​</s><s p="2">​</s></p>
+<p t="80831" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="127">​ ​kimi to issho ni susun</s><s p="3">deiku​ ​</s><s p="2">​</s></p>
+<p t="80998" d="100" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="127">​ ​kimi to issho ni susunde</s><s p="3">iku​ ​</s><s p="2">​</s></p>
+<p t="81098" d="100" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="127">​ ​kimi to issho ni susundei</s><s p="3">ku​ ​</s><s p="2">​</s></p>
+<p t="81198" d="1001" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="127">​ ​kimi to issho ni susundeiku​ ​</s><s p="2">​</s></p>
+<p t="82199" d="667" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​yu</s><s p="127">me wa​ ​</s><s p="2">​</s></p>
+<p t="82199" d="1201" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Our dreams​ ​</s><s p="2">​</s></p>
+<p t="82866" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​yume </s><s p="127">wa​ ​</s><s p="2">​</s></p>
+<p t="83033" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​yume wa​ ​</s><s p="2">​</s></p>
+<p t="83400" d="834" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="127">​ ​yu</s><s p="3">me wa​ ​</s><s p="2">​</s></p>
+<p t="83400" d="1368" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="127">​ ​Our dreams​ ​</s><s p="2">​</s></p>
+<p t="84234" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="127">​ ​yume </s><s p="3">wa​ ​</s><s p="2">​</s></p>
+<p t="84401" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="127">​ ​yume wa​ ​</s><s p="2">​</s></p>
+<p t="84768" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​m</s><s p="128">a</s><s p="3">da owaranai​ ​</s><s p="2">​</s></p>
+<p t="84768" d="2603" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​W</s><s p="129">i</s><s p="130">l</s><s p="131">l </s><s p="132"></s><s p="133">n</s><s p="134">o</s><s p="135">t </s><s p="136"></s><s p="137">b</s><s p="138">e </s><s p="139"></s><s p="140">c</s><s p="141">r</s><s p="142">u</s><s p="143">s</s><s p="144">h</s><s p="145">e</s><s p="146">d </s><s p="147"></s><s p="148">y</s><s p="149">e</s><s p="6">t​ ​</s><s p="2">​</s></p>
+<p t="84935" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​m</s><s p="128">a</s><s p="150">d</s><s p="151">a </s><s p="152"></s><s p="3">owaranai​ ​</s><s p="2">​</s></p>
+<p t="85302" d="134" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​m</s><s p="128">a</s><s p="150">d</s><s p="151">a </s><s p="152"></s><s p="153">o</s><s p="3">waranai​ ​</s><s p="2">​</s></p>
+<p t="85436" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​m</s><s p="128">a</s><s p="150">d</s><s p="151">a </s><s p="152"></s><s p="153">o</s><s p="139">w</s><s p="154">a</s><s p="3">ranai​ ​</s><s p="2">​</s></p>
+<p t="85803" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​m</s><s p="128">a</s><s p="150">d</s><s p="151">a </s><s p="152"></s><s p="153">o</s><s p="139">w</s><s p="154">a</s><s p="155">r</s><s p="156">a</s><s p="3">nai​ ​</s><s p="2">​</s></p>
+<p t="86136" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​m</s><s p="128">a</s><s p="150">d</s><s p="151">a </s><s p="152"></s><s p="153">o</s><s p="139">w</s><s p="154">a</s><s p="155">r</s><s p="156">a</s><s p="157">n</s><s p="158">a</s><s p="3">i​ ​</s><s p="2">​</s></p>
+<p t="86470" d="901" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​m</s><s p="128">a</s><s p="150">d</s><s p="151">a </s><s p="152"></s><s p="153">o</s><s p="139">w</s><s p="154">a</s><s p="155">r</s><s p="156">a</s><s p="157">n</s><s p="158">a</s><s p="6">i​ ​</s><s p="2">​</s></p>
+<p t="87371" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​mi</s><s p="3">rai o torimodosou​ ​</s><s p="2">​</s></p>
+<p t="87371" d="4805" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​Reclaim our possibilities​ ​</s><s p="2">​</s></p>
+<p t="87704" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​mira</s><s p="3">i o torimodosou​ ​</s><s p="2">​</s></p>
+<p t="88038" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​mirai </s><s p="3">o torimodosou​ ​</s><s p="2">​</s></p>
+<p t="88372" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​mirai o </s><s p="3">torimodosou​ ​</s><s p="2">​</s></p>
+<p t="88739" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​mirai o to</s><s p="3">rimodosou​ ​</s><s p="2">​</s></p>
+<p t="89073" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​mirai o tori</s><s p="3">modosou​ ​</s><s p="2">​</s></p>
+<p t="89406" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​mirai o torimo</s><s p="3">dosou​ ​</s><s p="2">​</s></p>
+<p t="89740" d="500" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​mirai o torimodo</s><s p="3">sou​ ​</s><s p="2">​</s></p>
+<p t="90240" d="234" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​mirai o torimodoso</s><s p="3">u​ ​</s><s p="2">​</s></p>
+<p t="90474" d="1702" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​mirai o torimodosou​ ​</s><s p="2">​</s></p>
+<p t="92176" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​na</s><s p="3">ndo datte​ ​</s><s p="2">​</s></p>
+<p t="92176" d="1701" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​As many times as it takes​ ​</s><s p="2">​</s></p>
+<p t="92509" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​nan</s><s p="3">do datte​ ​</s><s p="2">​</s></p>
+<p t="92676" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​nando </s><s p="3">datte​ ​</s><s p="2">​</s></p>
+<p t="92843" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​nando da</s><s p="3">tte​ ​</s><s p="2">​</s></p>
+<p t="93010" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​nando dat</s><s p="3">te​ ​</s><s p="2">​</s></p>
+<p t="93210" d="667" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​nando datte​ ​</s><s p="2">​</s></p>
+<p t="93877" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​wa</s><s p="3">ratte​ ​</s><s p="2">​</s></p>
+<p t="93877" d="1368" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​We&#39;ll laugh it off​ ​</s><s p="2">​</s></p>
+<p t="94044" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​wara</s><s p="3">tte​ ​</s><s p="2">​</s></p>
+<p t="94211" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​warat</s><s p="3">te​ ​</s><s p="2">​</s></p>
+<p t="94545" d="700" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​waratte​ ​</s><s p="2">​</s></p>
+<p t="95245" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​mo</s><s p="3">u ikkai​ ​</s><s p="2">​</s></p>
+<p t="95245" d="1368" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​And one more time​ ​</s><s p="2">​</s></p>
+<p t="95412" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​mou </s><s p="3">ikkai​ ​</s><s p="2">​</s></p>
+<p t="95579" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​mou i</s><s p="3">kkai​ ​</s><s p="2">​</s></p>
+<p t="95746" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​mou ik</s><s p="3">kai​ ​</s><s p="2">​</s></p>
+<p t="95946" d="300" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​mou ikka</s><s p="3">i​ ​</s><s p="2">​</s></p>
+<p t="96246" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​mou ikkai​ ​</s><s p="2">​</s></p>
+<p t="96613" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​a</s><s p="3">ruki hajimeyou​ ​</s><s p="2">​</s></p>
+<p t="96613" d="2736" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Start walking again​ ​</s><s p="2">​</s></p>
+<p t="96780" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​aru</s><s p="3">ki hajimeyou​ ​</s><s p="2">​</s></p>
+<p t="96947" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​aruki </s><s p="3">hajimeyou​ ​</s><s p="2">​</s></p>
+<p t="97281" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​aruki ha</s><s p="3">jimeyou​ ​</s><s p="2">​</s></p>
+<p t="97648" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​aruki haji</s><s p="3">meyou​ ​</s><s p="2">​</s></p>
+<p t="97815" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​aruki hajime</s><s p="3">you​ ​</s><s p="2">​</s></p>
+<p t="98182" d="166" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​aruki hajimeyo</s><s p="3">u​ ​</s><s p="2">​</s></p>
+<p t="98348" d="1001" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​aruki hajimeyou​ ​</s><s p="2">​</s></p>
+<p t="99349" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="126">​ ​ho</s><s p="3">rowicchi on your side yume no saki e​ ​</s><s p="2">​</s></p>
+<p t="99349" d="7541" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="126">​ ​holoWitches on your side,​ ​</s><s p="2">​
+​</s><s p="126">​ ​toward and beyond the wildest dreams​ ​</s><s p="2">​</s></p>
+<p t="99516" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="126">​ ​horo</s><s p="3">wicchi on your side yume no saki e​ ​</s><s p="2">​</s></p>
+<p t="99683" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="126">​ ​horowi</s><s p="3">cchi on your side yume no saki e​ ​</s><s p="2">​</s></p>
+<p t="99850" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="126">​ ​horowic</s><s p="3">chi on your side yume no saki e​ ​</s><s p="2">​</s></p>
+<p t="100050" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="126">​ ​horowicchi </s><s p="3">on your side yume no saki e​ ​</s><s p="2">​</s></p>
+<p t="100384" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="126">​ ​horowicchi on </s><s p="3">your side yume no saki e​ ​</s><s p="2">​</s></p>
+<p t="100717" d="368" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="126">​ ​horowicchi on your </s><s p="3">side yume no saki e​ ​</s><s p="2">​</s></p>
+<p t="101085" d="1301" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="126">​ ​horowicchi on your side </s><s p="3">yume no saki e​ ​</s><s p="2">​</s></p>
+<p t="102386" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="126">​ ​horowicchi on your side yu</s><s p="3">me no saki e​ ​</s><s p="2">​</s></p>
+<p t="102586" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="126">​ ​horowicchi on your side yume </s><s p="3">no saki e​ ​</s><s p="2">​</s></p>
+<p t="102786" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="126">​ ​horowicchi on your side yume no </s><s p="3">saki e​ ​</s><s p="2">​</s></p>
+<p t="103120" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="126">​ ​horowicchi on your side yume no sa</s><s p="3">ki e​ ​</s><s p="2">​</s></p>
+<p t="103454" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="126">​ ​horowicchi on your side yume no saki </s><s p="3">e​ ​</s><s p="2">​</s></p>
+<p t="103821" d="3069" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="126">​ ​horowicchi on your side yume no saki e​ ​</s><s p="2">​</s></p>
+<p t="118569" d="166" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​w</s><s p="159">a</s><s p="3">kuwaku​ ​</s><s p="2">​</s></p>
+<p t="118569" d="1368" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​H</s><s p="160">y</s><s p="161">p</s><s p="109">e</s><s p="162">, </s><s p="163"></s><s p="118">h</s><s p="164">y</s><s p="165">p</s><s p="5">e​ ​</s><s p="2">​</s></p>
+<p t="118735" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​w</s><s p="159">a</s><s p="76">k</s><s p="111">u</s><s p="3">waku​ ​</s><s p="2">​</s></p>
+<p t="118902" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​w</s><s p="159">a</s><s p="76">k</s><s p="111">u</s><s p="116">w</s><s p="92">a</s><s p="3">ku​ ​</s><s p="2">​</s></p>
+<p t="119069" d="868" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​w</s><s p="159">a</s><s p="76">k</s><s p="111">u</s><s p="116">w</s><s p="92">a</s><s p="166">k</s><s p="5">u​ ​</s><s p="2">​</s></p>
+<p t="119937" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​su</s><s p="3">ru youna hibi to yume no kesshou​ ​</s><s p="2">​</s></p>
+<p t="119937" d="4104" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​The halcyon days,​ ​</s><s p="2">​
+​</s><s p="4">​ ​the crystallization of dreams​ ​</s><s p="2">​</s></p>
+<p t="120104" d="133" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​suru </s><s p="3">youna hibi to yume no kesshou​ ​</s><s p="2">​</s></p>
+<p t="120237" d="100" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​suru yo</s><s p="3">una hibi to yume no kesshou​ ​</s><s p="2">​</s></p>
+<p t="120337" d="100" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​suru you</s><s p="3">na hibi to yume no kesshou​ ​</s><s p="2">​</s></p>
+<p t="120437" d="534" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​suru youna </s><s p="3">hibi to yume no kesshou​ ​</s><s p="2">​</s></p>
+<p t="120971" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​suru youna hi</s><s p="3">bi to yume no kesshou​ ​</s><s p="2">​</s></p>
+<p t="121138" d="500" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​suru youna hibi </s><s p="3">to yume no kesshou​ ​</s><s p="2">​</s></p>
+<p t="121638" d="100" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​suru youna hibi to </s><s p="3">yume no kesshou​ ​</s><s p="2">​</s></p>
+<p t="121738" d="101" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​suru youna hibi to yu</s><s p="3">me no kesshou​ ​</s><s p="2">​</s></p>
+<p t="121839" d="500" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​suru youna hibi to yume </s><s p="3">no kesshou​ ​</s><s p="2">​</s></p>
+<p t="122339" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​suru youna hibi to yume no </s><s p="3">kesshou​ ​</s><s p="2">​</s></p>
+<p t="122506" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​suru youna hibi to yume no ke</s><s p="3">sshou​ ​</s><s p="2">​</s></p>
+<p t="122673" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​suru youna hibi to yume no kes</s><s p="3">shou​ ​</s><s p="2">​</s></p>
+<p t="122840" d="233" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​suru youna hibi to yume no kessho</s><s p="3">u​ ​</s><s p="2">​</s></p>
+<p t="123073" d="968" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​suru youna hibi to yume no kesshou​ ​</s><s p="2">​</s></p>
+<p t="124041" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​o</s><s p="3">moidashite​ ​</s><s p="2">​</s></p>
+<p t="124041" d="1868" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​Recalling them​ ​</s><s p="2">​</s></p>
+<p t="124208" d="166" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​omo</s><s p="3">idashite​ ​</s><s p="2">​</s></p>
+<p t="124374" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​omoi</s><s p="3">dashite​ ​</s><s p="2">​</s></p>
+<p t="124541" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​omoida</s><s p="3">shite​ ​</s><s p="2">​</s></p>
+<p t="124708" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​omoidashi</s><s p="3">te​ ​</s><s p="2">​</s></p>
+<p t="124875" d="1034" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​omoidashite​ ​</s><s p="2">​</s></p>
+<p t="125909" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​ma</s><s p="3">hou o tonaete mitara​ ​</s><s p="2">​</s></p>
+<p t="125909" d="3604" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​We chant our spells​ ​</s><s p="2">​</s></p>
+<p t="126076" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​maho</s><s p="3">u o tonaete mitara​ ​</s><s p="2">​</s></p>
+<p t="126243" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​mahou </s><s p="3">o tonaete mitara​ ​</s><s p="2">​</s></p>
+<p t="126443" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​mahou o </s><s p="3">tonaete mitara​ ​</s><s p="2">​</s></p>
+<p t="126610" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​mahou o to</s><s p="3">naete mitara​ ​</s><s p="2">​</s></p>
+<p t="126944" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​mahou o tona</s><s p="3">ete mitara​ ​</s><s p="2">​</s></p>
+<p t="127111" d="166" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​mahou o tonae</s><s p="3">te mitara​ ​</s><s p="2">​</s></p>
+<p t="127277" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​mahou o tonaete </s><s p="3">mitara​ ​</s><s p="2">​</s></p>
+<p t="127611" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​mahou o tonaete mi</s><s p="3">tara​ ​</s><s p="2">​</s></p>
+<p t="127811" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​mahou o tonaete mita</s><s p="3">ra​ ​</s><s p="2">​</s></p>
+<p t="127978" d="1535" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​mahou o tonaete mitara​ ​</s><s p="2">​</s></p>
+<p t="129513" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​d</s><s p="167">o</s><s p="3">kidoki​ ​</s><s p="2">​</s></p>
+<p t="129513" d="1401" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​B</s><s p="168">a</s><s p="169">d</s><s p="170">u</s><s p="171">m</s><s p="61">p</s><s p="172">, </s><s p="173"></s><s p="59">b</s><s p="174">a</s><s p="175">d</s><s p="176">u</s><s p="177">m</s><s p="6">p​ ​</s><s p="2">​</s></p>
+<p t="129680" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​d</s><s p="167">o</s><s p="178">k</s><s p="179">i</s><s p="3">doki​ ​</s><s p="2">​</s></p>
+<p t="129847" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​d</s><s p="167">o</s><s p="178">k</s><s p="179">i</s><s p="180">d</s><s p="181">o</s><s p="3">ki​ ​</s><s p="2">​</s></p>
+<p t="130047" d="867" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​d</s><s p="167">o</s><s p="178">k</s><s p="179">i</s><s p="180">d</s><s p="181">o</s><s p="182">k</s><s p="6">i​ ​</s><s p="2">​</s></p>
+<p t="130914" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​su</s><s p="3">ru youna kimi no monogatari​ ​</s><s p="2">​</s></p>
+<p t="130914" d="3737" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Your story makes the heart race​ ​</s><s p="2">​</s></p>
+<p t="131081" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​suru </s><s p="3">youna kimi no monogatari​ ​</s><s p="2">​</s></p>
+<p t="131248" d="67" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​suru yo</s><s p="3">una kimi no monogatari​ ​</s><s p="2">​</s></p>
+<p t="131315" d="100" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​suru you</s><s p="3">na kimi no monogatari​ ​</s><s p="2">​</s></p>
+<p t="131415" d="534" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​suru youna </s><s p="3">kimi no monogatari​ ​</s><s p="2">​</s></p>
+<p t="131949" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​suru youna ki</s><s p="3">mi no monogatari​ ​</s><s p="2">​</s></p>
+<p t="132116" d="500" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​suru youna kimi </s><s p="3">no monogatari​ ​</s><s p="2">​</s></p>
+<p t="132616" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​suru youna kimi no </s><s p="3">monogatari​ ​</s><s p="2">​</s></p>
+<p t="132783" d="534" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​suru youna kimi no mo</s><s p="3">nogatari​ ​</s><s p="2">​</s></p>
+<p t="133317" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​suru youna kimi no mono</s><s p="3">gatari​ ​</s><s p="2">​</s></p>
+<p t="133484" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​suru youna kimi no monoga</s><s p="3">tari​ ​</s><s p="2">​</s></p>
+<p t="133851" d="133" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​suru youna kimi no monogata</s><s p="3">ri​ ​</s><s p="2">​</s></p>
+<p t="133984" d="667" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​suru youna kimi no monogatari​ ​</s><s p="2">​</s></p>
+<p t="134651" d="167" wp="5" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​mo</s><s p="3">u ichido mune ni​ ​</s><s p="2">​
+​</s><s p="3">​ ​kirari hikari dasu nda yo​ ​</s><s p="2">​</s></p>
+<p t="134651" d="5840" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​And shine brightly once more​ ​</s><s p="2">​</s></p>
+<p t="134818" d="200" wp="5" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​mou </s><s p="3">ichido mune ni​ ​</s><s p="2">​
+​</s><s p="3">​ ​kirari hikari dasu nda yo​ ​</s><s p="2">​</s></p>
+<p t="135018" d="167" wp="5" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​mou i</s><s p="3">chido mune ni​ ​</s><s p="2">​
+​</s><s p="3">​ ​kirari hikari dasu nda yo​ ​</s><s p="2">​</s></p>
+<p t="135185" d="167" wp="5" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​mou ichi</s><s p="3">do mune ni​ ​</s><s p="2">​
+​</s><s p="3">​ ​kirari hikari dasu nda yo​ ​</s><s p="2">​</s></p>
+<p t="135352" d="167" wp="5" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​mou ichido </s><s p="3">mune ni​ ​</s><s p="2">​
+​</s><s p="3">​ ​kirari hikari dasu nda yo​ ​</s><s p="2">​</s></p>
+<p t="135519" d="367" wp="5" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​mou ichido mu</s><s p="3">ne ni​ ​</s><s p="2">​
+​</s><s p="3">​ ​kirari hikari dasu nda yo​ ​</s><s p="2">​</s></p>
+<p t="135886" d="167" wp="5" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​mou ichido mune </s><s p="3">ni​ ​</s><s p="2">​
+​</s><s p="3">​ ​kirari hikari dasu nda yo​ ​</s><s p="2">​</s></p>
+<p t="136053" d="667" wp="5" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​mou ichido mune ni​ ​</s><s p="2">​
+​</s><s p="3">​ ​kirari hikari dasu nda yo​ ​</s><s p="2">​</s></p>
+<p t="136720" d="167" wp="5" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​mou ichido mune ni​ ​</s><s p="2">​
+​</s><s p="6">​ ​ki</s><s p="3">rari hikari dasu nda yo​ ​</s><s p="2">​</s></p>
+<p t="136887" d="200" wp="5" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​mou ichido mune ni​ ​</s><s p="2">​
+​</s><s p="6">​ ​kira</s><s p="3">ri hikari dasu nda yo​ ​</s><s p="2">​</s></p>
+<p t="137087" d="334" wp="5" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​mou ichido mune ni​ ​</s><s p="2">​
+​</s><s p="6">​ ​kirari </s><s p="3">hikari dasu nda yo​ ​</s><s p="2">​</s></p>
+<p t="137421" d="167" wp="5" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​mou ichido mune ni​ ​</s><s p="2">​
+​</s><s p="6">​ ​kirari hi</s><s p="3">kari dasu nda yo​ ​</s><s p="2">​</s></p>
+<p t="137588" d="333" wp="5" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​mou ichido mune ni​ ​</s><s p="2">​
+​</s><s p="6">​ ​kirari hika</s><s p="3">ri dasu nda yo​ ​</s><s p="2">​</s></p>
+<p t="137921" d="167" wp="5" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​mou ichido mune ni​ ​</s><s p="2">​
+​</s><s p="6">​ ​kirari hikari </s><s p="3">dasu nda yo​ ​</s><s p="2">​</s></p>
+<p t="138088" d="200" wp="5" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​mou ichido mune ni​ ​</s><s p="2">​
+​</s><s p="6">​ ​kirari hikari da</s><s p="3">su nda yo​ ​</s><s p="2">​</s></p>
+<p t="138288" d="167" wp="5" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​mou ichido mune ni​ ​</s><s p="2">​
+​</s><s p="6">​ ​kirari hikari dasu </s><s p="3">nda yo​ ​</s><s p="2">​</s></p>
+<p t="138455" d="134" wp="5" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​mou ichido mune ni​ ​</s><s p="2">​
+​</s><s p="6">​ ​kirari hikari dasu n</s><s p="3">da yo​ ​</s><s p="2">​</s></p>
+<p t="138589" d="200" wp="5" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​mou ichido mune ni​ ​</s><s p="2">​
+​</s><s p="6">​ ​kirari hikari dasu nda </s><s p="3">yo​ ​</s><s p="2">​</s></p>
+<p t="138789" d="1702" wp="5" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​mou ichido mune ni​ ​</s><s p="2">​
+​</s><s p="6">​ ​kirari hikari dasu nda yo​ ​</s><s p="2">​</s></p>
+<p t="140491" d="166" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​g</s><s p="183">a</s><s p="3">nbatteite mo​ ​</s><s p="2">​</s></p>
+<p t="140491" d="2736" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​H</s><s p="184">a</s><s p="185">r</s><s p="186">d </s><s p="187"></s><s p="188">w</s><s p="189">o</s><s p="190">r</s><s p="7">k </s><s p="8">doesn&#39;t always​ ​</s><s p="2">​</s></p>
+<p t="140657" d="201" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​g</s><s p="183">a</s><s p="191">n</s><s p="3">batteite mo​ ​</s><s p="2">​</s></p>
+<p t="140858" d="166" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​g</s><s p="183">a</s><s p="191">n</s><s p="192">b</s><s p="193">a</s><s p="3">tteite mo​ ​</s><s p="2">​</s></p>
+<p t="141024" d="501" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​g</s><s p="183">a</s><s p="191">n</s><s p="192">b</s><s p="193">a</s><s p="7">t</s><s p="3">teite mo​ ​</s><s p="2">​</s></p>
+<p t="141525" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​g</s><s p="183">a</s><s p="191">n</s><s p="192">b</s><s p="193">a</s><s p="7">t</s><s p="8">te</s><s p="3">ite mo​ ​</s><s p="2">​</s></p>
+<p t="141859" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​g</s><s p="183">a</s><s p="191">n</s><s p="192">b</s><s p="193">a</s><s p="7">t</s><s p="8">tei</s><s p="3">te mo​ ​</s><s p="2">​</s></p>
+<p t="142059" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​g</s><s p="183">a</s><s p="191">n</s><s p="192">b</s><s p="193">a</s><s p="7">t</s><s p="8">teite </s><s p="3">mo​ ​</s><s p="2">​</s></p>
+<p t="142226" d="1001" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​g</s><s p="183">a</s><s p="191">n</s><s p="192">b</s><s p="193">a</s><s p="7">t</s><s p="8">teite mo​ ​</s><s p="2">​</s></p>
+<p t="143227" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​u</s><s p="3">maku ikanai​ ​</s><s p="2">​</s></p>
+<p t="143227" d="2068" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​P</s><s p="194">a</s><s p="195">y </s><s p="196"></s><s p="197">o</s><s p="198">f</s><s p="9">f </s><s p="8">like it should​ ​</s><s p="2">​</s></p>
+<p t="143594" d="634" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​u</s><s p="196">m</s><s p="9">a</s><s p="3">ku ikanai​ ​</s><s p="2">​</s></p>
+<p t="144228" d="166" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​u</s><s p="196">m</s><s p="9">a</s><s p="8">ku </s><s p="3">ikanai​ ​</s><s p="2">​</s></p>
+<p t="144394" d="201" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​u</s><s p="196">m</s><s p="9">a</s><s p="8">ku i</s><s p="3">kanai​ ​</s><s p="2">​</s></p>
+<p t="144595" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​u</s><s p="196">m</s><s p="9">a</s><s p="8">ku ika</s><s p="3">nai​ ​</s><s p="2">​</s></p>
+<p t="144795" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​u</s><s p="196">m</s><s p="9">a</s><s p="8">ku ikana</s><s p="3">i​ ​</s><s p="2">​</s></p>
+<p t="144995" d="300" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​u</s><s p="196">m</s><s p="9">a</s><s p="8">ku ikanai​ ​</s><s p="2">​</s></p>
+<p t="145295" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​hi </s><s p="3">no hou ga ooku kanjichattari suru yo ne​ ​</s><s p="2">​</s></p>
+<p t="145295" d="6173" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​Sometimes, it doesn&#39;t pay off at all​ ​</s><s p="2">​</s></p>
+<p t="145629" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​hi no </s><s p="3">hou ga ooku kanjichattari suru yo ne​ ​</s><s p="2">​</s></p>
+<p t="145829" d="134" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​hi no ho</s><s p="3">u ga ooku kanjichattari suru yo ne​ ​</s><s p="2">​</s></p>
+<p t="145963" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​hi no hou </s><s p="3">ga ooku kanjichattari suru yo ne​ ​</s><s p="2">​</s></p>
+<p t="146163" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​hi no hou ga </s><s p="3">ooku kanjichattari suru yo ne​ ​</s><s p="2">​</s></p>
+<p t="146497" d="166" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​hi no hou ga o</s><s p="3">oku kanjichattari suru yo ne​ ​</s><s p="2">​</s></p>
+<p t="146663" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​hi no hou ga oo</s><s p="3">ku kanjichattari suru yo ne​ ​</s><s p="2">​</s></p>
+<p t="146997" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​hi no hou ga ooku </s><s p="3">kanjichattari suru yo ne​ ​</s><s p="2">​</s></p>
+<p t="147197" d="134" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​hi no hou ga ooku ka</s><s p="3">njichattari suru yo ne​ ​</s><s p="2">​</s></p>
+<p t="147331" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​hi no hou ga ooku kan</s><s p="3">jichattari suru yo ne​ ​</s><s p="2">​</s></p>
+<p t="147531" d="500" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​hi no hou ga ooku kanji</s><s p="3">chattari suru yo ne​ ​</s><s p="2">​</s></p>
+<p t="148031" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​hi no hou ga ooku kanjicha</s><s p="3">ttari suru yo ne​ ​</s><s p="2">​</s></p>
+<p t="148198" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​hi no hou ga ooku kanjichat</s><s p="3">tari suru yo ne​ ​</s><s p="2">​</s></p>
+<p t="148365" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​hi no hou ga ooku kanjichatta</s><s p="3">ri suru yo ne​ ​</s><s p="2">​</s></p>
+<p t="148565" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​hi no hou ga ooku kanjichattari </s><s p="3">suru yo ne​ ​</s><s p="2">​</s></p>
+<p t="148899" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​hi no hou ga ooku kanjichattari su</s><s p="3">ru yo ne​ ​</s><s p="2">​</s></p>
+<p t="149233" d="500" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​hi no hou ga ooku kanjichattari suru </s><s p="3">yo ne​ ​</s><s p="2">​</s></p>
+<p t="149733" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​hi no hou ga ooku kanjichattari suru yo </s><s p="3">ne​ ​</s><s p="2">​</s></p>
+<p t="149933" d="1535" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​hi no hou ga ooku kanjichattari suru yo ne​ ​</s><s p="2">​</s></p>
+<p t="151468" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​so</s><s p="3">no fuan mo​ ​</s><s p="2">​</s></p>
+<p t="151468" d="2703" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​The anxiety​ ​</s><s p="2">​</s></p>
+<p t="151802" d="701" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​sono </s><s p="3">fuan mo​ ​</s><s p="2">​</s></p>
+<p t="152503" d="300" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​sono fu</s><s p="3">an mo​ ​</s><s p="2">​</s></p>
+<p t="152803" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​sono fua</s><s p="3">n mo​ ​</s><s p="2">​</s></p>
+<p t="153003" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​sono fuan </s><s p="3">mo​ ​</s><s p="2">​</s></p>
+<p t="153170" d="1001" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​sono fuan mo​ ​</s><s p="2">​</s></p>
+<p t="154171" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​ka</s><s p="3">nashimi mo​ ​</s><s p="2">​</s></p>
+<p t="154171" d="1935" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​And all the sorrow​ ​</s><s p="2">​</s></p>
+<p t="154538" d="701" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​kana</s><s p="3">shimi mo​ ​</s><s p="2">​</s></p>
+<p t="155239" d="300" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​kanashi</s><s p="3">mi mo​ ​</s><s p="2">​</s></p>
+<p t="155539" d="300" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​kanashimi </s><s p="3">mo​ ​</s><s p="2">​</s></p>
+<p t="155839" d="267" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​kanashimi mo​ ​</s><s p="2">​</s></p>
+<p t="156106" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​k</s><s p="24">a</s><s p="3">kaenai de hitori ja nai​ ​</s><s p="2">​</s></p>
+<p t="156106" d="5639" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​D</s><s p="24">o</s><s p="199">n</s><s p="23">&#39;</s><s p="29">t </s><s p="22"></s><s p="200">h</s><s p="21">a</s><s p="28">v</s><s p="20">e </s><s p="201"></s><s p="202">t</s><s p="27">o </s><s p="18"></s><s p="17">b</s><s p="26">e </s><s p="16"></s><s p="203">b</s><s p="15">o</s><s p="25">t</s><s p="14">t</s><s p="204">l</s><s p="205">e</s><s p="10">d </s><s p="12"></s><s p="206">u</s><s p="11">p</s><s p="9">,​ ​</s><s p="2">​
+​</s><s p="7">​ ​y</s><s p="24">o</s><s p="23">u</s><s p="22">&#39;</s><s p="21">r</s><s p="20">e </s><s p="19"></s><s p="18">n</s><s p="17">o</s><s p="16">t </s><s p="15"></s><s p="14">a</s><s p="13">l</s><s p="12">o</s><s p="11">n</s><s p="9">e​ ​</s><s p="2">​</s></p>
+<p t="156273" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​k</s><s p="24">a</s><s p="199">k</s><s p="23">a</s><s p="3">enai de hitori ja nai​ ​</s><s p="2">​</s></p>
+<p t="156640" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​k</s><s p="24">a</s><s p="199">k</s><s p="23">a</s><s p="29">e</s><s p="3">nai de hitori ja nai​ ​</s><s p="2">​</s></p>
+<p t="156807" d="400" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​k</s><s p="24">a</s><s p="199">k</s><s p="23">a</s><s p="29">e</s><s p="200">n</s><s p="21">a</s><s p="3">i de hitori ja nai​ ​</s><s p="2">​</s></p>
+<p t="157207" d="267" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​k</s><s p="24">a</s><s p="199">k</s><s p="23">a</s><s p="29">e</s><s p="200">n</s><s p="21">a</s><s p="28">i </s><s p="20"></s><s p="3">de hitori ja nai​ ​</s><s p="2">​</s></p>
+<p t="157474" d="501" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​k</s><s p="24">a</s><s p="199">k</s><s p="23">a</s><s p="29">e</s><s p="200">n</s><s p="21">a</s><s p="28">i </s><s p="20"></s><s p="201">d</s><s p="27">e </s><s p="18"></s><s p="3">hitori ja nai​ ​</s><s p="2">​</s></p>
+<p t="157975" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​k</s><s p="24">a</s><s p="199">k</s><s p="23">a</s><s p="29">e</s><s p="200">n</s><s p="21">a</s><s p="28">i </s><s p="20"></s><s p="201">d</s><s p="27">e </s><s p="18"></s><s p="207">h</s><s p="17">i</s><s p="3">tori ja nai​ ​</s><s p="2">​</s></p>
+<p t="158342" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​k</s><s p="24">a</s><s p="199">k</s><s p="23">a</s><s p="29">e</s><s p="200">n</s><s p="21">a</s><s p="28">i </s><s p="20"></s><s p="201">d</s><s p="27">e </s><s p="18"></s><s p="207">h</s><s p="17">i</s><s p="26">t</s><s p="203">o</s><s p="3">ri ja nai​ ​</s><s p="2">​</s></p>
+<p t="158675" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​k</s><s p="24">a</s><s p="199">k</s><s p="23">a</s><s p="29">e</s><s p="200">n</s><s p="21">a</s><s p="28">i </s><s p="20"></s><s p="201">d</s><s p="27">e </s><s p="18"></s><s p="207">h</s><s p="17">i</s><s p="26">t</s><s p="203">o</s><s p="15">r</s><s p="25">i </s><s p="14"></s><s p="3">ja nai​ ​</s><s p="2">​</s></p>
+<p t="159009" d="534" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​k</s><s p="24">a</s><s p="199">k</s><s p="23">a</s><s p="29">e</s><s p="200">n</s><s p="21">a</s><s p="28">i </s><s p="20"></s><s p="201">d</s><s p="27">e </s><s p="18"></s><s p="207">h</s><s p="17">i</s><s p="26">t</s><s p="203">o</s><s p="15">r</s><s p="25">i </s><s p="14"></s><s p="204">j</s><s p="10">a </s><s p="12"></s><s p="3">nai​ ​</s><s p="2">​</s></p>
+<p t="159543" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​k</s><s p="24">a</s><s p="199">k</s><s p="23">a</s><s p="29">e</s><s p="200">n</s><s p="21">a</s><s p="28">i </s><s p="20"></s><s p="201">d</s><s p="27">e </s><s p="18"></s><s p="207">h</s><s p="17">i</s><s p="26">t</s><s p="203">o</s><s p="15">r</s><s p="25">i </s><s p="14"></s><s p="204">j</s><s p="10">a </s><s p="12"></s><s p="206">n</s><s p="11">a</s><s p="3">i​ ​</s><s p="2">​</s></p>
+<p t="159743" d="2002" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​k</s><s p="24">a</s><s p="199">k</s><s p="23">a</s><s p="29">e</s><s p="200">n</s><s p="21">a</s><s p="28">i </s><s p="20"></s><s p="201">d</s><s p="27">e </s><s p="18"></s><s p="207">h</s><s p="17">i</s><s p="26">t</s><s p="203">o</s><s p="15">r</s><s p="25">i </s><s p="14"></s><s p="204">j</s><s p="10">a </s><s p="12"></s><s p="206">n</s><s p="11">a</s><s p="9">i​ ​</s><s p="2">​</s></p>
+<p t="161745" d="667" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="127">​ ​ki</s><s p="3">bou no tane o​ ​</s><s p="2">​</s></p>
+<p t="161745" d="3404" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="127">​ ​We take the seeds of hope​ ​</s><s p="2">​</s></p>
+<p t="162412" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="127">​ ​kibo</s><s p="3">u no tane o​ ​</s><s p="2">​</s></p>
+<p t="162579" d="401" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="127">​ ​kibou </s><s p="3">no tane o​ ​</s><s p="2">​</s></p>
+<p t="162980" d="800" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="127">​ ​kibou no </s><s p="3">tane o​ ​</s><s p="2">​</s></p>
+<p t="163780" d="201" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="127">​ ​kibou no ta</s><s p="3">ne o​ ​</s><s p="2">​</s></p>
+<p t="163981" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="127">​ ​kibou no tane </s><s p="3">o​ ​</s><s p="2">​</s></p>
+<p t="164314" d="835" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="127">​ ​kibou no tane o​ ​</s><s p="2">​</s></p>
+<p t="165149" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​a</s><s p="3">su ni maitara​ ​</s><s p="2">​</s></p>
+<p t="165149" d="2002" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​And sow them for tomorrow​ ​</s><s p="2">​</s></p>
+<p t="165349" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​asu </s><s p="3">ni maitara​ ​</s><s p="2">​</s></p>
+<p t="165516" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​asu ni </s><s p="3">maitara​ ​</s><s p="2">​</s></p>
+<p t="165716" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​asu ni ma</s><s p="3">itara​ ​</s><s p="2">​</s></p>
+<p t="166049" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​asu ni mai</s><s p="3">tara​ ​</s><s p="2">​</s></p>
+<p t="166383" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​asu ni maita</s><s p="3">ra​ ​</s><s p="2">​</s></p>
+<p t="166717" d="434" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="6">​ ​asu ni maitara​ ​</s><s p="2">​</s></p>
+<p t="167151" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​i</s><s p="3">chiban ni kagayaku​ ​</s><s p="2">​</s></p>
+<p t="167151" d="2302" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​They will bloom​ ​</s><s p="2">​</s></p>
+<p t="167484" d="234" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​ichi</s><s p="3">ban ni kagayaku​ ​</s><s p="2">​</s></p>
+<p t="167718" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​ichiba</s><s p="3">n ni kagayaku​ ​</s><s p="2">​</s></p>
+<p t="167885" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​ichiban </s><s p="3">ni kagayaku​ ​</s><s p="2">​</s></p>
+<p t="168085" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​ichiban ni </s><s p="3">kagayaku​ ​</s><s p="2">​</s></p>
+<p t="168418" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​ichiban ni ka</s><s p="3">gayaku​ ​</s><s p="2">​</s></p>
+<p t="168752" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​ichiban ni kaga</s><s p="3">yaku​ ​</s><s p="2">​</s></p>
+<p t="168919" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​ichiban ni kagaya</s><s p="3">ku​ ​</s><s p="2">​</s></p>
+<p t="169119" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​ichiban ni kagayaku​ ​</s><s p="2">​</s></p>
+<p t="169453" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​ki</s><s p="127">reina hana ga saku yo​ ​</s><s p="2">​</s></p>
+<p t="169453" d="3603" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Into the most dazzling flowers​ ​</s><s p="2">​</s></p>
+<p t="169620" d="166" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​kire</s><s p="127">ina hana ga saku yo​ ​</s><s p="2">​</s></p>
+<p t="169786" d="201" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​kirei</s><s p="127">na hana ga saku yo​ ​</s><s p="2">​</s></p>
+<p t="169987" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​kireina </s><s p="127">hana ga saku yo​ ​</s><s p="2">​</s></p>
+<p t="170320" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​kireina ha</s><s p="127">na ga saku yo​ ​</s><s p="2">​</s></p>
+<p t="170487" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​kireina hana </s><s p="127">ga saku yo​ ​</s><s p="2">​</s></p>
+<p t="170821" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​kireina hana ga </s><s p="127">saku yo​ ​</s><s p="2">​</s></p>
+<p t="171155" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​kireina hana ga sa</s><s p="127">ku yo​ ​</s><s p="2">​</s></p>
+<p t="171522" d="166" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​kireina hana ga saku </s><s p="127">yo​ ​</s><s p="2">​</s></p>
+<p t="171688" d="1368" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​kireina hana ga saku yo​ ​</s><s p="2">​</s></p>
+<p t="174091" d="667" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="126">​ ​yu</s><s p="3">me o utaou mahou ni nosete​ ​</s><s p="2">​</s></p>
+<p t="174091" d="5505" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="126">​ ​Sing of our dreams, place a spell on them​ ​</s><s p="2">​</s></p>
+<p t="174758" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="126">​ ​yume </s><s p="3">o utaou mahou ni nosete​ ​</s><s p="2">​</s></p>
+<p t="174958" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="126">​ ​yume o </s><s p="3">utaou mahou ni nosete​ ​</s><s p="2">​</s></p>
+<p t="175292" d="834" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="126">​ ​yume o u</s><s p="3">taou mahou ni nosete​ ​</s><s p="2">​</s></p>
+<p t="176126" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="126">​ ​yume o uta</s><s p="3">ou mahou ni nosete​ ​</s><s p="2">​</s></p>
+<p t="176326" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="126">​ ​yume o utao</s><s p="3">u mahou ni nosete​ ​</s><s p="2">​</s></p>
+<p t="176660" d="834" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="126">​ ​yume o utaou </s><s p="3">mahou ni nosete​ ​</s><s p="2">​</s></p>
+<p t="177494" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="126">​ ​yume o utaou ma</s><s p="3">hou ni nosete​ ​</s><s p="2">​</s></p>
+<p t="177661" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="126">​ ​yume o utaou maho</s><s p="3">u ni nosete​ ​</s><s p="2">​</s></p>
+<p t="177828" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="126">​ ​yume o utaou mahou </s><s p="3">ni nosete​ ​</s><s p="2">​</s></p>
+<p t="178028" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="126">​ ​yume o utaou mahou ni </s><s p="3">nosete​ ​</s><s p="2">​</s></p>
+<p t="178362" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="126">​ ​yume o utaou mahou ni no</s><s p="3">sete​ ​</s><s p="2">​</s></p>
+<p t="178695" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="126">​ ​yume o utaou mahou ni nose</s><s p="3">te​ ​</s><s p="2">​</s></p>
+<p t="179062" d="534" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="126">​ ​yume o utaou mahou ni nosete​ ​</s><s p="2">​</s></p>
+<p t="179596" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​na</s><s p="127">ndo mo tachiagaru​ ​</s><s p="2">​</s></p>
+<p t="179596" d="2202" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​We will rise again and again​ ​</s><s p="2">​</s></p>
+<p t="179763" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​nan</s><s p="127">do mo tachiagaru​ ​</s><s p="2">​</s></p>
+<p t="179930" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​nando </s><s p="127">mo tachiagaru​ ​</s><s p="2">​</s></p>
+<p t="180130" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​nando mo </s><s p="127">tachiagaru​ ​</s><s p="2">​</s></p>
+<p t="180464" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​nando mo ta</s><s p="127">chiagaru​ ​</s><s p="2">​</s></p>
+<p t="180797" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​nando mo tachi</s><s p="127">agaru​ ​</s><s p="2">​</s></p>
+<p t="181131" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​nando mo tachia</s><s p="127">garu​ ​</s><s p="2">​</s></p>
+<p t="181331" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​nando mo tachiaga</s><s p="127">ru​ ​</s><s p="2">​</s></p>
+<p t="181498" d="300" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​nando mo tachiagaru​ ​</s><s p="2">​</s></p>
+<p t="181798" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="127">​ ​ki</s><s p="3">mi to issho ni susundeiku​ ​</s><s p="2">​</s></p>
+<p t="181798" d="3270" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="127">​ ​And keep marching together​ ​</s><s p="2">​</s></p>
+<p t="181965" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="127">​ ​kimi </s><s p="3">to issho ni susundeiku​ ​</s><s p="2">​</s></p>
+<p t="182132" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="127">​ ​kimi to </s><s p="3">issho ni susundeiku​ ​</s><s p="2">​</s></p>
+<p t="182332" d="134" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="127">​ ​kimi to i</s><s p="3">ssho ni susundeiku​ ​</s><s p="2">​</s></p>
+<p t="182466" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="127">​ ​kimi to is</s><s p="3">sho ni susundeiku​ ​</s><s p="2">​</s></p>
+<p t="182633" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="127">​ ​kimi to issho </s><s p="3">ni susundeiku​ ​</s><s p="2">​</s></p>
+<p t="182833" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="127">​ ​kimi to issho ni </s><s p="3">susundeiku​ ​</s><s p="2">​</s></p>
+<p t="183167" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="127">​ ​kimi to issho ni su</s><s p="3">sundeiku​ ​</s><s p="2">​</s></p>
+<p t="183500" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="127">​ ​kimi to issho ni susu</s><s p="3">ndeiku​ ​</s><s p="2">​</s></p>
+<p t="183667" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="127">​ ​kimi to issho ni susun</s><s p="3">deiku​ ​</s><s p="2">​</s></p>
+<p t="183834" d="100" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="127">​ ​kimi to issho ni susunde</s><s p="3">iku​ ​</s><s p="2">​</s></p>
+<p t="183934" d="100" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="127">​ ​kimi to issho ni susundei</s><s p="3">ku​ ​</s><s p="2">​</s></p>
+<p t="184034" d="1034" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="127">​ ​kimi to issho ni susundeiku​ ​</s><s p="2">​</s></p>
+<p t="185068" d="701" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​yu</s><s p="127">me wa​ ​</s><s p="2">​</s></p>
+<p t="185068" d="1202" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Our dreams​ ​</s><s p="2">​</s></p>
+<p t="185769" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​yume </s><s p="127">wa​ ​</s><s p="2">​</s></p>
+<p t="185936" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​yume wa​ ​</s><s p="2">​</s></p>
+<p t="186270" d="867" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="127">​ ​yu</s><s p="3">me wa​ ​</s><s p="2">​</s></p>
+<p t="186270" d="1368" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="127">​ ​Our dreams​ ​</s><s p="2">​</s></p>
+<p t="187137" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="127">​ ​yume </s><s p="3">wa​ ​</s><s p="2">​</s></p>
+<p t="187304" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="127">​ ​yume wa​ ​</s><s p="2">​</s></p>
+<p t="187638" d="166" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​mada owaranai​ ​</s><s p="2">​</s></p>
+<p t="187638" d="2569" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​Will not be crushed yet​ ​</s><s p="2">​</s></p>
+<p t="187804" d="368" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​mada owaranai​ ​</s><s p="2">​</s></p>
+<p t="188172" d="133" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​mada owaranai​ ​</s><s p="2">​</s></p>
+<p t="188305" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​mada owaranai​ ​</s><s p="2">​</s></p>
+<p t="188672" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​mada owaranai​ ​</s><s p="2">​</s></p>
+<p t="189006" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​mada owaranai​ ​</s><s p="2">​</s></p>
+<p t="189339" d="868" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="3">​ ​mada owaranai​ ​</s><s p="2">​</s></p>
+<p t="190207" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​mi</s><s p="3">rai o torimodosou​ ​</s><s p="2">​</s></p>
+<p t="190207" d="4805" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​Reclaim our possibilities​ ​</s><s p="2">​</s></p>
+<p t="190541" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​mira</s><s p="3">i o torimodosou​ ​</s><s p="2">​</s></p>
+<p t="190874" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​mirai </s><s p="3">o torimodosou​ ​</s><s p="2">​</s></p>
+<p t="191208" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​mirai o </s><s p="3">torimodosou​ ​</s><s p="2">​</s></p>
+<p t="191575" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​mirai o to</s><s p="3">rimodosou​ ​</s><s p="2">​</s></p>
+<p t="191942" d="300" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​mirai o tori</s><s p="3">modosou​ ​</s><s p="2">​</s></p>
+<p t="192242" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​mirai o torimo</s><s p="3">dosou​ ​</s><s p="2">​</s></p>
+<p t="192576" d="500" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​mirai o torimodo</s><s p="3">sou​ ​</s><s p="2">​</s></p>
+<p t="193076" d="234" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​mirai o torimodoso</s><s p="3">u​ ​</s><s p="2">​</s></p>
+<p t="193310" d="1702" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="8">​ ​mirai o torimodosou​ ​</s><s p="2">​</s></p>
+<p t="195012" d="333" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​na</s><s p="3">ndo datte​ ​</s><s p="2">​</s></p>
+<p t="195012" d="1701" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​As many times as it takes​ ​</s><s p="2">​</s></p>
+<p t="195345" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​nan</s><s p="3">do datte​ ​</s><s p="2">​</s></p>
+<p t="195512" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​nando </s><s p="3">datte​ ​</s><s p="2">​</s></p>
+<p t="195679" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​nando da</s><s p="3">tte​ ​</s><s p="2">​</s></p>
+<p t="195846" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​nando dat</s><s p="3">te​ ​</s><s p="2">​</s></p>
+<p t="196046" d="667" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="7">​ ​nando datte​ ​</s><s p="2">​</s></p>
+<p t="196713" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​wa</s><s p="3">ratte​ ​</s><s p="2">​</s></p>
+<p t="196713" d="1368" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​We&#39;ll laugh it off​ ​</s><s p="2">​</s></p>
+<p t="196880" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​wara</s><s p="3">tte​ ​</s><s p="2">​</s></p>
+<p t="197047" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​warat</s><s p="3">te​ ​</s><s p="2">​</s></p>
+<p t="197381" d="700" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="4">​ ​waratte​ ​</s><s p="2">​</s></p>
+<p t="198081" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​mo</s><s p="3">u ikkai​ ​</s><s p="2">​</s></p>
+<p t="198081" d="1368" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​And one more time​ ​</s><s p="2">​</s></p>
+<p t="198248" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​mou </s><s p="3">ikkai​ ​</s><s p="2">​</s></p>
+<p t="198415" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​mou i</s><s p="3">kkai​ ​</s><s p="2">​</s></p>
+<p t="198582" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​mou ik</s><s p="3">kai​ ​</s><s p="2">​</s></p>
+<p t="198782" d="300" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​mou ikka</s><s p="3">i​ ​</s><s p="2">​</s></p>
+<p t="199082" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="9">​ ​mou ikkai​ ​</s><s p="2">​</s></p>
+<p t="199449" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​a</s><s p="3">ruki hajimeyou​ ​</s><s p="2">​</s></p>
+<p t="199449" d="2737" wp="3" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​Start walking again​ ​</s><s p="2">​</s></p>
+<p t="199616" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​aru</s><s p="3">ki hajimeyou​ ​</s><s p="2">​</s></p>
+<p t="199783" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​aruki </s><s p="3">hajimeyou​ ​</s><s p="2">​</s></p>
+<p t="200117" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​aruki ha</s><s p="3">jimeyou​ ​</s><s p="2">​</s></p>
+<p t="200484" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​aruki haji</s><s p="3">meyou​ ​</s><s p="2">​</s></p>
+<p t="200651" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​aruki hajime</s><s p="3">you​ ​</s><s p="2">​</s></p>
+<p t="201018" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​aruki hajimeyo</s><s p="3">u​ ​</s><s p="2">​</s></p>
+<p t="201185" d="1001" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="5">​ ​aruki hajimeyou​ ​</s><s p="2">​</s></p>
+<p t="202186" d="166" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="126">​ ​ho</s><s p="3">rowicchi on your side yume no saki e​ ​</s><s p="2">​</s></p>
+<p t="202186" d="7407" wp="4" ws="1"><s p="2">​</s><s>​</s><s p="126">​ ​holoWitches on your side,​ ​</s><s p="2">​
+​</s><s p="126">​ ​toward and beyond the wildest dreams​ ​</s><s p="2">​</s></p>
+<p t="202352" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="126">​ ​horo</s><s p="3">wicchi on your side yume no saki e​ ​</s><s p="2">​</s></p>
+<p t="202519" d="167" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="126">​ ​horowi</s><s p="3">cchi on your side yume no saki e​ ​</s><s p="2">​</s></p>
+<p t="202686" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="126">​ ​horowic</s><s p="3">chi on your side yume no saki e​ ​</s><s p="2">​</s></p>
+<p t="202886" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="126">​ ​horowicchi </s><s p="3">on your side yume no saki e​ ​</s><s p="2">​</s></p>
+<p t="203220" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="126">​ ​horowicchi on </s><s p="3">your side yume no saki e​ ​</s><s p="2">​</s></p>
+<p t="203554" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="126">​ ​horowicchi on your </s><s p="3">side yume no saki e​ ​</s><s p="2">​</s></p>
+<p t="203921" d="1301" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="126">​ ​horowicchi on your side </s><s p="3">yume no saki e​ ​</s><s p="2">​</s></p>
+<p t="205222" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="126">​ ​horowicchi on your side yu</s><s p="3">me no saki e​ ​</s><s p="2">​</s></p>
+<p t="205422" d="200" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="126">​ ​horowicchi on your side yume </s><s p="3">no saki e​ ​</s><s p="2">​</s></p>
+<p t="205622" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="126">​ ​horowicchi on your side yume no </s><s p="3">saki e​ ​</s><s p="2">​</s></p>
+<p t="205956" d="334" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="126">​ ​horowicchi on your side yume no sa</s><s p="3">ki e​ ​</s><s p="2">​</s></p>
+<p t="206290" d="367" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="126">​ ​horowicchi on your side yume no saki </s><s p="3">e​ ​</s><s p="2">​</s></p>
+<p t="206657" d="2936" wp="2" ws="1"><s p="2">​</s><s>​</s><s p="126">​ ​horowicchi on your side yume no saki e​ ​</s><s p="2">​</s></p>
+</body>
+</timedtext>
